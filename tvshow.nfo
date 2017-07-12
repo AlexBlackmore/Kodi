@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title>House</title>
+    <showtitle>House</showtitle>
+    <rating>9.200000</rating>
+    <votes>42</votes>
+    <epbookmark>0.000000</epbookmark>
+    <year>0</year>
+    <top250>0</top250>
+    <season>-1</season>
+    <episode>176</episode>
+    <uniqueid></uniqueid>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <outline></outline>
+    <plot>Go deeper into the medical mysteries of House, TV&apos;s most compelling drama. Hugh Laurie stars as the brilliant but sarcastic Dr. Gregory House, a maverick physician who is devoid of bedside manner. While his behavior can border on antisocial, Dr. House thrives on the challenge of solving the medical puzzles that other doctors give up on. Together with his hand-picked team of young medical experts, he&apos;ll do whatever it takes in the race against the clock to solve the case.</plot>
+    <tagline></tagline>
+    <runtime>0</runtime>
+    <mpaa>TV-14</mpaa>
+    <playcount>0</playcount>
+    <lastplayed>1969-12-31</lastplayed>
+    <episodeguide>
+        <url cache="73255.xml">http://www.thetvdb.com/api/1D62F2F90030C444/series/73255/all/en.zip</url>
+    </episodeguide>
+    <id>73255</id>
+    <genre>Comedy</genre>
+    <genre>Drama</genre>
+    <set></set>
+    <premiered>2004-11-16</premiered>
+    <status></status>
+    <code></code>
+    <aired>1969-12-31</aired>
+    <studio>FOX</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Hugh Laurie</name>
+        <role>Dr. Gregory House</role>
+        <thumb>http://thetvdb.com/banners/actors/23839.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Sean Leonard</name>
+        <role>Dr. James Wilson</role>
+        <thumb>http://thetvdb.com/banners/actors/23842.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2013-01-28 23:33:03</dateadded>
+</tvshow>
