@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>Imladris</title>
+    <rating></rating>
+    <season>1</season>
+    <episode>1</episode>
+    <plot>he best episode in the world</plot>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <credits></credits>
+    <director>Peter Jackson</director>
+    <aired>2016-11-27</aired>
+    <premiered>2016-11-27</premiered>
+    <studio></studio>
+    <mpaa></mpaa>
+    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
+    <displayseason></displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode></displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>
