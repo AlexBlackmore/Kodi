@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>T-Pain Has a Tongue Seizure Eating Spicy Wings</title>
+    <rating></rating>
+    <season>2</season>
+    <episode>34</episode>
+    <plot>R&B kingpin T-Pain may give Bert Kreischer a run for his money as the biggest Hot Ones fan to come on the show. Having watched every episode ("I'm a Redditor," he explained to Sean before the taping), the hitmaker entered the challenge with a few theories about how to survive wings of death. Did any of them serve him well against the likes of Da Bomb and Blair's Mega Death Sauce with Liquid Rage? Watch and find out.</plot>
+    <playcount></playcount>
+    <lastplayed></lastplayed>
+    <credits></credits>
+    <director></director>
+    <aired>2016-11-17</aired>
+    <premiered>2016-11-17</premiered>
+    <studio>Fist We Feast</studio>
+    <mpaa></mpaa>
+    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
+    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>34</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>

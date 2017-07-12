@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>Tinashe Talks NFL Dances and 2015's Sexiest Songs While Eating Spicy Wings</title>
+    <rating></rating>
+    <season>2</season>
+    <episode>2</episode>
+    <plot>With her sophomore album Joyride coming soon, the singer-songwriter sweats it out on Hot Ones, the Internet's most dangerous interview show. Watch her take on some of the wildest hot sauces in the world while explaining demonstrating martial-arts moves and explaining why she's in no rush to move out of her parents' house.</plot>
+    <playcount></playcount>
+    <lastplayed></lastplayed>
+    <credits></credits>
+    <director></director>
+    <aired>2015-12-17</aired>
+    <premiered>2015-12-17</premiered>
+    <studio>Fist We Feast</studio>
+    <mpaa></mpaa>
+    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
+    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>2</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>

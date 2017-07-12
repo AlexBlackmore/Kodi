@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>Joey Fatone Talks *NSYNC, DJ Khaled, and Guy Fieri While Eating Spicy Wings</title>
+    <rating></rating>
+    <season>2</season>
+    <episode>6</episode>
+    <plot>The former boy-band member—who currently appears in My Big Fat Greek Wedding 2 andDead 7—face down Sean Evans in the infamous Hot Ones challenge. Watch the multitalented star take on some of the wildest hot sauces in the world while reminiscing about his *NSYNC days and calling out his high-school classmate, DJ Khaled.</plot>
+    <playcount></playcount>
+    <lastplayed></lastplayed>
+    <credits></credits>
+    <director></director>
+    <aired>2016-04-07</aired>
+    <premiered>2016-04-07</premiered>
+    <studio>Fist We Feast</studio>
+    <mpaa></mpaa>
+    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
+    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>6</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>

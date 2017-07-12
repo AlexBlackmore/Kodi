@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>Mike Epps Gets Crushed by Spicy Wings</title>
+    <rating></rating>
+    <season>2</season>
+    <episode>12</episode>
+    <plot>The craziest uncle on TV—catch him on Uncle Buck and Survivor’s Remorse—takes on some of the craziest hot sauces in the world in this no-holds-barred interview. Will he make it through the fiery gauntlet, or go down in the Hot Ones Hall of Shame alongside DJ Khaled and Tony Yayo? Find out, and watch the standup vet crack jokes about everything from Atlanta strip clubs, to host Sean Evans' resemblance to a certain Lord of the Rings character.</plot>
+    <playcount></playcount>
+    <lastplayed></lastplayed>
+    <credits></credits>
+    <director></director>
+    <aired>2016-06-21</aired>
+    <premiered>2016-06-21</premiered>
+    <studio>Fist We Feast</studio>
+    <mpaa></mpaa>
+    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
+    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>12</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>

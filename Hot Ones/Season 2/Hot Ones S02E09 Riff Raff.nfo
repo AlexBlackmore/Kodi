@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>Riff Raff Goes Full Burly Boy on Some Spicy Wings</title>
+    <rating></rating>
+    <season>2</season>
+    <episode>9</episode>
+    <plot>In the latest episode of Hot Ones, Riff Raff—a.k.a. Jody Highroller, a.k.a. Neon Icon, a.k.a. Versace Python—comes through in his finest Peach Panther garments to bring a touch of class to the Internet's most infamous wing challenge. Watch as he and Sean Evans tackle 10 increasingly spicy sauces in the ultimate battle of wits and wills.</plot>
+    <playcount></playcount>
+    <lastplayed></lastplayed>
+    <credits></credits>
+    <director></director>
+    <aired>2016-05-05</aired>
+    <premiered>2016-05-05</premiered>
+    <studio>Fist We Feast</studio>
+    <mpaa></mpaa>
+    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
+    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>9</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>

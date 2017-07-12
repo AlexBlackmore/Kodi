@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>YG Keeps His Bool Eating Spicy Nuggets</title>
+    <rating></rating>
+    <season>2</season>
+    <episode>25</episode>
+    <plot>At age 26, Compton rapper YG has already released two classic albums, My Krazy Life and Still Brazy. Seems like as good a time as any to eat some ridiculously hot nuggets for the Internet. Watch the West Coast hip-hop icon crush Scovilles while discussing his most controversial tracks, his love of Toms, and the best chain pizzas.</plot>
+    <playcount></playcount>
+    <lastplayed></lastplayed>
+    <credits></credits>
+    <director></director>
+    <aired>2016-09-08</aired>
+    <premiered>2016-09-08</premiered>
+    <studio>Fist We Feast</studio>
+    <mpaa></mpaa>
+    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
+    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>25</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>Eric Andre Turns Into Tay Zonday While Eating Spicy Wings</title>
+    <rating></rating>
+    <season>2</season>
+    <episode>20</episode>
+    <plot>On the Eric Andre Show, comedian Eric Andre takes the format of late-night TV shows and flips it on its head, turning his set into a gonzo celebrity dystopia full of vermin and vomit. So, needless to say, we were curious to see what he'd make of our ridiculous interview format, where each question is accompanied by an increasingly spicy chicken wing. His take on the experience: "This is a nightmare, dude."</plot>
+    <playcount></playcount>
+    <lastplayed></lastplayed>
+    <credits></credits>
+    <director></director>
+    <aired>2016-08-04</aired>
+    <premiered>2016-08-04</premiered>
+    <studio>Fist We Feast</studio>
+    <mpaa></mpaa>
+    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
+    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>20</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>

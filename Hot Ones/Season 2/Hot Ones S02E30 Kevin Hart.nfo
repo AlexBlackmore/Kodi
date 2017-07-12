@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>Kevin Hart Catches a High Eating Spicy Wings</title>
+    <rating></rating>
+    <season>2</season>
+    <episode>30</episode>
+    <plot>As his history-making comedy special What Now? hits theaters, the biggest comedian in the game joins the biggest Internet wings show in the game for an extra-hot interview. Kevin Hart damn near loses his mind on the hot sauce, but that doesn't stop him from peppering in some motivational speeches, cracking jokes about DJ Khaled, and regaling Sean with some hilarious anecdotes about working at a male strip club. In Hart's own words, "We out here!"</plot>
+    <playcount></playcount>
+    <lastplayed></lastplayed>
+    <credits></credits>
+    <director></director>
+    <aired>2016-10-11</aired>
+    <premiered>2016-10-11</premiered>
+    <studio>Fist We Feast</studio>
+    <mpaa></mpaa>
+    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
+    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>30</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>

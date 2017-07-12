@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>Post Malone Sauces on Everyone While Eating Spicy Wings</title>
+    <rating></rating>
+    <season>2</season>
+    <episode>37</episode>
+    <plot>From the breakout success of "White Iverson," to a guest spot on Justin Bieber's blockbuster Purpose Tour, Post Malone can't stop winning. Now, as he prepares to drop his debut album, "Stoney," on 12/9, he risks it all by taking down a platter of dangerously spicy wings. In the process, he offers some top-shelf animal anecdotes, a very hot In-N-Out take, and a working definition of "sauce." Let's get weird.</plot>
+    <playcount></playcount>
+    <lastplayed></lastplayed>
+    <credits></credits>
+    <director></director>
+    <aired>2016-12-08</aired>
+    <premiered>2016-12-08</premiered>
+    <studio>Fist We Feast</studio>
+    <mpaa></mpaa>
+    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
+    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>37</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>

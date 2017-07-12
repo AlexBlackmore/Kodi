@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>Chili Klaus and Sean Evans Eat the World's Hottest Pepper on the Carriage Ride From Hell</title>
+    <rating></rating>
+    <season>0</season>
+    <episode>2</episode>
+    <plot>A year ago, Danish pepper-eating legend Chili Klaus joined Hot Ones host Sean Evans to take on the Carolina Reaper, the world's spiciest chili pepper. Now, the Scovilles-fueled bromance continues on a horse-a day-carriage ride in Central Park, which takes a bizarre and painful turn when the pair decide to crack open a mystery package from their fiendish friend "Smokin' Ed" Currie of PuckerButt Pepper Company in Fort Mill, SC.</plot>
+    <playcount></playcount>
+    <lastplayed></lastplayed>
+    <credits></credits>
+    <director></director>
+    <aired>2016-09-20</aired>
+    <premiered>2016-09-20</premiered>
+    <studio>Fist We Feast</studio>
+    <mpaa></mpaa>
+    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
+    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>27</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>

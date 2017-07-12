@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>Rob Gronkowski Gets Blindsided by Spicy Wings</title>
+    <rating></rating>
+    <season>2</season>
+    <episode>16</episode>
+    <plot>The New England Patriots tight-end has taken on the toughest defenses in the NFL, won a Super Bowl, and made four Pro Bowls—but none of that can prepare him for the pain of some of the most brutal hot sauces on the planet. Watch Gronk battle through the heat and spike the most intense wing of the bunch.</plot>
+    <playcount></playcount>
+    <lastplayed></lastplayed>
+    <credits></credits>
+    <director></director>
+    <aired>2016-07-14</aired>
+    <premiered>2016-07-14</premiered>
+    <studio>Fist We Feast</studio>
+    <mpaa></mpaa>
+    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
+    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>16</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>Gunplay Talks Rick Ross, Wingstop, and X-Box Live Rights While Eating Spicy Wings</title>
+    <rating></rating>
+    <season>1</season>
+    <episode>4</episode>
+    <plot>The MMG emcee tests his limits—and answers some scorching questions—while taking on some of the wildest hot sauces in the world.</plot>
+    <playcount></playcount>
+    <lastplayed></lastplayed>
+    <credits></credits>
+    <director></director>
+    <aired>2015-06-23</aired>
+    <premiered>2015-06-23</premiered>
+    <studio>Fist We Feast</studio>
+    <mpaa></mpaa>
+    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
+    <displayseason>1</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>4</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>
