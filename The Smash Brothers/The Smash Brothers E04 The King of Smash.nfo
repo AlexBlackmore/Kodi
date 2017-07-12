@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>The King of Smash</title>
+    <rating>9.0</rating>
+    <season>1</season>
+    <episode>4</episode>
+    <plot>The Era of Ken. Follows the career of Ken Hoang.</plot>
+    <thumb></thumb>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <credits>Travis Beauchamp</credits>
+    <director>Travis Beauchamp</director>
+    <aired>2013-10-11</aired>
+    <premiered>2013-10-11</premiered>
+    <studio>East Point Pictures</studio>
+    <mpaa></mpaa>
+    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
+    <displayseason>1</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>1</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+    <fileinfo>
+      <streamdetails> <!-- While it is possible to manually set the information contained within the "streamdetails" tag,there is little point in doing so, as the software will always overwrite this data when it plays back the video file. In other words, no matter how many times you try to manually set it, it will be undone the moment the video is played.-->
+      </streamdetails>
+    </fileinfo>
+</episodedetails>
