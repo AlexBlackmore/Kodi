@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>Ravenhill</title>
+    <season>1</season>
+    <episode>11</episode>
+    <plot>The Battle of the Five Armies, Part 3/4. An epic battle begins as an army of Orks, lead by Azog The Defiler, attack the Lonely Mountain.</plot>
+    <director>Peter Jackson</director>
+    <aired>2016-11-27</aired>
+    <premiered>2016-11-27</premiered>
+    <studio>Angry Cut</studio>
+    <mpaa>PG-13</mpaa>
+    <displayseason>1</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>11</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>

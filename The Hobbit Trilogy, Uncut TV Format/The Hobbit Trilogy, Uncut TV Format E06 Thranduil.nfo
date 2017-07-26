@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>Thranduil</title>
+    <season>1</season>
+    <episode>6</episode>
+    <plot>The Desolation of Smaug, Part 2/4. The Company escape from the Woodelves before smuggling their way into Laketown.</plot>
+    <director>Peter Jackson</director>
+    <aired>2016-11-27</aired>
+    <premiered>2016-11-27</premiered>
+    <studio>Angry Cut</studio>
+    <mpaa>PG-13</mpaa>
+    <displayseason>1</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>6</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>
