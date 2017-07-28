@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <episodedetails>
     <title>Matrix Garrix Tests His Limits Eating Spicy Wings</title>
-    <rating></rating>
     <season>2</season>
     <episode>31</episode>
     <plot>At just age 20, Martin Garrix is already an international superstar. His single with Bebe Rexha, "In the Name of Love," is tearing up the charts. He jet sets around the world playing to massive festival crowds. And he was just named DJ Mag's #1 DJ in the entire world. So it only makes sense that the Dutch sensation would become the first DJ to step into the Hot Ones arena and submit to some spicy wings and burning questions from Sean Evans. Let the beat drop...</plot>
-    <playcount></playcount>
-    <lastplayed></lastplayed>
-    <credits></credits>
-    <director></director>
+    <runtime>17 minutes</runtime>
     <aired>2016-10-20</aired>
     <premiered>2016-10-20</premiered>
     <studio>Fist We Feast</studio>
-    <mpaa></mpaa>
-    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
-    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
-    <displayepisode>31</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
 </episodedetails>

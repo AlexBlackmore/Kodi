@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <episodedetails>
     <title>Joe Budden Keeps It Real While Eating Spicy Wings</title>
-    <rating></rating>
     <season>2</season>
     <episode>21</episode>
     <plot>The Jersey City emcee may be stirring up headlines these days with his string of Drake disses, but let's be real: We've always wanted to get Joe into the hot seat. The hip-hop rabble-rouser proves that whether it's a hot-sauce duel or a rap battle, he never backs down.</plot>
-    <playcount></playcount>
-    <lastplayed></lastplayed>
-    <credits></credits>
-    <director></director>
+    <runtime>24 minutes</runtime>
     <aired>2016-08-11</aired>
     <premiered>2016-08-11</premiered>
     <studio>Fist We Feast</studio>
-    <mpaa></mpaa>
-    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
-    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
-    <displayepisode>21</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
 </episodedetails>

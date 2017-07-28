@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <episodedetails>
     <title>Tom Colicchio Goes Full Top Chef on Some Spicy Wings</title>
-    <rating></rating>
     <season>2</season>
     <episode>36</episode>
     <plot>In what can safely be described as the most adult episode of Hot Ones to date (well, at least a good deal more adult than when Bobby Lee pooped his pants), James Beard Award-winning chef Tom Colicchio covers everything from the national hunger epidemic, to the problems with tipping. The Bravo vet also tackles some Top Chef quickfire and teaches Sean how to properly judge a dangerously hot chicken wing.</plot>
-    <playcount></playcount>
-    <lastplayed></lastplayed>
-    <credits></credits>
-    <director></director>
+    <runtime>17 minutes</runtime>
     <aired>2016-12-01</aired>
     <premiered>2016-12-01</premiered>
     <studio>Fist We Feast</studio>
-    <mpaa></mpaa>
-    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
-    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
-    <displayepisode>36</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
 </episodedetails>

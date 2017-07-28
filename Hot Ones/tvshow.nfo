@@ -2,38 +2,18 @@
 <tvshow>
     <title>Hot Ones</title>
     <showtitle>Hot Ones</showtitle>
-    <rating>10.0</rating>
-    <votes></votes>
-    <epbookmark>0.000000</epbookmark>
     <year>2015</year>
-    <top250>0</top250>
     <season>3</season>
     <episode>71</episode>
-    <uniqueid></uniqueid>
     <displayseason>-1</displayseason>
     <displayepisode>-1</displayepisode>
-    <outline></outline>
-    <plot>The show with hot questions and even hotter wings. Watch Sean interview celebrities such as T.J. Miller, Tommy Chong, and DJ Khaled as they burn their tastebuds.</plot>
-    <tagline></tagline>
-    <runtime>0</runtime>
-    <mpaa></mpaa>
-    <playcount>0</playcount>
-    <lastplayed></lastplayed>
+    <plot>Watch Sean Evans interview celebrities such as T.J. Miller, Tommy Chong, and DJ Khaled as they burn their tastebuds.</plot>
+    <tagline>The show with hot questions and even hotter wings.</tagline>
     <episodeguide></episodeguide>
-    <id></id>
     <genre>Celebrity Interview</genre>
     <genre>Food</genre>
     <genre>Comedy</genre>
-    <set></set>
     <premiered>2015-03-12</premiered>
-    <status></status>
-    <code></code>
     <aired>2015-03-12</aired>
     <studio>First We Feast</studio>
-    <trailer></trailer>
-    <resume>
-        <position>0.000000</position>
-        <total>0.000000</total>
-    </resume>
-    <dateadded></dateadded>
 </tvshow>

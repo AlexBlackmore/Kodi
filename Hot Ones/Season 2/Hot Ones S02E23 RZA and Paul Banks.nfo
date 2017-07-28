@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <episodedetails>
     <title>RZA and Paul Banks Tag Team Spicy Wings</title>
-    <rating></rating>
     <season>2</season>
     <episode>23</episode>
     <plot>Wu-Tang Clan sensei RZA and Interpol frontman Paul Banks have been making music together since 2011, but they haven't really tested the bonds of their relationship until now, when Banks dragged RZA into the Hot Ones studio without telling him what was in store. Of course, the Abbot has plenty of Shaolin powers to draw upon while facing down the Scoville sword style of Pain 100% and Mad Dog 357. Find out how the pair do against five wings of death in this week's HOT ONES.</plot>
-    <playcount></playcount>
-    <lastplayed></lastplayed>
-    <credits></credits>
-    <director></director>
+    <runtime>15 minutes</runtime>
     <aired>2016-08-25</aired>
     <premiered>2016-08-25</premiered>
     <studio>Fist We Feast</studio>
-    <mpaa></mpaa>
-    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
-    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
-    <displayepisode>23</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
 </episodedetails>

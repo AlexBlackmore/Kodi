@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <episodedetails>
     <title>Rachael Ray Mainlines Hot Sauce for Thanksgiving</title>
-    <rating></rating>
     <season>2</season>
     <episode>35</episode>
     <plot>Who else could we tap for the first-ever Hot Ones Thanksgiving special than the Turkey Day Queen herself, Rachael Ray? The TV vet, cookbook author, and general food-world powerhouse brought an unorthodox strategy to the wings challenge that is sure to go down in Hot Ones lore. Douse your turkey drums in Blair's Mega Death and let's get this party started.</plot>
-    <playcount></playcount>
-    <lastplayed></lastplayed>
-    <credits></credits>
-    <director></director>
+    <runtime>17 minutes</runtime>
     <aired>2016-11-24</aired>
     <premiered>2016-11-24</premiered>
     <studio>Fist We Feast</studio>
-    <mpaa></mpaa>
-    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
-    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
-    <displayepisode>35</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
 </episodedetails>

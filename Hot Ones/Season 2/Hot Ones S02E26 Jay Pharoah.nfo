@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <episodedetails>
     <title>Jay Pharoah Has a Staring Contest While Eating Wings</title>
-    <rating></rating>
     <season>2</season>
     <episode>26</episode>
     <plot>Rapper, comedian, impressionist, actor—Jay Pharoah is one of the most multitalented entertainers working today. Turns out he's also a beast when it comes to hot sauce (by his own account, he used to drink it by the bottle). Watch the SNL alum take on some of the spiciest wings on the planet while discussing Drake's after-parties, Kevin Hart's abs, and the Michelle Obama's rhymes.</plot>
-    <playcount></playcount>
-    <lastplayed></lastplayed>
-    <credits></credits>
-    <director></director>
+    <runtime>23 minutes</runtime>
     <aired>2016-09-15</aired>
     <premiered>2016-09-15</premiered>
     <studio>Fist We Feast</studio>
-    <mpaa></mpaa>
-    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
-    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
-    <displayepisode>26</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
 </episodedetails>

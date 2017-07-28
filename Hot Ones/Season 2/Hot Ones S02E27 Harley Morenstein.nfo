@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <episodedetails>
     <title>Harley Morenstein Has His Worst Day of 2016 Eating Spicy Wings</title>
-    <rating></rating>
     <season>2</season>
     <episode>27</episode>
     <plot>Epic Meal Time honcho Harley Morenstein is a YouTube O.G. and decorated veteran of the "do dumb shit for the Internet" game. But how is he with spicy wings? Hot Ones host Sean Evans found out as he grilled the NSFW fast-food guru about everything from cooking with Arnold Schwarzenegger, to wild nights in Montreal.</plot>
-    <playcount></playcount>
-    <lastplayed></lastplayed>
-    <credits></credits>
-    <director></director>
+    <runtime>20 minutes</runtime>
     <aired>2016-09-22</aired>
     <premiered>2016-09-22</premiered>
     <studio>Fist We Feast</studio>
-    <mpaa></mpaa>
-    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
-    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
-    <displayepisode>27</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
 </episodedetails>

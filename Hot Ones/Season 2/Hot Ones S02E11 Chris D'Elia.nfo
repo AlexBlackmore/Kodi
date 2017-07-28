@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <episodedetails>
     <title>Chris D'Elia Turns Into DJ Khaled While Eaeting Spicy Wings</title>
-    <rating></rating>
     <season>2</season>
     <episode>11</episode>
     <plot>With his hilarious special Incorrigible cooking on Netflix, "Justin Bieber's favorite comedian" steps into the Hot Ones arena to take one some hot questions and even hotter wings. The acerbic pop-culture maven breaks down horrible celebrity style at Coachella, recounts his awkward run-in with Ludacris, and busts out his best DJ Khaled impersonation. </plot>
-    <playcount></playcount>
-    <lastplayed></lastplayed>
-    <credits></credits>
-    <director></director>
+    <runtime>15 minutes</runtime>
     <aired>2016-06-09</aired>
     <premiered>2016-06-09</premiered>
     <studio>Fist We Feast</studio>
-    <mpaa></mpaa>
-    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
-    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
-    <displayepisode>11</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
 </episodedetails>

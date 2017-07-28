@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <episodedetails>
     <title>Coolio Talks Hip-Hop Cooking and "Gangsta's Paradise" Folklore While Eating Spicy Wings</title>
-    <rating></rating>
     <season>2</season>
     <episode>5</episode>
     <plot>Stepping into the hot seat for First We Feast's second annual L.A. Week, the legendary Compton MC brings some veteran cockiness to Hot Ones, the Internet's most dangerous interview show. Watch the "black Rachael Ray" take on some of the wildest hot sauces in the world while remembering his Rock N' Jock days and opening up about Tupac, Kendrick Lamar, and Action Bronson.</plot>
-    <playcount></playcount>
-    <lastplayed></lastplayed>
-    <credits></credits>
-    <director></director>
+    <runtime>16 minutes</runtime>
     <aired>2016-03-07</aired>
     <premiered>2016-03-07</premiered>
     <studio>Fist We Feast</studio>
-    <mpaa></mpaa>
-    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
-    <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
-    <displayepisode>5</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
 </episodedetails>
