@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <episodedetails>
     <title>Tony Hawk Eats Spicy Wings LIVE at ComplexCon</title>
-    <rating></rating>
     <season>0</season>
     <episode>5</episode>
     <plot>It's a historic day at Hot Ones: The first-ever live edition of Hot Ones, coming at you from the cultural mega-fest ComplexCon in Long Beach, CA. If you think the wings are fake or Sean Evans is a CGI character cobbled together by editors, maybe this will put your mind at ease? Either way, you'll get a pretty great interview with skateboarding legend Tony Hawk, so tune in.</plot>
-    <playcount></playcount>
-    <lastplayed></lastplayed>
-    <credits></credits>
-    <director></director>
+    <runtime>31 minutes</runtime>
     <aired>2016-11-05</aired>
     <premiered>2016-11-05</premiered>
     <studio>Fist We Feast</studio>
-    <mpaa></mpaa>
-    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
     <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
     <displayepisode>33</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
 </episodedetails>

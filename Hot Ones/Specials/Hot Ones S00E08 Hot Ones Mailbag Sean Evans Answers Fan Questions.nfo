@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <episodedetails>
     <title>Hot Ones Mailbag: Sean Evans Answers Fan Questions</title>
-    <rating></rating>
     <season>0</season>
     <episode>8</episode>
     <plot>As we bid farewell to Season 2 of Hot Ones, host Sean Evans responds to some of the most frequently-asked questions from the show's fans. Find out what he thinks about cold wings, #MannersGate, and more.</plot>
-    <playcount></playcount>
-    <lastplayed></lastplayed>
-    <credits></credits>
-    <director></director>
+    <runtime>8 minutes</runtime>
     <aired>2016-12-29</aired>
     <premiered>2016-12-29</premiered>
     <studio>Fist We Feast</studio>
-    <mpaa></mpaa>
-    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
     <displayseason>2</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
     <displayepisode>40</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
 </episodedetails>

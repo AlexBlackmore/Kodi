@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <episodedetails>
     <title>Sean Evans and Chili Klaus Eat the Carolina Reaper, the World's Hottest Chili Pepper.</title>
-    <rating></rating>
     <season>0</season>
     <episode>1</episode>
     <plot>In the first season of Hot Ones, host Sean Evans proved that there's no wing he can't handle. But the world of spicy foods doesn't end at Mad Dog 357 hot sauce. To train for Season 2 and ensure his invisibility on the Hot Ones stage, Sean met up with a true legend of the chili world—Denmark's ghost-pepper-popping Chili Klaus—to take on the hottest chili pepper known to man, the Carolina Reaper. Special thanks to "Smokin' Ed" Currie of PuckerButt Pepper Company in South Carolina for providing the heat.</plot>
-    <playcount></playcount>
-    <lastplayed></lastplayed>
-    <credits></credits>
-    <director></director>
+    <runtime>12 minutes</runtime>
     <aired>2015-12-03</aired>
     <premiered>2015-12-03</premiered>
     <studio>Fist We Feast</studio>
-    <mpaa></mpaa>
-    <epbookmark>0</epbookmark>  <!-- For media files containing multiple episodes, where value is the time where the next episode begins in seconds  -->
     <displayseason>1</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
     <displayepisode>9</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
 </episodedetails>
