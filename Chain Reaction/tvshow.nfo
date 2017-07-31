@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <tvshow>
-    <title></title>
-    <showtitle></showtitle>
-    <year></year>
-    <season>-1</season>
-    <episode></episode>
+    <title>Chain Reaction</title>
+    <year>2015</year>
+    <season>3</season>
+    <episode>20</episode>
     <displayseason>-1</displayseason>
     <displayepisode>-1</displayepisode>
-    <plot></plot>
+    <plot>Wax eats fast food and discusses his experience.</plot>
     <tagline></tagline>
     <runtime></runtime>
     <mpaa></mpaa>
+    <genre>Food Review</genre>
     <genre>Comedy</genre>
-    <genre>Drama</genre>
-    <premiered>YYYY-MM-DD</premiered>
+    <premiered>2015-10-13</premiered>
     <aired></aired>
     <studio></studio>
 </tvshow>
