@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>Stephen Colbert Does A 'Hot Ones' Inverview With Sean Evans</title>
+    <season>0</season>
+    <episode>11</episode>
+    <plot>Stephen tries to keep his cool during an interview over spicy wings with 'Hot Ones' host Sean Evans.</plot>
+    <runtime>7 minutes</runtime>
+    <aired>2017-08-09</aired>
+    <premiered>2017-08-09</premiered>
+    <studio>Fist We Feast</studio>
+    <displayseason>4</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>4</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>
