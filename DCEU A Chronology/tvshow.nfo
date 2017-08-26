@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<tvshow>
+    <title></title>
+    <showtitle></showtitle>
+    <year></year>
+    <season>-1</season>
+    <episode></episode>
+    <displayseason>-1</displayseason>
+    <displayepisode>-1</displayepisode>
+    <plot></plot>
+    <tagline></tagline>
+    <runtime></runtime>
+    <mpaa></mpaa>
+    <genre>Comedy</genre>
+    <genre>Drama</genre>
+    <premiered>YYYY-MM-DD</premiered>
+    <aired></aired>
+    <studio></studio>
+</tvshow>
