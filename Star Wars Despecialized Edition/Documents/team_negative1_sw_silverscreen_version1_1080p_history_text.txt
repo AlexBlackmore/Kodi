@@ -1,0 +1,356 @@
+It is with great pleasure that we bring this to you:
+
+Star Wars: 35mm Silver screen theatrical version
+---------------------------------------------------------
+Presented by : team negative1
+
+----------------------------------------------------
+Restored to its original brilliance and color
+in 1080p with theatrical audio soundtracks.
+
+Features
+===============================
+- Major dust and dirt cleanup
+- Deflickered
+- Stabilized
+- Major scene by scene color correction
+- Replacement shots from Eastman print
+---------------------------------------
+ - Intro, and original 1977 crawl
+ - Han shoots first
+ - Various dark scenes
+
+
+Versions:
+---------------------
+25G mkv [mp4 contained] 1080p - v1
+-video and english audio
+
+25G Bd ISO 1080p - v1.5 [forthcoming]
+-video
+-----------------------------
+Audio 1: English 35mm stereo
+Audio 2: English 16mm mono
+Audio 3: Spanish 35mm mono
+
+- Star Wars theatrical trailer
+- artwork folder
+- documents folder
+
+9G mkv/mp4  720p v1.5 [forthcoming]
+-video and english audio
+-----------------------
+
+
+Where : Currently, it will be uploaded to usenet,
+        alt.binaries.starwars and MySpleen. 
+
+        ?? x 500 MB Rar files, with 10% PAR files for correction.
+
+----------------------
+History :  Star Wars was the second print procured 
+by Team Negative1. 6 x 35mm reels were scanned and archived. 
+There was 6 reels of a Spanish LPP print, and 5 reels
+of a red faded Eastman print, and 1 further reel 5 with
+10 minutes.
+
+The LPP had minimal damage, but more on the heads and tails.
+There was a constant amount of dust and dirt throughout.
+
+There were no splices except for the original crawl, and
+Han shoots first scene.
+
+Technical : Scan was in 2k, and resulted in a HD 1080p version.
+Later, select shots were rescanned in 4k, along with the rest
+of the LPP print. This was not used as the workflow was already
+1080p.
+
+Compatibility : 
+At this point, there is no GOUT compatibility and no subtitles.
+
+Not done:
+- Cleanup of glue frames
+
+Future : There are advanced Eastman Kodak prints ready to be
+restored. The scans are 4k, but again we are targetting 1080p
+for the final release.
+
+==============================================
+
+But first a look back at how we got here:
+==========================================================
+Commentary by -1
+
+A long time ago, in a galaxy far far away....
+---------------------------------------------
+
+The origin at originaltrilogy.com
+--------------------------------------------
+At some point, I came across a site called originaltrilogy.com (OT.com), which is 
+where this adventure started. It was probably around 2006 where I started lurking and
+just reading all the discussions and topics.
+
+For some reason, it seemed a lot of people were upset and angry. I was curious, why?
+Star War was going strong with the prequels, the clone wars, books, comics, games, you
+name it. So what was the problem?
+
+And besides, there was a lot of vhs preservations, and lots of laserdisc
+ones, and even some new versions called fanedits that were very interesting.
+
+
+Where are the originals?
+-------------------------------------------
+As it turned out, people at first wanted to have the original versions of the movies
+they remembered. Most people only had them on VHS, and not laserdisc, so they
+missed out on the better quality.
+
+When the first dvd's came out, the originals weren't there, so they petitioned and got
+a barebones release of an old laserdisc transfer. Unfortunately it turned out that this 
+version was very subpar  in sound and picture quality to the special edition dvd's. Hmm..
+
+I really didn't know all the technical stuff. But I did remember seeing the
+special editions in the theaters. I liked the cleaned up pictures, and i didn't mind
+the new cgi additions. Well apparently there were people that liked that it
+was fixed up, but not the new additions. Another thing people noticed was the
+colors and other things like sound had issues and were not consistent at all
+even in so-called improved special editions.
+
+So thus began the quest to find the best releases, and create the best
+home version that was true to the original.
+
+A long road
+-------------------------------------------
+After a few more years, I checked back on the originaltrilogy.com board, and in 2008
+it looked things were getting better. a lot of laserdiscs versions were getting transferred,
+people were improving the graphics, video, and sound. there were new formats like hd-dvd, and
+bluray coming out that were even more promising.
+
+But still no news of the original trilogy being released.
+
+A lot of people had given up hope. george lucas had said he wanted to keep improving the movie,
+and didn't really mention the originals or even think or re-releasing them. There was a lot of
+speculation on why this was. But most of it came down to legal issues, cost, and loss of
+the original material in order to recreate and reprint them.
+
+Where we step in
+---------------------------------------------
+A poster at ot.com named zombie84 had a novel idea. On july 5, 2006 at 5:32 pm, he put forth
+the thought that if companies are taking 35mm movie prints, and digitally restoring them
+for dvd's, and 2k-4k versions for theaters, Why can't we do it ourselves? Using a print
+from a collector. Little did we know.
+
+You have to remember at that time, having powerful computers and multi-terabyte drives
+were very rare, and incredibly expensive. Not to mention the cost of getting a movie 
+transferred properly. (It still is).
+
+The ones that kicked it off
+----------------------------------------------
+By the way, of note, is a person called puggo, who is responsible for the transfer of 8mm,
+and 16mm versions of star wars, and of other movies. Who proved you could this by yourself
+on a smaller scale. His versions would prove to be my favorites, and influence me greatly.
+His first post to ot.com was september 21st, 2006 at 2:19pm.
+
+The last post in that thread was on: february 20, 2007 : 3:43am
+
+The start of it all
+------------------------------------------------
+Nonetheless, the debate went on for a few years, until I read it, and chimed in 
+with a naive thought. The date: june 28, 2008 : 2:26am 
+
+Anyways, I had looked over all the previous plans, and projects, and seen most of them fail, and
+fall apart due to funding issues, fighting, and just loss of interest. Determined not to let
+that happen. I came up with a basic idea. Get the prints, and see what happens after that.
+
+Ebay to rescue
+----------------------------------------
+I was a big music fan, and collector. ebay the auction site was great and bad. because
+you could find practically anything, and if you had money you could get hooked in pretty quickly..
+
+So it was right around this time that a complete 6 reel version of the original
+Empire Strikes Back came up on ebay. Of course it was expensive. but I thought,
+why not? And before you know it, I ended up with it.
+
+Really, now what?
+------------------------------------------
+For a long time there was debate about who i was, what was i doing, was anything going
+to happen. Anyway, I kept at it, but unfortunately nothing happened.
+
+And then Star Wars (twice!)
+-------------------------------------------
+3 months after finding empire, a few stray reels of Star Wars the original came up on
+ebay. I ended up getting them one at a time. Much to my surprise by september I ended up
+with 5 reels of a very red faded english version of Star Wars, and 6 reels of a faded spanish
+print. The empire print I had was dusty, scratchy and pink faded also.  So i had tons
+of material. I bought a home scanner that had a 35mm film tray and scanned a few frames
+from all the reels to prove i actually had them. Some of the scans were actually pretty
+decent when cleaned up.
+
+However, the thought of scanning 170000+ frames by hand was a little too much. Hard drive
+prices had come down. But the largest were still in the 250 gig -500 gig range. hardly
+enough to store everything.
+
+Well, I started looking for places to transfer the films and people. of course no one could
+do commercial material, and it was very very expensive. HD transfers to 1080p were very
+new, so it would cost a small fortune. I never solicited funds or donations, and
+although i was ok with paying for things, it was out of my league.
+
+Then nothing, but life.
+---------------------------------------
+Real life caught up, and I disappeared. people thought I was a fake and con artist.
+Oh well, what could I do, nothing was happening, and i wasn't making any progress. There were
+leads but they all fizzled out.
+
+2 more years passed.
+
+And then... some progress, and a breakthrough
+----------------------------------------------
+2011 came around, and a breakthrough happened. I met a person that actually took my prints,
+and was able to transfer them. unfortunately it remains private, but at least it got done.
+
+This led me to another person, who actually did manage to get empire transferred digitally
+to HD, however, even with that, a huge hurdle had been crossed, but since I didn't have the
+know how to fix the video, someone would have to step in, but who?
+
+Cinch - a major key to the puzzle
+---------------------------------------------
+Fall of 2011, led a comment on youtube to me. I had posted some samples of puggos 8mm, and
+16mm versions previews. And the person asked me about them and told me he was into film
+restoration. this sounded promising. So we ended talking on the phone. We were both
+big fans of star wars, so there was plenty to talk about. We hit it off, and it turned
+out we lived relatively close to each other.
+
+A partnership formed
+---------------------------------------------
+I gave cinch some key data later that fall. and through 6 months of hard work, learning,
+and coming up with novel solutions to very difficult image problems. He solved them.
+
+We started a private blog to track our progress, and had a small group of enthusiastic followers.
+It was pretty basic and amateurish. but it was fun, and gave a lot of insight into something
+not too many people ever saw.
+
+Brilliant!
+----------------------------------------------
+Early 2012 cinch got some key donations, and ended up modifying some projector hardware,
+digital cameras and vcr motor to make a homebrew telecine. This basically enabled us
+to do the transfer from home. We would no longer have to risk others, or spend a large
+amount. although it was time intensive, a little cumbersome, and not completely precise
+it worked! We ran some tests on a few minutes of empire that were originally not up to the quality
+we needed, and it worked great.
+
+I even had a red faded 10 minute test reel of star wars. I was blown away by what he
+was able to do with, and i watched the first tests in amazement and surprise when
+i saw the first high res samples, it has begun, I thought, cinch was not so happy.
+
+
+Little did we know
+----------------------------------------------
+One day in february I brought the star wars prints, and cinch almost had a heart
+attack. I didn't know much about film. but when he started going over the reels, he
+was amazed that the spanish print seemed to be in very good shape. Which was an
+understatement.
+
+We went through all of them, and it turned out all 6 reels were in very good condition,
+a little faded, but that was it. We went and looked at them closer under some stronger
+lights, and guess what. it turned out that this foreign print was a very rare LPP print.
+This means that it ws a very low fade print. and considering that most versions out there
+that are now 30+ years old are all faded, this one wasn't. There is another type of
+print called an IB tech print, which is another good type, but it also is very
+rare, and only in the hands of collectors.
+
+It turns out that we had struck gold, and all the issues that we had struggling with
+the problems of Empire Strikes Back. We wouldn't even have to think about with this.. wow!
+
+
+Technology to the rescue
+----------------------------------------------
+Then, we knew were ready to tackle star wars. at this point, computers were more than powerful
+enough to do all the clean up, stabilizing, color correction tasks. Hard drive prices had
+fallen (and risen), but now having multi-terabytes of storage was not really an issue. Digital cameras were capable of capturing images in the megapixel range and software was able to control and export with high enough resolutions to match professionals at much lower costs.
+
+And more
+-------------------------------------------------
+In the end, we ended up with a larger team..
+
+There was mr steve b, who was key to the restoration. along with his release of empire strikes back - grindhouse, he was able to speed up the process of correcting the print, with major cleanup and color correction.
+
+Another tech guy, that was just as instrumental was williarob, who not only backed and ran the server 
+for all our key needs. but provided many tutorials, and conversions for all the files, and tools we needed.
+
+Lastly, 'none', ended up being a financial supporter for all of our key needs. behind the scenes, but always involved, with key thoughts, and documentations.
+
+Although -1 is no longer with the group, he is still with the project in spirit,
+and there is much more to come..
+
+
+Thanks
+--------------------------------------------------
+There are too many people to thank. But we would like to thank our friends and family who have
+stood by us during this project. Thanks to the OT board. To puggo, harmy, jaxxon for the mono
+soundtrack, dre for the color correction tool and all the other preservationists. 
+
+To all those that offered critiques of the previews and especially the blog members that 
+supported us with contributions and also with technical details and support. 
+
+To all the fans of Star Wars that helped this project come to completion.
+
+
+Finally.. what we have, and what we did.. our philosophy
+========================================================
+So now that you know how it all fell into place.
+
+The end result is that you can now watch star wars as it was intended to be.
+
+The 1977 original version (no episode IV in the crawl). the soundtracks are mono, 35mm stereo. 
+with all their nuances and differences.
+
+The picture quality is 1080p. there is no smoothing, no noise reduction, plenty of grain. and colors that are authentic to when the print came out.
+
+We have taken every step to insure that care and quality has gone into maintaining the images, the colors and not altering anything that was in the film print. If it was supposed to be there, it stayed in. Of course things like dust, scratches, and other other non-film flaws have been fixed up. Along with a moderate amount of color correction. the print itself is in near mint condition. So it basically was the guide in determining what the colors and movement of the film would be like.
+--------------
+=================================================================
+Conditions of use : All the usual conditions for Fanedits apply.
+                  NOT FOR SALE, REPACKAGING or any FOR PROFIT projects.
+                  For private viewing and use only.
+
+Legalities : We are not affiliated, sponsored, or related to
+           Lucasfilm, 20th Century Fox, or Disney. All properties
+           are (c) and (r) to them.
+=================================================================
+If you want to use this for your own project, please contact
+us on the OriginalTrilogy.com board : Team_Negative1
+
+------------------------------------------------------------------
+
+Thanks to George Lucas for his vision, Fox for releasing it, and
+to all the artists, actors, writers and creative people associated
+with this. And for all the inspiration and hard work that was put
+into it.
+
+Please support the official releases, and purchase the DVD, Blurays
+and other related works.
+-------------------------------------------------------------------
+
+Your turn.. hitting the 39th anniversary and more.
+==================================================
+Spread this movie. show it to your friends. tell people you are watching the original star wars!
+
+We are happy to share it with you, because we enjoyed it also... and we hope you will.
+
+It was a labor of love.
+ 
+But in the end, despite the issues, the time, and money spent. it was all worth it..
+
+We hope that this inspires people, and we especially thank george lucas, and lucasfilm 
+first and foremost for creating it.
+
+It may have been a long time ago in a galaxy far, far away....
+
+But not anymore. we hope to celebrate many more anniversaries with you and
+watching it as it was meant to be.
+
+May the force be with you.
+==================================================
+
+Team Negative1
+
+10/1/2016
