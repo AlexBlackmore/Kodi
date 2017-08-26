@@ -1,0 +1,74 @@
+Subtitles
+
+All subtitles are from "Project Threepio v6.2"
+
+Special thanks to CatBus
+
+More info here:
+
+http://originaltrilogy.com/forum/topic.cfm/Project-Threepio-Star-Wars-OOT-subtitles/topic/13794/
+
+
+English (en)
+English SDH (en-sdh)
+Mandarin, Simplified (zh-cn)
+Mandarin, Traditional (zh-tw)
+American Spanish (es-419)
+American Spanish Forced (es-419-forced; only with dub)
+Castilian Spanish (es-es)
+Castilian Spanish Forced (es-es-forced; only with dub)
+Arabic (ar)
+Russian (ru)
+Brazilian Portuguese (pt-br)
+Indonesian (id)
+Japanese Forced (ja-forced; only with dub)
+French (fr)
+French Forced (fr-forced; only with dub)
+German (de)
+German Forced (de-forced; only with dub)
+Turkish (tr)
+Korean (ko)
+Italian (it)
+Italian Forced (it-forced; only with dub)
+Polish (pl)
+Romanian (ro)
+Croatian (hr)
+Dutch (nl)
+Hungarian (hu)
+Czech (cs)
+Greek (el)
+Swedish (sv)
+Bulgarian (bg)
+Finnish (fi)
+Danish (da)
+Norwegian (no)
+
+
+Unverified subtitles (may need significant improvements):
+
+Mandarin (Simplified), American Spanish, Arabic, Russian, Korean, Turkish, Romanian, Croatian,
+
+Greek, and Bulgarian.
+
+
+
+If you want to watch with subtitles, take your chosen subtitle .srt file from the
+
+"Subtitles - Project Threepio" folder, copy it to the folder with the .mkv file and
+
+rename the .srt file to the same name as the .mkv file, while keeping the .srt extension.
+
+
+So for example, if you wanted to watch with Bulgarian subtitles, you would copy the file
+
+"SW-bg-full.srt" from the "Subtitles - Project Threepio" folder to the folder with the
+
+"Star.Wars.Despecialized.Edition.v2.5.mkv" file and rename the file to
+
+"Star.Wars.Despecialized.Edition.v2.5.srt".
+
+
+
+
+
+

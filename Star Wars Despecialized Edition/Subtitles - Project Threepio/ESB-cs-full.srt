@@ -1,0 +1,4650 @@
+﻿1
+00:00:21,404 --> 00:00:26,646
+Před dávnými časy,
+v předaleké galaxii....
+
+2
+00:00:28,734 --> 00:00:33,734
+HVĚZDNÉ VÁLKY
+
+3
+00:00:39,297 --> 00:00:43,294
+Epizoda V
+
+4
+00:00:43,426 --> 00:00:48,135
+IMPÉRIUM VRACÍ ÚDER
+
+5
+00:00:48,264 --> 00:00:51,549
+Povstalcům nastaly těžké časy.
+
+6
+00:00:51,684 --> 00:00:54,092
+I když byla Hvězda smrti zničena...
+
+7
+00:00:54,228 --> 00:00:58,308
+...jednotky Impéria vyhnaly
+povstalce z tajné základny...
+
+8
+00:00:58,441 --> 00:01:02,391
+...a pronásledovaly je po celé galaxii.
+
+9
+00:01:03,446 --> 00:01:08,072
+Skupina bojovníků za svobodu,
+vedená Lukem Skywalkerem...
+
+10
+00:01:08,200 --> 00:01:10,526
+...unikla obávané imperiální flotile...
+
+11
+00:01:10,661 --> 00:01:14,161
+...a vybudovala novou tajnou
+základnu na ledové planetě Hoth.
+
+12
+00:01:16,584 --> 00:01:20,831
+Zlý lord Darth Vader,
+posedlý hledáním Skywalkera...
+
+13
+00:01:20,963 --> 00:01:27,796
+...vypustil tisíce automatických
+sond do všech koutů vesmíru....
+
+14
+00:03:33,846 --> 00:03:35,673
+Echo 3 volá Echo 7.
+
+15
+00:03:35,806 --> 00:03:37,799
+Slyšíš, Hane?
+
+16
+00:03:37,934 --> 00:03:39,973
+<i>Slyším, chlapče. Co se děje?</i>
+
+17
+00:03:40,102 --> 00:03:42,772
+Dokončil jsem obhlídku.
+Nikde nic živého.
+
+18
+00:03:42,897 --> 00:03:45,814
+<i>Na téhle sněhové kouli</i>
+<i>toho moc nepřežije.</i>
+
+19
+00:03:45,942 --> 00:03:47,733
+<i>Umístil jsem senzory. Vracím se.</i>
+
+20
+00:03:47,860 --> 00:03:49,734
+Brzy se uvidíme.
+
+21
+00:03:49,862 --> 00:03:53,563
+Ještě se podívám
+na čerstvý meteorit.
+
+22
+00:03:54,408 --> 00:03:55,440
+Klid.
+
+23
+00:03:56,869 --> 00:04:00,119
+Klid, holka. Co je?
+Cítíš něco?
+
+24
+00:04:41,163 --> 00:04:42,077
+Chewie!
+
+25
+00:04:49,797 --> 00:04:52,833
+Nerozčiluj se. Hned ti pomůžu.
+
+26
+00:05:14,488 --> 00:05:15,520
+Solo.
+
+27
+00:05:15,656 --> 00:05:19,606
+Žádné známky života, generále.
+Senzory jsou rozmístěny.
+
+28
+00:05:19,744 --> 00:05:24,240
+– Už se vrátil Skywalker?
+– Ne, prohlíží si meteorit.
+
+29
+00:05:24,373 --> 00:05:27,873
+Je tu tolik meteoritů,
+že si nevšimneme přilétajících lodí.
+
+30
+00:05:28,002 --> 00:05:31,418
+– Generále, už musím odletět.
+– To je mi líto.
+
+31
+00:05:31,547 --> 00:05:35,331
+Musím vrátit dluh Jabba Huttovi.
+Vypsal na mě odměnu.
+
+32
+00:05:35,468 --> 00:05:37,295
+Nemáte to lehké.
+
+33
+00:05:38,804 --> 00:05:41,378
+Jste dobrý pilot.
+Nerad o vás přicházím.
+
+34
+00:05:41,515 --> 00:05:42,926
+Děkuju, generále.
+
+35
+00:05:51,067 --> 00:05:53,024
+Výsosti, je čas rozloučit se.
+
+36
+00:05:53,986 --> 00:05:55,018
+Ano.
+
+37
+00:05:57,907 --> 00:06:00,279
+Nemusíš být celá naměkko.
+Sbohem, princezno.
+
+38
+00:06:03,287 --> 00:06:04,485
+Hane!
+
+39
+00:06:06,165 --> 00:06:09,368
+– Ano, vaše převelikosti?
+– Myslela jsem, že zůstaneš.
+
+40
+00:06:09,502 --> 00:06:12,337
+Rozmyslel jsem si to.
+Jdou po mně námezdní lovci.
+
+41
+00:06:12,463 --> 00:06:14,705
+My tě potřebujeme.
+
+42
+00:06:14,840 --> 00:06:16,916
+– „My“?
+– Ano.
+
+43
+00:06:17,051 --> 00:06:19,507
+– A co ty?
+– Já—
+
+44
+00:06:19,637 --> 00:06:22,093
+Nevím, o čem mluvíš.
+
+45
+00:06:22,223 --> 00:06:25,722
+– Asi ne.
+– Co bych měla vědět?
+
+46
+00:06:25,851 --> 00:06:29,303
+Ty chceš, abych tu zůstal.
+
+47
+00:06:29,438 --> 00:06:32,012
+Ano. Jsi výborný vůdce.
+
+48
+00:06:32,149 --> 00:06:34,687
+Ne. V tom to není.
+
+49
+00:06:34,819 --> 00:06:36,443
+No tak.
+
+50
+00:06:37,738 --> 00:06:39,731
+– No tak.
+– Něco si namlouváš.
+
+51
+00:06:39,865 --> 00:06:41,775
+Proč jdeš za mnou?
+
+52
+00:06:41,909 --> 00:06:44,116
+Chceš pusu?
+
+53
+00:06:44,245 --> 00:06:46,818
+– Radši bych políbila wookieho.
+– To můžu zařídit.
+
+54
+00:06:46,956 --> 00:06:49,079
+Potřebovala bys pořádnou pusu!
+
+55
+00:06:50,126 --> 00:06:52,831
+Já za nic nemůžu.
+
+56
+00:06:52,962 --> 00:06:56,378
+Neříkal jsem ti, abys zapnul topení.
+
+57
+00:06:56,507 --> 00:06:58,334
+To je normální, že je tu zima.
+
+58
+00:06:58,467 --> 00:07:00,875
+Jak teď ty šaty usušíme?
+
+59
+00:07:01,012 --> 00:07:02,210
+Zmlkni.
+
+60
+00:07:02,346 --> 00:07:05,431
+Proč to rozebíráš? Odlétáme.
+
+61
+00:07:05,558 --> 00:07:07,681
+– Promiňte.
+– Smontuj to.
+
+62
+00:07:07,810 --> 00:07:09,850
+– Můžu—
+– Co je?
+
+63
+00:07:09,979 --> 00:07:12,470
+Volá vás princezna Leia.
+
+64
+00:07:12,607 --> 00:07:14,765
+Vypnul jsem vysílačku.
+
+65
+00:07:14,901 --> 00:07:20,143
+– Prý se ještě nevrátil pan Luke.
+– Nevím, kde je.
+
+66
+00:07:20,281 --> 00:07:23,068
+– Nikdo to neví.
+– Jak to?
+
+67
+00:07:23,200 --> 00:07:24,944
+Palubní důstojník!
+
+68
+00:07:25,077 --> 00:07:27,117
+– Promiňte.
+– Ano, pane?
+
+69
+00:07:27,246 --> 00:07:28,990
+Kde je Skywalker?
+
+70
+00:07:29,123 --> 00:07:31,792
+Nevím. Možná přijel jižním vchodem.
+
+71
+00:07:31,918 --> 00:07:35,832
+Možná? Zjistěte to.
+Stmívá se.
+
+72
+00:07:36,923 --> 00:07:39,295
+Můžu se zeptat, co se děje?
+
+73
+00:07:39,425 --> 00:07:41,714
+– Můžeš.
+– Je nemožný.
+
+74
+00:07:41,844 --> 00:07:43,837
+Pojď za princeznou, R2.
+
+75
+00:07:43,971 --> 00:07:47,008
+Podle mě je pan Luke
+ve velkém nebezpečí.
+
+76
+00:07:56,651 --> 00:07:58,809
+Jižním vchodem Skywalker nepřijel.
+
+77
+00:07:58,945 --> 00:08:01,400
+– Možná se neohlásil.
+– Těžko. Fungují vznášedla?
+
+78
+00:08:01,530 --> 00:08:03,607
+Nejsou přizpůsobena mrazu.
+
+79
+00:08:03,741 --> 00:08:06,695
+– Tak pojedu na tauntaunovi.
+– Teplota rychle klesá.
+
+80
+00:08:06,827 --> 00:08:10,243
+– A můj přítel mrzne.
+– Podívám se do sektoru 12.
+
+81
+00:08:13,668 --> 00:08:16,123
+Váš tauntaun za chvíli zmrzne.
+
+82
+00:08:16,254 --> 00:08:18,293
+Tak se sejdeme v pekle!
+
+83
+00:10:26,843 --> 00:10:28,717
+Musíme jít, R2.
+
+84
+00:10:28,845 --> 00:10:30,885
+Nemůžeme nic dělat.
+
+85
+00:10:31,014 --> 00:10:33,090
+A mrznou mi klouby.
+
+86
+00:10:34,184 --> 00:10:38,098
+To neříkej. Samozřejmě,
+že pana Luka ještě uvidíme.
+
+87
+00:10:38,230 --> 00:10:40,982
+Bude v pořádku, uvidíš.
+
+88
+00:10:41,108 --> 00:10:44,726
+Plechovko hloupá.
+Bude v pořádku.
+
+89
+00:11:42,336 --> 00:11:45,171
+Všichni se už vrátili, kromě—
+
+90
+00:11:46,423 --> 00:11:49,258
+Kromě Skywalkera a Sola.
+
+91
+00:11:49,384 --> 00:11:53,464
+R2 nezachytil žádné signály,
+
+92
+00:11:53,597 --> 00:11:56,966
+ale má velmi malý dosah.
+
+93
+00:11:57,100 --> 00:11:59,223
+Výsosti, nemůžeme nic dělat.
+
+94
+00:11:59,353 --> 00:12:01,678
+Musíme zavřít obrněné dveře.
+
+95
+00:12:03,023 --> 00:12:05,431
+– Zavřete dveře.
+– Rozkaz.
+
+96
+00:12:06,944 --> 00:12:11,689
+R2 říká, že šance
+na přežití je 725 ku 1.
+
+97
+00:12:23,293 --> 00:12:26,994
+Ale R2 se někdy mýlí.
+
+98
+00:12:29,716 --> 00:12:31,709
+Občas.
+
+99
+00:12:31,843 --> 00:12:33,670
+Bože můj...
+
+100
+00:12:36,640 --> 00:12:39,261
+Neboj se o pana Luka.
+Bude v pořádku.
+
+101
+00:12:39,393 --> 00:12:42,180
+Je docela chytrý.
+Na člověka.
+
+102
+00:12:58,328 --> 00:12:59,988
+<i>Luku.</i>
+
+103
+00:13:01,832 --> 00:13:03,160
+<i>Luku.</i>
+
+104
+00:13:10,674 --> 00:13:12,216
+Bene.
+
+105
+00:13:12,342 --> 00:13:14,964
+<i>Odletíš do soustavy Dagobah.</i>
+
+106
+00:13:15,095 --> 00:13:16,838
+Dagobah...
+
+107
+00:13:16,972 --> 00:13:20,423
+<i>Budeš se tam učit od mistra Yody...</i>
+
+108
+00:13:20,559 --> 00:13:24,307
+<i>...který učil i mne.</i>
+
+109
+00:13:25,355 --> 00:13:26,269
+Bene.
+
+110
+00:13:32,487 --> 00:13:33,269
+Luku!
+
+111
+00:13:42,789 --> 00:13:46,158
+Vydrž, Luku.
+No tak, prober se.
+
+112
+00:14:09,900 --> 00:14:12,189
+– Nemáme moc času.
+– Bene.
+
+113
+00:14:18,825 --> 00:14:19,821
+Vydrž, chlapče.
+
+114
+00:14:21,995 --> 00:14:24,202
+Soustava Dagobah—
+
+115
+00:14:24,331 --> 00:14:25,991
+Bude to páchnout...
+
+116
+00:14:27,376 --> 00:14:29,285
+Yoda.
+
+117
+00:14:29,419 --> 00:14:33,880
+...ale budeš v teple,
+než postavím stan.
+
+118
+00:14:34,007 --> 00:14:36,047
+Ben. Dagobah.
+
+119
+00:14:39,972 --> 00:14:41,964
+A to se mi nelíbilo...
+
+120
+00:14:42,099 --> 00:14:43,926
+...jak páchnou zvenku.
+
+121
+00:15:27,269 --> 00:15:29,676
+Základno, zachytil jsem slabý signál.
+
+122
+00:15:29,813 --> 00:15:31,722
+Možná něco živého.
+
+123
+00:15:36,361 --> 00:15:38,603
+Komandére Skywalkere, slyšíte?
+
+124
+00:15:38,739 --> 00:15:40,612
+Tady Darebák 2.
+
+125
+00:15:40,741 --> 00:15:43,410
+Tady Darebák 2.
+
+126
+00:15:43,535 --> 00:15:46,370
+Kapitáne Solo, slyšíte mě?
+
+127
+00:15:52,085 --> 00:15:55,537
+Komandére Skywalkere, slyšíte?
+
+128
+00:15:55,672 --> 00:15:57,499
+Tady Darebák 2.
+
+129
+00:15:57,633 --> 00:16:00,717
+<i>Dobré ráno. Rád vás vidím.</i>
+
+130
+00:16:01,678 --> 00:16:04,715
+Základno, tady Darebák 2.
+
+131
+00:16:04,848 --> 00:16:07,422
+Našel jsem je.
+Opakuji, našel jsem je.
+
+132
+00:16:38,090 --> 00:16:39,174
+Pane Luku, jsem rád,
+že jste opět funkční.
+
+133
+00:16:39,174 --> 00:16:41,380
+Pane Luku, jsem rád,
+že jste opět funkční.
+
+134
+00:16:41,510 --> 00:16:44,215
+– Díky, 3PO.
+– R2 také.
+
+135
+00:16:44,346 --> 00:16:47,845
+Jak se cítíš? Vypadáš dobře.
+
+136
+00:16:47,975 --> 00:16:50,845
+Jsi jako znovuzrozený.
+
+137
+00:16:50,978 --> 00:16:54,762
+– Díky tobě.
+– Už to mám u tebe schované dvakrát.
+
+138
+00:16:54,898 --> 00:16:59,441
+Blahorodí, podařilo se
+vám zdržet mě tu.
+
+139
+00:16:59,569 --> 00:17:01,443
+Mně ne.
+
+140
+00:17:01,571 --> 00:17:06,233
+Nikdo nesmí opustit soustavu,
+dokud nefunguje štít.
+
+141
+00:17:06,368 --> 00:17:07,613
+Dobrá pohádka.
+
+142
+00:17:07,744 --> 00:17:11,659
+Ale spíš nechceš přijít o fešáka,
+jako jsem já.
+
+143
+00:17:11,790 --> 00:17:15,076
+Nevím, kam na to chodíš,
+hlavo laserová.
+
+144
+00:17:18,547 --> 00:17:20,753
+Jenom se směj, plyšáku.
+
+145
+00:17:20,882 --> 00:17:23,967
+Ale neviděl jsi nás o samotě.
+
+146
+00:17:24,094 --> 00:17:26,881
+Dala mi najevo své pravé city.
+
+147
+00:17:27,723 --> 00:17:31,139
+Ty arogantní, slabomyslný...
+
+148
+00:17:31,268 --> 00:17:33,307
+...nemytý úchyláku!
+
+149
+00:17:34,605 --> 00:17:36,478
+Já se myju!
+
+150
+00:17:39,860 --> 00:17:43,229
+Potrefená husa se ozve, že ano?
+
+151
+00:17:46,950 --> 00:17:49,821
+O ženách ještě nevíš všechno.
+
+152
+00:17:56,084 --> 00:17:58,754
+<i>Personál do řídícího střediska.</i>
+
+153
+00:18:01,715 --> 00:18:04,632
+<i>Personál do řídícího střediska.</i>
+
+154
+00:18:04,760 --> 00:18:06,717
+Odpočiň si.
+
+155
+00:18:06,845 --> 00:18:08,885
+Promiňte, prosím.
+
+156
+00:18:11,183 --> 00:18:13,222
+Princezno, máme návštěvu.
+
+157
+00:18:14,394 --> 00:18:17,265
+Něco se pohybuje v zóně 12.
+
+158
+00:18:17,397 --> 00:18:19,639
+– Je to kovové.
+– Takže to není zvíře.
+
+159
+00:18:19,775 --> 00:18:23,559
+– Naše vznášedlo?
+– Ne. Počkat.
+
+160
+00:18:23,695 --> 00:18:26,317
+Něco jsem zachytil.
+
+161
+00:18:29,660 --> 00:18:32,696
+Pane, znám 6 miliónů
+forem komunikace.
+
+162
+00:18:32,829 --> 00:18:35,949
+To je kód Impéria.
+
+163
+00:18:41,964 --> 00:18:44,003
+Rozhodně to nejsou naši. Pojď.
+
+164
+00:18:44,132 --> 00:18:47,133
+Darebák 10 a 11 ke stanici 38.
+
+165
+00:19:23,338 --> 00:19:25,378
+– <i>Moc z něj nezbylo.</i>
+– Co to bylo?
+
+166
+00:19:25,507 --> 00:19:29,042
+<i>Nějaký droid. Sám se zničil.</i>
+
+167
+00:19:29,177 --> 00:19:34,136
+– Sonda Impéria.
+– <i>Asi už vědí, že jsme tu.</i>
+
+168
+00:19:34,266 --> 00:19:36,476
+Musíme zahájit evakuaci.
+
+169
+00:20:21,480 --> 00:20:23,971
+– Admirále.
+– Ano, kapitáne?
+
+170
+00:20:25,400 --> 00:20:28,271
+Myslím, že něco máme.
+
+171
+00:20:28,403 --> 00:20:31,274
+Útržek zprávy droida ze soustavy Hoth.
+
+172
+00:20:31,406 --> 00:20:34,491
+Vyslali jsme tisíce sond.
+
+173
+00:20:34,618 --> 00:20:37,572
+– Chci mít jistotu.
+– Jsou tam známky života.
+
+174
+00:20:37,704 --> 00:20:39,946
+To může být cokoliv.
+
+175
+00:20:40,082 --> 00:20:43,118
+Soustava Hoth není osídlena.
+
+176
+00:20:43,293 --> 00:20:45,618
+– Našli jste něco?
+– Ano, pane.
+
+177
+00:20:48,090 --> 00:20:50,378
+To je ono. Povstalci jsou tam.
+
+178
+00:20:51,385 --> 00:20:54,967
+Pane, je tolik nezmapovaných kolonií.
+
+179
+00:20:55,097 --> 00:20:57,848
+– Pašeráci—
+– Povstalci jsou tam.
+
+180
+00:20:57,975 --> 00:21:00,347
+A s nimi Skywalker.
+
+181
+00:21:00,477 --> 00:21:03,478
+Leťte do soustavy Hoth.
+
+182
+00:21:03,605 --> 00:21:06,013
+Generále Veersi, připravte vojáky.
+
+183
+00:21:06,149 --> 00:21:07,478
+Admirále.
+
+184
+00:21:14,241 --> 00:21:16,364
+Týmy 7 a 10 budou pilotovat vznášedla.
+
+185
+00:21:16,493 --> 00:21:20,491
+Transporty budou startovat po jednom.
+
+186
+00:21:20,622 --> 00:21:22,282
+Rozkaz, pane.
+
+187
+00:21:24,459 --> 00:21:26,499
+Hotovo.
+
+188
+00:21:26,628 --> 00:21:28,039
+Vyzkoušej to!
+
+189
+00:21:29,840 --> 00:21:32,545
+Vypni to!
+
+190
+00:21:34,970 --> 00:21:38,339
+Evakuace nebude jednoduchá.
+
+191
+00:21:38,473 --> 00:21:42,092
+Naložíme jen to nejnutnější.
+
+192
+00:21:42,227 --> 00:21:44,267
+– Dejte na sebe pozor, pane.
+– Díky.
+
+193
+00:21:47,691 --> 00:21:50,811
+Chewie, dej na sebe pozor.
+
+194
+00:21:54,573 --> 00:21:56,197
+No tak...
+
+195
+00:21:57,659 --> 00:21:59,118
+Ahoj, chlapče.
+
+196
+00:21:59,244 --> 00:22:02,329
+Nevím, co tomu je.
+Prohlédni druhý konec.
+
+197
+00:22:02,456 --> 00:22:03,866
+Počkej.
+
+198
+00:22:04,958 --> 00:22:07,366
+– Jsi v pořádku?
+– Jsem.
+
+199
+00:22:13,592 --> 00:22:15,750
+Buď opatrný.
+
+200
+00:22:15,886 --> 00:22:17,713
+Ty taky.
+
+201
+00:22:23,852 --> 00:22:28,099
+Generále, z hyperprostoru
+vystoupila flotila křižníků.
+
+202
+00:22:28,231 --> 00:22:31,185
+Všechnu energii do štítu.
+
+203
+00:22:31,318 --> 00:22:34,402
+Musíme je zdržet,
+dokud neskončí evakuace.
+
+204
+00:22:34,529 --> 00:22:36,569
+Připravte se na pozemní útok.
+
+205
+00:22:50,462 --> 00:22:53,796
+– Co se děje, generále?
+– Vystoupili jsme z hyperprostoru.
+
+206
+00:22:53,924 --> 00:22:58,716
+6. planetu soustavy
+chrání silové pole.
+
+207
+00:22:58,845 --> 00:23:01,301
+Nemůžeme ji bombardovat.
+
+208
+00:23:01,431 --> 00:23:03,887
+Povstalci o nás vědí.
+
+209
+00:23:04,017 --> 00:23:07,102
+Admirál Ozzel vystoupil
+z hyperprostoru příliš blízko.
+
+210
+00:23:07,229 --> 00:23:09,471
+Myslel, že překvapení—
+
+211
+00:23:09,606 --> 00:23:11,682
+Je neschopný a tupý.
+
+212
+00:23:11,817 --> 00:23:15,399
+Připravte se k pozemnímu útoku.
+
+213
+00:23:15,529 --> 00:23:17,153
+Ano, pane.
+
+214
+00:23:24,037 --> 00:23:27,738
+<i>Lorde Vadere, flotila vystoupila</i>
+<i>z hyperprostoru a—</i>
+
+215
+00:23:29,459 --> 00:23:33,587
+Zklamal jste mě naposled, admirále.
+
+216
+00:23:33,714 --> 00:23:36,086
+Kapitáne Piette?
+
+217
+00:23:36,216 --> 00:23:39,217
+Naši vojáci přistanou
+mimo dosah jejich pole.
+
+218
+00:23:39,344 --> 00:23:42,298
+Rozmístěte flotilu tak,
+aby nikdo neunikl.
+
+219
+00:23:42,431 --> 00:23:45,597
+Přebíráte velení, admirále.
+
+220
+00:23:45,726 --> 00:23:47,552
+<i>Děkuji, pane.</i>
+
+221
+00:23:49,146 --> 00:23:52,230
+Transportéry se shromáždí
+u severního vchodu.
+
+222
+00:23:52,357 --> 00:23:57,185
+Transporty budou odlétat postupně,
+každý se 2 stíhačkami.
+
+223
+00:23:57,321 --> 00:24:00,405
+Štít vypneme vždy jen na chvíli...
+
+224
+00:24:00,532 --> 00:24:03,023
+...takže se držte svých transportů.
+
+225
+00:24:03,160 --> 00:24:05,236
+Dvě stíhačky proti křižníku?
+
+226
+00:24:05,370 --> 00:24:10,661
+lontové dělo vám
+prostřílí cestu mezi křižníky.
+
+227
+00:24:10,792 --> 00:24:15,039
+Až se dostanete za štít,
+leťte k místu setkání.
+
+228
+00:24:15,172 --> 00:24:17,081
+Jasné?
+
+229
+00:24:17,215 --> 00:24:18,793
+Hodně štěstí.
+
+230
+00:24:18,926 --> 00:24:21,381
+Všichni na svá místa!
+
+231
+00:24:38,528 --> 00:24:41,613
+Nejprve se zaměří na generátory.
+
+232
+00:24:41,740 --> 00:24:43,567
+Připravte se na vypnutí štítu.
+
+233
+00:24:49,414 --> 00:24:51,573
+Pane, blíží se lodě povstalců.
+
+234
+00:24:51,708 --> 00:24:53,784
+Výborně. První dnešní úlovek.
+
+235
+00:24:55,837 --> 00:24:57,877
+Připravit dělo.
+
+236
+00:24:58,966 --> 00:24:59,961
+Pal!
+
+237
+00:25:15,232 --> 00:25:18,268
+<i>První transport proletěl.</i>
+
+238
+00:25:18,402 --> 00:25:21,153
+<i>První transport proletěl.</i>
+
+239
+00:25:27,661 --> 00:25:29,535
+Cítíte se dobře, pane?
+
+240
+00:25:29,663 --> 00:25:31,537
+Jako nový, Daku. Co ty?
+
+241
+00:25:31,665 --> 00:25:34,582
+Mám chuť zničit Impérium.
+
+242
+00:25:34,710 --> 00:25:36,749
+Ten pocit znám.
+
+243
+00:25:55,105 --> 00:25:58,391
+Stanice 3-T8.
+Vidíme kráčející tanky Impéria.
+
+244
+00:25:58,525 --> 00:26:00,981
+<i>Tanky u severního hřebenu.</i>
+
+245
+00:26:23,091 --> 00:26:25,380
+Stanice 57, jsme na cestě.
+
+246
+00:26:30,807 --> 00:26:32,800
+Držte se u sebe.
+
+247
+00:26:32,935 --> 00:26:35,057
+Ještě nemám útočný vektor.
+
+248
+00:26:35,187 --> 00:26:36,646
+Vydrž, Daku.
+
+249
+00:26:36,772 --> 00:26:38,599
+Útočný plán delta.
+
+250
+00:26:42,402 --> 00:26:44,027
+Blížím se.
+
+251
+00:26:48,575 --> 00:26:49,606
+Hobbie, jsi za mnou?
+
+252
+00:27:12,349 --> 00:27:14,472
+Blastery neprostřelí jejich pancíř!
+
+253
+00:27:16,937 --> 00:27:19,095
+Použijte harpuny a vlečná lana.
+
+254
+00:27:19,231 --> 00:27:21,389
+Miřte na nohy, to je naše šance.
+
+255
+00:27:23,777 --> 00:27:25,022
+Připrav se, Daku.
+
+256
+00:27:25,153 --> 00:27:27,941
+Máme poruchu zbraní.
+
+257
+00:27:28,073 --> 00:27:30,066
+Přepínám na záložní systém.
+
+258
+00:27:30,200 --> 00:27:32,074
+Vydrž.
+
+259
+00:27:32,202 --> 00:27:34,989
+Daku, připrav vlečný kabel.
+
+260
+00:27:40,419 --> 00:27:41,368
+Daku?
+
+261
+00:28:05,527 --> 00:28:08,445
+Jsme u generátoru.
+
+262
+00:28:08,572 --> 00:28:11,656
+Štít brzy zmizí.
+Můžete začít přistávat.
+
+263
+00:28:16,663 --> 00:28:17,826
+Trojko.
+
+264
+00:28:17,956 --> 00:28:19,367
+Slyším, veliteli.
+
+265
+00:28:19,499 --> 00:28:22,453
+<i>Wedgi, přišel jsem o střelce.</i>
+<i>Musíš střílet ty.</i>
+
+266
+00:28:22,586 --> 00:28:24,294
+<i>Budu tě krýt.</i>
+
+267
+00:28:24,421 --> 00:28:26,746
+Připrav harpunu a leť za mnou.
+
+268
+00:28:28,008 --> 00:28:29,917
+Hned jsem tam, veliteli.
+
+269
+00:28:32,804 --> 00:28:34,263
+Opatrně, dvojko.
+
+270
+00:28:35,265 --> 00:28:36,296
+Odpálit harpunu.
+
+271
+00:28:39,311 --> 00:28:40,805
+Dobrá muška, Jansone.
+
+272
+00:28:46,860 --> 00:28:49,149
+– Ještě jednou dokola.
+– Dělej!
+
+273
+00:28:54,743 --> 00:28:56,985
+Uvolněte kabel!
+
+274
+00:28:57,120 --> 00:28:58,318
+Uvolnit!
+
+275
+00:28:59,081 --> 00:29:00,195
+Hotovo.
+
+276
+00:29:08,090 --> 00:29:09,714
+Dělejte!
+
+277
+00:29:17,557 --> 00:29:20,131
+– A má to!
+– Vidím, Wedgi. Dobrá práce.
+
+278
+00:29:20,686 --> 00:29:22,725
+Neochráníme 2 lodě najednou.
+
+279
+00:29:22,854 --> 00:29:26,899
+Musíme riskovat.
+Nemáme čas.
+
+280
+00:29:27,859 --> 00:29:30,529
+– Ať odstartuje hlídka.
+– Evakuujte zbylý personál.
+
+281
+00:29:32,531 --> 00:29:33,527
+Ne!
+
+282
+00:29:35,409 --> 00:29:38,943
+Tenhle patří sem a tenhle sem.
+Jasné?
+
+283
+00:29:39,079 --> 00:29:42,530
+R2, dobře se starej
+o pana Luka, rozumíš?
+
+284
+00:29:44,376 --> 00:29:46,499
+A o sebe taky.
+
+285
+00:29:50,215 --> 00:29:51,709
+Bože můj.
+
+286
+00:30:15,532 --> 00:30:17,857
+Závěrečná fáze útoku.
+
+287
+00:30:17,993 --> 00:30:20,448
+Zaměřte hlavní generátor.
+
+288
+00:30:24,124 --> 00:30:25,998
+– Dvojko, jsi v pořádku?
+– <i>Jsem.</i>
+
+289
+00:30:26,126 --> 00:30:29,542
+– Jsem u tebe, veliteli.
+– Připrav si harpunu. Kryju tě.
+
+290
+00:30:31,131 --> 00:30:34,049
+– Blížím se.
+– Pozor na křížovou palbu.
+
+291
+00:30:35,510 --> 00:30:38,714
+– Nastavit na třetí stupeň.
+– Počkej.
+
+292
+00:30:38,847 --> 00:30:41,338
+Držte se při zemi. Teď!
+
+293
+00:30:47,230 --> 00:30:48,475
+Hobbie!
+
+294
+00:30:48,607 --> 00:30:50,066
+Zasáhli mě!
+
+295
+00:31:32,818 --> 00:31:35,487
+– Jsi v pořádku?
+– Co tu ještě děláš?
+
+296
+00:31:35,612 --> 00:31:38,613
+– Prý zasáhli řídící centrum.
+– Můžeš odletět.
+
+297
+00:31:38,740 --> 00:31:42,156
+Odletím, ale nejdřív tě dovedu k lodi.
+
+298
+00:31:42,286 --> 00:31:45,370
+Výsosti, odlétá poslední transport.
+
+299
+00:31:45,497 --> 00:31:48,581
+Pošlete vojáky do sektoru 12,
+ať chrání stíhačky.
+
+300
+00:31:50,252 --> 00:31:54,036
+<i>Vojáci Impéria vstoupili do základny.</i>
+
+301
+00:31:54,172 --> 00:31:56,046
+Slyšelas? Pojď.
+
+302
+00:31:56,174 --> 00:31:58,500
+Vydejte rozkaz k evakuaci.
+
+303
+00:32:00,429 --> 00:32:03,714
+– Jděte ke svým transportům.
+– Počkejte na mě!
+
+304
+00:32:03,849 --> 00:32:07,218
+Ustupujte!
+
+305
+00:33:05,994 --> 00:33:09,244
+– Vzdálenost ke generátorům?
+– 17,28.
+
+306
+00:33:18,382 --> 00:33:20,291
+Palte. Maximální výkon.
+
+307
+00:33:46,660 --> 00:33:48,699
+Tady Solo. Raději odstartujte.
+
+308
+00:33:48,829 --> 00:33:51,284
+Princezna poletí se mnou. Pojď.
+
+309
+00:33:53,917 --> 00:33:55,957
+Kam jdete? Vraťte se!
+
+310
+00:34:14,479 --> 00:34:17,848
+Počkejte na mě! Stůjte!
+
+311
+00:34:17,983 --> 00:34:19,810
+– Typické.
+– Pojď.
+
+312
+00:34:23,739 --> 00:34:26,656
+Dělej, divizno, nebo tady zůstaneš!
+
+313
+00:34:26,783 --> 00:34:28,527
+Počkejte!
+
+314
+00:34:46,470 --> 00:34:49,636
+– Co se děje?
+– Nemám vylézt a zatlačit?
+
+315
+00:34:49,765 --> 00:34:51,971
+– Kapitáne Solo.
+– Možná ano.
+
+316
+00:34:53,268 --> 00:34:55,938
+Mohu vám navrhnout—
+
+317
+00:34:56,063 --> 00:34:57,723
+To počká.
+
+318
+00:35:01,985 --> 00:35:04,476
+Nikdy nepronikneme blokádou.
+
+319
+00:35:04,613 --> 00:35:06,652
+Nepodceňuj tuhle loď, zlato.
+
+320
+00:35:15,832 --> 00:35:17,624
+Dělej!
+
+321
+00:35:17,751 --> 00:35:20,705
+Přepni to. Snad to neshoří.
+
+322
+00:35:22,798 --> 00:35:25,834
+– Vidíš?
+– Těším se, až jednou uděláš chybu.
+
+323
+00:35:28,720 --> 00:35:29,835
+Šlápni na to!
+
+324
+00:35:47,948 --> 00:35:48,944
+R2!
+
+325
+00:35:50,617 --> 00:35:52,657
+Připrav se ke startu.
+
+326
+00:35:54,955 --> 00:35:57,113
+Hodně štěstí! Brzy nashledanou!
+
+327
+00:36:00,586 --> 00:36:03,041
+Neboj se, R2. Startujeme.
+
+328
+00:36:15,183 --> 00:36:18,766
+Všechno je v pořádku,
+jenom měním kurs.
+
+329
+00:36:22,232 --> 00:36:26,396
+Neletíme za ostatními.
+Letíme do soustavy Dagobah.
+
+330
+00:36:28,780 --> 00:36:30,239
+Ano, R2.
+
+331
+00:36:33,160 --> 00:36:36,114
+To je v pořádku.
+Budu chvíli řídit sám.
+
+332
+00:36:52,846 --> 00:36:55,218
+– Vidím je!
+– Koho?
+
+333
+00:36:55,349 --> 00:36:57,507
+Ty křižníky před námi.
+
+334
+00:36:57,643 --> 00:37:00,430
+– Pane—
+– Ať je zticha!
+
+335
+00:37:02,230 --> 00:37:04,270
+Podívej se na štít.
+
+336
+00:37:06,318 --> 00:37:08,357
+Pořád ještě můžeme kličkovat.
+
+337
+00:37:12,699 --> 00:37:14,656
+Vyhněte se!
+
+338
+00:37:26,213 --> 00:37:29,000
+– Připrav se na rychlost světla.
+– Ale pane—
+
+339
+00:37:30,008 --> 00:37:31,716
+Blíží se.
+
+340
+00:37:31,843 --> 00:37:33,966
+Opravdu? Sleduj.
+
+341
+00:37:37,099 --> 00:37:38,723
+Co mám sledovat?
+
+342
+00:37:40,310 --> 00:37:43,596
+– Asi máme průšvih.
+– Již dříve jsem si všiml...
+
+343
+00:37:43,730 --> 00:37:47,230
+...že máme poškozený
+startér hypermotorů.
+
+344
+00:37:47,359 --> 00:37:48,770
+Máme průšvih.
+
+345
+00:37:52,864 --> 00:37:54,109
+Horizontální posilovače!
+
+346
+00:37:56,326 --> 00:37:58,319
+Energetické tlumiče!
+
+347
+00:38:01,164 --> 00:38:03,834
+V tom to není!
+Přines mi hydroklíč!
+
+348
+00:38:07,337 --> 00:38:10,007
+Jak tohle dopadne?
+
+349
+00:38:12,718 --> 00:38:13,916
+Chewie!
+
+350
+00:38:17,806 --> 00:38:19,633
+Něco do nás vrazilo.
+
+351
+00:38:19,766 --> 00:38:21,177
+Pojď sem, Hane.
+
+352
+00:38:22,936 --> 00:38:24,347
+Dělej, Chewie!
+
+353
+00:38:25,188 --> 00:38:26,184
+Asteroidy.
+
+354
+00:38:27,399 --> 00:38:28,810
+Vidím.
+
+355
+00:38:30,152 --> 00:38:32,725
+– Chewie, kurs 271 .
+– Co to děláš?
+
+356
+00:38:34,239 --> 00:38:38,319
+– Chceš letět mezi asteroidy?
+– Jen blázen tam poletí za námi.
+
+357
+00:38:41,538 --> 00:38:43,447
+Nemusíš se přede mnou vytahovat.
+
+358
+00:38:43,582 --> 00:38:46,120
+Pane, pravděpodobnost průletu...
+
+359
+00:38:46,251 --> 00:38:50,119
+– ...je přibližně 3720 ku 1 .
+– Pravděpodobností se neřídím.
+
+360
+00:39:18,116 --> 00:39:21,236
+Chtěla jsi vidět, jak udělám chybu.
+Teď máš šanci.
+
+361
+00:39:21,370 --> 00:39:22,994
+Beru to zpátky.
+
+362
+00:39:23,121 --> 00:39:26,206
+Když tu zůstaneme, budeme na prach.
+
+363
+00:39:26,333 --> 00:39:28,824
+– To souhlasí.
+– Na prach?
+
+364
+00:39:28,961 --> 00:39:32,045
+– Poletím blíž k tomu velkému.
+– Blíž?
+
+365
+00:39:59,157 --> 00:40:01,031
+To je sebevražda!
+Nemáme kam letět.
+
+366
+00:40:01,159 --> 00:40:03,117
+Tahle vypadá dobře.
+
+367
+00:40:03,245 --> 00:40:05,119
+Co?
+
+368
+00:40:05,247 --> 00:40:07,619
+To je přesně ono.
+
+369
+00:40:07,749 --> 00:40:10,584
+Promiňte, ale kam letíme?
+
+370
+00:40:20,554 --> 00:40:22,760
+Doufám, že víš, co děláš.
+
+371
+00:40:22,889 --> 00:40:24,300
+Já taky.
+
+372
+00:40:33,108 --> 00:40:35,350
+Ano, jsme tu. Dagobah.
+
+373
+00:40:37,821 --> 00:40:40,027
+Ne, nerozmyslím si to.
+
+374
+00:40:40,991 --> 00:40:43,446
+Nevidím žádná města ani stroje.
+
+375
+00:40:43,577 --> 00:40:45,819
+Ale spoustu známek života.
+
+376
+00:40:46,705 --> 00:40:48,745
+Je tam něco živého.
+
+377
+00:40:50,417 --> 00:40:53,288
+Ano, pro droidy je to určitě bezpečné.
+
+378
+00:41:01,011 --> 00:41:02,719
+Já vím!
+
+379
+00:41:02,846 --> 00:41:05,717
+Přestaly mi fungovat přístroje.
+Nic nevidím.
+
+380
+00:41:05,849 --> 00:41:08,684
+Vydrž. Pokusím se přistát.
+
+381
+00:42:02,823 --> 00:42:05,444
+Zůstaň tady. Rozhlédnu se kolem.
+
+382
+00:42:09,955 --> 00:42:11,153
+R2?
+
+383
+00:42:15,127 --> 00:42:16,241
+Kde jsi?
+
+384
+00:42:19,923 --> 00:42:21,204
+R2!
+
+385
+00:42:28,098 --> 00:42:29,640
+Buď opatrnější.
+
+386
+00:42:32,686 --> 00:42:35,473
+R2. Tudy.
+
+387
+00:43:03,550 --> 00:43:04,879
+R2!
+
+388
+00:43:32,537 --> 00:43:34,032
+Ale ne.
+
+389
+00:43:35,290 --> 00:43:37,330
+Jsi v pořádku? Pojď.
+
+390
+00:43:40,963 --> 00:43:42,920
+Máš štěstí, že jsi mu nechutnal.
+
+391
+00:43:44,174 --> 00:43:45,965
+Něco zlomeného?
+
+392
+00:43:48,720 --> 00:43:51,805
+Pokud si myslíš,
+že jsme sem neměli letět...
+
+393
+00:43:51,932 --> 00:43:54,090
+...začínám souhlasit.
+
+394
+00:43:54,226 --> 00:43:56,895
+R2, co tu děláme?
+
+395
+00:43:57,020 --> 00:43:58,645
+Je to tu jako...
+
+396
+00:43:59,523 --> 00:44:01,562
+...něco ze snu.
+
+397
+00:44:02,526 --> 00:44:04,565
+Nevím.
+
+398
+00:44:04,695 --> 00:44:06,734
+Asi to nemám v hlavě v pořádku.
+
+399
+00:44:39,104 --> 00:44:40,479
+Ano, admirále?
+
+400
+00:44:40,606 --> 00:44:45,896
+Zahlédli jsme Millennium Falcon,
+ale pak vletěl mezi asteroidy—
+
+401
+00:44:46,028 --> 00:44:48,815
+Asteroidy mě nezajímají, admirále.
+
+402
+00:44:48,947 --> 00:44:52,482
+– Chci tu loď a žádné výmluvy.
+– Ano, pane.
+
+403
+00:44:58,624 --> 00:45:01,708
+Vypnu všechno
+kromě nouzového systému.
+
+404
+00:45:01,835 --> 00:45:05,785
+Promiňte, pane, ale mě také?
+
+405
+00:45:05,923 --> 00:45:10,335
+Ne, ty si promluvíš s Falconem
+a zjistíš, co je s hypermotory.
+
+406
+00:45:18,185 --> 00:45:21,684
+Pane, tento asteroid
+možná není zcela stabilní.
+
+407
+00:45:21,813 --> 00:45:23,687
+Ne zcela stabilní?
+
+408
+00:45:23,815 --> 00:45:25,855
+Ještě že tě máme.
+
+409
+00:45:25,984 --> 00:45:29,567
+Chewie, jdi ho připojit.
+
+410
+00:45:29,696 --> 00:45:32,187
+Občas lidské chování nechápu.
+
+411
+00:45:32,324 --> 00:45:34,649
+Dělám přece jen svou práci.
+
+412
+00:45:39,748 --> 00:45:41,159
+Pusť mě.
+
+413
+00:45:43,001 --> 00:45:45,290
+– Pusť mě, prosím tě.
+– Nevzrušuj se.
+
+414
+00:45:45,420 --> 00:45:49,121
+Kapitáne, vaše objetí
+mě rozhodně nevzruší.
+
+415
+00:45:49,258 --> 00:45:51,084
+Promiň, zlato.
+
+416
+00:45:51,218 --> 00:45:53,887
+Na nic jiného nemám čas.
+
+417
+00:46:28,338 --> 00:46:31,754
+Dal by sis energii? Dobře.
+
+418
+00:46:35,762 --> 00:46:37,173
+Počkat.
+
+419
+00:46:37,306 --> 00:46:39,594
+Strčíme to tam. Tak.
+
+420
+00:46:42,728 --> 00:46:45,479
+Teď už jen najít toho Yodu...
+
+421
+00:46:45,606 --> 00:46:47,894
+...pokud vůbec existuje.
+
+422
+00:46:53,405 --> 00:46:56,322
+Jak tady může žít učitel Jediů?
+
+423
+00:46:57,784 --> 00:46:59,611
+Naskakuje mi tu husí kůže.
+
+424
+00:47:03,540 --> 00:47:04,951
+Ale...
+
+425
+00:47:06,251 --> 00:47:08,244
+...něco je mi tu povědomé.
+
+426
+00:47:10,505 --> 00:47:12,297
+Nevím.
+
+427
+00:47:12,424 --> 00:47:14,464
+– Mám pocit—
+– Jaký?
+
+428
+00:47:15,552 --> 00:47:17,177
+Že nás někdo sleduje.
+
+429
+00:47:17,304 --> 00:47:20,305
+Zbraň svou odlož! Já neublížím ti.
+
+430
+00:47:21,558 --> 00:47:24,227
+Vědět chci, co pohledáváš tu.
+
+431
+00:47:25,938 --> 00:47:28,938
+– Někoho hledám.
+– Hledáš?
+
+432
+00:47:29,066 --> 00:47:31,687
+Našel jsi, řekl bych.
+
+433
+00:47:32,903 --> 00:47:34,445
+Našel.
+
+434
+00:47:35,405 --> 00:47:37,777
+Pomoci ti mohu. Ano.
+
+435
+00:47:38,659 --> 00:47:39,857
+To těžko.
+
+436
+00:47:41,495 --> 00:47:44,200
+Hledám velkého válečníka.
+
+437
+00:47:44,331 --> 00:47:45,955
+Velkého válečníka.
+
+438
+00:47:49,044 --> 00:47:51,286
+Z válek nikdo nevyroste.
+
+439
+00:47:59,680 --> 00:48:01,388
+Polož to.
+
+440
+00:48:01,515 --> 00:48:03,424
+To je moje večeře.
+
+441
+00:48:06,770 --> 00:48:09,475
+Jak můžeš růst, když tohle jíš?
+
+442
+00:48:09,606 --> 00:48:14,352
+Naše loď zapadla do bažiny
+a dokud ji nedostaneme ven—
+
+443
+00:48:14,486 --> 00:48:16,692
+Nemůžeš dostat ven.
+
+444
+00:48:16,822 --> 00:48:18,482
+Nech toho.
+
+445
+00:48:21,743 --> 00:48:24,032
+Mohl jsi to rozbít.
+
+446
+00:48:25,664 --> 00:48:27,703
+Nech toho.
+
+447
+00:48:36,800 --> 00:48:38,840
+Děláš nepořádek.
+
+448
+00:48:40,345 --> 00:48:42,385
+Vrať mi to.
+
+449
+00:48:42,514 --> 00:48:45,052
+Moje, nebo nepomohu ti.
+
+450
+00:48:45,183 --> 00:48:50,059
+Nepomáhej a vrať mi lucernu,
+ať můžu pryč z téhle slizké díry.
+
+451
+00:48:50,188 --> 00:48:52,311
+Z díry? Slizké?
+Můj domov toto!
+
+452
+00:48:56,194 --> 00:48:57,605
+R2, nech mu to.
+
+453
+00:49:00,324 --> 00:49:03,028
+– Moje!
+– R2!
+
+454
+00:49:06,955 --> 00:49:10,324
+A teď zmiz, máme hodně práce.
+
+455
+00:49:10,459 --> 00:49:14,622
+Ne! Já pomohu. Najít přítele.
+
+456
+00:49:15,505 --> 00:49:18,376
+Nehledám přítele, ale učitele Jediů.
+
+457
+00:49:20,510 --> 00:49:22,883
+Učitele Jediů. Yoda.
+
+458
+00:49:23,013 --> 00:49:25,586
+– Hledáš Yodu.
+– Ty ho znáš?
+
+459
+00:49:27,392 --> 00:49:29,432
+Já zavedu tě k němu.
+
+460
+00:49:30,687 --> 00:49:33,807
+Ano. Ale nejdřív jídlo.
+
+461
+00:49:33,941 --> 00:49:36,610
+Pojď. Dobré jídlo.
+
+462
+00:49:46,411 --> 00:49:48,036
+Pojď!
+
+463
+00:49:50,249 --> 00:49:51,328
+R2?
+
+464
+00:49:52,209 --> 00:49:54,451
+Zůstaň tu a dávej pozor na tábor.
+
+465
+00:50:08,016 --> 00:50:10,056
+Teď by se mi hodil R2.
+
+466
+00:50:10,185 --> 00:50:14,894
+Pane, vaše loď mluví velmi bizarně.
+
+467
+00:50:15,023 --> 00:50:18,523
+Tvrdí, že byl polarizován
+proudový vodič negativní osy.
+
+468
+00:50:18,652 --> 00:50:21,107
+Budete ho muset vyměnit.
+
+469
+00:50:22,197 --> 00:50:24,439
+Samozřejmě že ho vyměním.
+
+470
+00:50:25,701 --> 00:50:27,907
+Tady, Chewie.
+
+471
+00:50:29,580 --> 00:50:32,249
+Asi bychom měli
+vyměnit negativní vodič.
+
+472
+00:50:54,646 --> 00:50:57,316
+No tak, blahorodí,
+snažím se pomoct.
+
+473
+00:50:57,441 --> 00:50:59,896
+Neříkej mi tak.
+
+474
+00:51:00,027 --> 00:51:01,984
+Jistě, Leio.
+
+475
+00:51:02,112 --> 00:51:05,528
+– Občas se chováš hrozně.
+– Samozřejmě.
+
+476
+00:51:06,617 --> 00:51:08,858
+Ale mohla bys být příjemnější.
+
+477
+00:51:08,994 --> 00:51:11,663
+Občas si myslíš, že jsem fajn.
+
+478
+00:51:14,041 --> 00:51:16,282
+Občas. Možná.
+
+479
+00:51:16,418 --> 00:51:18,874
+Když se nechováš jako pacholek.
+
+480
+00:51:19,004 --> 00:51:20,415
+Pacholek?
+
+481
+00:51:24,384 --> 00:51:26,092
+To slovo se mi líbí.
+
+482
+00:51:27,179 --> 00:51:29,966
+– Nech toho.
+– Čeho?
+
+483
+00:51:30,098 --> 00:51:32,257
+Nech toho. Mám špinavé ruce.
+
+484
+00:51:32,392 --> 00:51:34,551
+Já taky. Čeho se bojíš?
+
+485
+00:51:34,686 --> 00:51:36,809
+– Bojím?
+– Třeseš se.
+
+486
+00:51:37,773 --> 00:51:39,849
+Netřesu.
+
+487
+00:51:41,318 --> 00:51:43,773
+Máš mě ráda, protože jsem pacholek.
+
+488
+00:51:43,904 --> 00:51:46,193
+Takových znáš málo.
+
+489
+00:51:46,448 --> 00:51:48,488
+Mám ráda hodné muže.
+
+490
+00:51:48,617 --> 00:51:51,286
+– Já jsem hodný.
+– Nejsi.
+
+491
+00:51:54,206 --> 00:51:55,202
+Pane!
+
+492
+00:51:55,332 --> 00:51:58,203
+Izoloval jsem zpětné vedení.
+
+493
+00:52:00,462 --> 00:52:01,660
+Děkuju ti.
+
+494
+00:52:01,797 --> 00:52:04,751
+– Děkuju ti mockrát.
+– Nemáte zač, pane.
+
+495
+00:52:10,847 --> 00:52:13,967
+<i>A od té doby jsme je nespatřili.</i>
+
+496
+00:52:14,101 --> 00:52:17,018
+<i>Museli být zničeni.</i>
+
+497
+00:52:17,145 --> 00:52:20,431
+Ne, kapitáne. Jsou naživu.
+
+498
+00:52:20,565 --> 00:52:24,895
+Všechny lodě budou
+dál prohledávat pole asteroidů.
+
+499
+00:52:29,449 --> 00:52:32,735
+– Lorde Vadere.
+– Ano, admirále?
+
+500
+00:52:32,869 --> 00:52:35,111
+Chce s vámi mluvit císař.
+
+501
+00:52:35,247 --> 00:52:39,790
+Vzdalte se od asteroidů,
+ať máme jasný signál.
+
+502
+00:52:39,918 --> 00:52:41,543
+Rozkaz.
+
+503
+00:52:58,145 --> 00:53:00,683
+Čeho si žádáš, můj pane?
+
+504
+00:53:01,982 --> 00:53:05,027
+<i>Ucítil jsem velké narušení Síly.</i>
+
+505
+00:53:05,300 --> 00:53:07,164
+Já také.
+
+506
+00:53:07,164 --> 00:53:09,434
+<i>Máme nového nepřítele—</i>
+
+507
+00:53:09,434 --> 00:53:12,063
+<i>Luka Skywalkera.</i>
+
+508
+00:53:12,063 --> 00:53:13,838
+Ano, můj pane.
+
+509
+00:53:13,838 --> 00:53:16,294
+<i>Mohl by nás zničit.</i>
+
+510
+00:53:16,424 --> 00:53:18,500
+Je to pouze chlapec.
+
+511
+00:53:18,635 --> 00:53:21,090
+Obi-Wan už mu nepomůže.
+
+512
+00:53:21,220 --> 00:53:24,684
+<i>Je s ním velká Síla.</i>
+
+513
+00:53:24,684 --> 00:53:29,595
+<i>Skywalkerův syn se nesmí stát Jedim.</i>
+
+514
+00:53:29,730 --> 00:53:34,855
+Kdyby přešel na naši stranu,
+měli bychom silného spojence.
+
+515
+00:53:34,903 --> 00:53:37,489
+<i>Ano.</i>
+
+516
+00:53:37,489 --> 00:53:41,736
+<i>Hodil by se nám.</i>
+
+517
+00:53:41,869 --> 00:53:43,046
+<i>Je možné to provést?</i>
+
+518
+00:53:43,046 --> 00:53:47,196
+Přidá se k nám, nebo zemře, pane.
+
+519
+00:54:04,000 --> 00:54:07,914
+Určitě je to dobrota,
+ale proč nejdeme za Yodou?
+
+520
+00:54:08,046 --> 00:54:11,830
+Trpělivost! I Jedi jíst musí.
+
+521
+00:54:15,261 --> 00:54:17,218
+Jez!
+
+522
+00:54:18,097 --> 00:54:19,426
+Horké.
+
+523
+00:54:27,190 --> 00:54:29,147
+Dobré jídlo?
+
+524
+00:54:29,275 --> 00:54:32,193
+Jak daleko je Yoda?
+
+525
+00:54:32,320 --> 00:54:34,562
+Ne daleko.
+
+526
+00:54:34,697 --> 00:54:37,449
+Trpělivost. Brzy budeš u něj.
+
+527
+00:54:39,869 --> 00:54:42,538
+Kořínek. Já vařím.
+
+528
+00:54:44,374 --> 00:54:46,829
+Proč Jedi chceš být?
+
+529
+00:54:47,919 --> 00:54:50,588
+Hlavně kvůli otci.
+
+530
+00:54:50,713 --> 00:54:53,798
+Otec? Mocný Jedi on byl.
+
+531
+00:54:55,301 --> 00:54:57,045
+Mocný Jedi.
+
+532
+00:54:57,178 --> 00:55:00,677
+Jak bys ho mohl znát?
+
+533
+00:55:00,807 --> 00:55:04,306
+Co tu vlastně dělám? Škoda času.
+
+534
+00:55:05,728 --> 00:55:08,017
+Nemohu ho učit.
+
+535
+00:55:08,147 --> 00:55:10,187
+Ten hoch nemá trpělivost.
+
+536
+00:55:10,316 --> 00:55:12,558
+<i>Naučí se ji mít.</i>
+
+537
+00:55:17,407 --> 00:55:19,779
+Mnoho hněvu je v něm.
+
+538
+00:55:19,909 --> 00:55:21,736
+Jako v jeho otci.
+
+539
+00:55:21,869 --> 00:55:25,570
+<i>Já byl stejný, když jsi mě učil.</i>
+
+540
+00:55:28,876 --> 00:55:32,080
+– Není připravený.
+– Yoda.
+
+541
+00:55:35,216 --> 00:55:37,043
+Jsem připravený!
+
+542
+00:55:37,176 --> 00:55:40,094
+Bene! Dokážu být Jedim.
+Bene, řekni mu—
+
+543
+00:55:40,221 --> 00:55:44,053
+Připravený? Co víš ty?
+
+544
+00:55:44,183 --> 00:55:48,133
+800 let já byl učitel Jediů.
+
+545
+00:55:48,271 --> 00:55:52,019
+Já sám vím, kdo žákem může být.
+
+546
+00:55:53,985 --> 00:55:57,769
+Jedi musí mít nejhlubší odhodlání.
+
+547
+00:55:57,905 --> 00:55:59,732
+Nejčistší mysl.
+
+548
+00:56:01,743 --> 00:56:04,827
+Já dlouho jsem jej sledoval.
+
+549
+00:56:05,913 --> 00:56:08,665
+Celý život hleděl jinam.
+
+550
+00:56:08,791 --> 00:56:11,828
+Do budoucnosti, k obzoru.
+
+551
+00:56:11,961 --> 00:56:15,496
+Nikdy nepomyslel na to, kde je.
+
+552
+00:56:16,841 --> 00:56:18,881
+Co dělá.
+
+553
+00:56:20,595 --> 00:56:21,591
+Dobrodružství.
+
+554
+00:56:22,972 --> 00:56:24,597
+Vzrušení.
+
+555
+00:56:24,724 --> 00:56:26,966
+Na tom Jedimu nezáleží.
+
+556
+00:56:27,936 --> 00:56:29,727
+Zbrklý jsi.
+
+557
+00:56:29,854 --> 00:56:32,808
+<i>Já byl také. Vzpomeň si.</i>
+
+558
+00:56:32,941 --> 00:56:34,980
+Je příliš starý.
+
+559
+00:56:36,986 --> 00:56:39,145
+Ano. Už ho nemůžu učit.
+
+560
+00:56:39,280 --> 00:56:41,189
+Tolik jsem se už naučil.
+
+561
+00:56:49,040 --> 00:56:52,290
+– Dokončí to, co načne?
+– Nezklamu tě.
+
+562
+00:56:53,836 --> 00:56:55,496
+Nebojím se.
+
+563
+00:57:00,009 --> 00:57:02,049
+Budeš se bát.
+
+564
+00:57:03,221 --> 00:57:05,260
+Budeš.
+
+565
+00:57:47,522 --> 00:57:51,022
+– Chtěl bych říct—
+– Nemám zájem.
+
+566
+00:57:51,151 --> 00:57:53,144
+Něco tam je.
+
+567
+00:57:53,278 --> 00:57:55,235
+– Kde?
+– Venku v jeskyni.
+
+568
+00:57:56,948 --> 00:57:58,443
+Poslouchejte.
+
+569
+00:57:58,575 --> 00:58:00,449
+– Jdu tam.
+– Blázníš?
+
+570
+00:58:00,577 --> 00:58:03,115
+Nikdo mi nebude ničit loď.
+
+571
+00:58:03,246 --> 00:58:05,369
+Jdu s tebou.
+
+572
+00:58:06,625 --> 00:58:09,709
+Raději tu zůstanu a budu hlídat loď.
+
+573
+00:58:25,936 --> 00:58:27,975
+Zvláštní povrch.
+
+574
+00:58:29,606 --> 00:58:31,646
+To nevypadá na kámen.
+
+575
+00:58:36,154 --> 00:58:38,728
+Je tu velká vlhkost.
+
+576
+00:58:38,865 --> 00:58:42,566
+Nevím. Tohle se mi nelíbí.
+
+577
+00:58:45,998 --> 00:58:46,911
+Pozor!
+
+578
+00:58:48,041 --> 00:58:50,497
+Všechno v pořádku!
+
+579
+00:58:50,627 --> 00:58:53,083
+Myslel jsem si to. Mynock.
+
+580
+00:58:53,213 --> 00:58:58,338
+Chewie, podívej se,
+jestli nám nehryzají kabely.
+
+581
+00:58:58,468 --> 00:59:00,046
+Mynockové?
+
+582
+00:59:00,178 --> 00:59:02,385
+Jdi dovnitř. Zbavíme se jich.
+
+583
+00:59:11,565 --> 00:59:14,020
+Pomozte mi, prosím!
+
+584
+00:59:21,325 --> 00:59:23,151
+Počkat.
+
+585
+00:59:44,890 --> 00:59:48,306
+– Musíme odsud pryč.
+– Venku jsou lodě Impéria.
+
+586
+00:59:48,435 --> 00:59:50,475
+Ticho, rozumbrado.
+
+587
+00:59:51,355 --> 00:59:53,394
+Nejsem rozumbrada!
+
+588
+00:59:58,862 --> 01:00:01,697
+Odsud nemůžeš do hyperprostoru.
+
+589
+01:00:01,823 --> 01:00:04,279
+Sedni si, zlato, startujeme.
+
+590
+01:00:09,081 --> 01:00:10,409
+– Podívejte!
+– Vidím to.
+
+591
+01:00:10,540 --> 01:00:12,913
+– Je po nás.
+– Jeskyně se hroutí.
+
+592
+01:00:13,043 --> 01:00:14,917
+– Tohle není jeskyně.
+– Cože?
+
+593
+01:00:47,411 --> 01:00:48,786
+Ano, utíkej!
+
+594
+01:00:48,912 --> 01:00:50,454
+Ano.
+
+595
+01:00:50,580 --> 01:00:55,456
+Jedi se nechává vést Silou.
+Ale pozor na temnou stranu Síly.
+
+596
+01:00:55,585 --> 01:00:59,749
+Hněv, strach, agresivita,
+temná strana Síly jsou.
+
+597
+01:00:59,881 --> 01:01:03,464
+Snadno jim podlehneš.
+
+598
+01:01:03,593 --> 01:01:08,220
+Jakmile se vydáš temnou cestou,
+navždy ovládne tvůj osud.
+
+599
+01:01:08,348 --> 01:01:12,298
+Pohltí tě jako Obi-Wanova žáka.
+
+600
+01:01:12,436 --> 01:01:14,262
+Vadera.
+
+601
+01:01:14,396 --> 01:01:17,480
+– Je temná Síla mocnější?
+– Ne...
+
+602
+01:01:19,234 --> 01:01:21,191
+Snadnější, svůdnější.
+
+603
+01:01:22,070 --> 01:01:24,146
+Jak rozeznám dobré od zlého?
+
+604
+01:01:24,281 --> 01:01:26,772
+Rozeznáš.
+
+605
+01:01:26,908 --> 01:01:31,405
+Když budeš klidný, uvolněný, pasivní.
+
+606
+01:01:32,497 --> 01:01:36,661
+Jedi používá Sílu k vědění a obraně.
+
+607
+01:01:36,793 --> 01:01:38,620
+Nikdy k útoku.
+
+608
+01:01:38,754 --> 01:01:42,372
+– Ale proč—
+– Žádné proč.
+
+609
+01:01:42,507 --> 01:01:45,259
+Dnes víc neřeknu.
+
+610
+01:01:45,385 --> 01:01:47,342
+Vyžeň otázky z hlavy.
+
+611
+01:02:10,452 --> 01:02:12,409
+Něco není v pořádku.
+
+612
+01:02:16,291 --> 01:02:19,458
+Cítím chlad. Smrt.
+
+613
+01:02:19,586 --> 01:02:24,746
+Tam skrývá se temná strana Síly.
+
+614
+01:02:24,883 --> 01:02:26,792
+Tam sídlí zlo.
+
+615
+01:02:28,261 --> 01:02:30,171
+Tam musíš jít.
+
+616
+01:02:31,390 --> 01:02:32,588
+Co tam je?
+
+617
+01:02:35,352 --> 01:02:37,641
+Jen to, co vezmeš s sebou.
+
+618
+01:02:41,441 --> 01:02:44,976
+Své zbraně nebudeš potřebovat.
+
+619
+01:05:25,230 --> 01:05:27,686
+Námezdní lovci.
+Nesnáším tu pakáž.
+
+620
+01:05:27,816 --> 01:05:30,568
+– Ano, pane.
+– Povstalci neutečou.
+
+621
+01:05:36,283 --> 01:05:39,568
+Pane, důležitá zpráva
+z křižníku Mstitel.
+
+622
+01:05:41,371 --> 01:05:47,160
+Na toho, kdo najde loď Millenium
+Falcon, čeká velká odměna.
+
+623
+01:05:47,294 --> 01:05:50,330
+Použijte jakékoliv metody...
+
+624
+01:05:50,464 --> 01:05:52,587
+...ale chci je živé.
+
+625
+01:05:52,716 --> 01:05:55,124
+Mrtvoly nepotřebuji.
+
+626
+01:05:55,260 --> 01:05:57,087
+– Jak si přejete.
+– Pane!
+
+627
+01:05:59,389 --> 01:06:01,298
+Pane, máme je.
+
+628
+01:06:05,771 --> 01:06:08,855
+Díky bohu,
+že už nejsme mezi asteroidy.
+
+629
+01:06:14,112 --> 01:06:16,686
+Skočíme do hyperprostoru.
+
+630
+01:06:16,823 --> 01:06:19,030
+Raz... dva...
+
+631
+01:06:19,159 --> 01:06:20,274
+...tři!
+
+632
+01:06:26,917 --> 01:06:29,159
+To není fér.
+
+633
+01:06:30,754 --> 01:06:33,541
+Nefungují přenosové obvody.
+Nemůžu za to.
+
+634
+01:06:33,674 --> 01:06:36,591
+– Hyperprostor nebude?
+– Nemůžu za to.
+
+635
+01:06:41,390 --> 01:06:43,382
+Právě jsme přišli o zadní štít.
+
+636
+01:06:43,517 --> 01:06:45,759
+Ještě jeden zásah a je po nás.
+
+637
+01:06:45,894 --> 01:06:47,602
+Otoč to!
+
+638
+01:06:47,729 --> 01:06:51,312
+– Čelní štít naplno!
+– Chceš zaútočit?
+
+639
+01:06:51,441 --> 01:06:54,526
+Pravděpodobnost přežití
+útoku na křižník Impéria...
+
+640
+01:06:54,653 --> 01:06:56,562
+Zmlkni!
+
+641
+01:07:03,078 --> 01:07:05,035
+Pokoušejí se o útok.
+
+642
+01:07:07,249 --> 01:07:08,328
+Zapněte štíty.
+
+643
+01:07:14,923 --> 01:07:17,497
+Sledujte je. Zřejmě se vrátí.
+
+644
+01:07:17,634 --> 01:07:20,006
+Kapitáne, loď zmizela z radaru.
+
+645
+01:07:20,137 --> 01:07:23,755
+Nemohou přece
+mít maskovací systém.
+
+646
+01:07:23,890 --> 01:07:25,717
+Není po nich ani stopa.
+
+647
+01:07:25,851 --> 01:07:28,768
+Lord Vader chce vědět,
+jak pokračuje pronásledování.
+
+648
+01:07:30,731 --> 01:07:32,770
+Připravte mou loď.
+
+649
+01:07:32,899 --> 01:07:36,814
+Vezmu na sebe zodpovědnost
+a omluvím se.
+
+650
+01:07:36,945 --> 01:07:40,029
+– Hledejte dál.
+– Rozkaz.
+
+651
+01:07:44,745 --> 01:07:46,986
+Použij Sílu.
+
+652
+01:07:47,122 --> 01:07:48,118
+Ano.
+
+653
+01:07:53,754 --> 01:07:55,497
+Teď kámen.
+
+654
+01:07:59,676 --> 01:08:01,301
+Musíš to cítit.
+
+655
+01:08:13,023 --> 01:08:14,814
+Soustřeď se.
+
+656
+01:08:29,498 --> 01:08:32,534
+Teď už ji ven nedostaneme.
+
+657
+01:08:32,668 --> 01:08:34,375
+Jsi si tolik jistý.
+
+658
+01:08:38,465 --> 01:08:41,668
+Pro tebe vše je nemožné.
+
+659
+01:08:42,928 --> 01:08:44,885
+Což neposloucháš mě?
+
+660
+01:08:45,013 --> 01:08:49,058
+Tohle je něco úplně jiného,
+než zvedat kameny.
+
+661
+01:08:49,184 --> 01:08:51,426
+Nic jiného.
+
+662
+01:08:51,561 --> 01:08:53,637
+Jen v tvé hlavě.
+
+663
+01:08:53,772 --> 01:08:56,975
+Odnauč se, co naučil ses.
+
+664
+01:08:58,360 --> 01:09:01,444
+– Dobře, zkusím to.
+– Ne zkusit.
+
+665
+01:09:02,322 --> 01:09:03,733
+Udělat.
+
+666
+01:09:03,865 --> 01:09:07,234
+Nebo neudělat. Není zkusit.
+
+667
+01:09:55,876 --> 01:09:58,793
+Nemůžu. Je moc velká.
+
+668
+01:09:58,920 --> 01:10:00,960
+Na velikosti nezáleží.
+
+669
+01:10:01,089 --> 01:10:04,090
+Na mne pohlédni.
+Jak velký jsem já?
+
+670
+01:10:06,845 --> 01:10:09,716
+Nesejde na tom.
+
+671
+01:10:09,848 --> 01:10:12,469
+Protože Síla mým spojencem je.
+
+672
+01:10:12,601 --> 01:10:14,973
+Silným spojencem.
+
+673
+01:10:16,063 --> 01:10:18,435
+Život ji vytváří.
+
+674
+01:10:18,565 --> 01:10:20,605
+Pomáhá jí růst.
+
+675
+01:10:21,485 --> 01:10:24,272
+Její energie je kolem nás.
+
+676
+01:10:25,322 --> 01:10:27,113
+I v nás.
+
+677
+01:10:27,240 --> 01:10:30,444
+Jsme stvořeni ze světla.
+Ne ze surové hmoty.
+
+678
+01:10:31,536 --> 01:10:34,787
+Musíš cítit Sílu kolem sebe.
+
+679
+01:10:35,666 --> 01:10:38,239
+Tady. Mezi tebou, mnou...
+
+680
+01:10:39,127 --> 01:10:41,369
+...stromem, kamenem.
+
+681
+01:10:41,505 --> 01:10:43,581
+Všude.
+
+682
+01:10:43,715 --> 01:10:45,126
+Ano.
+
+683
+01:10:45,258 --> 01:10:49,042
+I mezi zemí a lodí.
+
+684
+01:10:53,976 --> 01:10:56,217
+Chceš po mně nemožné.
+
+685
+01:12:43,752 --> 01:12:45,791
+Nevěřím tomu.
+
+686
+01:12:47,798 --> 01:12:50,467
+Proto to nedokážeš.
+
+687
+01:13:09,736 --> 01:13:12,986
+Přijímám vaši omluvu, kapitáne Needo.
+
+688
+01:13:21,498 --> 01:13:24,534
+Lorde Vadere, nic jsme nenašli.
+
+689
+01:13:24,668 --> 01:13:28,666
+Možná skočili do hyperprostoru.
+
+690
+01:13:28,797 --> 01:13:30,624
+Vyhlaste poplach.
+
+691
+01:13:30,757 --> 01:13:35,004
+Vypočtěte všechny možné
+cíle jejich cesty.
+
+692
+01:13:35,137 --> 01:13:36,417
+Ano, pane. Najdeme je.
+
+693
+01:13:36,555 --> 01:13:40,766
+Už mě nesmíte zklamat, admirále.
+
+694
+01:13:43,645 --> 01:13:46,931
+Vyhlaste poplach.
+Dejte rozkaz flotile.
+
+695
+01:14:01,955 --> 01:14:05,122
+Kapitáne, tentokrát jste to přehnal.
+
+696
+01:14:05,250 --> 01:14:08,334
+Ne, nezmlknu. Poslouchejte mě.
+
+697
+01:14:08,462 --> 01:14:10,501
+Flotila se rozděluje.
+
+698
+01:14:10,630 --> 01:14:13,501
+Připrav se k ručnímu odpojení.
+
+699
+01:14:15,844 --> 01:14:18,382
+K čemu nám to bude?
+
+700
+01:14:18,513 --> 01:14:23,638
+Doporučuji, abychom se vzdali a pak—
+
+701
+01:14:23,769 --> 01:14:26,176
+– Děkuju.
+– Co dál?
+
+702
+01:14:26,313 --> 01:14:30,607
+Před skokem do hyperprostoru
+odhazují smetí.
+
+703
+01:14:30,734 --> 01:14:33,735
+– Poletíme s ním.
+– Jako smetí.
+
+704
+01:14:33,862 --> 01:14:35,273
+Co potom?
+
+705
+01:14:35,405 --> 01:14:38,655
+Najdeme nějaký přístav poblíž.
+
+706
+01:14:38,784 --> 01:14:40,159
+Napadá tě něco?
+
+707
+01:14:40,285 --> 01:14:42,657
+– Kde jsme?
+– V soustavě Anoat.
+
+708
+01:14:42,788 --> 01:14:45,361
+Ta je skoro pustá.
+
+709
+01:14:45,499 --> 01:14:48,334
+Počkat. Mám to.
+
+710
+01:14:48,460 --> 01:14:51,331
+– Lando.
+– Soustava Lando?
+
+711
+01:14:51,463 --> 01:14:55,046
+Žádná soustava. Lando Calrissian.
+
+712
+01:14:55,175 --> 01:14:57,417
+Hazardní hráč, pacholek.
+
+713
+01:14:57,552 --> 01:15:00,126
+– Líbil by se ti.
+– Bezva.
+
+714
+01:15:00,263 --> 01:15:02,933
+Na Bespinu. Tam doletíme.
+
+715
+01:15:04,434 --> 01:15:07,471
+– Těžební kolonie?
+– Těží plyn.
+
+716
+01:15:08,355 --> 01:15:10,478
+Lando ji někomu vyfoukl.
+
+717
+01:15:10,607 --> 01:15:13,312
+Známe se s Landem velice dlouho.
+
+718
+01:15:14,736 --> 01:15:17,406
+– Můžeš mu věřit?
+– Ne.
+
+719
+01:15:17,531 --> 01:15:20,401
+Ale vím, že nemiluje Impérium.
+
+720
+01:15:21,493 --> 01:15:24,114
+Připrav se, Chewie. Uvolnit.
+
+721
+01:15:31,336 --> 01:15:33,625
+Občas jsi bezva.
+
+722
+01:15:33,755 --> 01:15:36,590
+Málokdy, ale občas ano.
+
+723
+01:16:05,076 --> 01:16:06,985
+Soustřeď se.
+
+724
+01:16:07,120 --> 01:16:10,323
+Musíš cítit tok Síly.
+
+725
+01:16:10,457 --> 01:16:12,081
+Ano.
+
+726
+01:16:19,758 --> 01:16:21,418
+Dobře.
+
+727
+01:16:21,551 --> 01:16:22,926
+Klid.
+
+728
+01:16:23,053 --> 01:16:24,381
+Ano.
+
+729
+01:16:25,347 --> 01:16:29,178
+Síla pomůže ti spatřit jiná místa...
+
+730
+01:16:29,309 --> 01:16:31,467
+...budoucnost, minulost...
+
+731
+01:16:31,603 --> 01:16:34,010
+...staré přátele...
+
+732
+01:16:36,608 --> 01:16:38,933
+Hane! Leio!
+
+733
+01:16:44,532 --> 01:16:45,991
+Ovládej se.
+
+734
+01:16:46,117 --> 01:16:48,324
+Musíš ovládat se.
+
+735
+01:16:51,373 --> 01:16:54,290
+Viděl jsem město v oblacích.
+
+736
+01:16:56,378 --> 01:16:58,536
+Tam tví přátelé.
+
+737
+01:16:59,631 --> 01:17:03,249
+– Cítili bolest.
+– Budoucnost viděl jsi.
+
+738
+01:17:04,469 --> 01:17:05,465
+Budoucnost?
+
+739
+01:17:14,479 --> 01:17:15,890
+Zemřou?
+
+740
+01:17:19,150 --> 01:17:21,226
+Je těžké vědět.
+
+741
+01:17:21,361 --> 01:17:23,816
+Stále v pohybu je budoucnost.
+
+742
+01:17:26,324 --> 01:17:27,735
+Musím za nimi.
+
+743
+01:17:29,744 --> 01:17:32,781
+Musíš rozhodnout se,
+jak pomůžeš jim.
+
+744
+01:17:32,914 --> 01:17:35,785
+Můžeš nyní je zachránit.
+
+745
+01:17:36,876 --> 01:17:40,411
+Ale zničíš vše,
+za co bojovali a trpěli.
+
+746
+01:17:53,977 --> 01:17:56,764
+Ne, nemám povolení k přistání.
+
+747
+01:17:56,897 --> 01:18:00,515
+Sháním Landa Calrissiana.
+
+748
+01:18:00,651 --> 01:18:02,774
+Vysvětlím vám to!
+
+749
+01:18:02,903 --> 01:18:04,860
+<i>Pokračujte určeným směrem.</i>
+
+750
+01:18:04,988 --> 01:18:07,693
+– Jsou nervózní.
+– Myslela jsem, že ho znáš.
+
+751
+01:18:10,619 --> 01:18:13,406
+Už je to dlouho.
+Musel na mě zapomenout.
+
+752
+01:18:22,005 --> 01:18:25,624
+<i>Přistaňte na ploše 327.</i>
+
+753
+01:18:25,759 --> 01:18:27,134
+Děkuju.
+
+754
+01:18:28,053 --> 01:18:30,924
+Neboj se, známe se už dlouho.
+
+755
+01:18:31,056 --> 01:18:32,716
+Kdo se bojí?
+
+756
+01:19:07,765 --> 01:19:09,176
+Nikdo nás nevítá.
+
+757
+01:19:10,601 --> 01:19:12,926
+To se mi nelíbí.
+
+758
+01:19:13,062 --> 01:19:15,897
+– Co by se ti líbilo?
+– Nechali nás přistát.
+
+759
+01:19:16,023 --> 01:19:18,728
+Neboj se, všechno bude v pořádku.
+
+760
+01:19:18,859 --> 01:19:20,484
+Věř mi.
+
+761
+01:19:25,241 --> 01:19:27,280
+Vidíš? Můj přítel.
+
+762
+01:19:31,706 --> 01:19:33,745
+Měj oči otevřené.
+
+763
+01:19:38,212 --> 01:19:42,292
+Ty slizký, zrádný,
+zákeřný podvodníku.
+
+764
+01:19:42,425 --> 01:19:46,636
+Odvažuješ se přiletět sem
+po tom, co jsi udělal?
+
+765
+01:19:57,148 --> 01:20:00,599
+Jak se vede, piráte?
+Rád tě vidím!
+
+766
+01:20:00,735 --> 01:20:03,771
+– Kde jsi byl?
+– Chová se velice přátelsky.
+
+767
+01:20:03,904 --> 01:20:05,399
+Ano.
+
+768
+01:20:05,531 --> 01:20:06,990
+Velice.
+
+769
+01:20:07,116 --> 01:20:08,740
+Co tu chceš?
+
+770
+01:20:08,868 --> 01:20:10,860
+Opravit loď.
+Můžeš mi pomoct?
+
+771
+01:20:10,995 --> 01:20:13,616
+– Co jsi udělal s mou lodí?
+– S tvou?
+
+772
+01:20:13,748 --> 01:20:17,282
+Poctivě jsem ji vyhrál.
+
+773
+01:20:18,169 --> 01:20:19,544
+A jak se máš ty?
+
+774
+01:20:20,504 --> 01:20:23,174
+Pořád se taháš s tím ubožákem?
+
+775
+01:20:25,176 --> 01:20:27,501
+A koho to máme tady?
+
+776
+01:20:29,013 --> 01:20:32,548
+Jsem Lando Calrissian,
+zdejší správce.
+
+777
+01:20:32,683 --> 01:20:35,601
+– A vy?
+– Leia.
+
+778
+01:20:35,728 --> 01:20:37,352
+Vítejte, Leio.
+
+779
+01:20:40,191 --> 01:20:43,026
+To by stačilo, ty donchuáne.
+
+780
+01:20:43,152 --> 01:20:46,770
+Dobrý den, já jsem C-3PO,
+expert na vztahy s lidmi.
+
+781
+01:20:46,906 --> 01:20:49,693
+Jsem vám plně—
+
+782
+01:20:49,825 --> 01:20:52,197
+– Co je s Falconem?
+– Hypermotory.
+
+783
+01:20:52,328 --> 01:20:54,367
+Mí lidé se na to podívají.
+
+784
+01:20:54,497 --> 01:20:56,536
+Ta loď mi několikrát zachránila život.
+
+785
+01:20:56,665 --> 01:20:59,203
+Nejrychlejší hromada šrotu v galaxii.
+
+786
+01:21:00,544 --> 01:21:03,000
+Co těžba? Vyplácí se?
+
+787
+01:21:03,130 --> 01:21:06,962
+Moc ne. Nejsme soběstační.
+
+788
+01:21:07,093 --> 01:21:12,467
+Mám problémy se zásobami,
+s dělníky...
+
+789
+01:21:12,598 --> 01:21:15,848
+– Čemu se směješ?
+– Tobě.
+
+790
+01:21:15,976 --> 01:21:18,764
+Mluvíš jako zodpovědný obchodník.
+
+791
+01:21:18,896 --> 01:21:20,770
+Kdo by to byl řekl?
+
+792
+01:21:20,898 --> 01:21:23,816
+Když tě vidím, musím vzpomínat.
+
+793
+01:21:25,277 --> 01:21:27,400
+Musím být zodpovědný.
+
+794
+01:21:28,280 --> 01:21:30,950
+Jinak bych nebyl úspěšný.
+
+795
+01:21:34,203 --> 01:21:36,243
+Rád vidím známou tvář.
+
+796
+01:21:36,372 --> 01:21:37,996
+Že se nestydíš!
+
+797
+01:21:39,583 --> 01:21:41,541
+To zní jako typ R2.
+
+798
+01:21:41,669 --> 01:21:43,329
+Jestlipak... Haló?
+
+799
+01:21:45,589 --> 01:21:47,132
+Zajímavé.
+
+800
+01:21:47,258 --> 01:21:49,297
+– Co jsi zač?
+– Já?
+
+801
+01:21:49,427 --> 01:21:52,511
+Nechtěl jsem rušit.
+Zůstaňte prosím sedět—
+
+802
+01:22:10,990 --> 01:22:13,563
+Luku, výcvik dokončit musíš.
+
+803
+01:22:14,660 --> 01:22:17,447
+Pořád je mám před očima.
+Musím jim pomoct.
+
+804
+01:22:17,580 --> 01:22:19,703
+Nesmíš odletět.
+
+805
+01:22:19,832 --> 01:22:22,916
+– Jinak Han a Leia zemřou!
+– <i>To nevíš.</i>
+
+806
+01:22:25,921 --> 01:22:28,591
+<i>Jejich osud nezná ani Yoda.</i>
+
+807
+01:22:28,716 --> 01:22:31,468
+Můžu je zachránit. Cítím Sílu.
+
+808
+01:22:31,594 --> 01:22:33,752
+<i>Ale nedokážeš ji ovládat.</i>
+
+809
+01:22:33,971 --> 01:22:36,296
+<i>Prožíváš nebezpečné období.</i>
+
+810
+01:22:36,432 --> 01:22:39,433
+<i>Bude tě pokoušet temná strana Síly.</i>
+
+811
+01:22:39,560 --> 01:22:42,763
+Ano. Obi-Wana poslouchej.
+
+812
+01:22:43,647 --> 01:22:47,147
+Vzpomeň na svůj neúspěch v jeskyni.
+
+813
+01:22:47,276 --> 01:22:49,316
+Od té doby jsem se tolik naučil.
+
+814
+01:22:49,445 --> 01:22:52,114
+Vrátím se a dokončím výcvik.
+
+815
+01:22:52,239 --> 01:22:54,197
+Slibuju.
+
+816
+01:22:54,325 --> 01:22:57,112
+<i>Císař chce tebe.</i>
+
+817
+01:22:57,244 --> 01:22:59,949
+<i>Proto budou tví přátelé trpět.</i>
+
+818
+01:23:01,415 --> 01:23:04,085
+Proto musím odletět.
+
+819
+01:23:04,210 --> 01:23:08,539
+<i>Nechci tě ztratit jako Vadera.</i>
+
+820
+01:23:08,672 --> 01:23:10,167
+To se nestane.
+
+821
+01:23:11,133 --> 01:23:14,633
+Musíme zastavit je.
+Na tom vše závisí.
+
+822
+01:23:15,513 --> 01:23:18,964
+Jen dokonale vycvičený rytíř Jedi
+jemuž je Síla spojencem...
+
+823
+01:23:19,100 --> 01:23:21,673
+...porazí Vadera a jeho císaře.
+
+824
+01:23:21,811 --> 01:23:23,887
+Pokud teď odletíš...
+
+825
+01:23:24,021 --> 01:23:28,315
+...pokud zvolíš snadnou
+cestu jako Vader...
+
+826
+01:23:28,442 --> 01:23:31,064
+...staneš se vyslancem zla.
+
+827
+01:23:31,195 --> 01:23:32,144
+<i>Trpělivost.</i>
+
+828
+01:23:33,114 --> 01:23:38,618
+– Mám obětovat Hana a Leiu?
+– Pokud chceš totéž co oni, pak ano.
+
+829
+01:23:38,744 --> 01:23:41,829
+<i>Pokud se utkáš s Vaderem,
+budeš sám.</i>
+
+830
+01:23:41,956 --> 01:23:43,948
+<i>Nemohu ti pomoct.</i>
+
+831
+01:23:46,043 --> 01:23:47,241
+Rozumím.
+
+832
+01:23:52,758 --> 01:23:55,545
+R2, zapni konvertory.
+
+833
+01:24:00,933 --> 01:24:02,890
+<i>Nesmíš podlehnout nenávisti.</i>
+
+834
+01:24:03,018 --> 01:24:05,770
+<i>Ta vede k temné straně Síly.</i>
+
+835
+01:24:05,896 --> 01:24:07,604
+Silný je Vader.
+
+836
+01:24:07,732 --> 01:24:10,223
+Pamatuj, co naučil ses.
+V tom tvá záchrana.
+
+837
+01:24:11,193 --> 01:24:12,688
+Udělám to.
+
+838
+01:24:12,820 --> 01:24:15,276
+A vrátím se. Slibuju.
+
+839
+01:24:22,371 --> 01:24:25,408
+Já říkal ti. Je zbrklý.
+
+840
+01:24:25,541 --> 01:24:28,992
+Teď vše je těžší.
+
+841
+01:24:29,128 --> 01:24:31,167
+<i>On je naše poslední naděje.</i>
+
+842
+01:24:31,297 --> 01:24:34,214
+Ne. Zbývá ještě jedna.
+
+843
+01:24:58,074 --> 01:25:01,359
+Loď je skoro opravená.
+
+844
+01:25:01,494 --> 01:25:03,533
+Čím dřív tím líp.
+Něco se děje.
+
+845
+01:25:03,662 --> 01:25:08,040
+Nikdo neví, kde je 3PO.
+
+846
+01:25:08,167 --> 01:25:09,875
+Klid.
+
+847
+01:25:10,002 --> 01:25:12,873
+Zeptám se Landa.
+
+848
+01:25:13,005 --> 01:25:15,461
+Nevěřím Landovi.
+
+849
+01:25:15,591 --> 01:25:18,925
+Já taky ne. Ale je to přítel.
+
+850
+01:25:19,053 --> 01:25:21,722
+Stejně odsud brzy odletíme.
+
+851
+01:25:23,182 --> 01:25:25,221
+A pak ty odletíš ode mě.
+
+852
+01:26:00,261 --> 01:26:01,755
+Co se stalo?
+
+853
+01:26:02,847 --> 01:26:03,511
+Kde?
+
+854
+01:26:05,683 --> 01:26:07,675
+Mezi šrotem?
+
+855
+01:26:07,810 --> 01:26:10,348
+Myslíš, že ho opravíš?
+
+856
+01:26:12,523 --> 01:26:16,022
+– Landovi lidé ho opraví.
+– Děkuju nechci.
+
+857
+01:26:17,611 --> 01:26:19,438
+Neruším?
+
+858
+01:26:20,406 --> 01:26:21,520
+Ani ne.
+
+859
+01:26:25,077 --> 01:26:27,070
+Vypadáte překrásně.
+
+860
+01:26:27,204 --> 01:26:30,490
+Patříte sem k nám, mezi oblaka.
+
+861
+01:26:30,624 --> 01:26:32,083
+Děkuju.
+
+862
+01:26:32,209 --> 01:26:35,127
+Malé občerstvení?
+
+863
+01:26:35,254 --> 01:26:38,041
+Samozřejmě zvu všechny.
+
+864
+01:26:38,174 --> 01:26:40,250
+Máte problémy s droidem?
+
+865
+01:26:40,384 --> 01:26:43,006
+Nemáme. Proč?
+
+866
+01:26:51,854 --> 01:26:54,345
+Jsme malý podnik...
+
+867
+01:26:54,482 --> 01:26:57,732
+...takže nám nevládne Impérium.
+
+868
+01:26:57,860 --> 01:27:00,398
+– Jste v důlním cechu?
+– Ne.
+
+869
+01:27:00,529 --> 01:27:02,688
+Jsme malí, nikdo si nás nevšímá.
+
+870
+01:27:02,823 --> 01:27:04,863
+A to je dobré pro všechny...
+
+871
+01:27:04,992 --> 01:27:09,405
+...protože naši zákazníci
+o pozornost nestojí.
+
+872
+01:27:09,538 --> 01:27:13,750
+Nebojíš se, že vás Impérium
+objeví a zavře to tu?
+
+873
+01:27:13,876 --> 01:27:16,663
+To nám hrozilo odjakživa.
+
+874
+01:27:16,796 --> 01:27:18,835
+Ale vyřešil jsem to.
+
+875
+01:27:18,964 --> 01:27:22,879
+Právě jsem uzavřel dohodu,
+která nám zaručí nerušený provoz.
+
+876
+01:27:32,812 --> 01:27:35,599
+Bude nám ctí,
+když se k nám připojíte.
+
+877
+01:27:42,488 --> 01:27:45,691
+Nemohl jsem nic dělat.
+Dorazili chvíli před vámi.
+
+878
+01:27:45,825 --> 01:27:47,485
+Je mi líto.
+
+879
+01:27:50,996 --> 01:27:52,325
+Mně je to taky líto.
+
+880
+01:28:07,179 --> 01:28:08,555
+Ne, 3PO je s nimi.
+
+881
+01:28:09,974 --> 01:28:12,050
+Vydrž, už tam budeme.
+
+882
+01:29:11,619 --> 01:29:16,162
+Nechtěl jsem rušit.
+Zůstaňte prosím sedět.
+
+883
+01:29:22,004 --> 01:29:25,373
+Vojáci Impéria? Tady?
+Nebezpečí!
+
+884
+01:29:25,508 --> 01:29:28,081
+Musím to říct ostatním.
+Ne! Zasáhli mě!
+
+885
+01:29:55,913 --> 01:29:57,538
+Lorde Vadere—
+
+886
+01:29:57,665 --> 01:30:01,994
+Až budu mít Skywalkera,
+můžete Sola odvézt Jabba Huttovi.
+
+887
+01:30:02,128 --> 01:30:04,167
+Mrtvý mi k ničemu není.
+
+888
+01:30:04,296 --> 01:30:07,582
+Nebude trvale poškozen.
+
+889
+01:30:10,010 --> 01:30:12,548
+Lorde Vadere, co Leia a wookie?
+
+890
+01:30:12,680 --> 01:30:15,385
+Nikdy nesmějí opustit město.
+
+891
+01:30:15,516 --> 01:30:18,719
+To jsme si nedohodli! Ani to,
+že Hana dostane námezdní lovec!
+
+892
+01:30:18,853 --> 01:30:22,767
+Připadá vám, že nedržím slovo?
+
+893
+01:30:25,526 --> 01:30:26,522
+Ne.
+
+894
+01:30:26,652 --> 01:30:30,187
+Dobře. Nerad bych tu nechával vojáky.
+
+895
+01:30:32,616 --> 01:30:34,989
+Ta dohoda se mi přestává líbit.
+
+896
+01:30:36,203 --> 01:30:38,575
+Výborně, to se mi líbí.
+
+897
+01:30:40,207 --> 01:30:42,745
+Něco není v pořádku. Nevidím.
+
+898
+01:30:45,296 --> 01:30:47,502
+Ano. To je lepší.
+
+899
+01:30:47,631 --> 01:30:49,256
+Počkat!
+
+900
+01:30:49,383 --> 01:30:53,084
+Cos to udělal? Jsem obráceně!
+
+901
+01:30:53,220 --> 01:30:55,094
+Ty hlupáku!
+
+902
+01:30:55,222 --> 01:30:57,892
+Jenom takový chlupatec jako ty—
+
+903
+01:31:12,490 --> 01:31:14,447
+Cítím se hrozně.
+
+904
+01:31:29,715 --> 01:31:31,755
+Proč to dělají?
+
+905
+01:31:34,261 --> 01:31:36,931
+Ani se mě na nic neptali.
+
+906
+01:31:41,811 --> 01:31:42,925
+Lando.
+
+907
+01:31:46,273 --> 01:31:48,432
+– Vypadni, Lando.
+– Mlč a poslouchej.
+
+908
+01:31:48,567 --> 01:31:51,652
+Vader nechá Leiu a Chewieho tady.
+
+909
+01:31:51,779 --> 01:31:53,653
+Budou tu v bezpečí.
+
+910
+01:31:53,781 --> 01:31:55,904
+– Co Han?
+– Dá ho námezdnímu lovci.
+
+911
+01:31:56,033 --> 01:31:58,441
+– Vader nás všechny zabije.
+– Nezáleží mu na vás.
+
+912
+01:31:58,577 --> 01:32:01,946
+Chce nějakého Skywalkera!
+
+913
+01:32:02,081 --> 01:32:04,619
+– Připravil na něj past.
+– My jsme návnada.
+
+914
+01:32:04,750 --> 01:32:07,420
+– Letí sem.
+– Výborně.
+
+915
+01:32:07,545 --> 01:32:11,044
+To jsi zařídil opravdu dobře,
+kamaráde.
+
+916
+01:32:14,051 --> 01:32:15,249
+Dost!
+
+917
+01:32:16,554 --> 01:32:18,712
+Dělám, co můžu.
+
+918
+01:32:18,848 --> 01:32:21,255
+Promiň, ale mám dost
+vlastních problémů.
+
+919
+01:32:21,392 --> 01:32:24,642
+Jsi opravdový hrdina.
+
+920
+01:32:35,448 --> 01:32:37,903
+Ty to s lidmi opravdu umíš.
+
+921
+01:32:52,298 --> 01:32:57,339
+V tomto zařízení bude
+Skywalker zmražen...
+
+922
+01:32:57,470 --> 01:32:59,711
+...pro převoz k císaři.
+
+923
+01:32:59,847 --> 01:33:02,848
+Blíží se stíhačka typu X.
+
+924
+01:33:02,975 --> 01:33:06,344
+Nechte Skywalkera přistát.
+
+925
+01:33:07,897 --> 01:33:12,606
+V tom zařízení zmrazujeme
+do karbonitu. Člověka to může zabít.
+
+926
+01:33:12,735 --> 01:33:15,605
+Nechci ho poškodit.
+
+927
+01:33:15,738 --> 01:33:18,822
+Vyzkoušíme to na kapitánu Solovi.
+
+928
+01:33:42,598 --> 01:33:46,810
+Kdybys mi přimontoval nohy,
+nebyl bych na tom takhle.
+
+929
+01:33:46,936 --> 01:33:51,432
+Pamatuj, jsi za mě zodpovědný.
+Žádné hlouposti.
+
+930
+01:34:05,538 --> 01:34:07,577
+Co se děje, kámoši?
+
+931
+01:34:08,541 --> 01:34:10,617
+Zmrazí tě do karbonitu.
+
+932
+01:34:10,751 --> 01:34:14,251
+Co když nepřežije?
+Má pro mě velkou cenu.
+
+933
+01:34:14,380 --> 01:34:17,749
+Impérium vám nahradí škodu.
+Strčte ho dovnitř.
+
+934
+01:34:23,013 --> 01:34:25,006
+Chewie, nech toho!
+
+935
+01:34:25,141 --> 01:34:28,141
+Prosím vás, já nechci zemřít!
+
+936
+01:34:28,269 --> 01:34:30,226
+Poslouchej, Chewie!
+
+937
+01:34:30,354 --> 01:34:32,845
+Tohle je k ničemu!
+
+938
+01:34:32,982 --> 01:34:35,555
+Šetři síly. Budeš je potřebovat.
+
+939
+01:34:37,445 --> 01:34:40,944
+Princezna. Musíš se o ni postarat.
+
+940
+01:34:43,200 --> 01:34:45,193
+Slyšíš?
+
+941
+01:34:59,091 --> 01:35:02,045
+– Miluji tě.
+– Já vím.
+
+942
+01:35:31,248 --> 01:35:34,831
+Co se děje? Otoč se.
+Nic nevidím.
+
+943
+01:36:33,727 --> 01:36:35,767
+Zalili ho do karbonitu.
+
+944
+01:36:35,896 --> 01:36:39,811
+Pokud to přežije,
+bude dobře konzervován.
+
+945
+01:36:39,942 --> 01:36:42,433
+Přežil, Calrissiane?
+
+946
+01:36:42,570 --> 01:36:46,947
+Ano, žije... Je v hibernaci.
+
+947
+01:36:47,908 --> 01:36:52,617
+Je tvůj, lovče.
+Připravte komoru pro Skywalkera.
+
+948
+01:36:55,040 --> 01:36:56,867
+Skywalker právě přistál, pane.
+
+949
+01:36:57,001 --> 01:37:00,868
+Zařiďte, ať najde cestu sem.
+
+950
+01:37:05,134 --> 01:37:09,547
+Calrissiane, odveďte princeznu
+a wookieho k mé lodi.
+
+951
+01:37:09,680 --> 01:37:11,803
+Říkal jste, že tu zůstanou.
+
+952
+01:37:11,932 --> 01:37:13,972
+Změnil jsem naši dohodu.
+
+953
+01:37:14,101 --> 01:37:16,806
+Modlete se,
+abych ji nezměnil ještě víc.
+
+954
+01:38:54,076 --> 01:38:56,614
+Luku! Ne! Je to past!
+
+955
+01:38:58,122 --> 01:38:59,201
+Je to past!
+
+956
+01:39:45,628 --> 01:39:48,000
+Provází tě Síla, mladý Skywalkere.
+
+957
+01:39:50,424 --> 01:39:52,464
+Ale ještě nejsi Jedi.
+
+958
+01:40:54,488 --> 01:40:56,113
+Výborně.
+
+959
+01:40:57,908 --> 01:41:00,826
+Zavřete je do bezpečnostní věže.
+Nikomu ani slovo.
+
+960
+01:41:00,953 --> 01:41:02,495
+Jděte.
+
+961
+01:41:06,959 --> 01:41:10,245
+– Co to děláte?
+– Zachraňuju vás.
+
+962
+01:41:10,379 --> 01:41:12,123
+Já to věděl.
+
+963
+01:41:12,256 --> 01:41:15,091
+Myslíte, že po tom, co jste—
+
+964
+01:41:16,093 --> 01:41:19,379
+– Nemohl jsem nic dělat.
+– Věř mu.
+
+965
+01:41:19,513 --> 01:41:22,514
+Nemohl nic dělat.
+
+966
+01:41:22,641 --> 01:41:24,184
+Chci vám pomoct.
+
+967
+01:41:24,310 --> 01:41:26,931
+Nepotřebujeme vaši pomoc.
+
+968
+01:41:32,068 --> 01:41:33,562
+Cože?
+
+969
+01:41:33,694 --> 01:41:38,273
+– Zní to jako „Han“.
+– Můžete zachránit Hana...
+
+970
+01:41:39,241 --> 01:41:42,491
+...na východní... ploše.
+
+971
+01:41:43,370 --> 01:41:44,569
+Chewie.
+
+972
+01:41:46,707 --> 01:41:50,705
+Je mi to velice líto.
+To víte, je to wookie.
+
+973
+01:41:51,670 --> 01:41:54,340
+Naložte kapitána Sola.
+
+974
+01:42:09,563 --> 01:42:11,805
+R2! Kde jsi byl?
+
+975
+01:42:11,941 --> 01:42:13,814
+Počkej! Otoč se!
+
+976
+01:42:15,027 --> 01:42:17,779
+Rychle! Zachraňujeme Hana!
+
+977
+01:42:20,533 --> 01:42:22,940
+Máš štěstí, že jsi v pořádku.
+
+978
+01:42:23,077 --> 01:42:25,402
+Podívej se na mě!
+
+979
+01:42:37,383 --> 01:42:39,956
+Chewie, jsou za tebou!
+
+980
+01:42:52,940 --> 01:42:55,265
+Mnohé ses naučil, mladíku.
+
+981
+01:42:55,401 --> 01:42:57,524
+To ještě nic není.
+
+982
+01:43:09,123 --> 01:43:12,207
+Je ti souzeno následovat mě,
+Skywalkere.
+
+983
+01:43:13,085 --> 01:43:15,541
+Obi-Wan to věděl.
+
+984
+01:43:15,671 --> 01:43:16,501
+Ne.
+
+985
+01:43:23,637 --> 01:43:24,966
+Až příliš snadné.
+
+986
+01:43:30,227 --> 01:43:32,683
+Možná nejsi tak silný,
+jak si císař myslel.
+
+987
+01:43:35,858 --> 01:43:37,482
+Působivé.
+
+988
+01:43:39,445 --> 01:43:40,856
+Velmi působivé.
+
+989
+01:43:48,746 --> 01:43:52,411
+Obi-Wan tě učil dobře.
+Ovládl jsi svůj strach.
+
+990
+01:43:55,211 --> 01:43:58,414
+Teď uvolni svůj hněv.
+
+991
+01:43:58,547 --> 01:44:01,121
+Jen tvá nenávist mě může zničit.
+
+992
+01:46:12,098 --> 01:46:14,007
+Změnili přístupový kód.
+
+993
+01:46:14,141 --> 01:46:17,427
+Spoj se s počítačem a otevři.
+
+994
+01:46:18,395 --> 01:46:20,103
+R2, dělej.
+
+995
+01:46:21,001 --> 01:46:23,289
+Pozor, tady Lando Calrissian.
+
+996
+01:46:23,420 --> 01:46:25,377
+Města se zmocnilo Impérium.
+
+997
+01:46:25,505 --> 01:46:28,340
+Všichni odleťte,
+než se objeví další vojáci.
+
+998
+01:46:33,048 --> 01:46:34,672
+Tudy.
+
+999
+01:46:34,799 --> 01:46:37,006
+Já jsem jen tlumočník.
+
+1000
+01:46:37,135 --> 01:46:40,006
+Nerozeznám terminál od zástrčky.
+
+1001
+01:47:01,618 --> 01:47:04,535
+Hypermotory Falcona nás nezajímají.
+Jsou opravené.
+
+1002
+01:47:09,543 --> 01:47:12,330
+Otevři dveře, nemotoro!
+
+1003
+01:47:20,929 --> 01:47:23,337
+Ani na okamžik jsem nepochyboval.
+Výborně!
+
+1004
+01:47:47,873 --> 01:47:50,577
+To bolí! Sehni se, hlupáku!
+
+1005
+01:47:56,214 --> 01:47:58,254
+Leio, utíkejte!
+
+1006
+01:48:05,515 --> 01:48:08,302
+Myslel jsem, že je to můj konec.
+
+1007
+01:48:08,435 --> 01:48:10,308
+Samozřejmě že nevypadám nejlíp.
+
+1008
+01:49:03,990 --> 01:49:07,655
+Jsi poražen. Nemá smysl vzdorovat.
+
+1009
+01:49:07,786 --> 01:49:11,285
+Nenech se zabít jako Obi-Wan.
+
+1010
+01:49:27,097 --> 01:49:28,721
+Nemůžeš uniknout.
+
+1011
+01:49:29,599 --> 01:49:31,722
+Nenuť mě, abych tě zničil.
+
+1012
+01:49:35,730 --> 01:49:38,482
+Ještě netušíš, jak jsi důležitý.
+
+1013
+01:49:38,608 --> 01:49:41,278
+Ještě neznáš své schopnosti.
+
+1014
+01:49:41,403 --> 01:49:45,732
+Přidej se ke mně
+a já dokončím tvůj výcvik.
+
+1015
+01:49:45,865 --> 01:49:51,287
+Společnými silami ukončíme boje...
+
+1016
+01:49:51,413 --> 01:49:53,701
+...a přineseme galaxii mír.
+
+1017
+01:49:53,832 --> 01:49:56,323
+Nikdy se k tobě nepřidám!
+
+1018
+01:49:56,459 --> 01:50:00,540
+Kdybys tak znal moc
+temné strany Síly.
+
+1019
+01:50:00,672 --> 01:50:04,883
+Obi-Wan ti nikdy neřekl,
+co se stalo s tvým otcem.
+
+1020
+01:50:05,010 --> 01:50:06,420
+Řekl mi toho dost.
+
+1021
+01:50:09,055 --> 01:50:10,882
+Řekl mi, že jsi ho zabil.
+
+1022
+01:50:11,016 --> 01:50:12,558
+Ne.
+
+1023
+01:50:12,684 --> 01:50:14,760
+Já jsem tvůj otec.
+
+1024
+01:50:19,441 --> 01:50:20,769
+Ne...
+
+1025
+01:50:23,320 --> 01:50:25,229
+To není pravda.
+
+1026
+01:50:26,114 --> 01:50:27,739
+To není možné!
+
+1027
+01:50:27,866 --> 01:50:31,116
+Nahlédni do svého nitra.
+Víš, že je to pravda.
+
+1028
+01:50:32,913 --> 01:50:34,573
+Ne!
+
+1029
+01:50:38,793 --> 01:50:42,127
+Luku, dokážeš císaře zničit.
+
+1030
+01:50:42,255 --> 01:50:44,082
+Předpověděl to.
+
+1031
+01:50:44,216 --> 01:50:47,086
+Je to tvůj osud.
+
+1032
+01:50:47,219 --> 01:50:48,926
+Přidej se ke mně.
+
+1033
+01:50:49,054 --> 01:50:53,348
+Společně můžeme vládnout galaxii
+jako otec a syn.
+
+1034
+01:51:03,985 --> 01:51:05,610
+Pojď se mnou.
+
+1035
+01:51:06,488 --> 01:51:08,646
+Nemáš jinou možnost.
+
+1036
+01:52:14,931 --> 01:52:16,307
+Bene.
+
+1037
+01:52:17,183 --> 01:52:19,010
+Bene, prosím tě.
+
+1038
+01:52:28,528 --> 01:52:29,726
+Bene.
+
+1039
+01:52:35,243 --> 01:52:36,903
+Leio.
+
+1040
+01:52:46,963 --> 01:52:48,541
+Slyšíš mě...
+
+1041
+01:52:50,133 --> 01:52:51,047
+Leio?
+
+1042
+01:52:51,927 --> 01:52:53,337
+Luku.
+
+1043
+01:52:55,513 --> 01:52:57,553
+– Musíme se vrátit.
+– Cože?
+
+1044
+01:52:57,682 --> 01:53:00,008
+– Vím, kde je Luke.
+– Co stíhačky?
+
+1045
+01:53:01,144 --> 01:53:05,224
+– Udělej to, Chewie.
+– A co Vader? Dobře.
+
+1046
+01:53:13,048 --> 01:53:15,093
+Připravte můj raketoplán.
+
+1047
+01:53:25,646 --> 01:53:27,686
+Někdo tam je.
+
+1048
+01:53:28,941 --> 01:53:31,397
+To je Luke. Chewie, zpomal.
+
+1049
+01:53:31,527 --> 01:53:34,812
+Leť pod něj.
+Lando, otevři horní poklop.
+
+1050
+01:53:47,054 --> 01:53:49,380
+Opatrně, Chewie.
+
+1051
+01:54:11,162 --> 01:54:13,285
+– Lando?
+– <i>Můžeme.</i>
+
+1052
+01:54:31,933 --> 01:54:34,768
+– Leio...
+– Můžeme, Chewie.
+
+1053
+01:54:49,346 --> 01:54:51,173
+Hned se vrátím.
+
+1054
+01:54:56,937 --> 01:54:58,312
+Hvězdný křižník.
+
+1055
+01:55:03,569 --> 01:55:06,439
+Chewie, připrav se
+na skok do hyperprostoru.
+
+1056
+01:55:06,572 --> 01:55:10,652
+Doufám, že tví lidé opravili hypermotory.
+Teď, nebo nikdy.
+
+1057
+01:55:10,784 --> 01:55:12,243
+Zmáčkni to!
+
+1058
+01:55:22,921 --> 01:55:25,210
+Říkali, že to opravili!
+
+1059
+01:55:25,340 --> 01:55:27,214
+Věřil jsem jim!
+
+1060
+01:55:27,342 --> 01:55:29,833
+Nemůžu za to!
+
+1061
+01:55:35,476 --> 01:55:38,097
+Brzy budou v dosahu.
+
+1062
+01:55:38,228 --> 01:55:41,763
+Zablokovali jste jim hypermotory?
+
+1063
+01:55:41,899 --> 01:55:43,891
+– Ano, pane.
+– Dobře.
+
+1064
+01:55:44,026 --> 01:55:47,644
+Připravte výsadek.
+Nastavte zbraně na omráčení.
+
+1065
+01:55:47,780 --> 01:55:50,021
+Ano, pane. Poručíku.
+
+1066
+01:55:52,367 --> 01:55:55,653
+Sprosťák. Proč neskočíme
+do hyperprostoru?
+
+1067
+01:55:55,788 --> 01:55:57,365
+Nemůžeme?
+
+1068
+01:55:57,498 --> 01:55:59,870
+Jak víš, že jsou
+hypermotory zablokované?
+
+1069
+01:56:03,170 --> 01:56:06,040
+Řekl ti to počítač ve městě?
+
+1070
+01:56:06,173 --> 01:56:08,925
+Nemáš věřit cizím počítačům.
+
+1071
+01:56:09,051 --> 01:56:12,336
+Au! Dávej pozor!
+
+1072
+01:56:23,524 --> 01:56:24,519
+Luku.
+
+1073
+01:56:24,650 --> 01:56:25,812
+Otče.
+
+1074
+01:56:27,694 --> 01:56:29,817
+Synu, následuj mě.
+
+1075
+01:56:32,866 --> 01:56:34,277
+Bene...
+
+1076
+01:56:35,369 --> 01:56:37,445
+Proč jsi mi to neřekl?
+
+1077
+01:56:43,669 --> 01:56:44,451
+Chewie!
+
+1078
+01:56:55,681 --> 01:56:56,879
+To je Vader.
+
+1079
+01:57:02,729 --> 01:57:06,312
+Luku, je to tvůj osud.
+
+1080
+01:57:11,280 --> 01:57:12,442
+Bene...
+
+1081
+01:57:14,032 --> 01:57:16,274
+Proč jsi mi to neřekl?
+
+1082
+01:57:22,583 --> 01:57:26,497
+Vyhlaste poplach.
+Připravte transportní paprsek.
+
+1083
+01:57:29,965 --> 01:57:32,717
+R2, vrať se.
+Ještě jsi mě nesmontoval.
+
+1084
+01:57:32,843 --> 01:57:36,342
+O hypermotory se nestarej.
+Chewbacca je opraví.
+
+1085
+01:57:36,472 --> 01:57:40,884
+Já tu stojím rozmontovaný
+a ty máš halucinace.
+
+1086
+01:57:44,062 --> 01:57:45,521
+Dokázal jsi to!
+
+1087
+01:58:43,247 --> 01:58:46,248
+– Luku, můžeme startovat.
+– <i>Hodně štěstí, Lando.</i>
+
+1088
+01:58:47,292 --> 01:58:51,242
+<i>Až najdeme Jabbu Hutta</i>
+<i>a toho lovce, ozveme se ti.</i>
+
+1089
+01:58:51,380 --> 01:58:54,001
+Sejdeme se na Tatooine.
+
+1090
+01:58:54,133 --> 01:58:57,548
+Princezno, najdeme Hana. Slibuju.
+
+1091
+01:58:57,678 --> 01:59:01,722
+Chewie, čekám na tvůj signál.
+Dejte na sebe pozor.
+
+1092
+01:59:01,849 --> 01:59:03,888
+<i>Ať vás provází Síla.</i>

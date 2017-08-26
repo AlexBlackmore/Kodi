@@ -1,0 +1,5380 @@
+﻿1
+00:00:21,348 --> 00:00:26,642
+Cu mult timp în urmă într-o
+galaxie foarte, foarte îndepărtată....
+
+2
+00:00:28,734 --> 00:00:33,734
+RĂZBOIUL STELELOR
+
+3
+00:00:37,792 --> 00:00:41,946
+Este perioada unui război civil.
+
+4
+00:00:42,046 --> 00:00:47,500
+Navele rebele, atacând dintr-o bază secretă...
+
+5
+00:00:47,600 --> 00:00:53,100
+...au câştigat prima lor victorie
+împotriva maleficului Imperiu Galactic.
+
+6
+00:00:57,700 --> 00:01:02,772
+În timpul atacului, spionii rebeli
+au reuşit să fure...
+
+7
+00:01:02,873 --> 00:01:07,100
+...planurile secrete ale unei arme supreme
+a Imperiului : Steaua Morţii...
+
+8
+00:01:07,200 --> 00:01:12,393
+...o staţie spaţială blindată
+dotată cu destulă putere pentru a...
+
+9
+00:01:12,493 --> 00:01:16,647
+...distruge o întreagă planetă.
+
+10
+00:01:16,747 --> 00:01:21,319
+Urmărită de siniştrii agenţi Imperiali...
+
+11
+00:01:21,419 --> 00:01:26,616
+...Prinţesa Leia fuge spre casă
+la bordul navei sale...
+
+12
+00:01:26,716 --> 00:01:31,913
+...deţinând planurile furate
+care ar putea salva poporul său...
+
+13
+00:01:32,013 --> 00:01:37,220
+...şi reinstaura libertatea în galaxie....
+
+14
+00:02:47,834 --> 00:02:49,634
+Ai auzit ?
+
+15
+00:02:49,900 --> 00:02:53,101
+Au oprit reactorul principal.
+Vom fi distruşi cu siguranţă.
+
+16
+00:02:53,201 --> 00:02:55,001
+E o nebunie.
+
+17
+00:03:04,717 --> 00:03:06,517
+Suntem terminaţi.
+
+18
+00:03:08,100 --> 00:03:11,100
+Nu mai are scăpare Prinţesa
+de data asta.
+
+19
+00:03:13,626 --> 00:03:15,726
+Ce-a fost asta ?
+
+20
+00:04:57,500 --> 00:05:00,000
+R2-D2 unde eşti ?
+
+21
+00:05:16,615 --> 00:05:18,818
+În sfârşit, unde ai fost ?
+
+22
+00:05:18,918 --> 00:05:21,820
+Se îndreaptă spre noi.
+Ce ne facem ?
+
+23
+00:05:21,920 --> 00:05:26,421
+Vom fi trimişi în mina Kessel sau
+zdrobiţi în cine ştie ce.
+
+24
+00:05:26,759 --> 00:05:29,259
+Stai puţin, unde pleci ?
+
+25
+00:05:41,674 --> 00:05:44,700
+Planurile Stelei Morţii nu sunt în
+computerul principal.
+
+26
+00:05:44,977 --> 00:05:47,713
+Unde sunt transmisiile
+pe care le-aţi interceptat ?
+
+27
+00:05:47,813 --> 00:05:53,019
+– Ce aţi făcut cu planurile ?
+– Nu am interceptat nici o transmisie.
+
+28
+00:05:53,119 --> 00:05:57,090
+Aceasta este o navă consulară.
+Suntem într-o misiune diplomatică.
+
+29
+00:05:57,190 --> 00:06:01,789
+Dacă asta este o navă consulară,
+unde este Ambasadorul ?
+
+30
+00:06:05,231 --> 00:06:09,132
+Comandante, dezmembraţi nava
+până găsiţi planurile...
+
+31
+00:06:09,232 --> 00:06:12,232
+...şi aduceţi-mi pasagerii.
+Îi vreau vii !
+
+32
+00:06:24,517 --> 00:06:26,517
+Acolo e cineva.
+Paralizaţi-o !
+
+33
+00:06:31,857 --> 00:06:35,000
+Va fi bine. Informează-l pe
+Lord Vader că avem un prizonier.
+
+34
+00:06:37,060 --> 00:06:39,560
+Nu ai voie acolo !
+E interzis.
+
+35
+00:06:39,762 --> 00:06:42,262
+Sigur vei fi dezactivat.
+
+36
+00:06:43,336 --> 00:06:46,738
+Nu-mi spune mie filozof fără minte,
+glob de vaselină supraponderat !
+
+37
+00:06:46,838 --> 00:06:48,938
+Ieşi afară până nu te vede cineva.
+
+38
+00:06:50,076 --> 00:06:55,677
+Misiune secretă ? Ce planuri ?
+Ce tot vorbeşti acolo ? Nu intru acolo !
+
+39
+00:06:58,383 --> 00:07:00,383
+Am să regret asta.
+
+40
+00:07:07,326 --> 00:07:09,427
+– Uite încă unul.
+– Nu trageţi...
+
+41
+00:07:09,527 --> 00:07:12,465
+...nu sunt forme de viaţă la bord.
+Cred că a fost un scurt-circuit.
+
+42
+00:07:12,565 --> 00:07:16,065
+Interesant, stricăciunile nu arată
+chiar atât de rău, de aici.
+
+43
+00:07:18,100 --> 00:07:20,300
+Eşti sigur că aici
+suntem în siguranţă ?
+
+44
+00:07:39,224 --> 00:07:41,825
+Darth Vader, numai tu puteai fi
+atât de îndrăzneţ.
+
+45
+00:07:41,925 --> 00:07:45,365
+Senatul Imperial nu va sta cu mâinile în sân.
+Când vor auzi că ai atacat o navă diplomatică...
+
+46
+00:07:45,465 --> 00:07:49,666
+Nu te preface surprinsă, Înălţimea Ta.
+Nu erai într-o misiune umanitară de data asta.
+
+47
+00:07:49,967 --> 00:07:53,740
+Mai multe transmisii au fost efectuate
+către navă de către rebelii spioni.
+
+48
+00:07:53,840 --> 00:07:56,709
+Vreau să ştiu ce s-a întâmplat
+cu planurile pe care vi le-au trimis.
+
+49
+00:07:56,809 --> 00:07:58,610
+Nu ştiu despre ce vorbeşti.
+
+50
+00:07:58,710 --> 00:08:01,914
+Sunt un membru al Senatului Imperial
+într-o misiune diplomatică pe Alderaan.
+
+51
+00:08:02,014 --> 00:08:04,884
+Faci parte din Alianţa rebelă
+şi eşti o trădătoare.
+
+52
+00:08:04,984 --> 00:08:06,984
+Luaţi-o !
+
+53
+00:08:11,223 --> 00:08:13,524
+Capturarea ei este periculoasă.
+Dacă se află...
+
+54
+00:08:13,624 --> 00:08:16,227
+...poate produce simpatie
+pentru Rebeliune în Senat.
+
+55
+00:08:16,595 --> 00:08:21,428
+Am urmărit spionii rebeli până la ea.
+Acum e singura mea legătură cu baza lor secretă !
+
+56
+00:08:21,801 --> 00:08:24,701
+– Mai curând va muri decât să spună ceva.
+– Lasă asta pe seama mea.
+
+57
+00:08:25,402 --> 00:08:29,409
+Trimiteţi un semnal de dezastru şi apoi informaţi
+Senatul că toţi cei de la bord au fost ucişi.
+
+58
+00:08:29,509 --> 00:08:32,801
+Lord Vader, planurile staţiei nu sunt
+la bordul acestei nave !
+
+59
+00:08:32,901 --> 00:08:34,707
+Şi nu au fost efectuate transmisiuni.
+
+60
+00:08:34,807 --> 00:08:38,308
+O capsulă de urgenţă a fost lansată în timpul luptei,
+dar fără forme de viaţă la bord.
+
+61
+00:08:38,408 --> 00:08:40,849
+Probabil că a ascuns planurile
+în capsulă.
+
+62
+00:08:40,949 --> 00:08:44,791
+Trimite jos o trupă să o recupereze.
+Verifică personal, Comandante.
+
+63
+00:08:44,891 --> 00:08:48,600
+– Nu ne va opri nimeni de data asta !
+– Da, domnule !
+
+64
+00:09:03,200 --> 00:09:05,277
+Cum de am intrat
+în încurcătura asta ?
+
+65
+00:09:05,377 --> 00:09:07,741
+Chiar nu-mi dau seama !
+
+66
+00:09:08,413 --> 00:09:11,313
+Se pare că suntem făcuţi să suferim.
+E soarta noastră în viaţă.
+
+67
+00:09:14,452 --> 00:09:17,852
+Trebuie să mă odihnesc înainte să mă dezmembrez.
+Încheieturile îmi sunt aproape blocate.
+
+68
+00:09:25,163 --> 00:09:27,663
+Ce loc dezolant !
+
+69
+00:09:31,600 --> 00:09:33,339
+Unde crezi că te duci ?
+
+70
+00:09:33,439 --> 00:09:35,440
+Eu n-o iau pe acolo.
+
+71
+00:09:35,540 --> 00:09:38,540
+E mult prea stâncos.
+Pe aici e mult mai uşor.
+
+72
+00:09:39,477 --> 00:09:42,477
+Ce te face să crezi
+că sunt aşezări acolo ?
+
+73
+00:09:44,078 --> 00:09:45,978
+Nu începe cu detalii tehnice.
+
+74
+00:09:46,979 --> 00:09:48,884
+Ce misiune ? Ce tot spui ?
+
+75
+00:09:51,456 --> 00:09:53,756
+M-am săturat de tine.
+
+76
+00:09:54,026 --> 00:09:58,597
+Ia-o pe acolo ! Te vei defecta după o zi,
+morman de fier vechi !
+
+77
+00:09:59,298 --> 00:10:03,100
+Şi să nu vii după mine cerând
+ajutor, pentru că nu-l vei primi.
+
+78
+00:10:17,230 --> 00:10:20,230
+Gata cu aventurile.
+Nu merg pe acolo.
+
+79
+00:10:55,000 --> 00:10:58,701
+Prostănac defect.
+E numai vina lui !
+
+80
+00:10:58,801 --> 00:11:02,702
+M-a făcut să o iau pe aici
+dar nu se va descurca el mai bine.
+
+81
+00:11:06,765 --> 00:11:11,203
+Stai ! Ce-i aia ?
+Un transport ! Sunt salvat !
+
+82
+00:11:11,303 --> 00:11:14,803
+Aici !
+
+83
+00:11:16,075 --> 00:11:19,602
+Vă rog, ajutor !
+
+84
+00:14:49,854 --> 00:14:51,354
+R2 ?
+
+85
+00:14:54,392 --> 00:14:57,592
+R2-D2 ! Tu eşti !
+
+86
+00:15:15,814 --> 00:15:19,814
+Cineva a fost în capsulă.
+Urmele o iau in direcţia aceasta.
+
+87
+00:15:20,019 --> 00:15:21,987
+Uitaţi, domnule, roboţi.
+
+88
+00:15:33,666 --> 00:15:35,666
+Trezeşte-te !
+
+89
+00:15:42,373 --> 00:15:44,373
+Suntem terminaţi.
+
+90
+00:15:52,383 --> 00:15:55,083
+Crezi că ne vor topi ?
+
+91
+00:16:06,999 --> 00:16:08,999
+Nu trage ! Nu trage !
+
+92
+00:16:09,568 --> 00:16:11,568
+Nu se va termina niciodată, oare ?
+
+93
+00:16:51,400 --> 00:16:53,045
+Ştiu unde-l găsesc, să mergem.
+
+94
+00:16:53,145 --> 00:16:55,306
+Luke ! Luke !
+
+95
+00:16:58,950 --> 00:17:03,650
+Spune-i lui Owen, dacă ia un translator,
+să se asigure că vorbeşte Bocce.
+
+96
+00:17:03,922 --> 00:17:07,322
+Se pare că nu avem de ales,
+dar am să-i amintesc.
+
+97
+00:17:17,768 --> 00:17:20,768
+Nu, nu acela.
+
+98
+00:17:24,009 --> 00:17:26,709
+Tu, bănuiesc că eşti programat
+pentru protocol.
+
+99
+00:17:26,810 --> 00:17:30,549
+Protocol ? Este funcţia mea principală.
+Sunt instruit în majoritatea obiceiurilor...
+
+100
+00:17:30,649 --> 00:17:33,551
+– Nu am nevoie de un robot de protocol.
+– Bineînţeles că nu, domnule...
+
+101
+00:17:33,651 --> 00:17:36,555
+...nu într-un mediu ca acesta.
+De aceea am fost programat şi pentru...
+
+102
+00:17:36,655 --> 00:17:41,956
+Am nevoie de un robot care înţelege
+limbajul binar al generatoarelor de umezeală.
+
+103
+00:17:42,056 --> 00:17:44,327
+Domnule, prima mea slujbă a fost
+programarea binară a unui elevator...
+
+104
+00:17:44,427 --> 00:17:47,028
+...foarte similar generatoarelor dvs.
+
+105
+00:17:47,128 --> 00:17:48,900
+– Vorbeşti Bocce ?
+– Bineînţeles, dle. E ca...
+
+106
+00:17:49,000 --> 00:17:53,100
+– ...a doua limbă pentru mine...
+– Bine, taci ! Îl iau pe ăsta. Luke !
+
+107
+00:17:56,000 --> 00:17:59,111
+Du-i pe ăştia doi în garaj.
+Vreau să-i cureţi până la cină.
+
+108
+00:17:59,211 --> 00:18:01,647
+Ar trebui să merg la staţia Toshi
+să iau nişte convertoare.
+
+109
+00:18:01,747 --> 00:18:04,648
+Poţi să-ţi pierzi timpul cu prietenii
+când îţi termini treaba.
+
+110
+00:18:04,748 --> 00:18:09,180
+– Hai, la treabă.
+– Bine, hai !
+
+111
+00:18:11,890 --> 00:18:13,949
+Şi cel roşu, haide.
+
+112
+00:18:15,194 --> 00:18:17,662
+Hai roşule, să mergem !
+
+113
+00:18:36,680 --> 00:18:38,580
+– Unchiule Owen !
+– Da !
+
+114
+00:18:38,717 --> 00:18:41,481
+R2-ul ăsta are un
+motivator prost. Uite.
+
+115
+00:18:41,853 --> 00:18:44,199
+Încerci să ne fraiereşti ?
+
+116
+00:18:47,291 --> 00:18:51,523
+Scuzaţi-mă, dle, dar acel R2 este
+în condiţie perfectă. O adevărată afacere.
+
+117
+00:18:52,097 --> 00:18:54,499
+Unchiule Owen !
+Ce-ar fi să-l luăm pe acela ?
+
+118
+00:18:54,599 --> 00:18:57,902
+Dar cel albastru ?
+Îl luăm pe acela.
+
+119
+00:18:58,303 --> 00:19:01,305
+– Ia-l de aici.
+– Veţi fi mulţumit de acesta, dle.
+
+120
+00:19:01,405 --> 00:19:04,305
+Chiar este în condiţie optimă.
+Am mai lucrat cu el.
+
+121
+00:19:04,405 --> 00:19:06,205
+Iată-l.
+
+122
+00:19:09,247 --> 00:19:11,149
+Bine, să mergem.
+
+123
+00:19:11,249 --> 00:19:13,886
+Să nu uiţi asta !
+De ce trebuie să-mi risc...
+
+124
+00:19:13,986 --> 00:19:15,986
+...pielea pentru tine nu pot pricepe !
+
+125
+00:19:22,427 --> 00:19:26,129
+Baia asta de ulei
+îmi va face foarte bine.
+
+126
+00:19:27,330 --> 00:19:30,600
+Sufăr atât de tare de contaminare cu nisip,
+încât abia mă pot mişca !
+
+127
+00:19:30,802 --> 00:19:35,841
+Nu e corect ! Biggs are dreptate.
+N-o să plec niciodată de aici.
+
+128
+00:19:35,941 --> 00:19:40,142
+– Pot să vă ajut cu ceva ?
+– Nu, doar dacă poţi schimba timpul...
+
+129
+00:19:40,242 --> 00:19:43,242
+...grăbi recolta sau să mă
+teleportezi de pe bolovanul ăsta.
+
+130
+00:19:43,448 --> 00:19:47,686
+Nu cred, dle. Sunt doar un robot nu prea
+mă pricep la astea.
+
+131
+00:19:47,786 --> 00:19:53,025
+Nu pe planeta asta cel puţin. De fapt,
+nici nu ştiu sigur pe ce planetă sunt.
+
+132
+00:19:53,125 --> 00:19:58,063
+Dacă e un centru luminos în Univers,
+eşti pe planeta cea mai îndepărtată de el.
+
+133
+00:19:58,163 --> 00:20:01,166
+– Înţeleg, domnule.
+– Poţi să-mi spui Luke.
+
+134
+00:20:01,266 --> 00:20:03,266
+Înţeleg, dle Luke.
+
+135
+00:20:04,031 --> 00:20:05,631
+Doar Luke.
+
+136
+00:20:06,632 --> 00:20:11,132
+Eu sunt C-3PO, relaţii om-robot,
+şi acesta este partenerul meu R2-D2.
+
+137
+00:20:12,709 --> 00:20:14,209
+Salut.
+
+138
+00:20:15,379 --> 00:20:18,650
+Ai o grămadă de carbon acumulat aici. Se pare
+că voi băieţi aţi văzut o grămadă de acţiune.
+
+139
+00:20:18,750 --> 00:20:21,101
+Uneori sunt surprins că ne aflăm...
+
+140
+00:20:21,201 --> 00:20:24,000
+...în stare atât de bună,
+cu toată Rebeliunea asta.
+
+141
+00:20:24,100 --> 00:20:25,824
+Ştii despre Rebeliunea
+împotriva Imperiului ?
+
+142
+00:20:25,924 --> 00:20:29,124
+Aşa am ajuns în serviciul dvs,
+dacă mă înţelegeţi, dle.
+
+143
+00:20:29,825 --> 00:20:31,926
+– Aţi trecut prin multe bătălii ?
+– Mai multe, cred.
+
+144
+00:20:32,026 --> 00:20:35,801
+De fapt, nu e prea mult de spus.
+Nu sunt decât un interpretor...
+
+145
+00:20:35,901 --> 00:20:40,169
+...şi nu prea bun la poveşti.
+Nu la a le face interesante, oricum.
+
+146
+00:20:41,239 --> 00:20:45,174
+Prietene, ai ceva înţepenit aici
+destul de bine.
+
+147
+00:20:45,444 --> 00:20:47,244
+Aţi fost pe un Crucişător sau...
+
+148
+00:20:47,545 --> 00:20:50,748
+<i>Ajută-mă, Obi-Wan Kenobi !
+Eşti singura mea speranţă !</i>
+
+149
+00:20:50,849 --> 00:20:52,449
+Ce-i asta ?
+
+150
+00:20:52,550 --> 00:20:55,521
+Cum ce este ?
+Ţi-a pus o întrebare, ce-i asta ?
+
+151
+00:20:55,621 --> 00:20:59,316
+<i>Ajută-mă, Obi-Wan Kenobi !
+Eşti singura mea speranţă !</i>
+
+152
+00:21:03,061 --> 00:21:06,593
+<i>Ajută-mă, Obi-Wan Kenobi !
+Eşti singura mea speranţă !</i>
+
+153
+00:21:09,000 --> 00:21:13,505
+Spune că nu e nimic, dle. O simplă defecţiune.
+Date vechi. Nu-i daţi atenţie.
+
+154
+00:21:13,605 --> 00:21:16,008
+Ea cine e ? E frumoasă.
+
+155
+00:21:16,108 --> 00:21:19,478
+Mă tem că nu sunt prea sigur, dle.
+
+156
+00:21:19,578 --> 00:21:21,980
+Cred că era un pasager
+în ultima noastră călătorie.
+
+157
+00:21:22,080 --> 00:21:25,283
+O persoană importantă cred, dle.
+Căpitanul nostru era în relaţii cu...
+
+158
+00:21:25,383 --> 00:21:27,483
+Este mai mult din înregistrarea asta ?
+
+159
+00:21:28,785 --> 00:21:31,657
+Poartă-te frumos, R2.
+Ne bagi în bucluc.
+
+160
+00:21:31,757 --> 00:21:34,799
+E în regulă, poţi să ai încredere în el.
+Este noul nostru stăpân.
+
+161
+00:21:37,996 --> 00:21:40,732
+Spune că e proprietatea
+lui Obi-Wan Kenobi...
+
+162
+00:21:40,832 --> 00:21:44,236
+...un localnic de prin părţile acestea.
+E un mesaj personal pentru el.
+
+163
+00:21:44,336 --> 00:21:46,305
+Fie vorba între noi,
+nu ştiu despre ce vorbeşte, dle.
+
+164
+00:21:46,405 --> 00:21:49,901
+Ultimul nostru stăpân a fost Căpitanul Antilles,
+dar prin câte am trecut...
+
+165
+00:21:50,001 --> 00:21:52,201
+...acest R2 a devenit cam excentric.
+
+166
+00:21:53,645 --> 00:21:56,381
+Obi-Wan Kenobi ? Mă întreb dacă
+se referă la bătrânul Ben Kenobi.
+
+167
+00:21:56,481 --> 00:21:59,151
+Mă scuzaţi, dle,
+ştiţi despre ce vorbeşte ?
+
+168
+00:21:59,251 --> 00:22:03,999
+Nu ştiu pe nimeni cu numele Obi-Wan, dar
+bătrânul Ben locuieşte dincolo de Marea de Nisip.
+
+169
+00:22:04,800 --> 00:22:07,000
+E un bătrân destul de ciudat.
+
+170
+00:22:07,593 --> 00:22:10,762
+Mă întreb cine este ea ?
+Se pare că are necazuri.
+
+171
+00:22:10,862 --> 00:22:12,862
+Mai bine redau toată înregistrarea.
+
+172
+00:22:16,666 --> 00:22:19,866
+Spune că dispozitivul de siguranţă
+i-a scurt-circuitat sistemul de înregistrare.
+
+173
+00:22:20,305 --> 00:22:22,501
+Dar dacă îi scoateţi dispozitivul...
+
+174
+00:22:22,601 --> 00:22:24,744
+...ar putea reda întreaga înregistrare.
+
+175
+00:22:24,844 --> 00:22:27,546
+Da, bine.
+
+176
+00:22:27,646 --> 00:22:30,082
+Bănuiesc că eşti prea mic
+ca să fugi...
+
+177
+00:22:30,182 --> 00:22:32,282
+...dacă îţi scot ăsta.
+
+178
+00:22:35,420 --> 00:22:37,220
+Gata.
+
+179
+00:22:38,700 --> 00:22:41,782
+Stai puţin. Unde a plecat ?
+Adu-o înapoi ! Redă mesajul !
+
+180
+00:22:42,383 --> 00:22:45,385
+Cum ce mesaj ?
+Cel de adineauri...
+
+181
+00:22:45,485 --> 00:22:47,400
+...pe care îl ai în
+interiorul măruntaielor tale vechi.
+
+182
+00:22:47,500 --> 00:22:49,626
+Luke ! Luke !
+
+183
+00:22:50,101 --> 00:22:53,201
+– Bine, vin imediat, mătuşă Beru.
+– Îmi pare rău, dle...
+
+184
+00:22:53,301 --> 00:22:55,641
+...dar se pare că s-a emoţionat puţin.
+
+185
+00:22:55,741 --> 00:22:59,170
+Vezi ce poţi să faci cu el.
+Mă întorc imediat.
+
+186
+00:23:01,901 --> 00:23:04,501
+Ar trebui să te mai gândeşti şi
+să-i redai toată înregistrarea.
+
+187
+00:23:05,800 --> 00:23:08,000
+Nu, nu cred că te place deloc.
+
+188
+00:23:08,620 --> 00:23:10,920
+Nu, nici eu nu te plac !
+
+189
+00:23:19,229 --> 00:23:22,065
+Cred că R2-ul pe care l-am cumpărat
+s-ar putea să fie furat.
+
+190
+00:23:22,165 --> 00:23:23,768
+Ce te face să crezi asta ?
+
+191
+00:23:23,868 --> 00:23:25,804
+Am dat peste o înregistrare
+în timp ce-l curăţam.
+
+192
+00:23:25,904 --> 00:23:28,873
+Spune că aparţine cuiva
+pe nume Obi-Wan Kenobi.
+
+193
+00:23:31,609 --> 00:23:35,411
+Cred că se referea la bătrânul Ben.
+Ştii despre ce e vorba ?
+
+194
+00:23:37,247 --> 00:23:41,981
+– Mă întreb dacă are vreo legătură cu Ben.
+– Omul ăla era doar un bătrân nebun.
+
+195
+00:23:42,452 --> 00:23:46,080
+Mâine vreau să duci robotul ăla la
+Anchorhead şi să-i ştergi memoria.
+
+196
+00:23:46,258 --> 00:23:49,860
+Şi cu asta basta.
+E al nostru acum.
+
+197
+00:23:50,161 --> 00:23:53,201
+Dar dacă acest Obi-Wan
+vine să îl caute ?
+
+198
+00:23:53,301 --> 00:23:58,701
+Nu va veni. Nu cred că mai există.
+A murit cam odată cu tatăl tău.
+
+199
+00:23:59,270 --> 00:24:02,070
+– Îl ştia pe tata ?
+– Ţi-am spus să o laşi baltă.
+
+200
+00:24:03,440 --> 00:24:06,200
+Singura ta preocupare este
+să pregăteşti roboţii pentru mâine.
+
+201
+00:24:06,600 --> 00:24:08,849
+Dimineaţă vreau să lucreze la
+condensatori...
+
+202
+00:24:08,949 --> 00:24:12,049
+– ...pe versantul de sud.
+– Da, dle.
+
+203
+00:24:13,684 --> 00:24:15,887
+Cred că roboţii îşi vor face treaba.
+
+204
+00:24:15,987 --> 00:24:19,424
+De fapt, mă gândeam la înţelegerea...
+
+205
+00:24:19,524 --> 00:24:23,401
+...de a mai sta încă un sezon.
+
+206
+00:24:23,501 --> 00:24:26,700
+Şi dacă roboţii ăştia lucrează bine,
+vreau să trimit formele...
+
+207
+00:24:26,800 --> 00:24:28,701
+– ...la Academie anul ăsta.
+– Vrei să spui semestrul viitor ?
+
+208
+00:24:28,801 --> 00:24:32,001
+– Înainte de recoltă ?
+– Sigur, sunt mai mult decât roboţi.
+
+209
+00:24:32,101 --> 00:24:35,301
+La recoltă am cea mai mare nevoie de tine.
+Încă un sezon doar.
+
+210
+00:24:36,400 --> 00:24:40,301
+Anul ăsta va fi destulă recoltă încât o
+să mai angajez mână de lucru...
+
+211
+00:24:40,401 --> 00:24:44,882
+...şi o să mergi la Academie anul viitor.
+Trebuie să mă înţelegi, am nevoie de tine aici, Luke.
+
+212
+00:24:44,982 --> 00:24:47,719
+– Dar e încă un an întreg.
+– E doar un sezon.
+
+213
+00:24:47,819 --> 00:24:50,220
+Da, asta ai spus şi anul trecut
+când au plecat Biggs şi Tank.
+
+214
+00:24:50,320 --> 00:24:52,721
+– Unde pleci ?
+– Se pare că nicăieri.
+
+215
+00:24:52,821 --> 00:24:54,500
+Trebuie să termin de curăţat roboţii.
+
+216
+00:24:54,600 --> 00:24:57,959
+Owen, nu poate sta aici pentru totdeauna.
+Prietenii lui au plecat.
+
+217
+00:24:58,460 --> 00:25:03,057
+– Înseamnă atât de mult pentru el.
+– Am să mă revanşez anul viitor, promit.
+
+218
+00:25:04,834 --> 00:25:08,697
+Luke nu e un fermier, Owen.
+Are atât de mult din tatăl său în el.
+
+219
+00:25:09,073 --> 00:25:11,573
+De asta mi-e teamă.
+
+220
+00:26:00,158 --> 00:26:02,059
+De ce te ascunzi acolo ?
+
+221
+00:26:02,159 --> 00:26:04,996
+N-a fost vina mea, dle.
+Nu mă dezactivaţi, vă rog.
+
+222
+00:26:05,096 --> 00:26:08,197
+I-am spus să nu se ducă,
+dar nu funcţiona prea bine.
+
+223
+00:26:08,297 --> 00:26:11,801
+– Tot bolborosea despre misiunea lui.
+– Nu !
+
+224
+00:26:20,144 --> 00:26:23,045
+R2-ul acesta întotdeauna
+a fost o problemă.
+
+225
+00:26:23,145 --> 00:26:25,101
+Druizii ăştia cam scapă de
+sub control.
+
+226
+00:26:25,201 --> 00:26:27,500
+Nici chiar eu nu le pot înţelege
+logica uneori.
+
+227
+00:26:27,600 --> 00:26:31,313
+Cum de am fost atât de prost ?
+Nu-l văd nicăieri. La naiba !
+
+228
+00:26:31,589 --> 00:26:34,090
+– Iertaţi-mă, dle, nu am putea merge după el ?
+– E prea periculos...
+
+229
+00:26:34,190 --> 00:26:37,200
+...cu Oamenii Nisipurilor în zonă.
+Va trebui să aşteptăm până mâine dimineaţă.
+
+230
+00:26:37,300 --> 00:26:39,500
+Luke, opresc curentul.
+
+231
+00:26:39,600 --> 00:26:43,124
+Bine, vin în câteva minute.
+O s-o păţesc...
+
+232
+00:26:44,201 --> 00:26:46,071
+Roboţelul ăla o să-mi facă
+o grămadă de probleme.
+
+233
+00:26:46,171 --> 00:26:48,571
+Da, se pricepe la asta foarte bine.
+
+234
+00:26:59,500 --> 00:27:01,500
+Luke ?
+Luke ! Luke !
+
+235
+00:27:11,395 --> 00:27:12,998
+L-ai văzut pe Luke
+în dimineaţa asta ?
+
+236
+00:27:13,098 --> 00:27:16,501
+A spus că are nişte lucruri de făcut înainte
+să se apuce de lucru, aşa că a plecat devreme.
+
+237
+00:27:16,601 --> 00:27:20,000
+– A luat cei doi roboţi noi cu el ?
+– Cred că da !
+
+238
+00:27:20,300 --> 00:27:22,301
+Ar fi bine să repare dispozitivele alea
+din zona de sud până la amiază...
+
+239
+00:27:22,401 --> 00:27:24,941
+...sau va fi vai şi amar de el !
+
+240
+00:27:26,143 --> 00:27:28,513
+Uite, e un robot
+pe scanner, drept înainte.
+
+241
+00:27:28,613 --> 00:27:31,741
+Se pare că e R2-ul nostru... accelerează !
+
+242
+00:27:54,037 --> 00:27:55,970
+Unde crezi că te duci ?
+
+243
+00:27:57,271 --> 00:27:59,501
+Stăpânul Luke este proprietarul
+tău de drept.
+
+244
+00:27:59,601 --> 00:28:03,101
+Să termini cu prostiile astea
+cu Obi Wan Kenobi.
+
+245
+00:28:03,300 --> 00:28:06,452
+Şi nu mai îmi spune mie de misiune.
+Ai noroc că nu te spulberă...
+
+246
+00:28:06,552 --> 00:28:10,046
+– ...într-un milion de bucăţele aici.
+– Nu, e în regulă, ar fi mai bine să mergem.
+
+247
+00:28:12,046 --> 00:28:13,625
+Acum ce mai are ?
+
+248
+00:28:13,725 --> 00:28:16,525
+Spune că se apropie
+nişte creaturi din sud est.
+
+249
+00:28:16,926 --> 00:28:19,126
+Oamenii nisipurilor, sau mai rău !
+
+250
+00:28:20,765 --> 00:28:23,865
+Hai, să vedem.
+Vino !
+
+251
+00:28:26,170 --> 00:28:28,271
+Sunt doi Banthas acolo jos...
+
+252
+00:28:28,371 --> 00:28:30,664
+...dar nu văd nici un...
+Stai puţin.
+
+253
+00:28:31,742 --> 00:28:34,973
+Sunt oamenii Nisipurilor, într-adevăr.
+Văd unul dintre ei.
+
+254
+00:29:49,553 --> 00:29:51,353
+Salut !
+
+255
+00:29:53,391 --> 00:29:56,190
+Vino încoace, prietene.
+Nu-ţi fie frică.
+
+256
+00:29:58,729 --> 00:30:01,029
+Nu-ţi face griji, va fi bine.
+
+257
+00:30:06,938 --> 00:30:09,371
+Încetişor, fiule, ai avut o zi grea.
+
+258
+00:30:09,940 --> 00:30:13,171
+Ai noroc că eşti întreg.
+
+259
+00:30:16,547 --> 00:30:18,605
+Ben ?
+Ben Kenobi ?
+
+260
+00:30:19,183 --> 00:30:21,185
+Ce mă bucur să te văd !
+
+261
+00:30:21,285 --> 00:30:24,285
+Pustiurile Jundland nu sunt
+pentru plimbare.
+
+262
+00:30:27,200 --> 00:30:31,100
+Spune-mi, tinere Luke,
+ce te aduce atât de departe ?
+
+263
+00:30:31,801 --> 00:30:33,901
+Druidul ăsta mic.
+
+264
+00:30:34,933 --> 00:30:37,901
+Cred că îşi caută fostul stăpân.
+N-am mai văzut atâta devotament...
+
+265
+00:30:38,001 --> 00:30:40,001
+...la un robot până acum.
+
+266
+00:30:41,000 --> 00:30:43,767
+Spune că ar fi proprietatea
+unui Obi-Wan Kenobi.
+
+267
+00:30:44,142 --> 00:30:47,577
+Este vreo rudă de-a ta ?
+Ştii despre cine e vorba ?
+
+268
+00:30:48,245 --> 00:30:52,145
+Obi-Wan Kenobi ?
+Obi-Wan.
+
+269
+00:30:54,751 --> 00:30:58,645
+Ăsta e un nume de care nu am
+mai auzit de foarte mult timp.
+
+270
+00:30:59,323 --> 00:31:01,223
+Foarte mult timp.
+
+271
+00:31:02,226 --> 00:31:05,219
+Cred că unchiul meu îl cunoştea.
+Spune că e mort.
+
+272
+00:31:05,596 --> 00:31:08,392
+Nu e mort... nu încă.
+
+273
+00:31:08,966 --> 00:31:12,936
+– Îl cunoşti ?
+– Bineînţeles că-l cunosc. Eu sunt.
+
+274
+00:31:15,973 --> 00:31:18,877
+Nu am mai purtat numele Obi-Wan...
+
+275
+00:31:18,977 --> 00:31:21,445
+...dinainte să te naşti tu.
+
+276
+00:31:21,812 --> 00:31:23,614
+Înseamnă că robotul îţi aparţine.
+
+277
+00:31:23,714 --> 00:31:26,110
+Nu-mi amintesc să fi avut
+vreodată un robot.
+
+278
+00:31:28,519 --> 00:31:30,619
+Foarte interesant.
+
+279
+00:31:31,700 --> 00:31:36,961
+Cred că ar fi bine să mergem înăuntru.
+Oamenii Nisipurilor sunt puţin derutaţi...
+
+280
+00:31:37,061 --> 00:31:39,662
+...dar vor reveni, mai mulţi.
+
+281
+00:31:42,467 --> 00:31:44,467
+3PO.
+
+282
+00:31:53,511 --> 00:31:56,211
+Unde sunt ?
+Cred că am călcat greşit.
+
+283
+00:31:57,915 --> 00:32:00,718
+Poţi să te ridici ? Trebuie să plecăm
+înainte să se întoarcă Oamenii Nisipurilor.
+
+284
+00:32:00,818 --> 00:32:03,321
+Nu cred că pot.
+Mergeţi voi, stăpâne Luke.
+
+285
+00:32:03,421 --> 00:32:06,124
+Nu are rost să vă riscaţi
+vieţile pentru mine.
+
+286
+00:32:06,224 --> 00:32:08,324
+Sunt terminat.
+
+287
+00:32:09,300 --> 00:32:12,457
+– Ba nu eşti, ce tot vorbeşti acolo ?
+– Repede... au început să apară.
+
+288
+00:32:17,935 --> 00:32:21,472
+Nu, tata nu a luptat în război.
+A fost pilot pe o navă de linie.
+
+289
+00:32:21,572 --> 00:32:23,341
+Asta ţi-a spus unchiul tău.
+
+290
+00:32:23,441 --> 00:32:26,377
+Nu era de acord cu idealurile tatălui tău.
+Deşi ar fi trebuit să stea aici...
+
+291
+00:32:26,477 --> 00:32:28,342
+...şi să nu se bage.
+
+292
+00:32:29,013 --> 00:32:33,384
+– Ai luptat în Războiul Clonelor ?
+– Da, am fost odată un cavaler Jedi...
+
+293
+00:32:33,484 --> 00:32:35,584
+...la fel ca tatăl tău.
+
+294
+00:32:37,855 --> 00:32:42,555
+– Aş fi vrut să-l fi cunoscut.
+– A fost cel mai bun pilot din galaxie...
+
+295
+00:32:43,100 --> 00:32:44,929
+...şi un războinic viclean.
+
+296
+00:32:45,029 --> 00:32:48,594
+Am înţeles că şi tu ai devenit
+un pilot destul de bun.
+
+297
+00:32:49,900 --> 00:32:53,864
+A fost un prieten bun.
+Ceea ce-mi aminteşte...
+
+298
+00:32:55,200 --> 00:32:57,300
+Am ceva pentru tine.
+
+299
+00:32:59,600 --> 00:33:02,700
+Tatăl tău a vrut să ai asta când vei fi
+destul de mare...
+
+300
+00:33:02,800 --> 00:33:05,350
+...dar unchiul tău nu a vrut.
+
+301
+00:33:05,450 --> 00:33:09,720
+S-a temut că ai să-l urmezi pe Obi-Wan
+în vreo cruciadă prostească...
+
+302
+00:33:09,820 --> 00:33:11,589
+...cum a făcut tatăl tău.
+
+303
+00:33:11,689 --> 00:33:13,992
+Dle, dacă nu mai aveţi nevoie de mine,
+am să mă închid puţin.
+
+304
+00:33:14,092 --> 00:33:16,092
+Sigur.
+
+305
+00:33:18,700 --> 00:33:21,895
+– Ce e ?
+– Sabia laser a tatălui tău.
+
+306
+00:33:22,666 --> 00:33:25,236
+Este arma unui cavaler Jedi.
+
+307
+00:33:25,336 --> 00:33:29,240
+Nu atât de neîndemânatică
+sau nesigură ca un pistol.
+
+308
+00:33:29,340 --> 00:33:35,245
+O armă elegantă pentru
+timpuri mai civilizate.
+
+309
+00:33:36,313 --> 00:33:39,550
+De peste o mie de generaţii,
+Cavalerii Jedi au fost apărătorii...
+
+310
+00:33:39,650 --> 00:33:42,744
+...păcii şi dreptăţii
+în Vechea Republică.
+
+311
+00:33:43,520 --> 00:33:47,384
+Înainte de vremurile întunecate,
+înainte de Imperiu.
+
+312
+00:33:50,800 --> 00:33:53,100
+Cum a murit tata ?
+
+313
+00:33:54,831 --> 00:33:57,200
+Un tânăr Jedi pe nume Darth Vader...
+
+314
+00:33:57,401 --> 00:33:59,964
+...care mi-a fost elev, până a fost cuprins
+de partea întunecată a Forţei...
+
+315
+00:34:00,938 --> 00:34:04,099
+...a ajutat Imperiul să vâneze
+şi să distrugă Cavalerii Jedi.
+
+316
+00:34:05,943 --> 00:34:08,543
+El l-a trădat şi ucis pe tatăl tău.
+
+317
+00:34:09,879 --> 00:34:12,479
+Acum Cavalerii Jedi sunt
+aproape dispăruţi.
+
+318
+00:34:13,817 --> 00:34:17,354
+Vader a fost atras de
+partea întunecată a Forţei.
+
+319
+00:34:18,322 --> 00:34:20,022
+A Forţei ?
+
+320
+00:34:20,657 --> 00:34:23,000
+Forţa este cea care
+dă putere unui Jedi.
+
+321
+00:34:23,460 --> 00:34:26,131
+Este un câmp de energie creat
+de toate fiinţele vii.
+
+322
+00:34:26,231 --> 00:34:30,792
+Ne înconjoară
+şi ne pătrunde, ţine Galaxia unită.
+
+323
+00:34:38,208 --> 00:34:41,372
+Hai să vedem dacă ne dăm
+seama ce-i cu tine, prietene.
+
+324
+00:34:41,646 --> 00:34:43,880
+Şi de unde vii.
+
+325
+00:34:43,981 --> 00:34:47,085
+– Am văzut o parte din mesaj.
+– Cred că l-am găsit.
+
+326
+00:34:47,185 --> 00:34:51,451
+<i>Generale Kenobi, cu ani în urmă l-ai slujit
+pe tatăl meu în Războiul Clonelor.</i>
+
+327
+00:34:51,922 --> 00:34:55,092
+<i>Acum te roagă să-l ajuţi
+în lupta împotriva Imperiului.</i>
+
+328
+00:34:55,259 --> 00:34:58,196
+<i>Regret că nu îţi pot prezenta
+personal cererea tatălui meu...</i>
+
+329
+00:34:58,296 --> 00:35:00,064
+<i>...dar nava mea este atacată...</i>
+
+330
+00:35:00,164 --> 00:35:03,100
+<i>...şi mi-e teamă că misiunea mea de a te
+aduce pe Alderaan a eşuat.</i>
+
+331
+00:35:03,200 --> 00:35:06,104
+<i>Am introdus informaţii vitale
+pentru Rebeliune...</i>
+
+332
+00:35:06,204 --> 00:35:10,004
+<i>...în memoria acestui robot R2.
+Tatăl meu va şti să le extragă.</i>
+
+333
+00:35:10,574 --> 00:35:14,437
+<i>Trebuie să faci astfel încât să ajungă
+pe Alderaan în siguranţă.</i>
+
+334
+00:35:14,812 --> 00:35:17,012
+<i>Este un moment disperat.</i>
+
+335
+00:35:17,313 --> 00:35:20,375
+<i>Ajută-mă, Obi-Wan Kenobi,
+eşti unica mea speranţă !</i>
+
+336
+00:35:35,499 --> 00:35:39,431
+Trebuie să înveţi căile Forţei,
+dacă vei merge cu mine pe Alderaan.
+
+337
+00:35:40,504 --> 00:35:42,904
+Alderaan ? Nu merg pe Alderaan.
+
+338
+00:35:43,073 --> 00:35:45,509
+Trebuie să merg acasă.
+E târziu. Nu mă implic mai mult.
+
+339
+00:35:45,609 --> 00:35:48,009
+Am nevoie de ajutorul tău, Luke.
+Ea are nevoie de ajutorul tău.
+
+340
+00:35:48,579 --> 00:35:51,107
+Sunt prea bătrân
+pentru genul ăsta de lucruri.
+
+341
+00:35:56,186 --> 00:35:59,486
+Nu mă pot implica ! Am treabă !
+
+342
+00:36:00,157 --> 00:36:04,657
+Nu că mi-ar plăcea Imperiul. Îl urăsc !
+Dar acum nu pot să fac mai mult.
+
+343
+00:36:06,196 --> 00:36:10,400
+– E atât de departe de aici.
+– Acum vorbeşte unchiul tău prin tine.
+
+344
+00:36:10,500 --> 00:36:13,395
+Unchiul...
+Cum o să-i explic asta ?
+
+345
+00:36:13,971 --> 00:36:16,171
+Învaţă despre Forţă, Luke.
+
+346
+00:36:22,513 --> 00:36:25,000
+Pot să te duc
+până la Anchorhead.
+
+347
+00:36:25,182 --> 00:36:29,109
+Poţi să iei un transport de acolo
+spre Mos Eisley sau unde vrei să mergi.
+
+348
+00:36:29,886 --> 00:36:32,713
+Trebuie să faci ceea ce
+simţi că e bine.
+
+349
+00:36:40,798 --> 00:36:44,067
+Până când această staţie nu este
+complet operaţională suntem vulnerabili.
+
+350
+00:36:44,435 --> 00:36:48,295
+Alianţa Rebelă e prea bine dotată.
+Sunt mai periculoşi decât credeţi.
+
+351
+00:36:48,972 --> 00:36:53,103
+Periculoşi pentru flota dvs,
+nu pentru această staţie de luptă.
+
+352
+00:36:53,477 --> 00:36:57,315
+Rebelii vor obţine ajutor din
+partea Senatului Imperial până când...
+
+353
+00:36:57,415 --> 00:37:01,119
+Senatul Imperial nu va mai fi
+o problemă pentru noi.
+
+354
+00:37:01,219 --> 00:37:05,314
+Tocmai am aflat că Împăratul
+a dizolvat consiliul definitiv.
+
+355
+00:37:05,689 --> 00:37:09,627
+Ultimele rămăşiţe din Vechea
+Republică au fost eliminate.
+
+356
+00:37:09,727 --> 00:37:11,427
+Imposibil !
+
+357
+00:37:11,695 --> 00:37:14,264
+Cum va menţine Împăratul
+controlul fără birocraţie ?
+
+358
+00:37:14,364 --> 00:37:18,564
+Guvernatorii Regionali au acum control
+direct asupra teritoriilor lor.
+
+359
+00:37:19,336 --> 00:37:22,697
+Frica va menţine sistemele teritoriale.
+
+360
+00:37:22,973 --> 00:37:26,144
+– Frica de această staţie de luptă.
+– Iar cu Rebeliunea ?
+
+361
+00:37:26,244 --> 00:37:29,547
+Dacă rebelii au obţinut datele tehnice
+complete ale staţiei...
+
+362
+00:37:29,647 --> 00:37:33,781
+...e posibil, deşi puţin probabil, să-i găsească
+vreo slăbiciune şi să profite de ea.
+
+363
+00:37:34,551 --> 00:37:38,117
+Planurile la care te referi vor fi curând
+din nou în mâinile noastre.
+
+364
+00:37:38,489 --> 00:37:40,625
+Orice atac al rebelilor împotriva...
+
+365
+00:37:40,725 --> 00:37:44,551
+...acestei staţii va fi inutil.
+Indiferent de ce date tehnice au obţinut.
+
+366
+00:37:44,829 --> 00:37:48,292
+Această staţie de luptă reprezintă puterea
+supremă în Univers.
+
+367
+00:37:49,066 --> 00:37:50,966
+Propun să o folosim.
+
+368
+00:37:51,368 --> 00:37:54,601
+Nu fii prea mândru de această teroare
+tehnologică pe care ai construit-o.
+
+369
+00:37:55,372 --> 00:37:58,375
+Posibilitatea de a distruge o planetă
+este infimă...
+
+370
+00:37:58,475 --> 00:38:00,444
+...pe lângă puterea Forţei.
+
+371
+00:38:00,544 --> 00:38:04,002
+Nu încerca să ne sperii cu metodele
+tale vrăjitoreşti, Lord Vader.
+
+372
+00:38:04,481 --> 00:38:06,951
+Oarba ta supunere unei religii...
+
+373
+00:38:07,051 --> 00:38:09,642
+...vechi nu te-a ajutat să recuperezi
+datele pierdute.
+
+374
+00:38:10,220 --> 00:38:14,052
+Şi nici nu te-a ajutat să prevezi locaţia
+bazei ascunse a rebelilor...
+
+375
+00:38:20,664 --> 00:38:22,864
+Lipsa ta de încredere mă deranjează.
+
+376
+00:38:24,969 --> 00:38:27,397
+Ajunge ! Vader, eliberează-l !
+
+377
+00:38:27,671 --> 00:38:29,371
+Cum doriţi.
+
+378
+00:38:31,442 --> 00:38:33,442
+Cearta asta nu are nici un sens.
+
+379
+00:38:34,711 --> 00:38:38,182
+Lordul Vader ne va da
+amplasamentul bazei rebele...
+
+380
+00:38:38,282 --> 00:38:41,118
+...până când această staţie
+va fi operaţională.
+
+381
+00:38:41,218 --> 00:38:45,121
+Atunci vom distruge Rebeliunea cu
+o singură lovitură fulgerătoare.
+
+382
+00:38:52,096 --> 00:38:53,898
+Se pare că Oamenii Nisipurilor
+au făcut asta.
+
+383
+00:38:53,998 --> 00:38:55,733
+Uite, aici sunt nişte beţe Gaffi,
+urme de Banthas...
+
+384
+00:38:55,833 --> 00:38:58,302
+Doar că nu am auzit niciodată ca ei
+să lovească ceva atât de mare.
+
+385
+00:38:58,402 --> 00:39:01,772
+N-au făcut-o ei. Vor să ne facă
+să credem că ei au făcut-o.
+
+386
+00:39:01,872 --> 00:39:06,043
+Urmele astea sunt una lângă alta.
+Oamenii Nisipurilor întotdeauna merg în şir...
+
+387
+00:39:06,143 --> 00:39:08,045
+...indian ca să-şi ascundă numărul.
+
+388
+00:39:08,145 --> 00:39:10,881
+Sunt aceiaşi Jawa care ni i-au
+vândut pe R2 şi 3PO.
+
+389
+00:39:10,981 --> 00:39:15,379
+Şi astea sunt focuri de armă prea exacte
+pentru Oamenii Nisipurilor.
+
+390
+00:39:15,953 --> 00:39:19,082
+Numai soldaţii imperiali
+sunt atât de precişi.
+
+391
+00:39:19,856 --> 00:39:22,356
+De ce ar măcelari soldaţii
+imperiali nişte Jawa ?
+
+392
+00:39:27,864 --> 00:39:30,401
+Dacă au urmărit roboţii aici,
+ar fi putut afla cui i-au vândut.
+
+393
+00:39:30,501 --> 00:39:32,701
+Şi asta i-ar îndrepta spre... casă.
+
+394
+00:39:33,436 --> 00:39:36,405
+Aşteaptă, Luke !
+E prea periculos !
+
+395
+00:40:00,664 --> 00:40:04,168
+Unchiule Owen !
+Mătuşă Beru !
+
+396
+00:40:04,268 --> 00:40:06,368
+Unchiule Owen !
+
+397
+00:40:55,218 --> 00:41:00,520
+Şi acum Prinţesă, vom discuta
+poziţia bazei rebele ascunse.
+
+398
+00:41:43,666 --> 00:41:46,736
+Nu puteai să faci nimic, Luke,
+dacă ai fi fost acolo.
+
+399
+00:41:46,836 --> 00:41:51,400
+Ai fi fost şi tu ucis. Iar roboţii ar fi acum
+în mâinile Imperiului.
+
+400
+00:41:53,275 --> 00:41:55,475
+Vreau să merg cu tine
+pe Alderaan.
+
+401
+00:41:56,079 --> 00:41:59,383
+Acum nu mi-a mai rămas nimic aici.
+Vreau să învăţ să stăpânesc Forţa...
+
+402
+00:41:59,483 --> 00:42:01,883
+...şi să devin un Jedi ca tatăl meu.
+
+403
+00:42:16,933 --> 00:42:19,200
+Portul spaţial Mos Eisley.
+
+404
+00:42:19,469 --> 00:42:24,436
+Nu vei mai găsi nicăieri atâţia
+nemernici şi ticăloşi la un loc.
+
+405
+00:42:25,208 --> 00:42:27,108
+Trebuie să fim prudenţi.
+
+406
+00:42:43,326 --> 00:42:45,562
+– De când ai roboţii ăştia ?
+– De vreo 3-4 sezoane.
+
+407
+00:42:45,662 --> 00:42:48,162
+Sunt de vânzare dacă
+vă interesează.
+
+408
+00:42:48,831 --> 00:42:52,767
+– Arată-mi actul de identitate.
+– Nu e nevoie să-i vezi actul de identitate.
+
+409
+00:42:53,836 --> 00:42:57,672
+– Nu e nevoie să-i vedem actul de identitate.
+– Nu sunt roboţii pe care-i căutaţi.
+
+410
+00:42:58,941 --> 00:43:01,110
+Nu sunt roboţii pe care-i căutăm.
+
+411
+00:43:01,210 --> 00:43:03,410
+Poate să-şi vadă de treabă.
+
+412
+00:43:04,247 --> 00:43:06,773
+– Poţi să-ţi vezi de treabă.
+– Poţi să pleci.
+
+413
+00:43:07,850 --> 00:43:09,850
+Poţi să pleci.
+
+414
+00:43:20,897 --> 00:43:23,633
+Nu pot să sufăr aceşti Jawa.
+Scârboase creaturi.
+
+415
+00:43:25,001 --> 00:43:26,901
+Pleacă, pleacă.
+
+416
+00:43:28,338 --> 00:43:31,508
+Nu-mi dau seama cum am trecut de soldaţii ăia.
+Credeam că suntem morţi.
+
+417
+00:43:31,608 --> 00:43:35,812
+Forţa poate avea o influenţă
+puternică asupra minţilor slabe.
+
+418
+00:43:39,600 --> 00:43:42,552
+Chiar crezi că vom găsi aici un pilot
+care să ne ducă pe Alderaan ?
+
+419
+00:43:42,652 --> 00:43:45,189
+Cei mai buni piloţi comerciali
+pot fi găsiţi aici.
+
+420
+00:43:45,289 --> 00:43:48,553
+Doar că trebuie să fii atent.
+Locul ăsta poate fi cam dur.
+
+421
+00:43:49,226 --> 00:43:51,226
+Sunt gata de orice.
+
+422
+00:43:54,831 --> 00:43:56,731
+Haide R2 !
+
+423
+00:44:47,216 --> 00:44:50,421
+– Nu-i servim pe cei ca ei aici.
+– Ce ?
+
+424
+00:44:50,521 --> 00:44:53,790
+Roboţii, vor trebui să aştepte afară.
+Nu sunt bine primiţi aici.
+
+425
+00:44:53,890 --> 00:44:56,226
+Uite, nu vrem să avem necazuri.
+
+426
+00:44:56,326 --> 00:44:58,226
+Sunt de acord cu dvs, dle.
+
+427
+00:45:44,974 --> 00:45:47,941
+– Nu te place.
+– Îmi pare rău.
+
+428
+00:45:49,011 --> 00:45:51,111
+Nici eu nu te plac.
+
+429
+00:45:51,514 --> 00:45:57,217
+Ai grijă, suntem oameni căutaţi.
+Sunt condamnat la moarte în 12 sisteme.
+
+430
+00:45:57,587 --> 00:45:59,389
+Voi fi atent.
+
+431
+00:45:59,489 --> 00:46:02,858
+– Vei fi mort !
+– Micuţul ăsta nu merită efortul.
+
+432
+00:46:03,200 --> 00:46:05,400
+Hai să-ţi iau ceva de băut.
+
+433
+00:46:32,355 --> 00:46:34,055
+Sunt bine.
+
+434
+00:46:35,700 --> 00:46:39,753
+El e Chewbacca. E secund pe o navă care
+s-ar putea să fie bună pentru noi.
+
+435
+00:46:44,699 --> 00:46:46,799
+Nu-mi place ce se-ntâmplă.
+
+436
+00:47:01,551 --> 00:47:04,851
+Han Solo. Căpitan pe
+<i>Millennium Falcon</i>.
+
+437
+00:47:05,122 --> 00:47:08,522
+Chewie mi-a spus că vreţi să mergeţi
+în Sistemul Alderaan.
+
+438
+00:47:08,692 --> 00:47:11,000
+Da, aşa e.
+Dacă e o navă rapidă.
+
+439
+00:47:11,194 --> 00:47:14,670
+Rapidă ? N-aţi auzit niciodată
+de <i>Millennium Falcon</i> ?
+
+440
+00:47:15,097 --> 00:47:16,500
+Ar fi trebuit ?
+
+441
+00:47:16,600 --> 00:47:19,463
+E nava cu care a fugit Kessel
+în mai puţin de 12 parseci.
+
+442
+00:47:21,471 --> 00:47:25,843
+Am întrecut nave Imperiale,
+nu nave locale obişnuite.
+
+443
+00:47:25,943 --> 00:47:28,543
+Vorbesc de marile nave Corelliene.
+
+444
+00:47:30,080 --> 00:47:32,500
+E destul de rapidă
+pentru tine, bătrâne.
+
+445
+00:47:33,200 --> 00:47:35,500
+– Care e încărcătura ?
+– Doar pasageri.
+
+446
+00:47:36,051 --> 00:47:38,811
+Eu, băiatul, 2 roboţi...
+
+447
+00:47:39,989 --> 00:47:42,089
+...şi fără întrebări.
+
+448
+00:47:43,459 --> 00:47:45,462
+Ce e ? Necazuri ?
+
+449
+00:47:45,562 --> 00:47:47,750
+Să zicem că vrem să evităm...
+
+450
+00:47:47,850 --> 00:47:50,266
+...orice încurcătură cu Imperiul.
+
+451
+00:47:51,834 --> 00:47:54,134
+Asta e de fapt toată ideea.
+
+452
+00:47:55,104 --> 00:47:57,604
+Vă va costa ceva în plus !
+
+453
+00:47:58,408 --> 00:48:00,708
+10.000, toţi în avans.
+
+454
+00:48:01,845 --> 00:48:03,745
+10.000 ?
+
+455
+00:48:04,480 --> 00:48:06,980
+Putem să ne cumpărăm o navă cu atâta !
+
+456
+00:48:07,150 --> 00:48:10,201
+– Dar cine o va pilota, puştiule ? Tu ?
+– Bineînţeles.
+
+457
+00:48:10,301 --> 00:48:13,989
+Nu sunt un pilot atât de rău !
+Nu trebuie să mai ascultăm...
+
+458
+00:48:14,957 --> 00:48:17,161
+Îţi dăm 2.000 acum...
+
+459
+00:48:17,261 --> 00:48:20,321
+...plus 15.000 când ajungem pe Alderaan.
+
+460
+00:48:21,397 --> 00:48:23,097
+17.000 ?
+
+461
+00:48:26,234 --> 00:48:28,538
+Bine. V-aţi făcut cu o navă.
+
+462
+00:48:28,638 --> 00:48:31,200
+Plecăm imediat ce sunteţi gata.
+Terminalul 94.
+
+463
+00:48:31,300 --> 00:48:33,000
+94.
+
+464
+00:48:33,977 --> 00:48:38,582
+Se pare că cineva este
+interesat de afacerile voastre.
+
+465
+00:48:38,682 --> 00:48:40,809
+Bine, vom verifica !
+
+466
+00:48:52,895 --> 00:48:54,896
+17.000 !
+
+467
+00:48:54,996 --> 00:48:57,901
+Tipii sunt într-adevăr disperaţi.
+Asta chiar poate să-mi salveze pielea.
+
+468
+00:48:58,001 --> 00:49:00,671
+Du-te înapoi la navă
+şi pregăteşte-o.
+
+469
+00:49:00,771 --> 00:49:02,339
+Va trebui să-ţi vinzi Speeder-ul.
+
+470
+00:49:02,439 --> 00:49:06,012
+Nu-i nimic. Nu mă mai întorc
+pe planeta asta niciodată.
+
+471
+00:49:07,250 --> 00:49:08,681
+Te duci undeva, Solo ?
+
+472
+00:49:08,781 --> 00:49:11,485
+Da, Greedo. Mă duceam
+să mă întâlnesc cu şeful tău.
+
+473
+00:49:11,585 --> 00:49:13,485
+Spune-i lui Jabba că am banii pentru el.
+
+474
+00:49:14,004 --> 00:49:18,480
+E prea târziu. Ar fi trebuit să-i plăteşti
+când ai avut ocazia.
+
+475
+00:49:18,780 --> 00:49:24,998
+Jabba a pus un preţ pe capul tău atât de mare, încât
+toţi vânătorii de recompense din galaxie te vor căuta.
+
+476
+00:49:25,358 --> 00:49:27,098
+Sunt norocos că te-am găsit primul.
+
+477
+00:49:27,300 --> 00:49:29,569
+Da, dar de data asta am banii.
+
+478
+00:49:29,719 --> 00:49:33,164
+Dacă mi-i dai mie, s-ar putea
+să uit că te-am găsit.
+
+479
+00:49:33,839 --> 00:49:36,139
+Nu-i am la mine. Spune-i lui Jabba...
+
+480
+00:49:36,440 --> 00:49:38,400
+Jabba a terminat-o cu tine.
+
+481
+00:49:39,395 --> 00:49:41,881
+Nu are timp de contrabandişti...
+
+482
+00:49:42,031 --> 00:49:46,100
+...care renunţă la încărcătură la primul semn al
+unui Crucişător Imperial.
+
+483
+00:49:46,201 --> 00:49:48,512
+Chiar şi eu am fost controlat.
+Crezi că aveam de ales ?
+
+484
+00:49:48,612 --> 00:49:52,568
+Poţi să-i spui asta lui Jabba.
+S-ar putea să-ţi ia doar nava.
+
+485
+00:49:53,192 --> 00:49:54,660
+Doar peste cadavrul meu.
+
+486
+00:49:54,861 --> 00:49:56,178
+Asta e şi ideea.
+
+487
+00:49:56,428 --> 00:50:00,206
+Aşteptam asta de mult timp.
+
+488
+00:50:00,433 --> 00:50:02,333
+Nici nu mă-ndoiam.
+
+489
+00:50:16,015 --> 00:50:18,015
+Scuze de deranj.
+
+490
+00:50:26,692 --> 00:50:29,663
+Rezistenţa ei la sondarea
+creierului e destul de mare.
+
+491
+00:50:29,763 --> 00:50:32,857
+Va mai dura ceva până vom
+scoate vreo informaţie de la ea.
+
+492
+00:50:33,332 --> 00:50:35,268
+Verificarea finală este completă.
+
+493
+00:50:35,368 --> 00:50:38,537
+Toate sistemele sunt operaţionale.
+Ce curs să stabilesc ?
+
+494
+00:50:39,405 --> 00:50:42,775
+Poate că va răspunde la o altă
+metodă de convingere.
+
+495
+00:50:42,875 --> 00:50:44,277
+La ce te referi ?
+
+496
+00:50:44,377 --> 00:50:47,614
+Cred că e momentul să demonstrăm
+adevărata putere a acestei staţii.
+
+497
+00:50:47,714 --> 00:50:50,100
+– Stabiliţi cursul spre Alderaan.
+– Cu plăcere.
+
+498
+00:50:51,250 --> 00:50:53,250
+Închide uşa R2 !
+
+499
+00:50:55,687 --> 00:50:57,987
+În regulă. Verifică partea
+aceea a străzii.
+
+500
+00:51:01,761 --> 00:51:04,224
+E închisă. Treci la următoarea uşă.
+
+501
+00:51:11,300 --> 00:51:14,807
+Mai bine mergeam cu stăpânul Luke
+decât să stau aici cu tine.
+
+502
+00:51:14,907 --> 00:51:18,099
+Nu ştiu care e tot necazul,
+dar sunt sigur că trebuie să fie vina ta.
+
+503
+00:51:18,800 --> 00:51:21,612
+Ai grijă cum vorbeşti !
+
+504
+00:51:22,815 --> 00:51:25,652
+Bine, dă-i încoace. Îi iau.
+
+505
+00:51:25,752 --> 00:51:29,356
+Fii atent, de când a ieşit XP-38,
+astea nu se mai cer deloc.
+
+506
+00:51:29,456 --> 00:51:31,256
+Va fi deajuns.
+
+507
+00:51:48,575 --> 00:51:52,075
+Dacă nava e aşa rapidă
+cum spune, va fi bine.
+
+508
+00:52:14,800 --> 00:52:16,402
+Ce vechitură !
+
+509
+00:52:16,502 --> 00:52:18,632
+Ajunge cu 0.5 peste viteza luminii.
+
+510
+00:52:18,905 --> 00:52:21,941
+Nu arată prea bine, dar e
+dotată acolo unde e nevoie, băiete.
+
+511
+00:52:22,041 --> 00:52:24,744
+Chiar eu i-am făcut nişte modificări.
+
+512
+00:52:24,844 --> 00:52:28,937
+Dar, ne grăbim, aşa că dacă vă urcaţi,
+vom pleca mai repede de aici.
+
+513
+00:52:34,120 --> 00:52:36,020
+Bună ziua, dle !
+
+514
+00:52:44,230 --> 00:52:46,030
+Pe unde ?
+
+515
+00:52:47,066 --> 00:52:49,266
+Oameni, încărcaţi-vă armele !
+
+516
+00:52:51,370 --> 00:52:53,570
+Opriţi nava aceea !
+Trageţi !
+
+517
+00:53:03,182 --> 00:53:05,382
+Chewie, scoate-ne de aici !
+
+518
+00:53:06,819 --> 00:53:10,185
+Vai, am uitat cât de mult urăsc
+călătoriile în spaţiu !
+
+519
+00:53:25,572 --> 00:53:27,006
+Pare a fi un crucişător Imperial.
+
+520
+00:53:27,106 --> 00:53:29,542
+Pasagerii noştri trebuie să fie mai importanţi
+decât am crezut. Încearcă să-i ţii la distanţă.
+
+521
+00:53:29,642 --> 00:53:33,643
+Orientează scutul până fac
+calculele pentru viteza luminii.
+
+522
+00:53:43,489 --> 00:53:46,326
+Fii cu ochii în 4 ! Mai vin 2.
+Vor încerca să ne taie calea.
+
+523
+00:53:46,426 --> 00:53:48,261
+De ce nu treci de ei ? Parcă ziceai
+că este rapidă chestia asta.
+
+524
+00:53:48,361 --> 00:53:50,896
+Ai grijă ce vorbeşti, puştiule,
+sau te vei trezi plutind spre casă.
+
+525
+00:53:50,996 --> 00:53:53,900
+Vom fi în siguranţă când vom face
+saltul în hiperspaţiu.
+
+526
+00:53:54,000 --> 00:53:56,200
+Mai ales că ştiu câteva manevre,
+îi vom pierde.
+
+527
+00:54:00,673 --> 00:54:02,133
+Aici începe distracţia.
+
+528
+00:54:02,233 --> 00:54:04,277
+Cât durează până faci
+saltul la viteza luminii ?
+
+529
+00:54:04,377 --> 00:54:07,013
+Doar câteva momente până obţin
+coordonatele de la computer.
+
+530
+00:54:07,113 --> 00:54:08,948
+Glumeşti ? La viteza cu care
+se apropie ?
+
+531
+00:54:09,048 --> 00:54:11,818
+Călătoria prin hiperspaţiu nu e
+ca la cules recolta, băiete.
+
+532
+00:54:11,918 --> 00:54:14,220
+Fără calcule precise,
+am putea zbura printr-o stea...
+
+533
+00:54:14,320 --> 00:54:15,788
+...sau prea aproape de o supernovă...
+
+534
+00:54:15,888 --> 00:54:18,357
+...şi asta ar termina călătoria
+destul de rapid, nu ?
+
+535
+00:54:18,457 --> 00:54:20,758
+– Ce clipeşte acolo ?
+– Pierdem scutul.
+
+536
+00:54:20,858 --> 00:54:23,658
+Legaţi-vă de ceva,
+trecem la viteza luminii.
+
+537
+00:54:45,050 --> 00:54:47,250
+Am intrat în Sistemul Alderaan.
+
+538
+00:54:47,819 --> 00:54:51,757
+Tarkin, ar fi trebuit să mă aştept
+să-l ţii pe Vader în lesă.
+
+539
+00:54:52,224 --> 00:54:55,484
+Am recunoscut duhoarea ta
+scârboasă de când am ajuns la bord.
+
+540
+00:54:57,096 --> 00:54:58,896
+Fermecătoare până la sfârşit.
+
+541
+00:54:59,731 --> 00:55:03,736
+Nu ai idee cât de greu mi-a fost
+să semnez condamnarea ta la moarte.
+
+542
+00:55:03,836 --> 00:55:07,173
+Mă mir că ai avut curajul să iei
+responsabilitatea asupra ta.
+
+543
+00:55:07,273 --> 00:55:11,411
+Prinţesă Leia, înainte de execuţie
+aş vrea să fii invitata mea...
+
+544
+00:55:11,511 --> 00:55:15,140
+...la o ceremonie care va face această
+staţie de luptă operaţională.
+
+545
+00:55:15,514 --> 00:55:18,342
+Nici un sistem solar nu va îndrăzni
+să se opună Împăratului acum.
+
+546
+00:55:18,818 --> 00:55:21,053
+Cu cât te crezi mai puternic...
+
+547
+00:55:21,153 --> 00:55:23,723
+...cu atât mai multe sisteme solare
+îţi vor scăpa printre degete.
+
+548
+00:55:23,823 --> 00:55:26,815
+Nu şi după ce vom demonstra
+puterea acestei staţii.
+
+549
+00:55:27,093 --> 00:55:32,262
+Într-un fel, ai ales planeta
+care va fi distrusă prima.
+
+550
+00:55:33,132 --> 00:55:37,437
+Din moment ce nu doreşti să ne spui
+amplasamentul bazei rebele...
+
+551
+00:55:37,537 --> 00:55:40,240
+...am ales să testăm puterea acestei staţii...
+
+552
+00:55:40,340 --> 00:55:43,409
+...pe planeta ta de baştină, Alderaan.
+
+553
+00:55:43,509 --> 00:55:46,145
+Nu ! Alderaan e paşnică.
+Nu avem arme, nu poţi să...
+
+554
+00:55:46,245 --> 00:55:50,972
+Doreşti altă ţintă ? O ţintă militară ?
+Atunci spune-ne sistemul.
+
+555
+00:55:53,085 --> 00:55:56,286
+M-am plictisit să tot întreb.
+Deci va fi pentru ultima dată.
+
+556
+00:55:57,056 --> 00:55:59,156
+Unde e baza rebelă ?
+
+557
+00:56:03,162 --> 00:56:04,962
+Dantooine.
+
+558
+00:56:05,564 --> 00:56:08,401
+– Sunt pe Dantooine.
+– Vezi Lord Vader ?
+
+559
+00:56:08,501 --> 00:56:12,999
+Poate fi rezonabilă. Continuaţi operaţiunea.
+Trageţi când sunteţi gata.
+
+560
+00:56:13,200 --> 00:56:15,408
+– Ce ?
+– Eşti mult prea credulă.
+
+561
+00:56:15,508 --> 00:56:19,512
+Dantooine e prea departe ca să facem o
+demonstraţie eficientă, dar nu-ţi face griji.
+
+562
+00:56:19,612 --> 00:56:22,515
+Vom avea grijă de prietenii
+tăi rebeli curând.
+
+563
+00:56:22,615 --> 00:56:24,115
+Nu !
+
+564
+00:56:25,751 --> 00:56:27,751
+Activaţi sistemele principale.
+
+565
+00:56:50,676 --> 00:56:53,577
+Eşti bine ? Ce e ?
+
+566
+00:56:53,946 --> 00:56:56,249
+Am simţit o mare dereglare în Forţă...
+
+567
+00:56:56,349 --> 00:56:59,652
+...ca şi cum milioane de voci
+au izbucnit deodată îngrozite...
+
+568
+00:56:59,752 --> 00:57:04,219
+...şi au tăcut instantaneu.
+Mi-e teamă că s-a întâmplat ceva groaznic.
+
+569
+00:57:06,091 --> 00:57:08,691
+Mai bine continui cu exerciţiul.
+
+570
+00:57:10,963 --> 00:57:13,464
+Puteţi uita de necazurile
+cu melcii ăia Imperiali.
+
+571
+00:57:13,564 --> 00:57:15,764
+V-am spus că vom scăpa de ei.
+
+572
+00:57:19,205 --> 00:57:21,298
+Nu-mi mulţumiţi toţi deodată !
+
+573
+00:57:21,974 --> 00:57:25,868
+Oricum, ar trebui să fim
+pe Alderaan pe la ora 2.
+
+574
+00:57:33,352 --> 00:57:35,183
+Fii atent, R2 !
+
+575
+00:57:44,864 --> 00:57:47,364
+A făcut o mutare corectă,
+nu te ajută dacă ţipi.
+
+576
+00:57:47,565 --> 00:57:49,769
+Lasă-l să ţipe. Nu e înţelept
+să superi un wookiee.
+
+577
+00:57:49,869 --> 00:57:52,069
+Dar, dle, nimănui nu-i pasă
+dacă supără un robot.
+
+578
+00:57:52,438 --> 00:57:55,174
+Asta pentru că roboţii nu smulg
+braţele oamenilor...
+
+579
+00:57:55,274 --> 00:57:58,868
+...când pierd.
+Wookiee fac asta !
+
+580
+00:58:01,413 --> 00:58:03,105
+Înţeleg, dle.
+
+581
+00:58:03,205 --> 00:58:06,307
+Sugerez o altă strategie, R2.
+Lasă-l pe wookiee să câştige !
+
+582
+00:58:25,003 --> 00:58:28,435
+Nu uita, un Jedi simte Forţa
+curgând prin el.
+
+583
+00:58:29,508 --> 00:58:33,511
+– Adică îţi controlează mişcările ?
+– Parţial. Dar se şi supune dorinţelor tale.
+
+584
+00:58:39,050 --> 00:58:41,120
+Religiile şi armele antice nu se compară...
+
+585
+00:58:41,220 --> 00:58:42,949
+...cu un pistol bun în mână, puştiule.
+
+586
+00:58:44,022 --> 00:58:46,324
+Nu crezi în Forţă, nu-i aşa ?
+
+587
+00:58:46,424 --> 00:58:48,694
+Am zburat de la un capăt
+la celălalt al galaxiei ăsteia.
+
+588
+00:58:48,794 --> 00:58:51,901
+Am văzut o grămadă de lucruri ciudate
+dar nu am văzut niciodată nimic...
+
+589
+00:58:52,001 --> 00:58:56,391
+...care să mă facă să cred că există
+o Forţă care să controleze totul.
+
+590
+00:58:57,069 --> 00:59:00,606
+Nu e nici un câmp străvechi de energie
+care să-mi controleze destinul.
+
+591
+00:59:00,706 --> 00:59:03,901
+E doar o grămadă de trucuri
+simple şi fără sens.
+
+592
+00:59:04,001 --> 00:59:07,501
+Ar trebui să încerci din nou, Luke.
+
+593
+00:59:07,980 --> 00:59:10,715
+De data asta,
+eliberează-ţi subconştientul.
+
+594
+00:59:12,852 --> 00:59:14,813
+Şi acţionează din instinct.
+
+595
+00:59:16,087 --> 00:59:18,224
+Cu apărătoarea pe ochi ?
+Nici măcar nu văd.
+
+596
+00:59:18,324 --> 00:59:19,925
+Cum să lupt ?
+
+597
+00:59:20,025 --> 00:59:22,825
+Ochii te pot înşela.
+Nu te încrede în ei.
+
+598
+00:59:31,737 --> 00:59:33,837
+Eliberează-ţi sentimentele.
+
+599
+00:59:48,487 --> 00:59:52,117
+– Vezi ? Poţi s-o faci.
+– Eu numesc asta noroc.
+
+600
+00:59:52,291 --> 00:59:54,853
+Din experienţa mea nu există
+aşa ceva, noroc.
+
+601
+00:59:55,427 --> 01:00:00,331
+Stai puţin, să fii bun împotriva jucăriilor ăstora e una,
+să fii bun împotriva unor fiinţe vii, e cu totul altceva.
+
+602
+01:00:01,850 --> 01:00:04,034
+Se pare că ne apropiem de Alderaan.
+
+603
+01:00:06,806 --> 01:00:09,608
+Ştii, chiar am simţit ceva.
+Parcă o vedeam.
+
+604
+01:00:09,708 --> 01:00:14,242
+E bine ! Ai făcut primul pas
+într-o lume mult mai mare.
+
+605
+01:00:19,384 --> 01:00:22,755
+– Da ?
+– Navele noastre de recunoaştere au ajuns pe Dantooine.
+
+606
+01:00:22,855 --> 01:00:24,757
+Au găsit rămăşiţele unei baze rebele...
+
+607
+01:00:24,857 --> 01:00:27,226
+...dar estimează că e părăsită de ceva timp.
+
+608
+01:00:27,326 --> 01:00:30,887
+Conduc acum o căutare masivă
+în sistemele apropiate.
+
+609
+01:00:31,963 --> 01:00:33,989
+A minţit ! Ne-a minţit !
+
+610
+01:00:34,566 --> 01:00:38,966
+Ţi-am spus eu că nu va trăda
+de bună voie Rebeliunea.
+
+611
+01:00:39,405 --> 01:00:41,807
+Executaţi-o ! Imediat !
+
+612
+01:00:44,610 --> 01:00:47,510
+Fii atent, Chewie.
+Porneşte motoarele obişnuite.
+
+613
+01:00:50,115 --> 01:00:51,715
+Ce naiba...?
+
+614
+01:00:54,753 --> 01:00:56,555
+Am ieşit din hiperspaţiu
+într-o ploaie de asteroizi.
+
+615
+01:00:56,655 --> 01:00:59,500
+Un fel de coliziune de meteoriţi.
+Nu e pe nici o hartă.
+
+616
+01:00:59,624 --> 01:01:02,825
+– Ce se întâmplă ?
+– Poziţia e corectă, doar că... nu e nici un Alderaan !
+
+617
+01:01:03,095 --> 01:01:05,358
+– Cum adică ? Unde e ?
+– Asta vreau să zic, băiete, nu e aici.
+
+618
+01:01:05,458 --> 01:01:07,032
+A fost aruncată în aer.
+
+619
+01:01:07,132 --> 01:01:09,835
+– Ce ? Cum ?
+– Distrusă... de Imperiu !
+
+620
+01:01:09,935 --> 01:01:12,037
+Toată flota nu putea
+distruge o întreagă planetă.
+
+621
+01:01:12,137 --> 01:01:13,998
+Le-ar fi trebuit 1.000 de nave cu
+mai multă putere decât am...
+
+622
+01:01:15,999 --> 01:01:17,476
+Mai vine o navă !
+
+623
+01:01:17,576 --> 01:01:20,600
+– Poate ştiu ei ce s-a întâmplat.
+– E o navă de luptă Imperială.
+
+624
+01:01:22,000 --> 01:01:24,783
+– Ne-a urmărit.
+– Nu, e de rază scurtă.
+
+625
+01:01:24,883 --> 01:01:27,883
+Nu sunt baze prin zonă,
+de unde vine ?
+
+626
+01:01:30,155 --> 01:01:32,925
+Văd că trece cu viteză. Dacă
+ne identifică o să avem probleme mari.
+
+627
+01:01:33,025 --> 01:01:35,126
+Nu şi dacă am eu grijă.
+Chewie, bruiază-i transmisia !
+
+628
+01:01:35,226 --> 01:01:37,328
+Mai bine îl laşi în pace.
+E prea departe.
+
+629
+01:01:37,428 --> 01:01:39,228
+Nu pentru mult timp.
+
+630
+01:01:42,500 --> 01:01:45,698
+O navă ca aia n-ar fi putut ajunge
+atât de departe de una singură.
+
+631
+01:01:45,971 --> 01:01:48,507
+S-o fi pierdut de vreun convoi.
+
+632
+01:01:48,607 --> 01:01:51,402
+Nu va mai avea timp să mai
+spună cuiva de noi.
+
+633
+01:01:53,879 --> 01:01:55,447
+Uite, se îndreaptă spre
+Luna aceea mică.
+
+634
+01:01:55,547 --> 01:01:58,448
+Cred că îl ajung până acolo.
+E aproape în raza de acţiune.
+
+635
+01:02:00,018 --> 01:02:02,054
+Aceea nu e o Lună.
+
+636
+01:02:02,154 --> 01:02:05,553
+– E o staţie spaţială.
+– E prea mare pentru o staţie spaţială.
+
+637
+01:02:08,861 --> 01:02:11,296
+Presimt ceva rău în legătură cu ea.
+
+638
+01:02:11,396 --> 01:02:13,165
+Întoarce nava !
+
+639
+01:02:13,265 --> 01:02:17,762
+Da, cred că ai dreptate. Înapoi, Chewie !
+Porneşte motoarele auxiliare.
+
+640
+01:02:22,507 --> 01:02:24,475
+Chewie, porneşte motoarele auxiliare !
+
+641
+01:02:26,845 --> 01:02:28,580
+De ce mergem încă spre ea ?
+
+642
+01:02:28,680 --> 01:02:30,482
+Suntem traşi de o rază magnetică.
+
+643
+01:02:30,582 --> 01:02:33,452
+– Trebuie să poţi face ceva !
+– Nu pot face nimic, băiete.
+
+644
+01:02:33,552 --> 01:02:37,552
+Sunt la putere maximă. Trebuie să opresc motoarele.
+Dar n-o să pună mâna pe mine fără luptă.
+
+645
+01:02:41,226 --> 01:02:44,789
+Nu poţi câştiga.
+Dar există alternative la luptă.
+
+646
+01:03:01,413 --> 01:03:03,549
+<i>Eliberaţi platforma 327.</i>
+
+647
+01:03:03,649 --> 01:03:06,049
+<i>Deschidem câmpul magnetic.</i>
+
+648
+01:03:20,632 --> 01:03:23,298
+La posturi !
+Veniţi cu mine !
+
+649
+01:03:27,206 --> 01:03:30,831
+<i>Închideţi toate scuturile exterioare !
+Închideţi toate scuturile exterioare !</i>
+
+650
+01:03:32,577 --> 01:03:34,680
+– Da ?
+– <i>Am capturat o navă de transport...</i>
+
+651
+01:03:34,780 --> 01:03:36,981
+<i>...care a intrat în resturile
+Sistemului Alderaan.</i>
+
+652
+01:03:37,081 --> 01:03:40,686
+<i>Caracteristicile ei se potrivesc cu ale 
+navei care a plecat cu forţa din Mos Eisley.</i>
+
+653
+01:03:40,786 --> 01:03:44,323
+Probabil că încearcă să returneze
+planurile furate, Prinţesei.
+
+654
+01:03:44,423 --> 01:03:47,392
+S-ar putea să mai avem nevoie de ea.
+
+655
+01:03:52,364 --> 01:03:56,057
+<i>Se deschide 1-5-7 şi 9.
+Eliberaţi încărcăturile.</i>
+
+656
+01:04:03,675 --> 01:04:05,376
+Nu e nimeni la bord, dle.
+
+657
+01:04:05,476 --> 01:04:08,476
+Potrivit jurnalului, echipa a abandonat
+nava chiar după decolare.
+
+658
+01:04:08,678 --> 01:04:11,450
+Trebuie să fie o momeală, dle. Unele
+capsule de evacuare au fost folosite.
+
+659
+01:04:11,550 --> 01:04:13,485
+– Ai găsit vreun robot ?
+– Nu, dle.
+
+660
+01:04:13,585 --> 01:04:15,420
+Dacă au fost la bord,
+probabil că au fost luaţi.
+
+661
+01:04:15,520 --> 01:04:18,957
+Trimite o echipă la bord.
+Vreau să fie verificată toată nava.
+
+662
+01:04:19,057 --> 01:04:20,458
+Da, domnule !
+
+663
+01:04:20,558 --> 01:04:24,652
+Simt ceva... o prezenţă pe care
+n-am mai simţit-o de când...
+
+664
+01:04:27,299 --> 01:04:31,399
+Adu-mi o echipă de scanare aici imediat.
+Fiecare parte din navă să fie verificată.
+
+665
+01:04:50,455 --> 01:04:52,391
+Ce noroc că ai avut
+compartimentele astea.
+
+666
+01:04:52,491 --> 01:04:55,690
+Sunt pentru contrabandă. N-am crezut
+niciodată c-o să fac contrabandă cu mine.
+
+667
+01:04:55,961 --> 01:04:58,497
+E ridicol.
+Chiar dacă aş fi putut decola...
+
+668
+01:04:58,597 --> 01:05:01,466
+– ...nu aş fi putut trece de raza tractoare.
+– Lasă asta pe seama mea.
+
+669
+01:05:01,566 --> 01:05:04,436
+Eşti nebun. Ştiam c-o să spui asta.
+
+670
+01:05:04,536 --> 01:05:07,996
+Cine e mai nebun ? Nebunul sau
+nebunul care se ia după nebun ?
+
+671
+01:05:17,548 --> 01:05:22,186
+Nava este a voastră. Dacă scanerele
+detectează ceva, raportaţi imediat.
+
+672
+01:05:23,054 --> 01:05:24,754
+În regulă, să mergem.
+
+673
+01:05:39,004 --> 01:05:40,704
+Hei, voi de jos !
+
+674
+01:05:42,841 --> 01:05:44,841
+Puteţi să ne daţi o
+mână de ajutor ?
+
+675
+01:05:53,418 --> 01:05:56,044
+TK-421. De ce nu eşti la post ?
+
+676
+01:05:56,621 --> 01:05:58,721
+TK-421, mă auzi ?
+
+677
+01:06:11,102 --> 01:06:14,502
+Preia comanda. Avem un emiţător defect.
+Să văd ce pot face.
+
+678
+01:06:31,522 --> 01:06:33,759
+După atâtea urlete şi împuşcături
+mă mir că nu ştie...
+
+679
+01:06:33,859 --> 01:06:36,128
+...toată staţia că suntem aici.
+
+680
+01:06:36,228 --> 01:06:39,364
+Să-i văd numai ! Prefer o luptă
+directă decât să mă furişez.
+
+681
+01:06:39,464 --> 01:06:41,200
+Am găsit mufa computerului, dle.
+
+682
+01:06:41,300 --> 01:06:44,398
+Conectează-l. Ar trebui să ştie să
+interpreteze întreaga reţea Imperială.
+
+683
+01:06:55,579 --> 01:06:59,351
+Spune că a găsit computerul principal
+al razei care ne ţine nava aici.
+
+684
+01:06:59,451 --> 01:07:02,046
+Va încerca să afişeze
+pe monitor poziţia exactă.
+
+685
+01:07:12,262 --> 01:07:15,434
+Nu cred că voi mă puteti ajuta.
+Trebuie să merg singur.
+
+686
+01:07:15,534 --> 01:07:19,004
+Cum vrei. Deja am făcut mai mult decât
+ne-am târguit în călătoria asta.
+
+687
+01:07:19,104 --> 01:07:20,372
+Vreau să merg cu tine.
+
+688
+01:07:20,472 --> 01:07:22,775
+Ai răbdare, Luke !
+Păzeşte roboţii !
+
+689
+01:07:22,875 --> 01:07:25,076
+– Dar şi el poate să...
+– Trebuie să fie trimişi în siguranţă...
+
+690
+01:07:25,176 --> 01:07:28,179
+...altfel alte sisteme solare
+vor avea aceeaşi soartă cu Alderaan.
+
+691
+01:07:28,279 --> 01:07:31,975
+Destinul tău are
+altă cale decât al meu.
+
+692
+01:07:35,653 --> 01:07:38,987
+Forţa va fi cu tine... întotdeauna !
+
+693
+01:07:48,329 --> 01:07:53,490
+Zici bine, Chewie.
+Pe unde ai găsit fosila aceea ?
+
+694
+01:07:54,300 --> 01:07:55,903
+Ben e un om grozav.
+
+695
+01:07:56,003 --> 01:07:59,007
+– Grozav să ne bage în bucluc.
+– Nu te-am auzit să ai vreo idee.
+
+696
+01:07:59,107 --> 01:08:01,677
+Orice ar fi bine decât să
+aşteptăm aici să ne ia.
+
+697
+01:08:01,777 --> 01:08:03,677
+Cine crezi că...?
+
+698
+01:08:04,545 --> 01:08:07,716
+–Ce e ?
+– Mi-e teamă că... Nu sunt sigur, dle.
+
+699
+01:08:07,816 --> 01:08:10,585
+Spune „Am găsit-o”,
+şi tot repetă, „E aici”.
+
+700
+01:08:10,685 --> 01:08:13,421
+Cine ? Pe cine a găsit ?
+
+701
+01:08:13,521 --> 01:08:15,857
+– Pe Prinţesa Leia.
+– Prinţesa ? E aici ?
+
+702
+01:08:15,957 --> 01:08:17,788
+– Prinţesa ?
+– Unde e ?
+
+703
+01:08:17,888 --> 01:08:19,888
+Prinţesa ? Ce se-ntâmplă ?
+
+704
+01:08:24,832 --> 01:08:28,290
+Nivelul 5. 
+Sectorul de detenţie AA-23.
+
+705
+01:08:32,873 --> 01:08:35,743
+Mă tem că e programată
+pentru execuţie.
+
+706
+01:08:35,843 --> 01:08:38,346
+Nu ! Trebuie să facem ceva !
+
+707
+01:08:38,446 --> 01:08:40,982
+– Ce tot vorbeşti acolo ?
+– Roboţii sunt ai ei.
+
+708
+01:08:41,082 --> 01:08:43,085
+E cea din mesaj. Trebuie să o ajutăm !
+
+709
+01:08:43,185 --> 01:08:45,987
+Nu veni cu vreo idee glumeaţă.
+Bătrânul vrea să-l aşteptăm aici.
+
+710
+01:08:46,087 --> 01:08:49,458
+Dar el nu ştia că ea e aici. Găseşte o
+cale spre sectorul de detenţie !
+
+711
+01:08:49,558 --> 01:08:51,994
+– Nu merg nicăieri.
+– O vor executa.
+
+712
+01:08:52,094 --> 01:08:54,396
+Adineauri spuneai că nu vrei
+să aştepţi aici şi să fii capturat.
+
+713
+01:08:54,496 --> 01:08:56,001
+Acum vrei să stai ?
+
+714
+01:08:56,101 --> 01:08:58,333
+Nu mă gândeam chiar
+să merg în zona de detenţie.
+
+715
+01:08:58,433 --> 01:09:01,962
+– Dar o vor omorî !
+– Mai bine ea decât eu.
+
+716
+01:09:09,777 --> 01:09:11,677
+E bogată.
+
+717
+01:09:13,815 --> 01:09:16,384
+– Bogată ?
+– Bogată, puternică.
+
+718
+01:09:16,484 --> 01:09:19,554
+Dacă ai salva-o,
+recompensa ar fi...
+
+719
+01:09:19,654 --> 01:09:22,590
+– Cât ?
+– Mai mult decât îţi imaginezi.
+
+720
+01:09:22,690 --> 01:09:25,691
+– Am imaginaţie bogată.
+– O vei obţine.
+
+721
+01:09:25,791 --> 01:09:27,991
+– Ar fi bine.
+– O vei avea.
+
+722
+01:09:28,500 --> 01:09:30,598
+Bine, puştiule. Ar fi bine
+să ai dreptate.
+
+723
+01:09:30,698 --> 01:09:32,598
+– Bine.
+– Care-i planul ?
+
+724
+01:09:34,070 --> 01:09:36,570
+3PO, dă-mi cătuşele alea !
+
+725
+01:09:37,939 --> 01:09:39,941
+Aşa.
+
+726
+01:09:40,041 --> 01:09:42,271
+Îţi voi pune astea.
+
+727
+01:09:44,101 --> 01:09:47,415
+Han, pune-i-le tu.
+
+728
+01:09:47,515 --> 01:09:50,175
+Nu-ţi face griji, Chewie.
+Cred că ştiu la ce se gândeşte.
+
+729
+01:09:50,651 --> 01:09:52,754
+Stăpâne Luke, dle, mă scuzaţi că întreb...
+
+730
+01:09:52,854 --> 01:09:55,990
+...dar ce ar trebui să facem R2 şi cu
+mine dacă suntem descoperiţi ?
+
+731
+01:09:56,090 --> 01:09:59,557
+– Închide uşa !
+– Şi speră să nu aibă blastere.
+
+732
+01:09:59,657 --> 01:10:01,657
+Nu sună prea încurajator.
+
+733
+01:10:53,214 --> 01:10:55,814
+Nu văd nimic prin casca asta !
+
+734
+01:11:26,713 --> 01:11:29,317
+– N-o să meargă.
+– De ce n-ai spus asta înainte ?
+
+735
+01:11:29,417 --> 01:11:31,708
+Am spus şi înainte.
+
+736
+01:11:46,734 --> 01:11:49,704
+Unde duceţi... chestia asta ?
+
+737
+01:11:49,804 --> 01:11:52,604
+Transfer de prizonieri
+din blocul 1138.
+
+738
+01:11:54,040 --> 01:11:57,804
+Nu am fost anunţat.
+Trebuie să verific.
+
+739
+01:12:04,418 --> 01:12:06,618
+Ai grijă ! E liber !
+
+740
+01:12:31,246 --> 01:12:32,946
+Atenţie !
+
+741
+01:12:42,590 --> 01:12:45,059
+Va trebui să aflăm în care
+celulă se află prinţesa ta.
+
+742
+01:12:45,159 --> 01:12:49,255
+Am găsit... celula 2187.
+Du-te la ea. Eu îi ţin aici.
+
+743
+01:12:53,566 --> 01:12:56,603
+– Totul se află sub control. Situaţie normală.
+– <i>Ce s-a întâmplat ?</i>
+
+744
+01:12:57,004 --> 01:13:01,676
+O defecţiune la o armă.
+Dar, acum e totul în regulă.
+
+745
+01:13:01,776 --> 01:13:06,247
+Suntem bine. Suntem toţi bine acum,
+mulţumesc. La voi cum e ?
+
+746
+01:13:06,347 --> 01:13:07,948
+<i>Trimitem o echipă sus.</i>
+
+747
+01:13:08,849 --> 01:13:11,979
+Negativ. Am avut o scurgere
+de la reactor.
+
+748
+01:13:12,079 --> 01:13:15,590
+Daţi-ne câteva minute să o rezolvăm.
+Scurgere destul de mare... foarte periculoasă !
+
+749
+01:13:15,690 --> 01:13:18,454
+<i>Cine e acolo ? Care e numărul
+tău de identificare ?</i>
+
+750
+01:13:20,861 --> 01:13:25,030
+Plictisitoare conversaţie, oricum.
+Luke, o să avem companie !
+
+751
+01:13:38,412 --> 01:13:40,715
+Nu eşti prea scund pentru
+un soldat imperial ?
+
+752
+01:13:40,815 --> 01:13:43,608
+Uniforma...
+
+753
+01:13:45,086 --> 01:13:47,321
+Sunt Luke Skywalker.
+Sunt aici să te salvez.
+
+754
+01:13:47,421 --> 01:13:49,022
+– Cine eşti ?
+– Sunt aici să te salvez.
+
+755
+01:13:49,122 --> 01:13:51,025
+Am R2-ul tău. Sunt cu Ben Kenobi.
+
+756
+01:13:51,125 --> 01:13:53,682
+– Ben Kenobi ? Unde e ?
+– Hai !
+
+757
+01:13:55,329 --> 01:13:59,367
+– E aici.
+– Obi-Wan Kenobi ?
+
+758
+01:13:59,467 --> 01:14:02,771
+– De ce crezi asta ?
+– E o tulburare în Forţă.
+
+759
+01:14:02,871 --> 01:14:06,874
+Ultima dată când am simţit-o
+a fost în prezenţa maestrului meu.
+
+760
+01:14:06,974 --> 01:14:09,443
+Ar trebui să fie mort de atunci.
+
+761
+01:14:09,543 --> 01:14:12,413
+Nu subestima Forţa.
+
+762
+01:14:12,513 --> 01:14:16,751
+Cavalerii Jedi nu mai sunt.
+Suflul lor a fost alungat din Univers.
+
+763
+01:14:16,851 --> 01:14:20,288
+Tu, prietene, eşti tot ce a mai
+rămas din religia lor.
+
+764
+01:14:20,388 --> 01:14:21,847
+Da.
+
+765
+01:14:21,947 --> 01:14:25,547
+<i>Avem o alarmă de urgenţă în
+blocul de detenţie AA-23.</i>
+
+766
+01:14:25,893 --> 01:14:28,462
+Prinţesa ?
+Alertează toate secţiunile !
+
+767
+01:14:28,562 --> 01:14:32,166
+Obi-Wan e aici.
+Forţa este cu el.
+
+768
+01:14:32,266 --> 01:14:34,836
+Dacă ai dreptate,
+nu trebuie lăsat să scape.
+
+769
+01:14:34,936 --> 01:14:38,766
+Planul lui nu e să scape.
+Trebuie să-l înfrunt singur.
+
+770
+01:14:47,981 --> 01:14:49,781
+Treci în spatele meu !
+
+771
+01:15:01,028 --> 01:15:03,787
+Spre stânga,
+au luat-o spre celule.
+
+772
+01:15:06,167 --> 01:15:07,568
+Nu putem ieşi pe acolo.
+
+773
+01:15:07,668 --> 01:15:09,369
+Se pare că ai reuşit să ne laşi
+fără singura cale de scăpare.
+
+774
+01:15:09,469 --> 01:15:12,669
+Poate îţi place mai mult
+în celulă, Înălţimea Voastră.
+
+775
+01:15:14,208 --> 01:15:16,644
+– C-3PO, C-3PO !
+– <i>Da, domnule ?</i>
+
+776
+01:15:16,744 --> 01:15:20,244
+Există alte ieşiri din blocul de celule ?
+Am fost blocaţi !
+
+777
+01:15:22,850 --> 01:15:25,086
+Ce ? N-am auzit !
+
+778
+01:15:25,186 --> 01:15:28,522
+Am spus că toate sistemele au fost
+alertate de prezenţa dvs, dle.
+
+779
+01:15:28,622 --> 01:15:30,723
+Intrarea principală pare
+a fi singura ieşire de aici...
+
+780
+01:15:30,823 --> 01:15:33,127
+...alte informaţii privitoare
+la acel nivel sunt secrete.
+
+781
+01:15:33,227 --> 01:15:35,627
+Deschideţi !
+
+782
+01:15:37,100 --> 01:15:38,650
+Nu !
+
+783
+01:15:38,800 --> 01:15:40,900
+Nu este nici o altă ieşire.
+
+784
+01:15:45,907 --> 01:15:47,976
+Nu pot să-i ţin acolo la infinit !
+Ce facem acum ?
+
+785
+01:15:48,076 --> 01:15:51,813
+Halal salvare ! Când aţi intrat aici,
+nu aveaţi şi un plan de ieşire ?
+
+786
+01:15:51,913 --> 01:15:55,442
+– El e creierul, dragă !
+– Păi... nu am...
+
+787
+01:15:56,818 --> 01:16:00,653
+– Ce naiba faci ?
+– Cineva trebuie să ne salveze pielea.
+
+788
+01:16:02,457 --> 01:16:05,057
+În trapa de gunoi, deşteptule.
+
+789
+01:16:11,632 --> 01:16:13,432
+Intră acolo !
+
+790
+01:16:14,034 --> 01:16:17,364
+Intră acolo, nătărău blănos !
+Nu-mi pasă a ce miroase !
+
+791
+01:16:17,938 --> 01:16:20,305
+Intră acolo şi nu te mai gândi atâta.
+
+792
+01:16:22,943 --> 01:16:25,043
+Minunată fată !
+
+793
+01:16:26,114 --> 01:16:29,745
+Ori am să o omor,
+ori o să-mi placă.
+
+794
+01:16:30,852 --> 01:16:32,752
+Intră acolo !
+
+795
+01:16:45,399 --> 01:16:48,197
+Trapa de gunoi a fost
+într-adevăr o idee grozavă.
+
+796
+01:16:48,969 --> 01:16:51,864
+Ce miros incredibil ai descoperit !
+
+797
+01:16:54,442 --> 01:16:56,277
+Hai să ieşim de aici !
+
+798
+01:16:56,377 --> 01:16:59,111
+– Dă-te la o parte.
+– Stai !
+
+799
+01:17:05,086 --> 01:17:07,955
+Vrei s-o laşi baltă ? Am încercat
+deja asta. E izolată magnetic !
+
+800
+01:17:08,055 --> 01:17:10,524
+Lasă arma !
+Ai să ne omori pe toţi !
+
+801
+01:17:10,624 --> 01:17:12,150
+Bine, Măreţia Ta.
+
+802
+01:17:12,250 --> 01:17:15,096
+Aveam totul sub control până ne-ai adus aici.
+
+803
+01:17:15,196 --> 01:17:17,632
+Nu le va lua mult să-şi dea seama
+ce s-a întâmplat cu noi.
+
+804
+01:17:17,732 --> 01:17:19,732
+Putea fi mai rău.
+
+805
+01:17:24,071 --> 01:17:26,574
+– E mai rău.
+– E ceva viu pe aici.
+
+806
+01:17:26,674 --> 01:17:31,409
+– E imaginaţia ta.
+– S-a mişcat ceva pe lângă piciorul meu !
+
+807
+01:17:32,680 --> 01:17:34,680
+Uite ! Ai văzut aia ?
+
+808
+01:17:35,149 --> 01:17:36,749
+Ce ?
+
+809
+01:17:56,204 --> 01:17:59,104
+Luke !
+
+810
+01:18:03,010 --> 01:18:04,510
+Luke !
+
+811
+01:18:09,150 --> 01:18:13,546
+Luke ! Luke, ţine-te de asta !
+
+812
+01:18:13,921 --> 01:18:16,023
+Trage ! Mi s-a blocat arma.
+
+813
+01:18:16,123 --> 01:18:19,182
+– Unde ?
+– Oriunde !
+
+814
+01:18:26,701 --> 01:18:28,301
+Luke !
+
+815
+01:18:51,392 --> 01:18:54,128
+Prinde-l !
+Ce s-a întâmplat ?
+
+816
+01:18:54,228 --> 01:18:58,161
+Nu ştiu, mi-a dat drumul
+şi a dispărut.
+
+817
+01:19:04,138 --> 01:19:06,638
+Am o presimţire rea.
+
+818
+01:19:10,400 --> 01:19:12,981
+Pereţii se mişcă !
+
+819
+01:19:13,081 --> 01:19:16,381
+Nu sta aşa.
+Încearcă să-i blochezi cu ceva.
+
+820
+01:19:24,092 --> 01:19:25,992
+Ajută-mă !
+
+821
+01:19:38,739 --> 01:19:40,539
+Stai !
+
+822
+01:19:42,676 --> 01:19:46,847
+3PO ! 3PO recepţie !
+
+823
+01:19:46,947 --> 01:19:50,414
+<i>3PO ! Unde-o fi ?</i>
+
+824
+01:19:54,800 --> 01:19:57,080
+Preia comanda !
+Uită-te la el !
+
+825
+01:19:58,093 --> 01:20:01,084
+Aici.
+
+826
+01:20:02,930 --> 01:20:04,631
+Sunt nebuni !
+
+827
+01:20:04,731 --> 01:20:07,334
+Se îndreaptă spre nivelul de detenţie.
+Dacă vă grăbiţi, s-ar putea să-i prindeţi.
+
+828
+01:20:07,434 --> 01:20:09,234
+Urmaţi-mă !
+
+829
+01:20:12,640 --> 01:20:14,640
+Tu stai de pază.
+
+830
+01:20:19,446 --> 01:20:21,746
+Haide !
+
+831
+01:20:28,723 --> 01:20:32,060
+Toată agitaţia asta a supraîncărcat
+circuitele partenerului meu.
+
+832
+01:20:32,160 --> 01:20:35,227
+Dacă nu vă supăraţi,
+am să îl duc jos la service.
+
+833
+01:20:35,327 --> 01:20:37,827
+Bine !
+
+834
+01:20:48,910 --> 01:20:51,979
+3PO ! Răspunde, 3PO !
+
+835
+01:20:52,079 --> 01:20:53,514
+3PO !
+
+836
+01:20:53,614 --> 01:20:56,083
+– Urcă !
+– Nu pot !
+
+837
+01:20:56,183 --> 01:21:01,480
+Unde poate fi ? 3PO !
+3PO, răspunde odată !
+
+838
+01:21:01,755 --> 01:21:04,124
+Nu sunt aici !
+S-a întâmplat ceva cu ei.
+
+839
+01:21:04,224 --> 01:21:06,917
+Vezi dacă au fost capturaţi.
+Repede !
+
+840
+01:21:10,664 --> 01:21:13,499
+Un lucru e sigur. Cu toţii
+vom fi mult mai subţiri !
+
+841
+01:21:16,036 --> 01:21:19,036
+– Urcă !
+– Încerc !
+
+842
+01:21:24,211 --> 01:21:27,404
+Slavă Domnului, nu i-au găsit !
+Unde pot fi ?
+
+843
+01:21:28,000 --> 01:21:31,152
+Să folosesc staţia de emisie ?
+
+844
+01:21:31,252 --> 01:21:34,316
+Vai ! Am uitat, am oprit-o !
+
+845
+01:21:37,990 --> 01:21:39,427
+Sunteţi acolo, dle ?
+
+846
+01:21:39,527 --> 01:21:40,995
+3PO ?
+
+847
+01:21:41,095 --> 01:21:43,897
+– Am avut nişte probleme.
+– <i>Taci şi ascultă-mă !</i>
+
+848
+01:21:43,997 --> 01:21:46,900
+Opreşte toate presele din
+nivelul de detenţie !
+
+849
+01:21:47,000 --> 01:21:50,000
+Mă auzi ? Opreşte toate presele
+din nivelul de detenţie !
+
+850
+01:21:51,972 --> 01:21:54,542
+<i>Opreşte toate presele
+din nivelul de detenţie !</i>
+
+851
+01:21:54,642 --> 01:21:57,142
+Nu ! Opreşte-le pe toate !
+Repede !
+
+852
+01:22:13,494 --> 01:22:16,095
+Ascultă-i ! Sunt pe moarte, R2 !
+
+853
+01:22:16,195 --> 01:22:21,202
+Să-mi fie blestemat corpul de metal ! Nu am fost
+deajuns de rapid. Este numai vina mea !
+
+854
+01:22:21,302 --> 01:22:26,003
+Săracul stăpân ! Suntem bine ! Te-ai descurcat
+grozav ! Deschide uşa de siguranţă...
+
+855
+01:22:26,103 --> 01:22:30,906
+...la unitatea numărul... unde suntem ?
+3263827 !
+
+856
+01:23:16,889 --> 01:23:20,728
+Dacă putem evita orice sfat din partea
+unei femei, ar trebui să scăpăm de aici.
+
+857
+01:23:20,828 --> 01:23:23,931
+Să mergem !
+
+858
+01:23:24,031 --> 01:23:25,765
+Unde te duci ?
+
+859
+01:23:26,266 --> 01:23:28,634
+Nu, stai ! Te vor auzi !
+
+860
+01:23:30,037 --> 01:23:32,538
+Vino aici, laşule !
+Chewie, vino aici !
+
+861
+01:23:32,638 --> 01:23:34,039
+Ascultă...
+
+862
+01:23:34,139 --> 01:23:37,003
+Nu ştiu cine eşti,
+şi de unde ai venit...
+
+863
+01:23:37,103 --> 01:23:40,046
+...dar de acum încolo
+faci ce-ţi spun eu. Ai înţeles ?
+
+864
+01:23:40,813 --> 01:23:43,751
+Uite Preamăreţia Ta,
+să clarificăm un lucru.
+
+865
+01:23:43,851 --> 01:23:46,987
+Eu iau ordine de la o
+singură persoană : de la mine !
+
+866
+01:23:47,087 --> 01:23:49,123
+E o minune că mai eşti în viaţă.
+
+867
+01:23:49,223 --> 01:23:52,393
+Să ia cineva covorul ăsta
+umblător din calea mea !
+
+868
+01:23:52,493 --> 01:23:54,993
+Nici o recompensă nu
+merită aşa ceva.
+
+869
+01:24:04,805 --> 01:24:08,233
+– Îmi raportaţi regulat.
+– Am înţeles.
+
+870
+01:24:10,310 --> 01:24:13,310
+– Ştii ce se întâmplă ?
+– Poate e un alt exerciţiu.
+
+871
+01:24:18,451 --> 01:24:20,354
+Ai văzut noile VT-16 ?
+
+872
+01:24:20,454 --> 01:24:22,623
+Da, mi-a zis cineva de...
+
+873
+01:24:24,725 --> 01:24:27,227
+Ce-a fost asta ?
+
+874
+01:24:27,327 --> 01:24:29,985
+Nu-i nimic. Stai liniştit !
+
+875
+01:24:35,335 --> 01:24:37,738
+– Uite-o !
+– C-3PO, mă auzi ?
+
+876
+01:24:37,838 --> 01:24:39,239
+<i>Da, domnule !</i>
+
+877
+01:24:39,339 --> 01:24:40,901
+– Sunteţi bine ?
+– <i>Deocamdată.</i>
+
+878
+01:24:41,001 --> 01:24:43,340
+Suntem în hangarul principal, lângă navă.
+
+879
+01:24:45,312 --> 01:24:48,515
+– Suntem deasupra voastră, fiţi pregătiţi !
+– Ai venit în chestia aia ?
+
+880
+01:24:48,615 --> 01:24:51,314
+– Eşti mai curajos decât am crezut.
+– Drăguţ... Haideţi !
+
+881
+01:24:55,489 --> 01:24:57,184
+Ei sunt. Omorâţi-i !
+
+882
+01:24:58,525 --> 01:25:01,094
+– Duceţi-vă la navă !
+– Unde te duci ? Vino înapoi !
+
+883
+01:25:01,194 --> 01:25:04,095
+– E într-adevăr curajos.
+– La ce bun dacă va muri ?
+
+884
+01:25:04,195 --> 01:25:05,695
+Hai !
+
+885
+01:25:30,390 --> 01:25:33,190
+Cred că am luat-o greşit.
+
+886
+01:25:37,698 --> 01:25:39,398
+Nu e nici o încuietoare.
+
+887
+01:25:42,869 --> 01:25:45,706
+– Ar trebui să ţină o vreme.
+– Repede, trebuie să trecem dincolo.
+
+888
+01:25:45,806 --> 01:25:49,076
+– Găseşte butonul care extinde podul.
+– Cred că tocmai l-am distrus.
+
+889
+01:25:49,176 --> 01:25:51,076
+Trec de uşă.
+
+890
+01:26:12,933 --> 01:26:14,833
+Ţine asta.
+
+891
+01:26:31,218 --> 01:26:32,918
+Vin !
+
+892
+01:26:43,529 --> 01:26:45,229
+Pentru noroc !
+
+893
+01:26:51,003 --> 01:26:56,003
+Cred că s-au despărţit.
+S-ar putea să fie la nivelul 5 şi 6...
+
+894
+01:27:10,023 --> 01:27:12,023
+Unde-or fi ?
+
+895
+01:27:24,700 --> 01:27:27,002
+Deschideţi uşile de siguranţă !
+
+896
+01:27:45,559 --> 01:27:49,919
+Te aşteptam Obi-Wan.
+Ne întâlnim din nou, în sfârşit.
+
+897
+01:27:50,996 --> 01:27:53,100
+Cercul e acum complet.
+
+898
+01:27:53,200 --> 01:27:57,671
+Când te-am lăsat, nu eram decât ucenicul.
+Acum eu sunt maestrul.
+
+899
+01:27:57,771 --> 01:28:00,471
+Doar un maestru al răului, Darth.
+
+900
+01:28:19,793 --> 01:28:22,562
+Puterea ta e slabă, bătrâne.
+
+901
+01:28:22,662 --> 01:28:26,299
+Nu poţi câştiga, Darth.
+Dacă mă omori...
+
+902
+01:28:26,399 --> 01:28:29,800
+...o să devin mai
+puternic decât îţi poţi imagina.
+
+903
+01:28:36,976 --> 01:28:39,274
+Nu ar fi trebuit să te întorci.
+
+904
+01:29:04,838 --> 01:29:07,768
+Nu plecasem de la
+petrecerea asta ?
+
+905
+01:29:09,242 --> 01:29:11,645
+– Ce v-a luat atât ?
+– Ne-am întâlnit cu nişte vechi prieteni.
+
+906
+01:29:11,745 --> 01:29:14,247
+– Nava e în regulă ?
+– Se pare că da, dacă putem ajunge la ea.
+
+907
+01:29:14,347 --> 01:29:17,147
+Sper că bătrânul a scos
+din funcţiune unda tractoare.
+
+908
+01:29:31,264 --> 01:29:32,764
+Uite !
+
+909
+01:29:35,602 --> 01:29:38,102
+Hai R2, mergem !
+
+910
+01:29:39,039 --> 01:29:41,039
+Acum e momentul ! Hai !
+
+911
+01:29:44,277 --> 01:29:45,777
+Ben ?
+
+912
+01:30:00,394 --> 01:30:01,894
+Nu !
+
+913
+01:30:10,504 --> 01:30:13,504
+– Hai !
+– Hai ! Hai !
+
+914
+01:30:14,008 --> 01:30:17,508
+– Luke, e prea târziu.
+– Distruge uşa, puştiule !
+
+915
+01:30:26,900 --> 01:30:29,320
+<i>Fugi Luke, fugi !</i>
+
+916
+01:30:32,058 --> 01:30:34,128
+Sper că bătrânul a scos
+unda tractoare...
+
+917
+01:30:34,228 --> 01:30:37,356
+...altfel va fi o călătorie
+a naibii de scurtă.
+
+918
+01:31:08,394 --> 01:31:10,998
+Ajungem la navele de pază.
+Ţine-le la distanţă !
+
+919
+01:31:11,098 --> 01:31:13,898
+Direcţionează scuturile până
+încarc tunurile principale !
+
+920
+01:31:22,943 --> 01:31:25,043
+Nu pot să cred că a murit !
+
+921
+01:31:29,081 --> 01:31:30,981
+N-aveai ce să faci.
+
+922
+01:31:31,450 --> 01:31:33,919
+Hai amice, nu am terminat încă !
+
+923
+01:31:50,303 --> 01:31:53,063
+Eşti gata ? Ok, fii atent !
+
+924
+01:32:03,617 --> 01:32:05,417
+Vin !
+
+925
+01:32:22,600 --> 01:32:24,600
+Vin prea repede !
+
+926
+01:32:32,479 --> 01:32:36,745
+– Am pierdut controalele laterale.
+– Stai liniştită, va rezista.
+
+927
+01:32:38,251 --> 01:32:40,251
+Mă auzi, scumpo ? Rezistă !
+
+928
+01:33:01,975 --> 01:33:06,175
+– L-am nimerit !
+– Bravo, puştiule ! Nu te umfla în pene !
+
+929
+01:33:07,414 --> 01:33:09,377
+Mai sunt 2 !
+
+930
+01:33:42,883 --> 01:33:46,583
+– Gata, am reuşit !
+– Am reuşit !
+
+931
+01:33:46,753 --> 01:33:49,613
+Ajutor ! Cred că mă topesc.
+E numai vina ta !
+
+932
+01:33:57,130 --> 01:33:58,732
+Au plecat ?
+
+933
+01:33:58,832 --> 01:34:01,902
+Tocmai au făcut
+saltul în hiperspaţiu.
+
+934
+01:34:02,002 --> 01:34:06,202
+Eşti sigur că transmiţătorul e
+în siguranţă la bordul navei lor ?
+
+935
+01:34:06,339 --> 01:34:10,939
+Îmi asum un risc enorm, Vader.
+Ar fi bine să meargă !
+
+936
+01:34:11,377 --> 01:34:13,680
+Nu a fost o evadare rea, nu ?
+
+937
+01:34:13,780 --> 01:34:17,217
+Ştii, uneori mă uimesc şi pe mine !
+
+938
+01:34:17,317 --> 01:34:19,486
+Nu sună prea complicat.
+
+939
+01:34:19,586 --> 01:34:23,400
+Mai ales că ne-au lăsat să plecăm. E singura
+explicaţie pentru uşurinţa cu care am scăpat.
+
+940
+01:34:23,500 --> 01:34:26,159
+– Uşor ? Tu numeşti asta uşor ?
+– Ne urmăresc.
+
+941
+01:34:26,259 --> 01:34:28,327
+Nu nava asta, surioară.
+
+942
+01:34:29,228 --> 01:34:31,831
+Măcar informaţiile
+din R2 sunt intacte.
+
+943
+01:34:31,931 --> 01:34:36,802
+– Ce e aşa de important ? Ce poartă în el ?
+– Datele tehnice ale staţiei.
+
+944
+01:34:37,770 --> 01:34:40,974
+Sper că atunci când sunt analizate
+datele, să se găsească o slăbiciune.
+
+945
+01:34:41,074 --> 01:34:44,244
+– Nu s-a terminat încă !
+– Pentru mine da, surioară.
+
+946
+01:34:44,344 --> 01:34:47,715
+Uite, nu m-am implicat pentru
+revoluţia ta, şi nici pentru tine.
+
+947
+01:34:47,815 --> 01:34:50,750
+Aştept să fiu bine plătit.
+Sunt aici pentru bani.
+
+948
+01:34:50,850 --> 01:34:52,753
+Nu e nevoie să-ţi faci griji
+pentru recompensă.
+
+949
+01:34:52,853 --> 01:34:56,253
+Dacă banii sunt tot
+ce iubeşti, asta vei primi.
+
+950
+01:34:59,159 --> 01:35:03,230
+Prietenul tău este un adevărat mercenar.
+Mă întreb dacă îi pasă de ceva...
+
+951
+01:35:03,330 --> 01:35:05,365
+...sau cineva.
+
+952
+01:35:05,465 --> 01:35:07,065
+Mie îmi pasă !
+
+953
+01:35:13,473 --> 01:35:15,173
+Deci...
+
+954
+01:35:15,800 --> 01:35:19,610
+– ...ce crezi despre ea, Han ?
+– Încerc să nu cred, puştiule !
+
+955
+01:35:20,379 --> 01:35:21,979
+Bun.
+
+956
+01:35:25,084 --> 01:35:28,053
+Şi totuşi, are personalitate.
+
+957
+01:35:29,856 --> 01:35:32,893
+Nu ştiu, tu ce crezi ?
+Crezi că o prinţesă şi unu ca mine...?
+
+958
+01:35:32,993 --> 01:35:34,793
+Nu.
+
+959
+01:36:21,341 --> 01:36:24,544
+Eşti bine ! Când am auzit de Alderaan,
+ne-a fost frică de ce era mai rău.
+
+960
+01:36:24,644 --> 01:36:28,348
+Nu avem timp de temeri acum, Comandante.
+Trebuie să foloseşti informaţiile din R2...
+
+961
+01:36:28,448 --> 01:36:31,306
+...şi să organizezi un atac.
+E singura noastră şansă.
+
+962
+01:36:52,839 --> 01:36:55,542
+– Da.
+– <i>Ne apropiem de planeta Yavin.</i>
+
+963
+01:36:55,642 --> 01:37:00,571
+<i>Baza rebelă e pe Luna din depărtare.
+Ne pregătim să intrăm pe orbita planetei.</i>
+
+964
+01:37:08,755 --> 01:37:12,926
+Staţia de luptă e foarte bine apărată
+şi are o putere de atac mai mare...
+
+965
+01:37:13,026 --> 01:37:15,261
+...decât jumătate din flotă.
+
+966
+01:37:15,361 --> 01:37:19,699
+Sistemele de apărare sunt construite
+în jurul unui asalt de proporţii.
+
+967
+01:37:19,799 --> 01:37:25,101
+O navă mică cu o singură persoană la bord
+ar trebui să treacă de apărarea exterioară.
+
+968
+01:37:26,471 --> 01:37:30,210
+Mă iertaţi că întreb, dle, dar la ce ar folosi nişte nave
+amărâte într-o luptă împotriva staţiei ?
+
+969
+01:37:30,310 --> 01:37:33,747
+Imperiul nu a considerat
+o navă mică drept pericol...
+
+970
+01:37:33,847 --> 01:37:37,347
+...altfel ar fi avut o apărare mai strânsă.
+
+971
+01:37:37,751 --> 01:37:41,020
+Analiza planurilor aduse
+de Prinţesa Leia...
+
+972
+01:37:41,120 --> 01:37:44,619
+...a demonstrat o slăbiciune a staţiei.
+
+973
+01:37:44,991 --> 01:37:47,427
+Apropierea nu va fi uşoară.
+
+974
+01:37:47,527 --> 01:37:50,697
+Va trebui să mergeţi prin această...
+
+975
+01:37:50,797 --> 01:37:53,597
+...adâncitură până la acest punct.
+
+976
+01:37:53,967 --> 01:37:56,970
+Mărimea ţintei este de doar 2 m.
+
+977
+01:37:57,070 --> 01:38:01,874
+E un orificiu de evacuare a vaporilor
+chiar sub bordul principal.
+
+978
+01:38:01,974 --> 01:38:05,111
+Galeria duce direct la reactor.
+
+979
+01:38:05,211 --> 01:38:10,216
+O lovitură precisă va declanşa o reacţie în lanţ,
+care ar trebui să distrugă staţia.
+
+980
+01:38:10,316 --> 01:38:13,920
+Numai o lovitură precisă
+va declanşa reacţia în lanţ.
+
+981
+01:38:14,020 --> 01:38:17,190
+Galeria este protejată cu raze,
+deci va trebui să folosiţi torpilele cu proton.
+
+982
+01:38:17,290 --> 01:38:20,359
+– Este imposibil, chiar şi pentru un computer.
+– Nu e imposibil.
+
+983
+01:38:20,459 --> 01:38:22,996
+Ţinteam şobolani
+de deşert în T-16 acasă.
+
+984
+01:38:23,096 --> 01:38:25,196
+Nu sunt mai mari de 2 m.
+
+985
+01:38:25,598 --> 01:38:29,334
+Mergeţi la nave
+şi Forţa să fie cu voi !
+
+986
+01:38:37,043 --> 01:38:39,834
+<i>Orbităm planeta la viteză maximă.</i>
+
+987
+01:38:40,312 --> 01:38:44,283
+<i>Baza rebelă va fi în raza de
+acţiune în 30 de minute.</i>
+
+988
+01:38:44,383 --> 01:38:48,955
+A văzut sfârşitul lui Kenobi...
+
+989
+01:38:49,055 --> 01:38:53,555
+...şi curând va vedea sfârşitul Rebeliunii.
+
+990
+01:38:57,230 --> 01:39:00,230
+<i>Toţi piloţii, la posturi !</i>
+
+991
+01:39:00,900 --> 01:39:03,900
+<i>Toţi piloţii, la posturi !</i>
+
+992
+01:39:06,205 --> 01:39:09,108
+Aşa deci, ţi-ai primit recompensa
+şi pleci pur şi simplu ?
+
+993
+01:39:09,208 --> 01:39:11,008
+Aşa e, da !
+
+994
+01:39:12,177 --> 01:39:14,847
+Am nişte vechi datorii pe care
+trebuie să le plătesc cu ăştia.
+
+995
+01:39:14,947 --> 01:39:19,047
+Şi chiar şi-aşa, doar nu crezi că aş fi
+atât de prost să mai stau pe aici.
+
+996
+01:39:19,418 --> 01:39:23,022
+Vino cu noi ! Eşti destul de bun
+la pilotat. Mi-ai fi de ajutor.
+
+997
+01:39:23,122 --> 01:39:26,025
+Haide, de ce nu
+te uiţi puţin în jur ?
+
+998
+01:39:26,125 --> 01:39:28,461
+Ştii ce-o să se întâmple,
+cu ce se confruntă !
+
+999
+01:39:28,561 --> 01:39:31,764
+Le-ar fi de ajutor un pilot bun
+ca tine. Le întorci spatele.
+
+1000
+01:39:31,864 --> 01:39:34,267
+La ce bună o recompensă
+dacă nu te bucuri de ea ?
+
+1001
+01:39:34,367 --> 01:39:37,137
+Mai ales că atacând staţia aceea,
+nu e ideea mea despre curaj.
+
+1002
+01:39:37,237 --> 01:39:40,267
+E mai mult... sinucidere.
+
+1003
+01:39:41,707 --> 01:39:44,611
+Bine, ai grijă de tine, Han.
+
+1004
+01:39:44,711 --> 01:39:47,680
+Cred că la asta te
+pricepi cel mai bine, nu ?
+
+1005
+01:39:47,780 --> 01:39:49,480
+Hei, Luke.
+
+1006
+01:39:52,218 --> 01:39:54,852
+Forţa să fie cu tine !
+
+1007
+01:40:01,094 --> 01:40:04,525
+La ce te uiţi ?
+Ştiu ce fac !
+
+1008
+01:40:19,688 --> 01:40:21,688
+– Ce s-a întâmplat ?
+– E Han.
+
+1009
+01:40:22,089 --> 01:40:24,893
+Nu ştiu, credeam că se va râzgândi.
+
+1010
+01:40:24,994 --> 01:40:28,796
+Trebuie să-şi urmeze calea lui.
+Nimeni nu poate alege pentru el.
+
+1011
+01:40:29,464 --> 01:40:31,964
+Îmi doresc ca Ben să fi fost aici.
+
+1012
+01:40:51,821 --> 01:40:55,157
+Acest R2 al tău e cam obosit.
+Vrei altul ?
+
+1013
+01:40:55,257 --> 01:40:58,194
+Nici o şansă. Roboţelul ăsta şi cu mine
+am trecut prin multe împreună.
+
+1014
+01:40:58,294 --> 01:41:00,194
+Eşti în regulă, R2 ?
+
+1015
+01:41:00,896 --> 01:41:02,396
+Bine !
+
+1016
+01:41:06,636 --> 01:41:09,300
+Ţine-te bine R2,
+trebuie să te întorci.
+
+1017
+01:41:11,441 --> 01:41:13,665
+N-ai vrea să mă plictisesc
+pe urmă, nu ?
+
+1018
+01:42:02,291 --> 01:42:06,291
+<i>Luke, Forţa va fi cu tine !</i>
+
+1019
+01:42:16,972 --> 01:42:19,972
+<i>Atenţiune ! Steaua Morţii se apropie.</i>
+
+1020
+01:42:20,509 --> 01:42:23,709
+<i>Timp rămas până la poziţia
+de tragere, 15 minute.</i>
+
+1021
+01:42:36,692 --> 01:42:38,928
+– Toate navele, raportaţi !
+– Red 10 pregătit.
+
+1022
+01:42:39,028 --> 01:42:41,164
+– <i>Red 7 pregătit.</i>
+– Red 3 pregătit.
+
+1023
+01:42:41,264 --> 01:42:44,000
+– Red 6 pregătit.
+– Red 9 pregătit.
+
+1024
+01:42:44,100 --> 01:42:46,469
+– Red 2 pregătit.
+– <i>Red 11 pregătit.</i>
+
+1025
+01:42:46,569 --> 01:42:48,469
+Red 5 pregătit.
+
+1026
+01:42:49,705 --> 01:42:52,305
+Fixaţi aripile în poziţie de atac !
+
+1027
+01:42:55,678 --> 01:42:58,981
+– <i>Trecem prin câmpul lor magnetic.</i>
+– Ţineţi-vă bine !
+
+1028
+01:42:59,081 --> 01:43:02,746
+<i>Activaţi-vă scuturile !
+Front dublu.</i>
+
+1029
+01:43:05,221 --> 01:43:08,022
+– Uitaţi-vă cât e de mare !
+– <i>Gata cu pălăvrăgeala, Red 2.</i>
+
+1030
+01:43:08,122 --> 01:43:10,217
+Acceleraţi până la viteza de atac.
+
+1031
+01:43:12,995 --> 01:43:15,732
+– Asta este, băieţi.
+– Red Leader, aici Gold Leader.
+
+1032
+01:43:15,832 --> 01:43:18,868
+– Te aud Gold Leader.
+– Ne îndreptăm spre tunel acum.
+
+1033
+01:43:18,968 --> 01:43:22,864
+Suntem pe poziţii. Am să încerc
+să schimb flancul şi să atrag atacul lor.
+
+1034
+01:43:36,886 --> 01:43:40,286
+– <i>Se trage din greu, şefule ! 23 de grade.</i>
+– <i>Îl văd. Stai jos !</i>
+
+1035
+01:43:47,596 --> 01:43:49,896
+Aici Red 5. Intru !
+
+1036
+01:43:53,702 --> 01:43:55,602
+<i>Luke, ridică-te !</i>
+
+1037
+01:43:56,405 --> 01:43:59,137
+– Eşti bine ?
+– M-am prăjit puţin, dar sunt bine !
+
+1038
+01:44:04,713 --> 01:44:06,482
+Am numărat 30 de
+nave rebele, Lord Vader.
+
+1039
+01:44:06,582 --> 01:44:08,584
+Dar sunt atât de mici încât
+nu le nimerim cu turbo-laserele.
+
+1040
+01:44:08,684 --> 01:44:12,784
+Va trebui să le distrugem una câte una.
+Pregăteşte echipele la nave.
+
+1041
+01:44:15,191 --> 01:44:19,695
+Ai grijă ! Ne atacă puternic din
+dreapta acelui turn de apărare.
+
+1042
+01:44:19,795 --> 01:44:22,532
+– Mă ocup de el.
+– Intru. Acoperă-mă, Porkins !
+
+1043
+01:44:22,632 --> 01:44:24,932
+Sunt lângă tine, Red 3 !
+
+1044
+01:44:30,206 --> 01:44:32,006
+Am o problemă aici !
+
+1045
+01:44:32,200 --> 01:44:33,801
+– Jiggs !
+– Nu pot să o menţin !
+
+1046
+01:44:33,901 --> 01:44:36,301
+– Ridică-te !
+– Nu-i nimic, sunt în regulă...
+
+1047
+01:44:40,216 --> 01:44:43,216
+<i>Baza rebelă va fi în raza
+de acţiune în 7 minute.</i>
+
+1048
+01:44:47,022 --> 01:44:50,222
+<i>Luke, ascultă-ţi instinctul !</i>
+
+1049
+01:44:57,733 --> 01:45:01,570
+Lideri, am primit un nou
+grup de semnale.
+
+1050
+01:45:01,670 --> 01:45:03,439
+Nave inamice vin spre voi.
+
+1051
+01:45:03,539 --> 01:45:05,307
+La mine nu apare nimic
+pe radar. Nu văd nimic.
+
+1052
+01:45:05,407 --> 01:45:07,864
+– Menţine scanarea vizuală.
+– Uite-i că vin !
+
+1053
+01:45:10,500 --> 01:45:12,800
+Ai grijă, ai unul în coadă !
+
+1054
+01:45:19,989 --> 01:45:23,088
+– Biggs, ai unul pe urme, ai grijă !
+– Nu-l văd !
+
+1055
+01:45:24,627 --> 01:45:26,927
+Se ţine de mine,
+nu pot să-l pierd...!
+
+1056
+01:45:28,163 --> 01:45:30,063
+Vin imediat !
+
+1057
+01:45:42,210 --> 01:45:46,103
+Mai multe nave s-au despărţit
+de grupul principal. Veniţi cu mine !
+
+1058
+01:45:49,051 --> 01:45:51,553
+<i>Intră Luke, intră !</i>
+
+1059
+01:45:51,653 --> 01:45:55,453
+Ai grijă la spate, Luke ! Ai grijă
+în spate, ai nave deasupra ta !
+
+1060
+01:46:01,030 --> 01:46:03,732
+Sunt nimerit, dar nu e grav.
+R2, vezi ce poţi face.
+
+1061
+01:46:03,832 --> 01:46:06,032
+Ţine-te bine acolo !
+
+1062
+01:46:06,435 --> 01:46:08,704
+<i>Red 6... Îl vezi pe Red 5 ?</i>
+
+1063
+01:46:08,804 --> 01:46:11,573
+<i>E o zonă unde se trage
+foarte tare. Red 5, unde eşti ?</i>
+
+1064
+01:46:11,673 --> 01:46:13,373
+Nu pot să scap de el !
+
+1065
+01:46:16,700 --> 01:46:18,669
+E al meu, Luke.
+Ţine-te bine !
+
+1066
+01:46:21,417 --> 01:46:23,544
+Distruge-l ! Biggs unde eşti ?
+
+1067
+01:46:30,559 --> 01:46:32,995
+Mulţumesc, Wedge !
+
+1068
+01:46:33,095 --> 01:46:36,556
+Aici Gold Leader. Intrăm în
+formaţie de atac.
+
+1069
+01:46:37,967 --> 01:46:40,767
+<i>Am înţeles, Gold Leader.
+Intrăm pe poziţii.</i>
+
+1070
+01:46:42,871 --> 01:46:45,240
+Rămâneţi în formaţie de atac.
+
+1071
+01:46:45,340 --> 01:46:48,441
+Orificiul de evacuare
+e marcat şi fixat.
+
+1072
+01:46:53,883 --> 01:46:56,883
+<i>Puterea la scuturile din faţă !</i>
+
+1073
+01:46:56,986 --> 01:46:59,986
+<i>Puterea la scuturile din faţă !</i>
+
+1074
+01:47:04,900 --> 01:47:06,896
+Câte tunuri crezi că sunt, Gold 5 ?
+
+1075
+01:47:06,996 --> 01:47:10,032
+<i>Cred că vreo 20. Câteva la
+suprafaţă, câteva pe turnuri.</i>
+
+1076
+01:47:10,132 --> 01:47:13,132
+<i>Steaua Morţii va fi în raza de
+acţiune în 5 minute.</i>
+
+1077
+01:47:15,170 --> 01:47:17,370
+Trec pe sistemul de
+ochire prin computer.
+
+1078
+01:47:20,676 --> 01:47:23,135
+Computerul e online.
+Primesc semnal.
+
+1079
+01:47:25,147 --> 01:47:27,638
+Tunurile... s-au oprit !
+
+1080
+01:47:28,800 --> 01:47:31,501
+Stabilizează-ţi scuturile din spate.
+Ai grijă la nave inamice.
+
+1081
+01:47:31,601 --> 01:47:34,418
+Vin !
+3 nave la 210.
+
+1082
+01:47:36,091 --> 01:47:39,591
+– Mă ocup eu de ei, acoperă-mă !
+– Da, dle.
+
+1083
+01:47:53,776 --> 01:47:56,412
+– Nu mai pot manevra nava.
+– Rămâi pe ţintă.
+
+1084
+01:47:56,512 --> 01:47:58,905
+– Suntem prea aproape !
+– Rămâi pe ţintă !
+
+1085
+01:48:00,382 --> 01:48:02,082
+Despărţiţi-vă !
+
+1086
+01:48:04,220 --> 01:48:07,089
+Gold 5 spre Red Leader...
+I-am pierdut pe Tiree şi pe Hutch.
+
+1087
+01:48:07,189 --> 01:48:09,946
+– Recepţionat, Gold Leader.
+– Au venit din spate.
+
+1088
+01:48:15,800 --> 01:48:18,634
+Le-am analizat atacul, dle
+şi există un pericol.
+
+1089
+01:48:18,734 --> 01:48:20,570
+Să vă pregătesc nava ?
+
+1090
+01:48:20,670 --> 01:48:26,070
+Să plec ? Într-un moment de triumf ?
+Cred că le-ai supraestimat şansele.
+
+1091
+01:48:26,608 --> 01:48:29,238
+<i>Baza rebelă, 3 min şi se apropie.</i>
+
+1092
+01:48:29,711 --> 01:48:33,315
+Grupul Red, aici Red Leader.
+Ne întâlnim la punctul 6.1.
+
+1093
+01:48:33,415 --> 01:48:37,086
+– <i>Aici Red 2. Zbor spre tine.</i>
+– <i>Red 3, pregătit.</i>
+
+1094
+01:48:37,186 --> 01:48:38,887
+Red Leader, aici Baza 1.
+
+1095
+01:48:38,987 --> 01:48:41,391
+<i>Păstrează-ţi jumătate din grup în afara
+razei de acţiune pentru atacul următor.</i>
+
+1096
+01:48:41,491 --> 01:48:44,160
+<i>Recepţionat, Baza 1.
+Luke, ia-i pe Red 2 şi Red 3.</i>
+
+1097
+01:48:44,260 --> 01:48:47,560
+Staţi acolo sus şi aşteptaţi-mi
+semnalul să porniţi în atac.
+
+1098
+01:48:56,404 --> 01:48:58,204
+Asta este.
+
+1099
+01:49:01,900 --> 01:49:04,000
+Ar fi trebuit să o vedem
+până acum.
+
+1100
+01:49:05,500 --> 01:49:07,978
+Atenţie la navele inamice.
+
+1101
+01:49:09,218 --> 01:49:11,754
+Prea multe interferenţe.
+Red 5, îi vezi de unde eşti ?
+
+1102
+01:49:11,854 --> 01:49:15,278
+– Nici urmă ! Stai ! Vin de la .35.
+– Îi văd.
+
+1103
+01:49:16,292 --> 01:49:18,092
+Sunt în raza de acţiune.
+
+1104
+01:49:18,661 --> 01:49:20,561
+Se apropie ţinta.
+
+1105
+01:49:23,065 --> 01:49:25,400
+Mai ţine-i pentru câteva secunde.
+
+1106
+01:49:25,800 --> 01:49:28,032
+Strângeţi formaţia.
+
+1107
+01:49:29,371 --> 01:49:31,566
+Aproape am ajuns.
+
+1108
+01:49:40,000 --> 01:49:43,901
+– Mai bine ai lăsa-o mai liberă.
+– Aproape am ajuns.
+
+1109
+01:49:44,700 --> 01:49:46,600
+Nu-i mai pot ţine.
+
+1110
+01:49:54,700 --> 01:49:56,400
+Am tras !
+
+1111
+01:49:59,900 --> 01:50:01,337
+– <i>Nimerit !</i>
+– <i>Negativ.</i>
+
+1112
+01:50:01,437 --> 01:50:03,906
+Negativ. Nu a intrat.
+
+1113
+01:50:04,006 --> 01:50:06,968
+<i>S-a lovit de suprafaţă.</i>
+
+1114
+01:50:12,748 --> 01:50:17,186
+Red Leader, suntem deasupra ta.
+Întoarce-te la punctul 05, te vom acoperi.
+
+1115
+01:50:17,286 --> 01:50:20,586
+Stai acolo. Tocmai am pierdut
+unul din motoare.
+
+1116
+01:50:20,989 --> 01:50:23,453
+Pregătiţi-vă să porniţi în atac.
+
+1117
+01:50:36,238 --> 01:50:39,374
+<i>Baza rebelă, 1 minut şi se apropie.</i>
+
+1118
+01:50:39,474 --> 01:50:43,045
+<i>Biggs, Wedge, să ne apropiem.
+Intrăm ! Intrăm la viteză maximă.</i>
+
+1119
+01:50:43,145 --> 01:50:46,849
+– Poţi lua navele de pe coada noastră ?
+– Suntem lângă tine, şefule.
+
+1120
+01:50:46,949 --> 01:50:49,451
+Luke, la viteza asta
+vei putea să te ridici la timp ?
+
+1121
+01:50:49,551 --> 01:50:51,876
+Va fi exact ca în
+Canionul Beggar de acasă.
+
+1122
+01:50:58,600 --> 01:51:00,830
+Vom fi în urma ta, la distanţă,
+să te acoperim.
+
+1123
+01:51:00,930 --> 01:51:03,599
+<i>Pe radar îmi apare turnul,
+dar nu văd orificiul de evacuare.</i>
+
+1124
+01:51:03,699 --> 01:51:06,099
+Sigur îl poate nimeri computerul ?
+
+1125
+01:51:08,537 --> 01:51:12,139
+– Ai grijă ! Creşteţi viteza la maxim.
+– Şi turnul ?
+
+1126
+01:51:12,239 --> 01:51:15,070
+Tu ai grijă de navele acelea !
+Am eu grijă de turn.
+
+1127
+01:51:20,949 --> 01:51:24,800
+R2, stabilizatorul s-a desprins iar !
+Vezi dacă îl poţi fixa.
+
+1128
+01:51:33,862 --> 01:51:35,992
+Nave, se apropie de la .3.
+
+1129
+01:51:44,405 --> 01:51:46,175
+M-au nimerit !
+Nu mai pot sta cu tine.
+
+1130
+01:51:46,275 --> 01:51:48,510
+Pleacă Wedge. Nu mai poţi face
+mare lucru acolo în spate.
+
+1131
+01:51:48,610 --> 01:51:50,210
+Îmi pare rău.
+
+1132
+01:51:50,779 --> 01:51:53,013
+Lăsaţi-l să plece !
+Rămâneţi cu liderul.
+
+1133
+01:51:55,284 --> 01:51:58,284
+Repede, Luke, vin mult mai
+repede acum. Nu-i pot ţine.
+
+1134
+01:52:01,800 --> 01:52:03,900
+R2, încearcă să măreşti puterea !
+
+1135
+01:52:10,065 --> 01:52:12,865
+<i>Grăbeşte-te, Luke !
+Aşteaptă !</i>
+
+1136
+01:52:20,109 --> 01:52:23,000
+<i>Baza rebelă, 30 de secunde şi se apropie.</i>
+
+1137
+01:52:23,145 --> 01:52:25,045
+Sunt pe urmele liderului.
+
+1138
+01:52:27,716 --> 01:52:29,415
+Rezistă, R2 !
+
+1139
+01:52:44,899 --> 01:52:47,299
+<i>Foloseşte Forţa, Luke !</i>
+
+1140
+01:52:50,138 --> 01:52:52,163
+<i>Lasă ăla, Luke !</i>
+
+1141
+01:52:53,842 --> 01:52:56,178
+Forţa e puternică la ăsta.
+
+1142
+01:52:56,278 --> 01:52:58,378
+<i>Luke, ai încredere în mine !</i>
+
+1143
+01:53:03,518 --> 01:53:04,919
+<i>Computerul e închis.</i>
+
+1144
+01:53:05,019 --> 01:53:07,590
+<i>Luke, ai închis computerul.
+Ce s-a întâmplat ?</i>
+
+1145
+01:53:07,690 --> 01:53:09,690
+<i>Nimic. Sunt în regulă.</i>
+
+1146
+01:53:23,438 --> 01:53:25,038
+<i>L-am pierdut pe R2 !</i>
+
+1147
+01:53:26,141 --> 01:53:28,141
+<i>Steaua Morţii a ocolit planeta.</i>
+
+1148
+01:53:28,477 --> 01:53:30,477
+<i>Steaua Morţii a ocolit planeta.</i>
+
+1149
+01:53:31,513 --> 01:53:35,513
+– <i>Baza rebelă este în raza de acţiune.</i>
+– Puteţi trage când sunteţi gata.
+
+1150
+01:53:36,051 --> 01:53:38,051
+<i>Se activează sistemele primare.</i>
+
+1151
+01:53:51,700 --> 01:53:53,561
+Te-am prins.
+
+1152
+01:53:55,300 --> 01:53:57,000
+Ce ?
+
+1153
+01:53:59,241 --> 01:54:00,941
+Atenţie !
+
+1154
+01:54:06,815 --> 01:54:10,148
+Eşti liber, puştiule ! Hai să aruncăm în
+aer chestia asta şi să mergem acasă !
+
+1155
+01:54:16,658 --> 01:54:18,258
+<i>Fiţi pregătiţi !</i>
+
+1156
+01:54:21,429 --> 01:54:23,029
+<i>Fiţi pregătiţi !</i>
+
+1157
+01:54:33,008 --> 01:54:35,408
+Grozavă lovitură, puştiule !
+A fost una într-un milion !
+
+1158
+01:54:36,311 --> 01:54:40,511
+<i>Nu uita, Forţa va fi
+cu tine... întotdeauna !</i>
+
+1159
+01:55:00,034 --> 01:55:01,534
+Luke !
+
+1160
+01:55:06,374 --> 01:55:08,043
+Ştiam că ai să te întorci ! Ştiam !
+
+1161
+01:55:08,143 --> 01:55:10,179
+Nu te puteam lăsa să iei toată 
+admiraţia şi toată recompensa.
+
+1162
+01:55:10,279 --> 01:55:13,279
+Ştiam că există mai multe
+în viaţa ta decât banii.
+
+1163
+01:55:13,848 --> 01:55:17,448
+– Nu !
+– Vai de mine ! R2 ! Mă auzi ?
+
+1164
+01:55:17,886 --> 01:55:20,789
+Spune ceva !
+Îl puteţi repara, nu-i aşa ?
+
+1165
+01:55:20,889 --> 01:55:24,259
+– Ne vom ocupa de el, chiar acum.
+– Trebuie să-l reparaţi !
+
+1166
+01:55:24,359 --> 01:55:27,361
+Domnule, dacă vreunul din circuitele
+mele ar ajuta, le donez cu plăcere.
+
+1167
+01:55:27,362 --> 01:55:29,462
+Va fi bine !
