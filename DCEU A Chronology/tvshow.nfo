@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <tvshow>
-    <title></title>
-    <showtitle></showtitle>
-    <year></year>
+    <title>DCEU: A Chronology 3.0</title>
+    <year>2013-present</year>
     <season>-1</season>
-    <episode></episode>
-    <displayseason>-1</displayseason>
-    <displayepisode>-1</displayepisode>
-    <plot></plot>
-    <tagline></tagline>
-    <runtime></runtime>
-    <mpaa></mpaa>
-    <genre>Comedy</genre>
-    <genre>Drama</genre>
-    <premiered>YYYY-MM-DD</premiered>
-    <aired></aired>
-    <studio></studio>
+    <episode>4</episode>
+    <plot>The entire DC Extended Universe editted in chronological order.</plot>
+    <studio>Warner Bros. Pictures</studio>
 </tvshow>
