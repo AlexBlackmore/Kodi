@@ -1,0 +1,1904 @@
+1
+00:00:03,710 --> 00:00:09,419
+the<font color="#E5E5E5"> internet repository of all human</font>
+
+2
+00:00:06,899 --> 00:00:11,330
+<font color="#CCCCCC">knowledge</font><font color="#E5E5E5"> and videos of goats</font><font color="#CCCCCC"> singing</font>
+
+3
+00:00:09,419 --> 00:00:14,269
+Taylor<font color="#E5E5E5"> Swift songs</font>
+
+4
+00:00:11,330 --> 00:00:17,469
+[Music]
+
+5
+00:00:14,269 --> 00:00:17,469
+[Applause]
+
+6
+00:00:17,660 --> 00:00:24,838
+[Music]
+
+7
+00:00:21,109 --> 00:00:27,809
+come on<font color="#E5E5E5"> the</font><font color="#CCCCCC"> Internet is an incredible</font>
+
+8
+00:00:24,838 --> 00:00:29,939
+<font color="#E5E5E5">place and tonight we need to talk about</font>
+
+9
+00:00:27,809 --> 00:00:32,009
+an issue that is<font color="#E5E5E5"> impacting it net</font>
+
+10
+00:00:29,939 --> 00:00:33,689
+neutrality<font color="#CCCCCC"> if that certain rings a bell</font>
+
+11
+00:00:32,009 --> 00:00:36,179
+we actually talked<font color="#CCCCCC"> about it in</font><font color="#E5E5E5"> our fifth</font>
+
+12
+00:00:33,689 --> 00:00:37,948
+<font color="#E5E5E5">ever episode three years ago a piece</font>
+
+13
+00:00:36,179 --> 00:00:40,710
+<font color="#CCCCCC">that got a weird amount of attention</font>
+
+14
+00:00:37,948 --> 00:00:42,960
+last<font color="#CCCCCC"> week</font><font color="#E5E5E5"> tonight with John Oliver has</font>
+
+15
+00:00:40,710 --> 00:00:45,359
+languished in relative<font color="#E5E5E5"> obscurity</font><font color="#CCCCCC"> since</font>
+
+16
+00:00:42,960 --> 00:00:48,058
+its<font color="#CCCCCC"> debut in</font><font color="#E5E5E5"> April but this week an</font>
+
+17
+00:00:45,359 --> 00:00:49,799
+Oliver diatribe about<font color="#E5E5E5"> net</font><font color="#CCCCCC"> neutrality</font>
+
+18
+00:00:48,058 --> 00:00:53,968
+went viral<font color="#E5E5E5"> hi</font>
+
+19
+00:00:49,799 --> 00:00:58,349
+fuck you lady<font color="#E5E5E5"> language</font><font color="#CCCCCC"> and relatives</font>
+
+20
+00:00:53,969 --> 00:01:01,469
+<font color="#E5E5E5">Ozzie life relative obscurity</font><font color="#CCCCCC"> when</font><font color="#E5E5E5"> a</font>
+
+21
+00:00:58,350 --> 00:01:04,140
+<font color="#E5E5E5">village or</font><font color="#CCCCCC"> tea is my middle name but</font>
+
+22
+00:01:01,469 --> 00:01:06,599
+<font color="#E5E5E5">incredibly being nagged by WGBH</font><font color="#CCCCCC"> Boston</font>
+
+23
+00:01:04,140 --> 00:01:08,640
+<font color="#E5E5E5">was not the weirdest bit of</font><font color="#CCCCCC"> attention of</font>
+
+24
+00:01:06,599 --> 00:01:13,169
+<font color="#E5E5E5">that segment attracted that without a</font>
+
+25
+00:01:08,640 --> 00:01:15,780
+<font color="#E5E5E5">doubt would be this all right it's</font>
+
+26
+00:01:13,170 --> 00:01:18,659
+comedian John<font color="#E5E5E5"> Oliver in New York</font><font color="#CCCCCC"> is it a</font>
+
+27
+00:01:15,780 --> 00:01:20,909
+big<font color="#E5E5E5"> piece on net neutrality</font><font color="#CCCCCC"> and the</font><font color="#E5E5E5"> FCC</font>
+
+28
+00:01:18,659 --> 00:01:22,979
+<font color="#E5E5E5">and he directed everybody to go to the</font>
+
+29
+00:01:20,909 --> 00:01:24,930
+FCC<font color="#CCCCCC"> website and leave</font><font color="#E5E5E5"> like hateful</font>
+
+30
+00:01:22,978 --> 00:01:25,409
+comments and it turns out it totally
+
+31
+00:01:24,930 --> 00:01:29,159
+worked
+
+32
+00:01:25,409 --> 00:01:31,829
+<font color="#E5E5E5">the FCC's website</font><font color="#CCCCCC"> crack</font><font color="#E5E5E5"> you get a job I</font>
+
+33
+00:01:29,159 --> 00:01:34,140
+was<font color="#CCCCCC"> doing it what</font><font color="#E5E5E5"> people did it yeah I</font>
+
+34
+00:01:31,828 --> 00:01:34,949
+<font color="#CCCCCC">just</font><font color="#E5E5E5"> merely</font><font color="#CCCCCC"> pointed</font><font color="#E5E5E5"> out a problem now</font>
+
+35
+00:01:34,140 --> 00:01:37,349
+yeah
+
+36
+00:01:34,950 --> 00:01:39,750
+I will event starting<font color="#CCCCCC"> a quintessentially</font>
+
+37
+00:01:37,349 --> 00:01:41,759
+British excuse you cannot possibly hold
+
+38
+00:01:39,750 --> 00:01:43,228
+me responsible for<font color="#E5E5E5"> the masses decide to</font>
+
+39
+00:01:41,759 --> 00:01:45,478
+make a fuss about<font color="#CCCCCC"> now run</font><font color="#E5E5E5"> along</font>
+
+40
+00:01:43,228 --> 00:01:49,140
+scallywag I said good day<font color="#CCCCCC"> to you good</font>
+
+41
+00:01:45,478 --> 00:01:51,000
+day sir now the reason for<font color="#CCCCCC"> our segment</font>
+
+42
+00:01:49,140 --> 00:01:52,739
+<font color="#CCCCCC">three years ago was that the future of</font>
+
+43
+00:01:51,000 --> 00:01:55,019
+net neutrality was in question<font color="#CCCCCC"> and to</font>
+
+44
+00:01:52,739 --> 00:01:56,849
+their<font color="#CCCCCC"> credit the FCC took steps to</font>
+
+45
+00:01:55,019 --> 00:01:58,438
+<font color="#E5E5E5">safeguard ease and if you're wondering</font>
+
+46
+00:01:56,849 --> 00:02:01,379
+why<font color="#CCCCCC"> I'm even</font><font color="#E5E5E5"> bringing up a problem that</font>
+
+47
+00:01:58,438 --> 00:02:03,089
+was seemingly solved<font color="#E5E5E5"> this is why the</font>
+
+48
+00:02:01,379 --> 00:02:05,578
+Trump<font color="#E5E5E5"> administration today announcing</font>
+
+49
+00:02:03,090 --> 00:02:08,340
+plans to<font color="#CCCCCC"> rollback Obama</font><font color="#E5E5E5"> era net</font>
+
+50
+00:02:05,578 --> 00:02:10,739
+neutrality rules<font color="#E5E5E5"> unequal access of</font>
+
+51
+00:02:08,340 --> 00:02:12,750
+<font color="#E5E5E5">course it seems that the Trump era will</font>
+
+52
+00:02:10,739 --> 00:02:14,819
+basically controls<font color="#E5E5E5"> the everything that</font>
+
+53
+00:02:12,750 --> 00:02:16,709
+happened<font color="#CCCCCC"> on Obama's watch</font><font color="#E5E5E5"> I genuinely</font>
+
+54
+00:02:14,819 --> 00:02:18,479
+would not be surprised if one night
+
+55
+00:02:16,709 --> 00:02:20,819
+Trump went on TV<font color="#E5E5E5"> just to tell us</font><font color="#CCCCCC"> that he</font>
+
+56
+00:02:18,479 --> 00:02:22,409
+personally<font color="#E5E5E5"> killed every</font><font color="#CCCCCC"> turkey</font><font color="#E5E5E5"> Obama</font>
+
+57
+00:02:20,819 --> 00:02:26,620
+ever<font color="#E5E5E5"> pardons</font>
+
+58
+00:02:22,409 --> 00:02:28,719
+but the point is though<font color="#E5E5E5"> once again net</font>
+
+59
+00:02:26,620 --> 00:02:30,460
+<font color="#E5E5E5">neutrality is in trouble</font><font color="#CCCCCC"> and if you need</font>
+
+60
+00:02:28,719 --> 00:02:33,280
+a<font color="#E5E5E5"> refresher on what it involves</font>
+
+61
+00:02:30,460 --> 00:02:36,280
+please let me start of the 2007 viral
+
+62
+00:02:33,280 --> 00:02:39,250
+smash video<font color="#E5E5E5"> Chocolate Rain</font><font color="#CCCCCC"> explain it</font><font color="#E5E5E5"> to</font>
+
+63
+00:02:36,280 --> 00:02:41,319
+you in 30 seconds net<font color="#E5E5E5"> neutrality is</font><font color="#CCCCCC"> the</font>
+
+64
+00:02:39,250 --> 00:02:43,210
+idea<font color="#CCCCCC"> that your pipe to the</font><font color="#E5E5E5"> internet</font>
+
+65
+00:02:41,319 --> 00:02:46,689
+whether that is your<font color="#E5E5E5"> cable internet</font>
+
+66
+00:02:43,210 --> 00:02:49,270
+<font color="#E5E5E5">connection your LTE wireless internet</font>
+
+67
+00:02:46,689 --> 00:02:51,430
+connection<font color="#E5E5E5"> however you are receiving</font>
+
+68
+00:02:49,270 --> 00:02:53,320
+<font color="#E5E5E5">information via the</font><font color="#CCCCCC"> internet that</font>
+
+69
+00:02:51,430 --> 00:02:55,780
+pipeline to<font color="#CCCCCC"> the</font><font color="#E5E5E5"> Internet is not allowed</font>
+
+70
+00:02:53,319 --> 00:02:57,789
+<font color="#CCCCCC">to arbitrarily pick favorites in terms</font>
+
+71
+00:02:55,780 --> 00:02:59,530
+of the content that<font color="#E5E5E5"> you consume for</font>
+
+72
+00:02:57,789 --> 00:03:01,150
+example if you like<font color="#E5E5E5"> to use Google</font><font color="#CCCCCC"> search</font>
+
+73
+00:02:59,530 --> 00:03:03,009
+<font color="#E5E5E5">and your roommate likes to use being</font>
+
+74
+00:03:01,150 --> 00:03:05,560
+searched<font color="#CCCCCC"> your internet service provider</font>
+
+75
+00:03:03,009 --> 00:03:07,329
+can't say<font color="#CCCCCC"> well being is paying us</font><font color="#E5E5E5"> a lot</font>
+
+76
+00:03:05,560 --> 00:03:09,370
+of<font color="#CCCCCC"> money so we're going</font><font color="#E5E5E5"> to slow down</font>
+
+77
+00:03:07,330 --> 00:03:11,800
+Google and Yahoo and<font color="#CCCCCC"> their</font><font color="#E5E5E5"> other search</font>
+
+78
+00:03:09,370 --> 00:03:13,270
+engine competitors to<font color="#CCCCCC"> make being load</font>
+
+79
+00:03:11,800 --> 00:03:14,500
+<font color="#E5E5E5">fast</font><font color="#CCCCCC"> he's right</font>
+
+80
+00:03:13,270 --> 00:03:16,450
+although<font color="#E5E5E5"> that's obviously just a</font>
+
+81
+00:03:14,500 --> 00:03:20,259
+<font color="#CCCCCC">hypothetical there's clearly no such</font>
+
+82
+00:03:16,449 --> 00:03:21,519
+search engine as Bing<font color="#E5E5E5"> or maybe there is</font>
+
+83
+00:03:20,259 --> 00:03:23,169
+I<font color="#CCCCCC"> don't know that there's really only</font>
+
+84
+00:03:21,520 --> 00:03:25,330
+one<font color="#E5E5E5"> way to find out and that's by</font>
+
+85
+00:03:23,169 --> 00:03:29,169
+googling<font color="#CCCCCC"> it</font><font color="#E5E5E5"> and that kind of the point</font>
+
+86
+00:03:25,330 --> 00:03:32,230
+<font color="#E5E5E5">but but net neutrality is about more</font>
+
+87
+00:03:29,169 --> 00:03:33,609
+<font color="#E5E5E5">than just theme and it's hot</font><font color="#CCCCCC"> it is the</font>
+
+88
+00:03:32,229 --> 00:03:36,549
+principle<font color="#CCCCCC"> that Internet service</font>
+
+89
+00:03:33,610 --> 00:03:38,290
+providers or ISPs like these guys should
+
+90
+00:03:36,550 --> 00:03:40,480
+not<font color="#CCCCCC"> be</font><font color="#E5E5E5"> able to</font><font color="#CCCCCC"> engage in any sort</font><font color="#E5E5E5"> of</font>
+
+91
+00:03:38,289 --> 00:03:42,549
+fuckery<font color="#E5E5E5"> that limits or manipulates the</font>
+
+92
+00:03:40,479 --> 00:03:44,590
+choices you make<font color="#E5E5E5"> online</font><font color="#CCCCCC"> it also helps</font>
+
+93
+00:03:42,550 --> 00:03:46,480
+ensure a level<font color="#CCCCCC"> playing field so that big</font>
+
+94
+00:03:44,590 --> 00:03:48,310
+companies<font color="#E5E5E5"> cannot undermine small</font>
+
+95
+00:03:46,479 --> 00:03:50,799
+companies before<font color="#E5E5E5"> they can take off and</font>
+
+96
+00:03:48,310 --> 00:03:53,080
+without it ancestry.com<font color="#CCCCCC"> could easily</font>
+
+97
+00:03:50,800 --> 00:03:54,670
+crush my new site<font color="#E5E5E5"> just tell me if I'm</font>
+
+98
+00:03:53,080 --> 00:03:57,160
+related to a Nazi<font color="#CCCCCC"> com</font>
+
+99
+00:03:54,669 --> 00:04:00,369
+it's like ancestry.com<font color="#CCCCCC"> except you get to</font>
+
+100
+00:03:57,159 --> 00:04:02,859
+<font color="#E5E5E5">skip all the bullshit</font><font color="#CCCCCC"> net neutrality is</font>
+
+101
+00:04:00,370 --> 00:04:05,650
+objectively boring and that<font color="#E5E5E5"> used to work</font>
+
+102
+00:04:02,860 --> 00:04:07,480
+<font color="#CCCCCC">to ISPs advantage but more</font><font color="#E5E5E5"> people know</font>
+
+103
+00:04:05,650 --> 00:04:08,650
+what it is now<font color="#E5E5E5"> which is why some</font>
+
+104
+00:04:07,479 --> 00:04:10,899
+<font color="#CCCCCC">companies have</font><font color="#E5E5E5"> started putting out</font>
+
+105
+00:04:08,650 --> 00:04:13,510
+statements<font color="#E5E5E5"> trumpeting their support for</font>
+
+106
+00:04:10,900 --> 00:04:15,879
+<font color="#CCCCCC">a free and open Internet that Verizon</font>
+
+107
+00:04:13,509 --> 00:04:18,250
+<font color="#E5E5E5">even created a video to calm any</font>
+
+108
+00:04:15,879 --> 00:04:19,750
+concerns that<font color="#E5E5E5"> you might have</font><font color="#CCCCCC"> hey what's</font>
+
+109
+00:04:18,250 --> 00:04:21,668
+up everybody Jeremy here with<font color="#E5E5E5"> Craig</font>
+
+110
+00:04:19,750 --> 00:04:23,800
+<font color="#CCCCCC">silliman who is our general counsel and</font>
+
+111
+00:04:21,668 --> 00:04:26,439
+<font color="#E5E5E5">leads our public policy group let's jump</font>
+
+112
+00:04:23,800 --> 00:04:28,540
+right into it<font color="#E5E5E5"> is the</font><font color="#CCCCCC"> FCC going to kill</font>
+
+113
+00:04:26,439 --> 00:04:30,969
+what we know as<font color="#CCCCCC"> the open</font><font color="#E5E5E5"> Internet rules</font>
+
+114
+00:04:28,540 --> 00:04:32,140
+<font color="#E5E5E5">or net neutrality the FCC is not talking</font>
+
+115
+00:04:30,970 --> 00:04:35,590
+<font color="#CCCCCC">about</font><font color="#E5E5E5"> killing the net neutrality rules</font>
+
+116
+00:04:32,139 --> 00:04:37,240
+<font color="#E5E5E5">in fact not we nor any other ISP or</font>
+
+117
+00:04:35,589 --> 00:04:39,039
+asking<font color="#E5E5E5"> them to kill the open Internet</font>
+
+118
+00:04:37,240 --> 00:04:40,509
+rules<font color="#E5E5E5"> all they're doing is looking</font><font color="#CCCCCC"> to</font>
+
+119
+00:04:39,040 --> 00:04:42,340
+put<font color="#E5E5E5"> the open Internet rules in an</font>
+
+120
+00:04:40,509 --> 00:04:44,949
+enforceable way on a different legal
+
+121
+00:04:42,339 --> 00:04:46,599
+<font color="#E5E5E5">footing</font><font color="#CCCCCC"> now that sounds reasonable and</font>
+
+122
+00:04:44,949 --> 00:04:48,519
+why<font color="#E5E5E5"> wouldn't you trust the commitment to</font>
+
+123
+00:04:46,600 --> 00:04:51,670
+open<font color="#CCCCCC"> access of a man</font><font color="#E5E5E5"> sitting</font><font color="#CCCCCC"> at a table</font>
+
+124
+00:04:48,519 --> 00:04:54,729
+<font color="#E5E5E5">literally</font><font color="#CCCCCC"> blocking an entire hallway</font><font color="#E5E5E5"> but</font>
+
+125
+00:04:51,670 --> 00:04:58,030
+<font color="#E5E5E5">but</font><font color="#CCCCCC"> well</font><font color="#E5E5E5"> but</font><font color="#CCCCCC"> while a</font><font color="#E5E5E5"> different legal</font>
+
+126
+00:04:54,730 --> 00:05:00,400
+<font color="#E5E5E5">footing</font><font color="#CCCCCC"> sounds</font><font color="#E5E5E5"> pretty benign</font><font color="#CCCCCC"> it is not</font>
+
+127
+00:04:58,029 --> 00:05:02,349
+and it<font color="#CCCCCC"> is also worth understanding how</font>
+
+128
+00:05:00,399 --> 00:05:03,699
+net neutrality landed on its current
+
+129
+00:05:02,350 --> 00:05:06,490
+legal<font color="#CCCCCC"> footing because</font><font color="#E5E5E5"> it happens to</font>
+
+130
+00:05:03,699 --> 00:05:08,409
+directly involve<font color="#E5E5E5"> the</font><font color="#CCCCCC"> Rison</font><font color="#E5E5E5"> so let</font><font color="#CCCCCC"> me</font>
+
+131
+00:05:06,490 --> 00:05:10,840
+<font color="#E5E5E5">explain and unfortunately to do that I</font>
+
+132
+00:05:08,410 --> 00:05:12,220
+have to introduce<font color="#E5E5E5"> you</font><font color="#CCCCCC"> to two</font><font color="#E5E5E5"> terms</font><font color="#CCCCCC"> even</font>
+
+133
+00:05:10,839 --> 00:05:15,429
+more boring<font color="#CCCCCC"> than</font><font color="#E5E5E5"> net neutrality</font>
+
+134
+00:05:12,220 --> 00:05:17,860
+specifically<font color="#E5E5E5"> title 1 and title 2 of the</font>
+
+135
+00:05:15,430 --> 00:05:19,810
+Communications Act<font color="#E5E5E5"> of</font><font color="#CCCCCC"> 1934</font><font color="#E5E5E5"> the</font>
+
+136
+00:05:17,860 --> 00:05:22,840
+equivalent of chasing an ambien<font color="#CCCCCC"> with a</font>
+
+137
+00:05:19,810 --> 00:05:26,350
+shot<font color="#CCCCCC"> of chloroform</font><font color="#E5E5E5"> but here is very</font>
+
+138
+00:05:22,839 --> 00:05:28,959
+broadly<font color="#E5E5E5"> what happened back</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> 2010 the</font>
+
+139
+00:05:26,350 --> 00:05:31,450
+FCC<font color="#E5E5E5"> wrote net neutrality rules governing</font>
+
+140
+00:05:28,959 --> 00:05:34,000
+ISPs which at the time were regulated
+
+141
+00:05:31,449 --> 00:05:35,469
+under the less strict title<font color="#CCCCCC"> one and the</font>
+
+142
+00:05:34,000 --> 00:05:37,720
+companies found those net neutrality
+
+143
+00:05:35,470 --> 00:05:40,570
+<font color="#E5E5E5">rules inconvenient in fact the</font><font color="#CCCCCC"> Rison</font>
+
+144
+00:05:37,720 --> 00:05:42,100
+successfully<font color="#CCCCCC"> sumed the FCC arguing that</font>
+
+145
+00:05:40,569 --> 00:05:43,750
+<font color="#CCCCCC">it didn't have enough authority to</font>
+
+146
+00:05:42,100 --> 00:05:46,600
+<font color="#CCCCCC">enforce those rules</font><font color="#E5E5E5"> and the court ruled</font>
+
+147
+00:05:43,750 --> 00:05:48,939
+<font color="#E5E5E5">that if the</font><font color="#CCCCCC"> FCC did want strong</font>
+
+148
+00:05:46,600 --> 00:05:51,580
+enforceable net neutrality<font color="#CCCCCC"> their best</font>
+
+149
+00:05:48,939 --> 00:05:54,129
+option<font color="#CCCCCC"> would be to reclassify ISPs under</font>
+
+150
+00:05:51,579 --> 00:05:56,709
+title<font color="#CCCCCC"> 2 which allows for</font><font color="#E5E5E5"> much stronger</font>
+
+151
+00:05:54,129 --> 00:05:57,850
+<font color="#E5E5E5">oversight so the FCC</font><font color="#CCCCCC"> did that and the</font>
+
+152
+00:05:56,709 --> 00:06:00,759
+<font color="#E5E5E5">fact they did was huge</font>
+
+153
+00:05:57,850 --> 00:06:02,950
+so when<font color="#E5E5E5"> Verizon claims hey we love the</font>
+
+154
+00:06:00,759 --> 00:06:04,990
+open<font color="#CCCCCC"> Internet</font><font color="#E5E5E5"> but why don't we just put</font>
+
+155
+00:06:02,949 --> 00:06:07,240
+it on<font color="#E5E5E5"> a different</font><font color="#CCCCCC"> legal footing it's</font>
+
+156
+00:06:04,990 --> 00:06:08,889
+basically a Jay Simpson<font color="#E5E5E5"> asking why you</font>
+
+157
+00:06:07,240 --> 00:06:15,160
+won't<font color="#E5E5E5"> let him hold any of your samurai</font>
+
+158
+00:06:08,889 --> 00:06:17,938
+swords come on juice you know why you<font color="#CCCCCC"> of</font>
+
+159
+00:06:15,160 --> 00:06:21,579
+anyone<font color="#E5E5E5"> should</font><font color="#CCCCCC"> know why</font>
+
+160
+00:06:17,939 --> 00:06:23,499
+and the ISPs now have a powerful<font color="#E5E5E5"> ally on</font>
+
+161
+00:06:21,579 --> 00:06:26,439
+their side<font color="#E5E5E5"> because Trump has appointed a</font>
+
+162
+00:06:23,499 --> 00:06:28,239
+new head of<font color="#CCCCCC"> the FCC</font><font color="#E5E5E5"> and it is this guy a</font>
+
+163
+00:06:26,439 --> 00:06:31,299
+<font color="#CCCCCC">jape I is known</font><font color="#E5E5E5"> for being anti</font>
+
+164
+00:06:28,238 --> 00:06:33,158
+regulation Pro merger last month he said
+
+165
+00:06:31,298 --> 00:06:36,128
+he wanted to<font color="#E5E5E5"> quote take</font><font color="#CCCCCC"> a weed whacker</font>
+
+166
+00:06:33,158 --> 00:06:38,858
+<font color="#E5E5E5">to current FCC</font><font color="#CCCCCC"> rules and predicted net</font>
+
+167
+00:06:36,129 --> 00:06:41,619
+neutrality<font color="#CCCCCC"> quote days are numbered Wow</font>
+
+168
+00:06:38,858 --> 00:06:44,618
+<font color="#CCCCCC">okay</font><font color="#E5E5E5"> days are numbered</font><font color="#CCCCCC"> and take a</font><font color="#E5E5E5"> weed</font>
+
+169
+00:06:41,619 --> 00:06:46,299
+<font color="#CCCCCC">whacker or serial killer talk so</font><font color="#E5E5E5"> that is</font>
+
+170
+00:06:44,619 --> 00:06:48,129
+pretty ominous<font color="#CCCCCC"> when the Code of Federal</font>
+
+171
+00:06:46,298 --> 00:06:50,738
+Regulations looks out<font color="#CCCCCC"> of its window at</font>
+
+172
+00:06:48,129 --> 00:06:52,889
+<font color="#CCCCCC">night</font><font color="#E5E5E5"> there's just a j't pie standing</font>
+
+173
+00:06:50,738 --> 00:06:56,858
+silently<font color="#E5E5E5"> holding his weed whacker</font>
+
+174
+00:06:52,889 --> 00:06:58,359
+<font color="#E5E5E5">waiting</font><font color="#CCCCCC"> for his chance</font><font color="#E5E5E5"> but the dangerous</font>
+
+175
+00:06:56,858 --> 00:07:01,329
+thing<font color="#CCCCCC"> about</font><font color="#E5E5E5"> pies</font><font color="#CCCCCC"> that he presents</font>
+
+176
+00:06:58,358 --> 00:07:03,098
+himself as a<font color="#E5E5E5"> fun down-to-earth nerd the</font>
+
+177
+00:07:01,329 --> 00:07:05,019
+kind of guy whose Twitter feed is full
+
+178
+00:07:03,098 --> 00:07:08,019
+of quotes<font color="#CCCCCC"> from The Big</font><font color="#E5E5E5"> Lebowski</font><font color="#CCCCCC"> he</font>
+
+179
+00:07:05,019 --> 00:07:09,999
+quotes it all the time and<font color="#CCCCCC"> look grunting</font>
+
+180
+00:07:08,019 --> 00:07:11,978
+<font color="#E5E5E5">the Big Lebowski</font><font color="#CCCCCC"> is fine in certain</font>
+
+181
+00:07:09,999 --> 00:07:14,349
+contexts for<font color="#CCCCCC"> example if you're an actor</font>
+
+182
+00:07:11,978 --> 00:07:16,718
+and it's 1998 and you're<font color="#E5E5E5"> filming the</font>
+
+183
+00:07:14,348 --> 00:07:19,209
+<font color="#E5E5E5">movie The Big Lebowski</font><font color="#CCCCCC"> but it is</font>
+
+184
+00:07:16,718 --> 00:07:21,998
+<font color="#E5E5E5">completely intolerable</font><font color="#CCCCCC"> in any</font><font color="#E5E5E5"> other</font>
+
+185
+00:07:19,209 --> 00:07:24,278
+<font color="#E5E5E5">context and that's that's not his</font><font color="#CCCCCC"> only</font>
+
+186
+00:07:21,999 --> 00:07:25,778
+<font color="#E5E5E5">fun guy at the office</font><font color="#CCCCCC"> traits</font><font color="#E5E5E5"> just watch</font>
+
+187
+00:07:24,278 --> 00:07:28,028
+his very first press conference<font color="#E5E5E5"> as</font>
+
+188
+00:07:25,778 --> 00:07:33,308
+chairman<font color="#CCCCCC"> I would be happy to take care</font>
+
+189
+00:07:28,028 --> 00:07:37,439
+<font color="#E5E5E5">questions from the panel mining telecom</font>
+
+190
+00:07:33,309 --> 00:07:41,679
+daily<font color="#E5E5E5"> how do you plan to examine</font>
+
+191
+00:07:37,439 --> 00:07:45,189
+yes<font color="#CCCCCC"> ad July is the</font><font color="#E5E5E5"> kind of guy who has</font><font color="#CCCCCC"> a</font>
+
+192
+00:07:41,678 --> 00:07:47,948
+fun oversized novelty mug<font color="#E5E5E5"> and he is</font>
+
+193
+00:07:45,189 --> 00:07:50,259
+really proud<font color="#CCCCCC"> of it</font><font color="#E5E5E5"> his theory is showing</font>
+
+194
+00:07:47,949 --> 00:07:52,119
+it off to<font color="#CCCCCC"> a reporter here he is showing</font>
+
+195
+00:07:50,259 --> 00:07:53,468
+it<font color="#E5E5E5"> off to his Twitter feed and in his</font>
+
+196
+00:07:52,119 --> 00:07:55,509
+first speech<font color="#CCCCCC"> to</font><font color="#E5E5E5"> his staff as</font>
+
+197
+00:07:53,468 --> 00:07:57,368
+<font color="#E5E5E5">commissioner he said I love walking into</font>
+
+198
+00:07:55,509 --> 00:07:59,799
+my office<font color="#CCCCCC"> poring about a gallon</font><font color="#E5E5E5"> of</font>
+
+199
+00:07:57,369 --> 00:08:02,049
+<font color="#CCCCCC">coffee into</font><font color="#E5E5E5"> my infamous Reese's Peanut</font>
+
+200
+00:07:59,798 --> 00:08:04,388
+<font color="#E5E5E5">Butter Cup spark and starting</font><font color="#CCCCCC"> my day</font><font color="#E5E5E5"> and</font>
+
+201
+00:08:02,048 --> 00:08:07,628
+<font color="#E5E5E5">you heard right</font><font color="#CCCCCC"> he described his own mug</font>
+
+202
+00:08:04,389 --> 00:08:09,668
+as infamous<font color="#CCCCCC"> which is offensive for two</font>
+
+203
+00:08:07,629 --> 00:08:11,979
+<font color="#E5E5E5">reasons first</font><font color="#CCCCCC"> and no point should</font><font color="#E5E5E5"> you be</font>
+
+204
+00:08:09,668 --> 00:08:14,228
+describing<font color="#E5E5E5"> your own fun mug allowed in</font>
+
+205
+00:08:11,978 --> 00:08:17,408
+the company<font color="#CCCCCC"> of other adults</font><font color="#E5E5E5"> and second</font>
+
+206
+00:08:14,228 --> 00:08:19,748
+it's a fucking mug<font color="#E5E5E5"> pouring of mug</font>
+
+207
+00:08:17,408 --> 00:08:21,939
+infamous is like<font color="#E5E5E5"> calling your neti pot a</font>
+
+208
+00:08:19,749 --> 00:08:26,770
+real panty dropper
+
+209
+00:08:21,939 --> 00:08:29,199
+no context<font color="#E5E5E5"> can that</font><font color="#CCCCCC"> be remotely</font><font color="#E5E5E5"> true but</font>
+
+210
+00:08:26,769 --> 00:08:31,209
+for<font color="#E5E5E5"> all the</font><font color="#CCCCCC"> pies</font><font color="#E5E5E5"> doofy hey I'm just like</font>
+
+211
+00:08:29,199 --> 00:08:32,679
+you<font color="#E5E5E5"> guys persona</font><font color="#CCCCCC"> there is there</font><font color="#E5E5E5"> are</font><font color="#CCCCCC"> some</font>
+
+212
+00:08:31,209 --> 00:08:35,649
+<font color="#E5E5E5">things about him</font><font color="#CCCCCC"> that you should really</font>
+
+213
+00:08:32,679 --> 00:08:38,139
+<font color="#CCCCCC">know he's a former lawyer for Verizon</font>
+
+214
+00:08:35,649 --> 00:08:41,019
+and despite being<font color="#CCCCCC"> a smart man he sure</font>
+
+215
+00:08:38,139 --> 00:08:44,620
+loves<font color="#CCCCCC"> to play</font><font color="#E5E5E5"> dumb over why is PS were</font>
+
+216
+00:08:41,019 --> 00:08:48,779
+ever moved to title<font color="#E5E5E5"> 2 for decades before</font>
+
+217
+00:08:44,620 --> 00:08:50,710
+2015 we had a free and open Internet
+
+218
+00:08:48,779 --> 00:08:52,149
+indeed the free and open<font color="#CCCCCC"> Internet</font>
+
+219
+00:08:50,710 --> 00:08:54,639
+<font color="#E5E5E5">developed and flourished under</font>
+
+220
+00:08:52,149 --> 00:08:56,590
+<font color="#CCCCCC">light-touch</font><font color="#E5E5E5"> regulation we weren't living</font>
+
+221
+00:08:54,639 --> 00:08:58,809
+in some digital dystopia before the
+
+222
+00:08:56,590 --> 00:09:00,790
+partisan imposition of a massive plan
+
+223
+00:08:58,809 --> 00:09:04,149
+hatched in Washington saved all of<font color="#E5E5E5"> us</font>
+
+224
+00:09:00,789 --> 00:09:06,370
+<font color="#E5E5E5">now that is true 2015 was not a digital</font>
+
+225
+00:09:04,149 --> 00:09:08,769
+dystopia for anyone with the possible
+
+226
+00:09:06,370 --> 00:09:10,570
+<font color="#CCCCCC">exception of Pizza rat because think</font>
+
+227
+00:09:08,769 --> 00:09:13,449
+about<font color="#E5E5E5"> it the internet put that rat</font>
+
+228
+00:09:10,570 --> 00:09:14,620
+<font color="#E5E5E5">through hell one cheat day in</font><font color="#CCCCCC"> three</font>
+
+229
+00:09:13,450 --> 00:09:16,509
+months of<font color="#CCCCCC"> eating paleo</font>
+
+230
+00:09:14,620 --> 00:09:19,899
+and she never hears<font color="#E5E5E5"> the fucking end of</font>
+
+231
+00:09:16,509 --> 00:09:23,019
+it<font color="#CCCCCC"> oh that's right I can't</font><font color="#E5E5E5"> see hashtag</font>
+
+232
+00:09:19,899 --> 00:09:24,279
+creepy<font color="#CCCCCC"> Pelt monster hashtag feminism but</font>
+
+233
+00:09:23,019 --> 00:09:27,129
+but fine
+
+234
+00:09:24,279 --> 00:09:29,740
+why is larger argument<font color="#CCCCCC"> there he's deeply</font>
+
+235
+00:09:27,129 --> 00:09:32,590
+<font color="#E5E5E5">disingenuous because he has to know</font><font color="#CCCCCC"> that</font>
+
+236
+00:09:29,740 --> 00:09:34,930
+Verizon<font color="#CCCCCC"> his ex-employer</font><font color="#E5E5E5"> won a lawsuit</font>
+
+237
+00:09:32,590 --> 00:09:37,180
+<font color="#E5E5E5">that meant if the FCC wanted strong</font>
+
+238
+00:09:34,929 --> 00:09:40,359
+enforceable protection<font color="#E5E5E5"> it's only real</font>
+
+239
+00:09:37,179 --> 00:09:42,879
+<font color="#E5E5E5">option was to reclassify the ISPs and</font>
+
+240
+00:09:40,360 --> 00:09:44,649
+yet he cheerily insists under
+
+241
+00:09:42,879 --> 00:09:46,840
+questioning<font color="#E5E5E5"> there</font><font color="#CCCCCC"> is just no evidence</font>
+
+242
+00:09:44,649 --> 00:09:49,389
+<font color="#CCCCCC">the cable companies were engaging in</font>
+
+243
+00:09:46,840 --> 00:09:51,970
+rampant<font color="#E5E5E5"> wrongdoing but to say Comcast</font>
+
+244
+00:09:49,389 --> 00:09:53,439
+<font color="#E5E5E5">created a new TV series</font><font color="#CCCCCC"> it just so</font>
+
+245
+00:09:51,970 --> 00:09:56,680
+happened that that<font color="#CCCCCC"> competed with a</font>
+
+246
+00:09:53,440 --> 00:09:59,680
+Netflix series very similarly<font color="#E5E5E5"> if these</font>
+
+247
+00:09:56,679 --> 00:10:01,719
+rules go away<font color="#CCCCCC"> how is the house</font><font color="#E5E5E5"> they're</font>
+
+248
+00:09:59,679 --> 00:10:04,239
+not<font color="#E5E5E5"> an incredible incentive for Comcast</font>
+
+249
+00:10:01,720 --> 00:10:06,879
+to slow<font color="#E5E5E5"> Netflix down coming into my</font>
+
+250
+00:10:04,240 --> 00:10:09,669
+house and make their video<font color="#E5E5E5"> the</font><font color="#CCCCCC"> comcast</font>
+
+251
+00:10:06,879 --> 00:10:11,710
+video very robust<font color="#E5E5E5"> so under</font><font color="#CCCCCC"> that</font>
+
+252
+00:10:09,669 --> 00:10:13,569
+hypothetical<font color="#CCCCCC"> one things that's</font><font color="#E5E5E5"> important</font>
+
+253
+00:10:11,710 --> 00:10:15,280
+<font color="#CCCCCC">to remember</font><font color="#E5E5E5"> is that it is</font><font color="#CCCCCC"> a hypothetical</font>
+
+254
+00:10:13,570 --> 00:10:17,230
+that<font color="#E5E5E5"> we don't see evidence of that</font>
+
+255
+00:10:15,279 --> 00:10:19,360
+<font color="#CCCCCC">happening in the</font><font color="#E5E5E5"> marketplace on a</font>
+
+256
+00:10:17,230 --> 00:10:22,060
+<font color="#E5E5E5">widespread level but here's the</font><font color="#CCCCCC"> thing</font>
+
+257
+00:10:19,360 --> 00:10:24,430
+there are multiple examples of<font color="#E5E5E5"> ISP</font>
+
+258
+00:10:22,059 --> 00:10:26,559
+fuckery over the years<font color="#CCCCCC"> frizzes</font><font color="#E5E5E5"> a few</font>
+
+259
+00:10:24,429 --> 00:10:29,739
+years back the<font color="#E5E5E5"> Roizen AT&amp;T and t-mobile</font>
+
+260
+00:10:26,559 --> 00:10:31,239
+at one point shut out<font color="#E5E5E5"> Google Wallet from</font>
+
+261
+00:10:29,740 --> 00:10:33,580
+their thumbs<font color="#CCCCCC"> a product</font><font color="#E5E5E5"> that</font>
+
+262
+00:10:31,240 --> 00:10:35,500
+coincidentally<font color="#CCCCCC"> happened to compete with</font>
+
+263
+00:10:33,580 --> 00:10:36,940
+their own mobile<font color="#E5E5E5"> payment</font><font color="#CCCCCC"> app</font>
+
+264
+00:10:35,500 --> 00:10:39,039
+<font color="#E5E5E5">and</font><font color="#CCCCCC"> out incidentally</font><font color="#E5E5E5"> that had a</font>
+
+265
+00:10:36,940 --> 00:10:41,890
+significant<font color="#CCCCCC"> flaw</font><font color="#E5E5E5"> it's a little subtle</font>
+
+266
+00:10:39,039 --> 00:10:43,750
+but see if<font color="#CCCCCC"> you can spot</font><font color="#E5E5E5"> it following in</font>
+
+267
+00:10:41,889 --> 00:10:46,360
+<font color="#E5E5E5">the footsteps of PayPal and Google</font>
+
+268
+00:10:43,750 --> 00:10:50,070
+Wallet<font color="#CCCCCC"> it's a virtual mobile wallet app</font>
+
+269
+00:10:46,360 --> 00:10:53,919
+called<font color="#E5E5E5"> Isis that is fucking incredible</font>
+
+270
+00:10:50,070 --> 00:10:56,140
+<font color="#CCCCCC">if only because</font><font color="#E5E5E5"> it leaves it at some</font>
+
+271
+00:10:53,919 --> 00:10:57,879
+point someone's mom<font color="#E5E5E5"> probably sent a text</font>
+
+272
+00:10:56,139 --> 00:11:01,090
+along the lines of how do I make a
+
+273
+00:10:57,879 --> 00:11:04,000
+payment to Isis<font color="#E5E5E5"> you have long</font><font color="#CCCCCC"> yes let</font><font color="#E5E5E5"> me</font>
+
+274
+00:11:01,090 --> 00:11:05,800
+know about<font color="#CCCCCC"> Passover</font><font color="#E5E5E5"> and I</font><font color="#CCCCCC"> think you met</font>
+
+275
+00:11:04,000 --> 00:11:08,259
+<font color="#CCCCCC">me when people complained that they</font>
+
+276
+00:11:05,799 --> 00:11:10,629
+couldn't use<font color="#E5E5E5"> Google Wallet t-mobile sent</font>
+
+277
+00:11:08,259 --> 00:11:13,899
+out tweaks<font color="#E5E5E5"> and this is true like we're</font>
+
+278
+00:11:10,629 --> 00:11:16,750
+supporting Isis we're really loving<font color="#CCCCCC"> Isis</font>
+
+279
+00:11:13,899 --> 00:11:18,519
+and we have<font color="#E5E5E5"> chosen to work</font><font color="#CCCCCC"> with Isis</font><font color="#E5E5E5"> and</font>
+
+280
+00:11:16,750 --> 00:11:22,570
+how to roll that out to everyone very
+
+281
+00:11:18,519 --> 00:11:24,850
+soon<font color="#E5E5E5"> and yet despite t-mobile's vocal</font>
+
+282
+00:11:22,570 --> 00:11:27,190
+support for Isis which is all you should
+
+283
+00:11:24,850 --> 00:11:29,590
+ever think<font color="#CCCCCC"> about now whenever</font><font color="#E5E5E5"> you hear</font>
+
+284
+00:11:27,190 --> 00:11:30,730
+the word t-mobile or Isis for that
+
+285
+00:11:29,590 --> 00:11:34,090
+matter they're essentially the<font color="#E5E5E5"> same</font>
+
+286
+00:11:30,730 --> 00:11:36,190
+<font color="#E5E5E5">thing</font><font color="#CCCCCC"> pardis main argument</font><font color="#E5E5E5"> is that we</font>
+
+287
+00:11:34,090 --> 00:11:38,500
+<font color="#E5E5E5">don't need title</font><font color="#CCCCCC"> two to have</font><font color="#E5E5E5"> net</font>
+
+288
+00:11:36,190 --> 00:11:39,850
+neutrality<font color="#CCCCCC"> but some of these ideas for</font>
+
+289
+00:11:38,500 --> 00:11:42,100
+what to<font color="#E5E5E5"> have instead are almost</font>
+
+290
+00:11:39,850 --> 00:11:44,409
+laughably<font color="#CCCCCC"> lacks</font><font color="#E5E5E5"> for instance he</font>
+
+291
+00:11:42,100 --> 00:11:47,230
+reportedly floated just having ISPs
+
+292
+00:11:44,409 --> 00:11:49,329
+<font color="#E5E5E5">voluntarily agree not to obstruct or</font>
+
+293
+00:11:47,230 --> 00:11:51,460
+<font color="#E5E5E5">slow consumer</font><font color="#CCCCCC"> access to web content</font><font color="#E5E5E5"> by</font>
+
+294
+00:11:49,330 --> 00:11:53,590
+putting that promise<font color="#E5E5E5"> in their</font><font color="#CCCCCC"> toes of</font>
+
+295
+00:11:51,460 --> 00:11:56,650
+<font color="#CCCCCC">service</font><font color="#E5E5E5"> you know the things that no</font>
+
+296
+00:11:53,590 --> 00:11:58,960
+human<font color="#CCCCCC"> being has ever read</font><font color="#E5E5E5"> and that can</font>
+
+297
+00:11:56,649 --> 00:12:00,639
+change<font color="#E5E5E5"> whenever companies want them to</font>
+
+298
+00:11:58,960 --> 00:12:02,740
+that idea<font color="#E5E5E5"> would basically make net</font>
+
+299
+00:12:00,639 --> 00:12:05,860
+neutrality as binding<font color="#E5E5E5"> as a proposal on</font>
+
+300
+00:12:02,740 --> 00:12:07,539
+<font color="#E5E5E5">The Bachelor Vanessa</font><font color="#CCCCCC"> I have determined</font>
+
+301
+00:12:05,860 --> 00:12:09,940
+you to be marginally better for my brand
+
+302
+00:12:07,539 --> 00:12:11,379
+than<font color="#E5E5E5"> Corinne but I reserve the right to</font>
+
+303
+00:12:09,940 --> 00:12:13,480
+change<font color="#CCCCCC"> these agreements in the future</font>
+
+304
+00:12:11,379 --> 00:12:18,730
+should ABC ever<font color="#E5E5E5"> offered me a slot on</font>
+
+305
+00:12:13,480 --> 00:12:21,789
+fuck pile<font color="#CCCCCC"> island and entice other</font><font color="#E5E5E5"> big</font>
+
+306
+00:12:18,730 --> 00:12:23,620
+<font color="#CCCCCC">arguments to remove ISPs from</font><font color="#E5E5E5"> title</font><font color="#CCCCCC"> 2</font><font color="#E5E5E5"> if</font>
+
+307
+00:12:21,789 --> 00:12:25,689
+<font color="#CCCCCC">their</font><font color="#E5E5E5"> place is too great a regulatory</font>
+
+308
+00:12:23,620 --> 00:12:28,210
+burden on companies<font color="#E5E5E5"> and that it's</font>
+
+309
+00:12:25,690 --> 00:12:30,640
+already caused them to scale back their
+
+310
+00:12:28,210 --> 00:12:33,490
+investment<font color="#CCCCCC"> in broadband networks</font><font color="#E5E5E5"> the</font>
+
+311
+00:12:30,639 --> 00:12:36,159
+economics are simple here more heavily
+
+312
+00:12:33,490 --> 00:12:38,350
+you regulate<font color="#CCCCCC"> something the less</font><font color="#E5E5E5"> of it</font>
+
+313
+00:12:36,159 --> 00:12:41,379
+you're going<font color="#E5E5E5"> to get so what happened</font>
+
+314
+00:12:38,350 --> 00:12:43,149
+after<font color="#E5E5E5"> the FCC imposed title</font><font color="#CCCCCC"> 2 sure</font>
+
+315
+00:12:41,379 --> 00:12:45,820
+enough infrastructure<font color="#E5E5E5"> investment</font>
+
+316
+00:12:43,149 --> 00:12:47,470
+declines<font color="#CCCCCC"> ok so what is essentially</font>
+
+317
+00:12:45,820 --> 00:12:48,970
+suggesting there is<font color="#CCCCCC"> that as soon as</font>
+
+318
+00:12:47,470 --> 00:12:51,070
+title 2 came in come from
+
+319
+00:12:48,970 --> 00:12:53,259
+said fuck it investing in infrastructure
+
+320
+00:12:51,070 --> 00:12:54,910
+is way too difficult<font color="#E5E5E5"> now we're not doing</font>
+
+321
+00:12:53,259 --> 00:12:56,620
+<font color="#E5E5E5">it anymore in fact pull some</font><font color="#CCCCCC"> of the</font>
+
+322
+00:12:54,909 --> 00:12:59,529
+cable<font color="#E5E5E5"> out of the ground</font><font color="#CCCCCC"> we're going back</font>
+
+323
+00:12:56,620 --> 00:13:01,450
+<font color="#E5E5E5">to the</font><font color="#CCCCCC"> Telegraph but but it is worth</font>
+
+324
+00:12:59,529 --> 00:13:03,699
+<font color="#E5E5E5">noting infrastructure investment is</font>
+
+325
+00:13:01,450 --> 00:13:05,860
+harder<font color="#CCCCCC"> to measure than you may think</font>
+
+326
+00:13:03,700 --> 00:13:07,420
+and<font color="#CCCCCC"> PI's numbers are in disputed back</font>
+
+327
+00:13:05,860 --> 00:13:09,430
+<font color="#E5E5E5">several companies have gone on the</font>
+
+328
+00:13:07,419 --> 00:13:12,099
+record<font color="#E5E5E5"> saying their business has largely</font>
+
+329
+00:13:09,429 --> 00:13:14,409
+been<font color="#E5E5E5"> unaffected by title</font><font color="#CCCCCC"> 2 and maybe the</font>
+
+330
+00:13:12,100 --> 00:13:16,210
+best way<font color="#CCCCCC"> to gauge title</font><font color="#E5E5E5"> twos impact is</font>
+
+331
+00:13:14,409 --> 00:13:18,100
+to listen<font color="#E5E5E5"> to</font><font color="#CCCCCC"> what cable</font><font color="#E5E5E5"> companies told</font>
+
+332
+00:13:16,210 --> 00:13:20,889
+their own investors<font color="#E5E5E5"> to whom they are</font>
+
+333
+00:13:18,100 --> 00:13:23,139
+<font color="#E5E5E5">legally obligated</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> tell</font><font color="#CCCCCC"> the truth so</font>
+
+334
+00:13:20,889 --> 00:13:25,960
+here is what Verizon told its investors
+
+335
+00:13:23,139 --> 00:13:28,210
+in 2014<font color="#CCCCCC"> about what the switch to title</font><font color="#E5E5E5"> 2</font>
+
+336
+00:13:25,960 --> 00:13:30,670
+would mean for them<font color="#CCCCCC"> I mean to</font><font color="#E5E5E5"> be real</font>
+
+337
+00:13:28,210 --> 00:13:32,800
+clear<font color="#E5E5E5"> I mean</font><font color="#CCCCCC"> this does not this does</font><font color="#E5E5E5"> not</font>
+
+338
+00:13:30,669 --> 00:13:34,389
+influence<font color="#CCCCCC"> the way we invest I mean we're</font>
+
+339
+00:13:32,799 --> 00:13:36,490
+going<font color="#E5E5E5"> to continue invest in our networks</font>
+
+340
+00:13:34,389 --> 00:13:38,980
+<font color="#CCCCCC">and our platforms both</font><font color="#E5E5E5"> in wireless and</font>
+
+341
+00:13:36,490 --> 00:13:43,090
+wireline FiOS and and where we need<font color="#CCCCCC"> to</font>
+
+342
+00:13:38,980 --> 00:13:44,830
+so so nothing<font color="#E5E5E5"> will influence that</font><font color="#CCCCCC"> ok so</font>
+
+343
+00:13:43,090 --> 00:13:46,780
+that<font color="#E5E5E5"> doesn't</font><font color="#CCCCCC"> really sound like net</font>
+
+344
+00:13:44,830 --> 00:13:48,820
+<font color="#CCCCCC">neutrality was jeopardizing investment</font>
+
+345
+00:13:46,779 --> 00:13:51,370
+at all<font color="#E5E5E5"> although to be fair</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> was a</font>
+
+346
+00:13:48,820 --> 00:13:53,110
+phone<font color="#CCCCCC"> call and it was</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> Rison so it's</font>
+
+347
+00:13:51,370 --> 00:13:57,100
+entirely<font color="#CCCCCC"> possible that every other word</font>
+
+348
+00:13:53,110 --> 00:13:59,409
+<font color="#CCCCCC">was dropped the fact is the fact is</font>
+
+349
+00:13:57,100 --> 00:14:00,909
+title<font color="#E5E5E5"> 2 is the most solid</font><font color="#CCCCCC"> legal</font>
+
+350
+00:13:59,409 --> 00:14:02,829
+foundation we have<font color="#E5E5E5"> right now</font><font color="#CCCCCC"> for a</font>
+
+351
+00:14:00,909 --> 00:14:06,159
+strong enforceable<font color="#E5E5E5"> net neutrality</font>
+
+352
+00:14:02,830 --> 00:14:08,110
+protections<font color="#E5E5E5"> so</font><font color="#CCCCCC"> pi saying let's</font><font color="#E5E5E5"> have an</font>
+
+353
+00:14:06,159 --> 00:14:10,179
+<font color="#CCCCCC">open Internet</font><font color="#E5E5E5"> without it it's like me</font>
+
+354
+00:14:08,110 --> 00:14:12,279
+saying<font color="#CCCCCC"> hey how about you have a gallon</font>
+
+355
+00:14:10,179 --> 00:14:14,709
+of<font color="#CCCCCC"> coffee</font><font color="#E5E5E5"> without your stupid fucking</font>
+
+356
+00:14:12,279 --> 00:14:17,049
+<font color="#E5E5E5">mug just pour it into your hands and</font>
+
+357
+00:14:14,710 --> 00:14:18,430
+trust<font color="#E5E5E5"> that you won't get burnt</font><font color="#CCCCCC"> oh and</font>
+
+358
+00:14:17,049 --> 00:14:20,289
+mr.<font color="#CCCCCC"> Chairman I know that you're</font><font color="#E5E5E5"> probably</font>
+
+359
+00:14:18,429 --> 00:14:23,229
+thinking<font color="#E5E5E5"> well you're only making fun of</font>
+
+360
+00:14:20,289 --> 00:14:26,669
+my mug<font color="#E5E5E5"> because you're jealous of it so I</font>
+
+361
+00:14:23,230 --> 00:14:26,670
+would say why<font color="#CCCCCC"> would I be jealous</font>
+
+362
+00:14:32,100 --> 00:14:40,490
+you want to know what I'm<font color="#CCCCCC"> drinking I'm</font>
+
+363
+00:14:34,889 --> 00:14:43,528
+drinking the blood<font color="#CCCCCC"> of</font><font color="#E5E5E5"> smaller mums</font><font color="#CCCCCC"> sale</font>
+
+364
+00:14:40,490 --> 00:14:43,528
+[Music]
+
+365
+00:14:43,879 --> 00:14:49,110
+<font color="#E5E5E5">see</font><font color="#CCCCCC"> I think will tell</font><font color="#E5E5E5"> you that net</font>
+
+366
+00:14:47,129 --> 00:14:51,269
+<font color="#CCCCCC">neutrality could be protected by an act</font>
+
+367
+00:14:49,110 --> 00:14:53,759
+of Congress<font color="#CCCCCC"> but I do not particularly</font>
+
+368
+00:14:51,269 --> 00:14:55,289
+trust<font color="#E5E5E5"> this or any Congress to get</font>
+
+369
+00:14:53,759 --> 00:14:57,209
+something as complicated as<font color="#E5E5E5"> this right</font>
+
+370
+00:14:55,289 --> 00:14:59,429
+<font color="#E5E5E5">and I</font><font color="#CCCCCC"> definitely wouldn't want the</font>
+
+371
+00:14:57,208 --> 00:15:01,888
+current<font color="#E5E5E5"> president involved as and this</font>
+
+372
+00:14:59,429 --> 00:15:05,489
+will not surprise you<font color="#E5E5E5"> he doesn't seem to</font>
+
+373
+00:15:01,889 --> 00:15:07,440
+have<font color="#CCCCCC"> any idea what any of this is</font><font color="#E5E5E5"> Trump</font>
+
+374
+00:15:05,490 --> 00:15:09,299
+<font color="#E5E5E5">wants tweeted back in 2014</font>
+
+375
+00:15:07,440 --> 00:15:11,459
+Obama's attack on the<font color="#CCCCCC"> Internet is</font>
+
+376
+00:15:09,299 --> 00:15:13,919
+another<font color="#CCCCCC"> top-down power</font><font color="#E5E5E5"> grab net</font>
+
+377
+00:15:11,458 --> 00:15:16,619
+<font color="#CCCCCC">neutrality is the Fairness Doctrine will</font>
+
+378
+00:15:13,919 --> 00:15:19,500
+target<font color="#E5E5E5"> conservative media but that's the</font>
+
+379
+00:15:16,620 --> 00:15:21,360
+exact opposite of<font color="#CCCCCC"> what it did Trump</font>
+
+380
+00:15:19,500 --> 00:15:23,519
+could not have been more<font color="#CCCCCC"> off-base if he</font>
+
+381
+00:15:21,360 --> 00:15:26,940
+tweeted<font color="#E5E5E5"> net neutrality is the Monroe</font>
+
+382
+00:15:23,519 --> 00:15:29,970
+Doctrine<font color="#E5E5E5"> will target the wu-tang clan so</font>
+
+383
+00:15:26,940 --> 00:15:32,519
+sadly<font color="#E5E5E5"> it seems once more</font><font color="#CCCCCC"> We the People</font>
+
+384
+00:15:29,970 --> 00:15:34,500
+<font color="#CCCCCC">must take this matter into our own</font><font color="#E5E5E5"> hands</font>
+
+385
+00:15:32,519 --> 00:15:36,299
+because<font color="#CCCCCC"> the FCC</font><font color="#E5E5E5"> are again going</font><font color="#CCCCCC"> to</font>
+
+386
+00:15:34,500 --> 00:15:38,519
+<font color="#E5E5E5">invite public comment on their website</font>
+
+387
+00:15:36,299 --> 00:15:40,289
+and conveniently<font color="#E5E5E5"> for them the process is</font>
+
+388
+00:15:38,519 --> 00:15:42,209
+actually a lot more<font color="#CCCCCC"> complicated this</font>
+
+389
+00:15:40,289 --> 00:15:45,929
+time than it<font color="#CCCCCC"> was</font><font color="#E5E5E5"> three years ago you</font>
+
+390
+00:15:42,208 --> 00:15:49,679
+have to go to FCC gov<font color="#E5E5E5"> slash</font><font color="#CCCCCC"> lower case</font>
+
+391
+00:15:45,929 --> 00:15:51,419
+ecfs<font color="#E5E5E5"> slash search</font><font color="#CCCCCC"> - proceedings then</font>
+
+392
+00:15:49,679 --> 00:15:54,870
+when you<font color="#E5E5E5"> get to this page put in the</font>
+
+393
+00:15:51,419 --> 00:15:56,818
+<font color="#CCCCCC">proceeding number which is 17</font><font color="#E5E5E5"> - 108</font><font color="#CCCCCC"> then</font>
+
+394
+00:15:54,870 --> 00:15:58,709
+hit<font color="#CCCCCC"> search</font><font color="#E5E5E5"> and on the next page</font>
+
+395
+00:15:56,818 --> 00:16:00,899
+restoring Internet freedom should be the
+
+396
+00:15:58,708 --> 00:16:02,938
+only<font color="#E5E5E5"> result you see then click on the</font>
+
+397
+00:16:00,899 --> 00:16:04,740
+link that says<font color="#CCCCCC"> Express and then and only</font>
+
+398
+00:16:02,938 --> 00:16:05,849
+then<font color="#E5E5E5"> can</font><font color="#CCCCCC"> you leave your</font><font color="#E5E5E5"> comment and if</font>
+
+399
+00:16:04,740 --> 00:16:07,500
+you think it will look<font color="#E5E5E5"> that's just</font><font color="#CCCCCC"> too</font>
+
+400
+00:16:05,850 --> 00:16:09,930
+complicated I'm not doing it don't worry
+
+401
+00:16:07,500 --> 00:16:12,778
+<font color="#E5E5E5">because that's why we bought the URL go</font>
+
+402
+00:16:09,929 --> 00:16:15,028
+FCC yourself calm and if you simply go
+
+403
+00:16:12,778 --> 00:16:17,249
+<font color="#E5E5E5">there it will</font><font color="#CCCCCC"> allow you spread all the</font>
+
+404
+00:16:15,028 --> 00:16:20,919
+<font color="#CCCCCC">pain</font><font color="#E5E5E5"> where</font>
+
+405
+00:16:17,249 --> 00:16:23,709
+<font color="#CCCCCC">titovs fret and comment telling a</font><font color="#E5E5E5"> GFI</font>
+
+406
+00:16:20,919 --> 00:16:26,349
+that<font color="#CCCCCC"> you specifically</font><font color="#E5E5E5"> support strong net</font>
+
+407
+00:16:23,708 --> 00:16:29,799
+neutrality<font color="#CCCCCC"> that's my title</font><font color="#E5E5E5"> to oversight</font>
+
+408
+00:16:26,350 --> 00:16:31,720
+of ISPs and every<font color="#E5E5E5"> internet group needs</font>
+
+409
+00:16:29,799 --> 00:16:33,758
+<font color="#E5E5E5">to come together like you successfully</font>
+
+410
+00:16:31,720 --> 00:16:36,100
+did three<font color="#CCCCCC"> years</font><font color="#E5E5E5"> ago every subculture</font>
+
+411
+00:16:33,759 --> 00:16:38,769
+must join<font color="#CCCCCC"> as one gamers YouTube</font>
+
+412
+00:16:36,100 --> 00:16:41,379
+celebrities Instagram models<font color="#E5E5E5"> Tom from</font>
+
+413
+00:16:38,769 --> 00:16:43,778
+<font color="#CCCCCC">MySpace</font><font color="#E5E5E5"> if you're still alive</font><font color="#CCCCCC"> we need</font>
+
+414
+00:16:41,379 --> 00:16:45,970
+<font color="#CCCCCC">all of you even</font><font color="#E5E5E5"> and I cannot believe</font><font color="#CCCCCC"> I'm</font>
+
+415
+00:16:43,778 --> 00:16:48,428
+saying this<font color="#E5E5E5"> Donald Trump's internet fans</font>
+
+416
+00:16:45,970 --> 00:16:51,040
+on sites<font color="#E5E5E5"> like 4chan and reddit the most</font>
+
+417
+00:16:48,428 --> 00:16:52,990
+powerful online<font color="#E5E5E5"> trolls of all this</font>
+
+418
+00:16:51,039 --> 00:16:55,568
+subject is one of the few things that<font color="#E5E5E5"> we</font>
+
+419
+00:16:52,990 --> 00:16:58,119
+actually<font color="#E5E5E5"> really</font><font color="#CCCCCC"> agree on so simply</font>
+
+420
+00:16:55,568 --> 00:17:00,188
+express yourselves<font color="#E5E5E5"> and harness the race</font>
+
+421
+00:16:58,119 --> 00:17:01,749
+that<font color="#E5E5E5"> you</font><font color="#CCCCCC"> normally reserved for me</font><font color="#E5E5E5"> the</font>
+
+422
+00:17:00,188 --> 00:17:04,058
+race that<font color="#E5E5E5"> you use when you said I'm</font>
+
+423
+00:17:01,749 --> 00:17:05,798
+genuinely one of the most visually<font color="#CCCCCC"> an</font>
+
+424
+00:17:04,058 --> 00:17:09,308
+intellectual repulsive people I've<font color="#CCCCCC"> ever</font>
+
+425
+00:17:05,798 --> 00:17:11,889
+<font color="#E5E5E5">seen with oddly long thumbs batshit</font>
+
+426
+00:17:09,308 --> 00:17:14,439
+crazy eyes and a mouth<font color="#CCCCCC"> that</font><font color="#E5E5E5"> looks like a</font>
+
+427
+00:17:11,890 --> 00:17:17,380
+<font color="#E5E5E5">cemetery after an earthquake</font><font color="#CCCCCC"> thumbs up</font>
+
+428
+00:17:14,439 --> 00:17:19,630
+that's<font color="#E5E5E5"> pretty good the point is everyone</font>
+
+429
+00:17:17,380 --> 00:17:21,970
+needs to get<font color="#E5E5E5"> involved comment now and</font>
+
+430
+00:17:19,630 --> 00:17:23,620
+then maybe comment<font color="#E5E5E5"> again once the FCC</font>
+
+431
+00:17:21,970 --> 00:17:25,720
+makes this<font color="#E5E5E5"> proposal official even call</font>
+
+432
+00:17:23,619 --> 00:17:28,208
+<font color="#E5E5E5">your representative and your Senators</font>
+
+433
+00:17:25,720 --> 00:17:30,278
+<font color="#E5E5E5">and do not tell me that you</font><font color="#CCCCCC"> don't</font><font color="#E5E5E5"> have</font>
+
+434
+00:17:28,209 --> 00:17:32,200
+time<font color="#CCCCCC"> to do this if the</font><font color="#E5E5E5"> Internet is</font>
+
+435
+00:17:30,278 --> 00:17:34,569
+<font color="#E5E5E5">evidence of nothing else</font><font color="#CCCCCC"> it is evidence</font>
+
+436
+00:17:32,200 --> 00:17:36,880
+that<font color="#E5E5E5"> we all have way too much time on</font>
+
+437
+00:17:34,569 --> 00:17:39,250
+<font color="#CCCCCC">our hands and</font><font color="#E5E5E5"> yes I'm talking</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> you</font>
+
+438
+00:17:36,880 --> 00:17:42,039
+everyone who posted<font color="#E5E5E5"> may the</font><font color="#CCCCCC"> 4th be with</font>
+
+439
+00:17:39,250 --> 00:17:44,259
+you for Star<font color="#CCCCCC"> Wars day</font><font color="#E5E5E5"> this and every</font>
+
+440
+00:17:42,038 --> 00:17:46,480
+<font color="#E5E5E5">fucking</font><font color="#CCCCCC"> gear</font><font color="#E5E5E5"> and I'm talking</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> you</font><font color="#CCCCCC"> if</font>
+
+441
+00:17:44,259 --> 00:17:48,308
+<font color="#CCCCCC">you want to</font><font color="#E5E5E5"> post it on Facebook about</font><font color="#CCCCCC"> 10</font>
+
+442
+00:17:46,480 --> 00:17:50,230
+concerts you've seen and<font color="#E5E5E5"> one you didn't</font>
+
+443
+00:17:48,308 --> 00:17:52,269
+and<font color="#CCCCCC"> two you everyone who did it</font>
+
+444
+00:17:50,230 --> 00:17:53,980
+ironically and added a clever joke twist
+
+445
+00:17:52,269 --> 00:17:57,308
+<font color="#CCCCCC">because and this is important you</font><font color="#E5E5E5"> are</font>
+
+446
+00:17:53,980 --> 00:17:59,890
+exactly as bad because you cannot say
+
+447
+00:17:57,308 --> 00:18:01,839
+<font color="#CCCCCC">you are too busy</font><font color="#E5E5E5"> when five hundred</font><font color="#CCCCCC"> and</font>
+
+448
+00:17:59,890 --> 00:18:05,169
+<font color="#CCCCCC">forty thousand of you commented</font><font color="#E5E5E5"> on</font>
+
+449
+00:18:01,839 --> 00:18:06,730
+Beyonce's<font color="#CCCCCC"> pregnancy announcement</font><font color="#E5E5E5"> and 673</font>
+
+450
+00:18:05,169 --> 00:18:09,880
+you took<font color="#E5E5E5"> the time to review the Grand</font>
+
+451
+00:18:06,730 --> 00:18:12,730
+Canyon on Yelp seven of whom gave<font color="#CCCCCC"> it a</font>
+
+452
+00:18:09,880 --> 00:18:13,919
+one-star review<font color="#E5E5E5"> what the fuck is wrong</font>
+
+453
+00:18:12,730 --> 00:18:16,679
+with you
+
+454
+00:18:13,919 --> 00:18:19,140
+and I'm specifically looking at you
+
+455
+00:18:16,679 --> 00:18:21,090
+person on Amazon who gave the wolf of
+
+456
+00:18:19,140 --> 00:18:23,490
+<font color="#E5E5E5">wallstreet one star because</font><font color="#CCCCCC"> and I quote</font>
+
+457
+00:18:21,089 --> 00:18:27,000
+<font color="#E5E5E5">there were no wolves in the loser</font>
+
+458
+00:18:23,490 --> 00:18:28,740
+and<font color="#CCCCCC"> could</font><font color="#E5E5E5"> you he's 31 people who took</font>
+
+459
+00:18:27,000 --> 00:18:31,950
+<font color="#E5E5E5">the time to say they found that review</font>
+
+460
+00:18:28,740 --> 00:18:33,750
+helpful<font color="#E5E5E5"> and finally I'm looking at the</font>
+
+461
+00:18:31,950 --> 00:18:36,210
+frankly surprising number of<font color="#E5E5E5"> people</font><font color="#CCCCCC"> who</font>
+
+462
+00:18:33,750 --> 00:18:39,690
+for some reason<font color="#CCCCCC"> keep tweeting</font><font color="#E5E5E5"> choke me</font>
+
+463
+00:18:36,210 --> 00:18:42,480
+daddy<font color="#CCCCCC"> at the Pope</font><font color="#E5E5E5"> you are you're wasting</font>
+
+464
+00:18:39,690 --> 00:18:47,190
+your time he's not<font color="#E5E5E5"> going to choke you</font>
+
+465
+00:18:42,480 --> 00:18:50,399
+the objects would<font color="#E5E5E5"> be very bad</font><font color="#CCCCCC"> so come on</font>
+
+466
+00:18:47,190 --> 00:18:55,590
+<font color="#E5E5E5">I'm calling</font><font color="#CCCCCC"> upon all of</font><font color="#E5E5E5"> you the Internet</font>
+
+467
+00:18:50,398 --> 00:18:59,129
+<font color="#E5E5E5">time wasters</font><font color="#CCCCCC"> join me once more into five</font>
+
+468
+00:18:55,589 --> 00:19:01,859
+to<font color="#CCCCCC"> ten minutes of nine effort I need you</font>
+
+469
+00:18:59,130 --> 00:19:06,720
+to<font color="#CCCCCC"> guzik once</font><font color="#E5E5E5"> more unto the breach my</font>
+
+470
+00:19:01,859 --> 00:19:09,509
+friends<font color="#E5E5E5"> you are everything to deserve</font>
+
+471
+00:19:06,720 --> 00:19:12,269
+<font color="#E5E5E5">that neutrality</font><font color="#CCCCCC"> and title to once again</font>
+
+472
+00:19:09,509 --> 00:19:14,519
+<font color="#CCCCCC">commenter America needs</font><font color="#E5E5E5"> you to rise or</font>
+
+473
+00:19:12,269 --> 00:19:17,220
+more accurately remain seated in front
+
+474
+00:19:14,519 --> 00:19:20,579
+<font color="#E5E5E5">of your computer</font><font color="#CCCCCC"> screen to the occasion</font>
+
+475
+00:19:17,220 --> 00:19:27,740
+<font color="#CCCCCC">so please</font><font color="#E5E5E5"> fly my proteins to fly one</font>
+
+476
+00:19:20,579 --> 00:19:27,740
+[Applause]
+
