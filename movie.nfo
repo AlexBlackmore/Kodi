@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <movie>
+        <title></title>
+        <sorttitle></sorttitle>
+        <year></year>
+        <plot></plot>
+        <genre></genre>
+        <runtime></runtime>
+        <set></set>
+   </movie>

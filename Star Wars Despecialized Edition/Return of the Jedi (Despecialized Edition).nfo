@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <movie>
+        <title>Return of the Jedi (Despecialized Edition)</title>
+        <sorttitle>Star Wars 3 Despecialized Edition</sorttitle>
+        <year>1983</year>
+        <plot>A fan-edit restoration of the original theatrical release of Return of the Jedi (1980) in high definition.</plot>
+        <genre>Fan Edit</genre>
+        <genre>Action</genre>
+        <genre>Adventure</genre>
+        <genre>Science Fiction</genre>
+        <runtime>133</runtime>
+        <set>Star Wars Despecialized Editions</set>
+   </movie>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <movie>
+        <title>Star Wars (Despecialized Edition)</title>
+        <sorttitle>Star Wars 1 Despecialized Edition</sorttitle>
+        <year>1977</year>
+        <plot>A fan-edit restoration of the original theatrical release of Star Wars (1977) in high definition.</plot>
+        <genre>Fan Edit</genre>
+        <genre>Action</genre>
+        <genre>Adventure</genre>
+        <genre>Science Fiction</genre>
+        <runtime>121</runtime>
+        <set>Star Wars Despecialized Editions</set>
+   </movie>
