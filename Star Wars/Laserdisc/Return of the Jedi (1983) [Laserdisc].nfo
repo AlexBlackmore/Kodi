@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <movie>
+        <title>Return of the Jedi (1983) [Laserdisc]</title>
+        <sorttitle>Star Wars 3 Laserdisc</sorttitle>
+        <year>1983</year>
+        <plot>The laserdisc release of Return of the Jedi (1983).</plot>
+        <genre>Action</genre>
+        <genre>Adventure</genre>
+        <genre>Science Fiction</genre>
+        <runtime>131</runtime>
+        <set>Star Wars Collection</set>
+   </movie>

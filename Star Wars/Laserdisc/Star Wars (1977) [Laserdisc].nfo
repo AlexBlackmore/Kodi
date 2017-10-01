@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <movie>
+        <title>Star Wars (1977) [Laserdisc]</title>
+        <sorttitle>Star Wars 1 Laserdisc</sorttitle>
+        <year>1977</year>
+        <plot>The laserdisc release of Star Wars (1977).</plot>
+        <genre>Action</genre>
+        <genre>Adventure</genre>
+        <genre>Science Fiction</genre>
+        <runtime>121</runtime>
+        <set>Star Wars Collection</set>
+   </movie>

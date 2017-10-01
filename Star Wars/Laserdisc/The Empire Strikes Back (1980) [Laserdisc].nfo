@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <movie>
+        <title>The Empire Strikes Back (1980) [Laserdisc]</title>
+        <sorttitle>Star Wars 2 Laserdisc</sorttitle>
+        <year>1980</year>
+        <plot>The laserdisc release of The Empire Strikes Back (1981).</plot>
+        <genre>Action</genre>
+        <genre>Adventure</genre>
+        <genre>Science Fiction</genre>
+        <runtime>124</runtime>
+        <set>Star Wars Collection</set>
+   </movie>
