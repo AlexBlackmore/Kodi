@@ -1,0 +1,1848 @@
+1
+00:00:04,190 --> 00:00:08,130
+<font color="#CCCCCC">Encryption</font><font color="#E5E5E5"> the best way to keep people</font>
+
+2
+00:00:06,419 --> 00:00:09,929
+<font color="#CCCCCC">from reading your</font><font color="#E5E5E5"> email short of making</font>
+
+3
+00:00:08,130 --> 00:00:11,849
+<font color="#CCCCCC">a subject line forward forward forward</font>
+
+4
+00:00:09,929 --> 00:00:14,789
+forward hilarious<font color="#CCCCCC"> joke from uncle Walter</font>
+
+5
+00:00:11,849 --> 00:00:17,039
+<font color="#E5E5E5">no one's reading that you may not think</font>
+
+6
+00:00:14,789 --> 00:00:20,009
+<font color="#E5E5E5">about encryption much but it is pretty</font>
+
+7
+00:00:17,039 --> 00:00:21,840
+fundamental<font color="#E5E5E5"> to</font><font color="#CCCCCC"> all our lives</font><font color="#E5E5E5"> almost</font>
+
+8
+00:00:20,010 --> 00:00:23,850
+everything<font color="#E5E5E5"> you do today uses a code</font>
+
+9
+00:00:21,839 --> 00:00:25,890
+every<font color="#CCCCCC"> time you log on to an internet</font>
+
+10
+00:00:23,850 --> 00:00:28,410
+<font color="#E5E5E5">service like Twitter or Facebook and</font>
+
+11
+00:00:25,890 --> 00:00:30,449
+send your<font color="#CCCCCC"> password every time you log</font>
+
+12
+00:00:28,410 --> 00:00:32,368
+into internet banking<font color="#CCCCCC"> all of</font><font color="#E5E5E5"> that</font>
+
+13
+00:00:30,449 --> 00:00:35,300
+<font color="#CCCCCC">information is protected</font><font color="#E5E5E5"> using</font>
+
+14
+00:00:32,368 --> 00:00:38,670
+<font color="#E5E5E5">encryption code</font><font color="#CCCCCC"> that's right</font>
+
+15
+00:00:35,299 --> 00:00:40,500
+encryption<font color="#E5E5E5"> can protect the things most</font>
+
+16
+00:00:38,670 --> 00:00:42,510
+important to us<font color="#CCCCCC"> our financial</font>
+
+17
+00:00:40,500 --> 00:00:44,128
+information<font color="#E5E5E5"> health records dick pics</font>
+
+18
+00:00:42,509 --> 00:00:45,089
+<font color="#E5E5E5">trade secrets classified</font><font color="#CCCCCC"> government</font>
+
+19
+00:00:44,128 --> 00:00:46,829
+records dick pics
+
+20
+00:00:45,090 --> 00:00:48,149
+<font color="#E5E5E5">our physical location the physical</font>
+
+21
+00:00:46,829 --> 00:00:50,369
+location of<font color="#E5E5E5"> our dicks credit card</font>
+
+22
+00:00:48,149 --> 00:00:53,370
+information<font color="#CCCCCC"> dick</font><font color="#E5E5E5"> pics and pictures of</font>
+
+23
+00:00:50,369 --> 00:00:55,828
+our dicks<font color="#E5E5E5"> and and it's not just our data</font>
+
+24
+00:00:53,369 --> 00:00:58,530
+<font color="#E5E5E5">lots of things have computers in them</font>
+
+25
+00:00:55,829 --> 00:01:00,179
+now even<font color="#CCCCCC"> cars and last year to hackers</font>
+
+26
+00:00:58,530 --> 00:01:02,390
+showed a writer from Wired<font color="#CCCCCC"> how they</font>
+
+27
+00:01:00,179 --> 00:01:04,500
+<font color="#E5E5E5">could disable</font><font color="#CCCCCC"> his car on</font><font color="#E5E5E5"> the interstate</font>
+
+28
+00:01:02,390 --> 00:01:10,469
+<font color="#CCCCCC">do it kill the</font><font color="#E5E5E5"> engine</font>
+
+29
+00:01:04,500 --> 00:01:12,510
+so we're killing<font color="#CCCCCC"> the engine right now I</font>
+
+30
+00:01:10,469 --> 00:01:14,010
+turned on my<font color="#CCCCCC"> hazard lights</font><font color="#E5E5E5"> but I was</font>
+
+31
+00:01:12,510 --> 00:01:20,390
+<font color="#E5E5E5">still stuck in the right lane with no</font>
+
+32
+00:01:14,010 --> 00:01:24,900
+<font color="#E5E5E5">shoulder to escape</font><font color="#CCCCCC"> onto he's panicking</font>
+
+33
+00:01:20,390 --> 00:01:26,849
+<font color="#E5E5E5">yeah no shit</font><font color="#CCCCCC"> he's panicking you killed</font>
+
+34
+00:01:24,900 --> 00:01:28,500
+his engine on the freeway
+
+35
+00:01:26,849 --> 00:01:30,390
+don't<font color="#CCCCCC"> hackers seem like they've played</font>
+
+36
+00:01:28,500 --> 00:01:32,489
+<font color="#E5E5E5">so many video games they've forgotten</font>
+
+37
+00:01:30,390 --> 00:01:35,460
+that<font color="#CCCCCC"> cars are actual objects carrying</font>
+
+38
+00:01:32,489 --> 00:01:37,319
+living people but while it can keep<font color="#E5E5E5"> us</font>
+
+39
+00:01:35,459 --> 00:01:39,390
+safe it's important to note encryption
+
+40
+00:01:37,319 --> 00:01:41,429
+also has a<font color="#CCCCCC"> downside it's become so</font>
+
+41
+00:01:39,390 --> 00:01:42,868
+ubiquitous<font color="#E5E5E5"> it's making it impossible for</font>
+
+42
+00:01:41,430 --> 00:01:45,299
+law enforcement to gain access to
+
+43
+00:01:42,868 --> 00:01:47,549
+<font color="#E5E5E5">certain information or as FBI director</font>
+
+44
+00:01:45,299 --> 00:01:49,920
+James Comey<font color="#E5E5E5"> puts it technology has</font>
+
+45
+00:01:47,549 --> 00:01:52,500
+<font color="#CCCCCC">become a tool of choice for some very</font>
+
+46
+00:01:49,920 --> 00:01:54,899
+dangerous<font color="#E5E5E5"> people</font><font color="#CCCCCC"> and unfortunately the</font>
+
+47
+00:01:52,500 --> 00:01:57,030
+law has not<font color="#CCCCCC"> kept pace with technology</font>
+
+48
+00:01:54,899 --> 00:01:59,070
+<font color="#E5E5E5">and this disconnect has created the</font>
+
+49
+00:01:57,030 --> 00:02:01,710
+significant public safety problem<font color="#E5E5E5"> we</font>
+
+50
+00:01:59,069 --> 00:02:02,758
+have long described as going<font color="#E5E5E5"> dark yes</font>
+
+51
+00:02:01,709 --> 00:02:04,739
+going<font color="#E5E5E5"> dark</font>
+
+52
+00:02:02,759 --> 00:02:06,599
+<font color="#CCCCCC">it's a deliberately</font><font color="#E5E5E5"> ominous sounding</font>
+
+53
+00:02:04,739 --> 00:02:08,340
+term<font color="#E5E5E5"> because you</font><font color="#CCCCCC"> wouldn't get so</font><font color="#E5E5E5"> scared</font>
+
+54
+00:02:06,599 --> 00:02:09,598
+if<font color="#CCCCCC"> they just called</font><font color="#E5E5E5"> it bad guy go</font>
+
+55
+00:02:08,340 --> 00:02:11,789
+bye-bye
+
+56
+00:02:09,598 --> 00:02:13,560
+and you may have heard<font color="#E5E5E5"> about this going</font>
+
+57
+00:02:11,789 --> 00:02:15,989
+dark problem recently related to one
+
+58
+00:02:13,560 --> 00:02:18,209
+particular<font color="#E5E5E5"> work iPhone belonging to Syed</font>
+
+59
+00:02:15,989 --> 00:02:20,039
+<font color="#E5E5E5">Farook the San Bernardino gunman who</font>
+
+60
+00:02:18,209 --> 00:02:22,560
+with his wife killed 14 people last
+
+61
+00:02:20,039 --> 00:02:24,179
+December the FBI needs<font color="#CCCCCC"> Apple's help</font>
+
+62
+00:02:22,560 --> 00:02:26,188
+because the<font color="#E5E5E5"> security settings on the</font>
+
+63
+00:02:24,180 --> 00:02:28,319
+phone<font color="#CCCCCC"> locked the device if a password is</font>
+
+64
+00:02:26,188 --> 00:02:30,568
+<font color="#CCCCCC">entered incorrectly too many times</font><font color="#E5E5E5"> it</font>
+
+65
+00:02:28,318 --> 00:02:33,539
+may<font color="#E5E5E5"> even erase all the</font><font color="#CCCCCC"> data on</font><font color="#E5E5E5"> the phone</font>
+
+66
+00:02:30,568 --> 00:02:35,219
+the FBI wants Apple<font color="#E5E5E5"> to upload software</font>
+
+67
+00:02:33,539 --> 00:02:37,378
+that lets its<font color="#CCCCCC"> analysts get around the</font>
+
+68
+00:02:35,219 --> 00:02:40,829
+<font color="#E5E5E5">security features</font><font color="#CCCCCC"> and take as many shots</font>
+
+69
+00:02:37,378 --> 00:02:43,138
+<font color="#CCCCCC">at the passcode is necessary</font><font color="#E5E5E5"> yes the FBI</font>
+
+70
+00:02:40,829 --> 00:02:44,760
+has a dead terrorist cell phone that
+
+71
+00:02:43,139 --> 00:02:46,019
+<font color="#E5E5E5">they cannot get into it's running a</font>
+
+72
+00:02:44,759 --> 00:02:48,268
+newer version of Apple's operating
+
+73
+00:02:46,019 --> 00:02:50,129
+system where the data is<font color="#E5E5E5"> fully encrypted</font>
+
+74
+00:02:48,269 --> 00:02:52,950
+<font color="#E5E5E5">and can only be accessed by unlocking</font>
+
+75
+00:02:50,128 --> 00:02:54,358
+<font color="#CCCCCC">the passcode</font><font color="#E5E5E5"> even Apple can't currently</font>
+
+76
+00:02:52,949 --> 00:02:56,039
+get into the phone so the government is
+
+77
+00:02:54,359 --> 00:02:57,989
+<font color="#E5E5E5">essentially demanding that they come up</font>
+
+78
+00:02:56,039 --> 00:03:01,199
+<font color="#CCCCCC">with a cheat code for their top-selling</font>
+
+79
+00:02:57,989 --> 00:03:02,329
+<font color="#CCCCCC">iPhone game</font><font color="#E5E5E5"> what's my passcode</font><font color="#CCCCCC"> rated E</font>
+
+80
+00:03:01,199 --> 00:03:04,738
+for Everyone
+
+81
+00:03:02,329 --> 00:03:06,780
+Apple is currently fighting<font color="#E5E5E5"> that order</font>
+
+82
+00:03:04,739 --> 00:03:08,128
+in<font color="#E5E5E5"> court arguing it shouldn't be forced</font>
+
+83
+00:03:06,780 --> 00:03:09,930
+to undermine<font color="#E5E5E5"> the security features that</font>
+
+84
+00:03:08,128 --> 00:03:11,969
+<font color="#CCCCCC">protect its encryption an argument which</font>
+
+85
+00:03:09,930 --> 00:03:13,709
+some have found troubling I think Apple
+
+86
+00:03:11,969 --> 00:03:15,449
+leadership risks having<font color="#E5E5E5"> blood</font><font color="#CCCCCC"> on their</font>
+
+87
+00:03:13,709 --> 00:03:19,919
+hands how<font color="#E5E5E5"> would the hell you can't</font>
+
+88
+00:03:15,449 --> 00:03:23,340
+access<font color="#E5E5E5"> a phone I just find baffling any</font>
+
+89
+00:03:19,919 --> 00:03:25,590
+system that<font color="#CCCCCC"> would allow a</font><font color="#E5E5E5"> terrorist to</font>
+
+90
+00:03:23,340 --> 00:03:27,269
+communicate with somebody<font color="#E5E5E5"> in our country</font>
+
+91
+00:03:25,590 --> 00:03:30,479
+and<font color="#CCCCCC"> we</font><font color="#E5E5E5"> can't find out what they're</font>
+
+92
+00:03:27,269 --> 00:03:32,219
+saying<font color="#CCCCCC"> is stupid</font><font color="#E5E5E5"> wolf that is the</font>
+
+93
+00:03:30,479 --> 00:03:33,479
+angriest<font color="#CCCCCC"> Lindsey Graham has been about a</font>
+
+94
+00:03:32,219 --> 00:03:36,658
+cell<font color="#E5E5E5"> phone since his name got</font>
+
+95
+00:03:33,479 --> 00:03:38,699
+<font color="#E5E5E5">autocorrected</font><font color="#CCCCCC"> to linty grandma</font><font color="#E5E5E5"> stupid</font>
+
+96
+00:03:36,658 --> 00:03:41,009
+<font color="#E5E5E5">phone learn my name</font>
+
+97
+00:03:38,699 --> 00:03:46,840
+I am your boss
+
+98
+00:03:41,009 --> 00:03:48,429
+stupid<font color="#E5E5E5"> so dumb this this issue has even</font>
+
+99
+00:03:46,840 --> 00:03:51,009
+<font color="#CCCCCC">been brought up on</font><font color="#E5E5E5"> the campaign trail</font>
+
+100
+00:03:48,430 --> 00:03:53,379
+with<font color="#E5E5E5"> predictable results</font><font color="#CCCCCC"> what I</font><font color="#E5E5E5"> think</font>
+
+101
+00:03:51,009 --> 00:03:55,298
+you ought to<font color="#E5E5E5"> do is boycott Apple</font><font color="#CCCCCC"> until</font>
+
+102
+00:03:53,378 --> 00:03:57,068
+such time<font color="#CCCCCC"> as they give that Security</font>
+
+103
+00:03:55,299 --> 00:04:00,609
+number<font color="#CCCCCC"> how do you like I just thought it</font>
+
+104
+00:03:57,068 --> 00:04:02,708
+boy can't<font color="#E5E5E5"> Apple oh I just</font><font color="#CCCCCC"> love</font><font color="#E5E5E5"> it</font>
+
+105
+00:04:00,609 --> 00:04:04,299
+give me another<font color="#CCCCCC"> one</font><font color="#E5E5E5"> Israel Palestine</font><font color="#CCCCCC"> I</font>
+
+106
+00:04:02,709 --> 00:04:07,000
+make him wrestling those fake sumo
+
+107
+00:04:04,299 --> 00:04:11,260
+costumes done done being president<font color="#E5E5E5"> is</font>
+
+108
+00:04:07,000 --> 00:04:13,449
+easy but<font color="#CCCCCC"> I will say this is a</font><font color="#E5E5E5"> rare case</font>
+
+109
+00:04:11,259 --> 00:04:15,699
+where Donald Trump's outrage is almost
+
+110
+00:04:13,449 --> 00:04:18,189
+understandable<font color="#E5E5E5"> because Apple's refusal</font>
+
+111
+00:04:15,699 --> 00:04:20,769
+to<font color="#E5E5E5"> help crack a terrorist phone can seem</font>
+
+112
+00:04:18,189 --> 00:04:23,199
+hard<font color="#E5E5E5"> to defend especially when like</font><font color="#CCCCCC"> John</font>
+
+113
+00:04:20,769 --> 00:04:25,720
+<font color="#E5E5E5">Miller of the</font><font color="#CCCCCC"> NYPD you think about it</font>
+
+114
+00:04:23,199 --> 00:04:27,848
+incredibly simplistically<font color="#E5E5E5"> there's no</font>
+
+115
+00:04:25,720 --> 00:04:28,360
+<font color="#CCCCCC">bang there's no safe</font><font color="#E5E5E5"> company there's no</font>
+
+116
+00:04:27,848 --> 00:04:30,310
+fault
+
+117
+00:04:28,360 --> 00:04:32,919
+<font color="#E5E5E5">there is no apartment there's no door</font>
+
+118
+00:04:30,310 --> 00:04:35,649
+<font color="#E5E5E5">that can't be penetrated</font><font color="#CCCCCC"> with a lawful</font>
+
+119
+00:04:32,918 --> 00:04:38,168
+order<font color="#CCCCCC"> from the US</font><font color="#E5E5E5"> Court okay point taken</font>
+
+120
+00:04:35,649 --> 00:04:40,269
+<font color="#E5E5E5">but was penetrated to the best word</font>
+
+121
+00:04:38,168 --> 00:04:42,909
+choice<font color="#E5E5E5"> there the government needs to be</font>
+
+122
+00:04:40,269 --> 00:04:44,799
+<font color="#E5E5E5">able</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> penetrate you at any time</font><font color="#CCCCCC"> if we</font>
+
+123
+00:04:42,910 --> 00:04:46,240
+feel you need penetration we<font color="#CCCCCC"> have to be</font>
+
+124
+00:04:44,800 --> 00:04:49,090
+able to penetrate you quickly<font color="#E5E5E5"> and</font>
+
+125
+00:04:46,240 --> 00:04:52,269
+effectively<font color="#E5E5E5"> here and now why is everyone</font>
+
+126
+00:04:49,089 --> 00:04:55,179
+getting<font color="#E5E5E5"> so uptight about</font><font color="#CCCCCC"> this but this</font>
+
+127
+00:04:52,269 --> 00:04:57,639
+<font color="#E5E5E5">is</font><font color="#CCCCCC"> not</font><font color="#E5E5E5"> simple it's a hugely complicated</font>
+
+128
+00:04:55,180 --> 00:05:00,220
+<font color="#E5E5E5">story with massive implications and once</font>
+
+129
+00:04:57,639 --> 00:05:02,560
+we get<font color="#E5E5E5"> to the end of it you may not feel</font>
+
+130
+00:05:00,220 --> 00:05:04,690
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> same way that</font><font color="#CCCCCC"> you do now</font><font color="#E5E5E5"> because to</font>
+
+131
+00:05:02,560 --> 00:05:07,240
+that man's point<font color="#E5E5E5"> an encrypted phone is</font>
+
+132
+00:05:04,689 --> 00:05:10,000
+not really like a bank or a safe if you
+
+133
+00:05:07,240 --> 00:05:12,129
+<font color="#E5E5E5">penetrate a safe</font><font color="#CCCCCC"> you've only</font><font color="#E5E5E5"> penetrated</font>
+
+134
+00:05:10,000 --> 00:05:14,319
+that safe<font color="#E5E5E5"> but a code to</font><font color="#CCCCCC"> open a phone</font>
+
+135
+00:05:12,129 --> 00:05:16,810
+could be<font color="#E5E5E5"> modified</font><font color="#CCCCCC"> to open many many more</font>
+
+136
+00:05:14,319 --> 00:05:19,990
+phones<font color="#E5E5E5"> a fact that does not escape Apple</font>
+
+137
+00:05:16,810 --> 00:05:23,949
+CEO Tim Cook no one I<font color="#CCCCCC"> don't</font><font color="#E5E5E5"> believe</font>
+
+138
+00:05:19,990 --> 00:05:27,098
+would<font color="#E5E5E5"> want a master key built that would</font>
+
+139
+00:05:23,949 --> 00:05:29,259
+turn hundreds of millions of locks<font color="#E5E5E5"> even</font>
+
+140
+00:05:27,098 --> 00:05:32,500
+if that key were in the possession of
+
+141
+00:05:29,259 --> 00:05:34,960
+<font color="#E5E5E5">the person</font><font color="#CCCCCC"> that you</font><font color="#E5E5E5"> trust the most that</font>
+
+142
+00:05:32,500 --> 00:05:37,449
+key<font color="#CCCCCC"> could be stolen</font><font color="#E5E5E5"> the only way we know</font>
+
+143
+00:05:34,959 --> 00:05:39,609
+<font color="#CCCCCC">to get additional information is to</font>
+
+144
+00:05:37,449 --> 00:05:42,908
+write a piece<font color="#E5E5E5"> of</font><font color="#CCCCCC"> software that</font><font color="#E5E5E5"> is the</font>
+
+145
+00:05:39,610 --> 00:05:45,129
+software<font color="#E5E5E5"> equivalent of cancer</font><font color="#CCCCCC"> okay now</font>
+
+146
+00:05:42,908 --> 00:05:47,408
+on one hand giving your phone cancer
+
+147
+00:05:45,129 --> 00:05:48,908
+sounds bad<font color="#E5E5E5"> but on the other hand</font><font color="#CCCCCC"> The</font>
+
+148
+00:05:47,408 --> 00:05:50,949
+Fault in<font color="#E5E5E5"> Our Stars</font><font color="#CCCCCC"> would</font><font color="#E5E5E5"> have been</font>
+
+149
+00:05:48,908 --> 00:05:51,668
+<font color="#E5E5E5">amazing if shailene woodley was playing</font>
+
+150
+00:05:50,949 --> 00:05:54,579
+a<font color="#E5E5E5"> terminally-ill</font>
+
+151
+00:05:51,668 --> 00:05:56,680
+<font color="#E5E5E5">iPhone</font><font color="#CCCCCC"> 6s no</font><font color="#E5E5E5"> god</font><font color="#CCCCCC"> damn it</font>
+
+152
+00:05:54,579 --> 00:05:58,089
+won't<font color="#E5E5E5"> let you go hazel</font><font color="#CCCCCC"> I'll hold down</font>
+
+153
+00:05:56,680 --> 00:06:03,218
+<font color="#CCCCCC">the power button and</font><font color="#E5E5E5"> the home</font><font color="#CCCCCC"> button</font>
+
+154
+00:05:58,089 --> 00:06:05,168
+simultaneously<font color="#CCCCCC"> forever and to be clear</font>
+
+155
+00:06:03,218 --> 00:06:06,879
+<font color="#CCCCCC">Apple hasn't been completely</font>
+
+156
+00:06:05,168 --> 00:06:08,468
+<font color="#E5E5E5">uncooperative</font><font color="#CCCCCC"> they've already given the</font>
+
+157
+00:06:06,879 --> 00:06:10,658
+FBI the information they could<font color="#E5E5E5"> access</font>
+
+158
+00:06:08,468 --> 00:06:12,579
+including<font color="#CCCCCC"> Farooq's</font><font color="#E5E5E5"> iCloud backups from</font>
+
+159
+00:06:10,658 --> 00:06:14,649
+about six weeks<font color="#E5E5E5"> before</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> attacks but</font>
+
+160
+00:06:12,579 --> 00:06:17,500
+they are refusing<font color="#E5E5E5"> to create the</font>
+
+161
+00:06:14,649 --> 00:06:19,120
+cancerous program<font color="#CCCCCC"> the FBI wants not</font>
+
+162
+00:06:17,500 --> 00:06:21,218
+because it can't<font color="#E5E5E5"> be done</font><font color="#CCCCCC"> they say it</font>
+
+163
+00:06:19,120 --> 00:06:22,870
+<font color="#E5E5E5">would</font><font color="#CCCCCC"> take six to ten Engineers</font><font color="#E5E5E5"> up to</font>
+
+164
+00:06:21,218 --> 00:06:26,649
+four weeks<font color="#E5E5E5"> to do it or you know a</font>
+
+165
+00:06:22,870 --> 00:06:29,110
+standard Genius Bar appointment but but
+
+166
+00:06:26,649 --> 00:06:31,120
+Apple worries<font color="#E5E5E5"> that once they make that</font>
+
+167
+00:06:29,110 --> 00:06:33,009
+<font color="#E5E5E5">program</font><font color="#CCCCCC"> they can't keep it a hundred</font>
+
+168
+00:06:31,120 --> 00:06:34,990
+<font color="#CCCCCC">percent safe and the FBI and its</font>
+
+169
+00:06:33,009 --> 00:06:36,729
+supporters<font color="#E5E5E5"> can be weirdly dismissive of</font>
+
+170
+00:06:34,990 --> 00:06:38,228
+that issue<font color="#E5E5E5"> in ways that indicate they</font>
+
+171
+00:06:36,728 --> 00:06:40,508
+either don't<font color="#E5E5E5"> fully understand how</font>
+
+172
+00:06:38,228 --> 00:06:42,579
+technology<font color="#E5E5E5"> works or are pretending not</font>
+
+173
+00:06:40,509 --> 00:06:44,560
+to<font color="#E5E5E5"> what the government is asking Tim</font>
+
+174
+00:06:42,579 --> 00:06:47,318
+Cook<font color="#CCCCCC"> is you designed it you can design</font>
+
+175
+00:06:44,560 --> 00:06:48,819
+your<font color="#CCCCCC"> way out of</font><font color="#E5E5E5"> it for this one time</font><font color="#CCCCCC"> if</font>
+
+176
+00:06:47,319 --> 00:06:51,039
+you<font color="#E5E5E5"> figure</font><font color="#CCCCCC"> out</font><font color="#E5E5E5"> the formula and crack</font>
+
+177
+00:06:48,819 --> 00:06:53,169
+<font color="#E5E5E5">open this phone to the point that we</font><font color="#CCCCCC"> can</font>
+
+178
+00:06:51,038 --> 00:06:55,269
+<font color="#E5E5E5">then try codes against it you can tear</font>
+
+179
+00:06:53,168 --> 00:06:57,968
+that formula up<font color="#E5E5E5"> lots of cross it in the</font>
+
+180
+00:06:55,269 --> 00:07:00,490
+fireplace<font color="#CCCCCC"> and throw it away oh come on</font>
+
+181
+00:06:57,968 --> 00:07:03,370
+<font color="#CCCCCC">you know Apple</font><font color="#E5E5E5"> is not writing</font><font color="#CCCCCC"> its code</font>
+
+182
+00:07:00,490 --> 00:07:05,710
+on paper<font color="#CCCCCC"> next</font><font color="#E5E5E5"> to a fireplace</font><font color="#CCCCCC"> they're</font><font color="#E5E5E5"> a</font>
+
+183
+00:07:03,370 --> 00:07:09,218
+cutting-edge technology company<font color="#E5E5E5"> not Lord</font>
+
+184
+00:07:05,709 --> 00:07:11,439
+Grantham<font color="#CCCCCC"> and and as for the</font><font color="#E5E5E5"> notion Apple</font>
+
+185
+00:07:09,218 --> 00:07:14,408
+can throw the formula away after the FBI
+
+186
+00:07:11,439 --> 00:07:16,990
+<font color="#CCCCCC">uses it once</font><font color="#E5E5E5"> nobody seriously thinks</font>
+
+187
+00:07:14,408 --> 00:07:18,668
+<font color="#CCCCCC">that is going to happen Apple says if it</font>
+
+188
+00:07:16,990 --> 00:07:20,889
+<font color="#E5E5E5">complies requests from law enforcement</font>
+
+189
+00:07:18,668 --> 00:07:23,258
+<font color="#E5E5E5">could come for another phone an hour</font>
+
+190
+00:07:20,889 --> 00:07:25,000
+later<font color="#E5E5E5"> opening a Pandora's box</font>
+
+191
+00:07:23,259 --> 00:07:27,968
+Apple officials pointed<font color="#E5E5E5"> to the Manhattan</font>
+
+192
+00:07:25,000 --> 00:07:30,189
+district attorney who says he has 175
+
+193
+00:07:27,968 --> 00:07:32,649
+<font color="#E5E5E5">iPhones with potential</font><font color="#CCCCCC"> evidence from</font>
+
+194
+00:07:30,189 --> 00:07:36,098
+serious crimes including<font color="#CCCCCC"> murder</font><font color="#E5E5E5"> that he</font>
+
+195
+00:07:32,649 --> 00:07:38,588
+cannot open<font color="#E5E5E5"> exactly there are over 175</font>
+
+196
+00:07:36,098 --> 00:07:40,899
+other<font color="#E5E5E5"> phones in line</font><font color="#CCCCCC"> just in New York so</font>
+
+197
+00:07:38,588 --> 00:07:43,300
+this is bound<font color="#E5E5E5"> to set a precedent think</font>
+
+198
+00:07:40,899 --> 00:07:45,338
+of the government<font color="#CCCCCC"> as your dad if he asks</font>
+
+199
+00:07:43,300 --> 00:07:47,800
+<font color="#CCCCCC">you to</font><font color="#E5E5E5"> help him with his iPhone</font><font color="#CCCCCC"> be</font>
+
+200
+00:07:45,338 --> 00:07:50,218
+careful<font color="#E5E5E5"> because if you do it once</font><font color="#CCCCCC"> you're</font>
+
+201
+00:07:47,800 --> 00:07:53,408
+gonna be doing it 14<font color="#CCCCCC"> times a day</font><font color="#E5E5E5"> and</font>
+
+202
+00:07:50,218 --> 00:07:55,810
+whatever happens in this case will<font color="#CCCCCC"> have</font>
+
+203
+00:07:53,408 --> 00:07:57,848
+ramifications<font color="#E5E5E5"> because</font><font color="#CCCCCC"> the FBI ultimately</font>
+
+204
+00:07:55,810 --> 00:07:59,918
+wants Apple<font color="#E5E5E5"> and the entire tech industry</font>
+
+205
+00:07:57,848 --> 00:08:01,750
+to have its encryption<font color="#CCCCCC"> always be weak</font>
+
+206
+00:07:59,918 --> 00:08:03,818
+enough<font color="#CCCCCC"> that the company can access</font>
+
+207
+00:08:01,750 --> 00:08:06,728
+<font color="#CCCCCC">customer's data</font><font color="#E5E5E5"> if law</font><font color="#CCCCCC"> enforcement needs</font>
+
+208
+00:08:03,819 --> 00:08:08,140
+<font color="#E5E5E5">it so</font><font color="#CCCCCC"> it might be the iPhone today</font><font color="#E5E5E5"> an</font>
+
+209
+00:08:06,728 --> 00:08:10,120
+Android phone<font color="#E5E5E5"> tomorrow</font>
+
+210
+00:08:08,139 --> 00:08:12,399
+<font color="#E5E5E5">and</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> blackberry the day after that</font>
+
+211
+00:08:10,120 --> 00:08:16,840
+<font color="#E5E5E5">assuming</font><font color="#CCCCCC"> that the day after</font><font color="#E5E5E5"> that is in</font>
+
+212
+00:08:12,399 --> 00:08:18,849
+1998 and and you might be wondering but
+
+213
+00:08:16,839 --> 00:08:20,469
+<font color="#E5E5E5">look if there's a warrant</font><font color="#CCCCCC"> do these</font>
+
+214
+00:08:18,850 --> 00:08:22,420
+companies<font color="#E5E5E5"> really have a choice to which</font>
+
+215
+00:08:20,470 --> 00:08:24,580
+the answer surprisingly might be yes
+
+216
+00:08:22,420 --> 00:08:27,670
+they do<font color="#E5E5E5"> the government is currently</font>
+
+217
+00:08:24,579 --> 00:08:29,589
+citing the all writs Act of 1789 which
+
+218
+00:08:27,670 --> 00:08:32,110
+essentially mandates<font color="#CCCCCC"> you must cooperate</font>
+
+219
+00:08:29,589 --> 00:08:34,179
+with investigators<font color="#E5E5E5"> if they ask you to do</font>
+
+220
+00:08:32,110 --> 00:08:36,490
+<font color="#E5E5E5">something but courts are split over</font>
+
+221
+00:08:34,179 --> 00:08:38,589
+whether<font color="#E5E5E5"> it applies in cases like these</font>
+
+222
+00:08:36,490 --> 00:08:40,600
+and there's<font color="#E5E5E5"> not</font><font color="#CCCCCC"> really any more</font><font color="#E5E5E5"> recent</font>
+
+223
+00:08:38,590 --> 00:08:43,060
+law covering<font color="#E5E5E5"> this area which is not</font>
+
+224
+00:08:40,600 --> 00:08:45,310
+entirely an accident<font color="#E5E5E5"> because we have</font>
+
+225
+00:08:43,059 --> 00:08:47,109
+been down<font color="#E5E5E5"> this</font><font color="#CCCCCC"> road</font><font color="#E5E5E5"> before</font><font color="#CCCCCC"> the</font>
+
+226
+00:08:45,309 --> 00:08:49,689
+government grappled with<font color="#E5E5E5"> encryption two</font>
+
+227
+00:08:47,110 --> 00:08:50,980
+decades<font color="#CCCCCC"> ago and in the early 90s</font><font color="#E5E5E5"> they</font>
+
+228
+00:08:49,690 --> 00:08:53,560
+even came<font color="#CCCCCC"> up with what they thought</font>
+
+229
+00:08:50,980 --> 00:08:55,420
+would<font color="#E5E5E5"> be</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> ideal solution</font><font color="#CCCCCC"> the</font>
+
+230
+00:08:53,559 --> 00:08:56,829
+government will press private companies
+
+231
+00:08:55,419 --> 00:08:58,779
+to<font color="#CCCCCC"> use a so called</font>
+
+232
+00:08:56,830 --> 00:09:01,120
+Clipper Chip in their computers which
+
+233
+00:08:58,779 --> 00:09:04,049
+would allow authorities<font color="#E5E5E5"> to monitor coded</font>
+
+234
+00:09:01,120 --> 00:09:06,429
+messages<font color="#E5E5E5"> now that clipper chip was</font>
+
+235
+00:09:04,049 --> 00:09:07,899
+theoretically<font color="#CCCCCC"> perfect your information</font>
+
+236
+00:09:06,429 --> 00:09:09,279
+could be encrypted<font color="#CCCCCC"> but</font><font color="#E5E5E5"> the government</font>
+
+237
+00:09:07,899 --> 00:09:10,629
+would have an access point<font color="#CCCCCC"> when it</font>
+
+238
+00:09:09,279 --> 00:09:13,209
+<font color="#CCCCCC">needed it it was like giving your house</font>
+
+239
+00:09:10,629 --> 00:09:15,429
+key to a trusted neighbor<font color="#CCCCCC"> you can</font><font color="#E5E5E5"> trust</font>
+
+240
+00:09:13,210 --> 00:09:18,450
+<font color="#E5E5E5">Mike he's only gonna try on your</font>
+
+241
+00:09:15,429 --> 00:09:20,739
+<font color="#E5E5E5">underwear if it's</font><font color="#CCCCCC"> absolutely</font><font color="#E5E5E5"> necessary</font>
+
+242
+00:09:18,450 --> 00:09:22,750
+<font color="#CCCCCC">there was just</font><font color="#E5E5E5"> one problem with that</font>
+
+243
+00:09:20,740 --> 00:09:24,940
+<font color="#CCCCCC">chip a computer scientist and hacker</font>
+
+244
+00:09:22,750 --> 00:09:27,100
+named Matt<font color="#CCCCCC"> Blais</font><font color="#E5E5E5"> figured out a way to</font>
+
+245
+00:09:24,940 --> 00:09:29,440
+<font color="#E5E5E5">disable the government access feature of</font>
+
+246
+00:09:27,100 --> 00:09:31,659
+the chip<font color="#E5E5E5"> and the whole project</font><font color="#CCCCCC"> was</font>
+
+247
+00:09:29,440 --> 00:09:34,540
+eventually abandoned and by the way<font color="#E5E5E5"> is</font>
+
+248
+00:09:31,659 --> 00:09:38,139
+there<font color="#E5E5E5"> a more</font><font color="#CCCCCC"> ninety series of words than</font>
+
+249
+00:09:34,539 --> 00:09:39,789
+a hacker named Matt<font color="#CCCCCC"> Blais it's gotta be</font>
+
+250
+00:09:38,139 --> 00:09:43,210
+right up there<font color="#CCCCCC"> with</font><font color="#E5E5E5"> talk to the hand</font>
+
+251
+00:09:39,789 --> 00:09:46,149
+Furby<font color="#E5E5E5"> and Grammy Award winners</font><font color="#CCCCCC"> milli</font>
+
+252
+00:09:43,210 --> 00:09:48,550
+<font color="#CCCCCC">vanilli but thanks</font><font color="#E5E5E5"> to the Clipper Chip</font>
+
+253
+00:09:46,149 --> 00:09:50,019
+<font color="#CCCCCC">Fiasco and strong pressure from tech</font>
+
+254
+00:09:48,549 --> 00:09:52,269
+companies the government<font color="#CCCCCC"> backed off</font>
+
+255
+00:09:50,019 --> 00:09:55,090
+eventually<font color="#E5E5E5"> abandoning the push for a</font>
+
+256
+00:09:52,269 --> 00:09:56,529
+perfect backdoor but<font color="#E5E5E5"> decades later</font><font color="#CCCCCC"> they</font>
+
+257
+00:09:55,090 --> 00:09:57,639
+seem<font color="#E5E5E5"> to have convinced themselves that</font>
+
+258
+00:09:56,529 --> 00:10:00,549
+<font color="#E5E5E5">it can be done</font>
+
+259
+00:09:57,639 --> 00:10:02,620
+I believe that Apple's capabilities are
+
+260
+00:10:00,549 --> 00:10:04,269
+remarkable when it is their desire I
+
+261
+00:10:02,620 --> 00:10:05,529
+think Silicon Valley is full of great
+
+262
+00:10:04,269 --> 00:10:07,149
+<font color="#CCCCCC">people who when they were younger</font>
+
+263
+00:10:05,529 --> 00:10:09,220
+<font color="#E5E5E5">we're told your dreams are too hard they</font>
+
+264
+00:10:07,149 --> 00:10:11,169
+were standing<font color="#CCCCCC"> in a garage someplace</font><font color="#E5E5E5"> they</font>
+
+265
+00:10:09,220 --> 00:10:12,610
+were told can't be done thank<font color="#E5E5E5"> goodness</font>
+
+266
+00:10:11,169 --> 00:10:14,979
+they didn't<font color="#CCCCCC"> listen I hate to hear talk</font>
+
+267
+00:10:12,610 --> 00:10:16,899
+like<font color="#CCCCCC"> that cannot be</font><font color="#E5E5E5"> done</font><font color="#CCCCCC"> I mean think</font>
+
+268
+00:10:14,980 --> 00:10:19,120
+about<font color="#E5E5E5"> if Jack Kennedy said we can't go</font>
+
+269
+00:10:16,899 --> 00:10:20,939
+to the<font color="#E5E5E5"> moon that cannot be done he said</font>
+
+270
+00:10:19,120 --> 00:10:24,149
+something else<font color="#E5E5E5"> we're gonna get there</font>
+
+271
+00:10:20,940 --> 00:10:26,580
+in the next<font color="#E5E5E5"> decade</font><font color="#CCCCCC"> okay</font><font color="#E5E5E5"> listen</font><font color="#CCCCCC"> I love</font>
+
+272
+00:10:24,149 --> 00:10:28,620
+that optimism<font color="#CCCCCC"> but for the</font><font color="#E5E5E5"> record there</font>
+
+273
+00:10:26,580 --> 00:10:30,870
+are<font color="#E5E5E5"> lots of things we can't do even</font>
+
+274
+00:10:28,620 --> 00:10:32,970
+<font color="#CCCCCC">though we've been to the</font><font color="#E5E5E5"> moon for</font>
+
+275
+00:10:30,870 --> 00:10:35,279
+<font color="#CCCCCC">example we are</font><font color="#E5E5E5"> yet</font><font color="#CCCCCC"> to master</font><font color="#E5E5E5"> time travel</font>
+
+276
+00:10:32,970 --> 00:10:36,990
+<font color="#E5E5E5">or figure out why Hulk Hogan dresses for</font>
+
+277
+00:10:35,279 --> 00:10:40,919
+court<font color="#E5E5E5"> like he's a pallbearer at</font><font color="#CCCCCC"> a boa</font>
+
+278
+00:10:36,990 --> 00:10:44,039
+constrictors<font color="#CCCCCC"> view</font><font color="#E5E5E5"> those still elude</font>
+
+279
+00:10:40,919 --> 00:10:46,079
+human understanding<font color="#CCCCCC"> and to some extent</font>
+
+280
+00:10:44,039 --> 00:10:48,539
+the government's faith in<font color="#CCCCCC"> Apple's magic</font>
+
+281
+00:10:46,080 --> 00:10:50,310
+powers is the<font color="#E5E5E5"> company's own fault after</font>
+
+282
+00:10:48,539 --> 00:10:52,799
+<font color="#CCCCCC">all</font><font color="#E5E5E5"> their ads have linked them to</font>
+
+283
+00:10:50,309 --> 00:10:54,659
+Einstein<font color="#E5E5E5"> and Gandhi and they sell the</font>
+
+284
+00:10:52,799 --> 00:10:58,979
+<font color="#E5E5E5">most mundane aspects of their products</font>
+
+285
+00:10:54,659 --> 00:11:01,469
+as world changes this is iPhone<font color="#CCCCCC"> 6s</font><font color="#E5E5E5"> not</font>
+
+286
+00:10:58,980 --> 00:11:03,300
+much has changed<font color="#E5E5E5"> except it responds to</font>
+
+287
+00:11:01,470 --> 00:11:05,550
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> pressure of your finger</font><font color="#CCCCCC"> now you can</font>
+
+288
+00:11:03,299 --> 00:11:07,769
+change apps like<font color="#E5E5E5"> this pay</font><font color="#CCCCCC"> up more places</font>
+
+289
+00:11:05,549 --> 00:11:09,299
+<font color="#CCCCCC">like this and blue color looks like this</font>
+
+290
+00:11:07,769 --> 00:11:14,669
+<font color="#CCCCCC">it's rose gold it's awesome</font>
+
+291
+00:11:09,299 --> 00:11:16,409
+oh no it is<font color="#CCCCCC"> not rose</font><font color="#E5E5E5"> gold</font>
+
+292
+00:11:14,669 --> 00:11:19,669
+looks like someone vomited a salmon
+
+293
+00:11:16,409 --> 00:11:22,649
+dinner<font color="#CCCCCC"> onto a pair of</font><font color="#E5E5E5"> dirty ballet shoes</font>
+
+294
+00:11:19,669 --> 00:11:24,509
+but<font color="#CCCCCC"> ads like those obscure the real</font>
+
+295
+00:11:22,649 --> 00:11:27,750
+<font color="#E5E5E5">truth about Apple which</font><font color="#CCCCCC"> is that beneath</font>
+
+296
+00:11:24,509 --> 00:11:29,490
+their shiny<font color="#CCCCCC"> rose gold surface they like</font>
+
+297
+00:11:27,750 --> 00:11:31,860
+any other<font color="#CCCCCC"> software company</font><font color="#E5E5E5"> are</font>
+
+298
+00:11:29,490 --> 00:11:34,080
+incredibly susceptible<font color="#E5E5E5"> to</font><font color="#CCCCCC"> hackers who</font>
+
+299
+00:11:31,860 --> 00:11:36,389
+are<font color="#CCCCCC"> constantly finding</font><font color="#E5E5E5"> flaws in their</font>
+
+300
+00:11:34,080 --> 00:11:38,580
+security<font color="#E5E5E5"> features right now you can buy</font>
+
+301
+00:11:36,389 --> 00:11:40,710
+boxes like this one on<font color="#CCCCCC"> eBay that can</font>
+
+302
+00:11:38,580 --> 00:11:42,960
+hack you<font color="#CCCCCC"> into an iphone</font><font color="#E5E5E5"> running some</font>
+
+303
+00:11:40,710 --> 00:11:45,000
+versions of<font color="#CCCCCC"> iOS 8 or</font><font color="#E5E5E5"> lower just watch</font>
+
+304
+00:11:42,960 --> 00:11:47,040
+this YouTube video<font color="#CCCCCC"> showing you</font><font color="#E5E5E5"> how they</font>
+
+305
+00:11:45,000 --> 00:11:49,409
+work<font color="#CCCCCC"> you just attach the wire to</font><font color="#E5E5E5"> the</font>
+
+306
+00:11:47,039 --> 00:11:51,419
+screen<font color="#E5E5E5"> adjust a few</font><font color="#CCCCCC"> settings let it</font>
+
+307
+00:11:49,409 --> 00:11:54,929
+cycle through<font color="#CCCCCC"> pass codes</font><font color="#E5E5E5"> and eventually</font>
+
+308
+00:11:51,419 --> 00:11:56,819
+you<font color="#CCCCCC"> are in an Apple understandably</font><font color="#E5E5E5"> do</font>
+
+309
+00:11:54,929 --> 00:11:59,099
+not want us thinking<font color="#CCCCCC"> too much</font><font color="#E5E5E5"> about</font><font color="#CCCCCC"> that</font>
+
+310
+00:11:56,820 --> 00:12:01,530
+scary security flaws is one of those
+
+311
+00:11:59,100 --> 00:12:04,110
+three word phrases<font color="#E5E5E5"> they</font><font color="#CCCCCC"> absolutely hate</font>
+
+312
+00:12:01,529 --> 00:12:06,919
+to be associated<font color="#E5E5E5"> with like corporate tax</font>
+
+313
+00:12:04,110 --> 00:12:09,930
+avoidance<font color="#CCCCCC"> or Factory suicide Nets</font>
+
+314
+00:12:06,919 --> 00:12:11,669
+also<font color="#E5E5E5"> when Apple argues that if it's</font>
+
+315
+00:12:09,929 --> 00:12:14,099
+<font color="#E5E5E5">forced to have access to</font><font color="#CCCCCC"> all its</font>
+
+316
+00:12:11,669 --> 00:12:17,039
+customers<font color="#E5E5E5"> encrypted data</font><font color="#CCCCCC"> it can't 100%</font>
+
+317
+00:12:14,100 --> 00:12:19,350
+<font color="#E5E5E5">guarantee its safety most computer</font>
+
+318
+00:12:17,039 --> 00:12:21,959
+scientists agree<font color="#E5E5E5"> or as</font><font color="#CCCCCC"> matt</font><font color="#E5E5E5"> blazed the</font>
+
+319
+00:12:19,350 --> 00:12:24,810
+<font color="#CCCCCC">guy who hacks the Clipper Chip</font><font color="#E5E5E5"> put it</font>
+
+320
+00:12:21,960 --> 00:12:25,480
+<font color="#E5E5E5">when I hear the it if we can put a</font><font color="#CCCCCC"> man</font>
+
+321
+00:12:24,809 --> 00:12:27,549
+on<font color="#E5E5E5"> the</font><font color="#CCCCCC"> moon</font>
+
+322
+00:12:25,480 --> 00:12:29,409
+we can do this I'm hearing<font color="#E5E5E5"> an analogy</font>
+
+323
+00:12:27,549 --> 00:12:31,269
+almost as if we're saying if we<font color="#E5E5E5"> can put</font>
+
+324
+00:12:29,409 --> 00:12:35,679
+a<font color="#CCCCCC"> man on the moon well</font><font color="#E5E5E5"> surely we can put</font>
+
+325
+00:12:31,269 --> 00:12:37,899
+a man<font color="#CCCCCC"> on</font><font color="#E5E5E5"> the Sun and that is a rational</font>
+
+326
+00:12:35,679 --> 00:12:40,000
+scientific<font color="#E5E5E5"> view just because</font><font color="#CCCCCC"> a man can</font>
+
+327
+00:12:37,899 --> 00:12:42,250
+<font color="#E5E5E5">walk on the moon</font><font color="#CCCCCC"> does</font><font color="#E5E5E5"> not mean he might</font>
+
+328
+00:12:40,000 --> 00:12:43,720
+as well<font color="#CCCCCC"> be walking on</font><font color="#E5E5E5"> the Sun appoint</font>
+
+329
+00:12:42,250 --> 00:12:48,490
+<font color="#E5E5E5">sunrise recently in the New England</font>
+
+330
+00:12:43,720 --> 00:12:50,790
+<font color="#CCCCCC">Journal</font><font color="#E5E5E5"> of smashmouth but look but look</font>
+
+331
+00:12:48,490 --> 00:12:53,079
+for the sake of argument<font color="#CCCCCC"> let's assume</font>
+
+332
+00:12:50,789 --> 00:12:55,360
+<font color="#E5E5E5">Apple could have access to your</font>
+
+333
+00:12:53,078 --> 00:12:57,338
+encrypted<font color="#E5E5E5"> data repeatedly help law</font>
+
+334
+00:12:55,360 --> 00:12:59,500
+<font color="#CCCCCC">enforcement and always keep the bad guys</font>
+
+335
+00:12:57,339 --> 00:13:02,079
+<font color="#E5E5E5">out which again is widely</font><font color="#CCCCCC"> thought by</font>
+
+336
+00:12:59,500 --> 00:13:03,970
+experts<font color="#E5E5E5"> to be impossible</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> still</font>
+
+337
+00:13:02,078 --> 00:13:06,069
+<font color="#E5E5E5">won't solve the FBI's going dark problem</font>
+
+338
+00:13:03,970 --> 00:13:08,500
+<font color="#CCCCCC">because if you really want to keep your</font>
+
+339
+00:13:06,070 --> 00:13:10,510
+communication secret<font color="#E5E5E5"> there's an app</font><font color="#CCCCCC"> for</font>
+
+340
+00:13:08,500 --> 00:13:12,519
+that<font color="#E5E5E5"> the encryption debate is proven to</font>
+
+341
+00:13:10,509 --> 00:13:14,799
+be<font color="#CCCCCC"> good business for one</font><font color="#E5E5E5"> startup</font>
+
+342
+00:13:12,519 --> 00:13:17,230
+telegram a messaging app that encrypts
+
+343
+00:13:14,799 --> 00:13:19,509
+messages end-to-end has surpassed 100
+
+344
+00:13:17,230 --> 00:13:22,060
+million users<font color="#CCCCCC"> and that's the point</font>
+
+345
+00:13:19,509 --> 00:13:24,009
+<font color="#E5E5E5">people who want encryption will always</font>
+
+346
+00:13:22,059 --> 00:13:25,929
+be<font color="#CCCCCC"> able to find it if it's not telegram</font>
+
+347
+00:13:24,009 --> 00:13:28,269
+<font color="#E5E5E5">or whatsapp it could be one of the more</font>
+
+348
+00:13:25,929 --> 00:13:30,309
+<font color="#CCCCCC">than 800 other encryption products</font><font color="#E5E5E5"> out</font>
+
+349
+00:13:28,269 --> 00:13:32,440
+<font color="#CCCCCC">there almost two-thirds of which are</font>
+
+350
+00:13:30,309 --> 00:13:35,500
+made<font color="#CCCCCC"> by</font><font color="#E5E5E5"> companies not easily covered by</font>
+
+351
+00:13:32,440 --> 00:13:38,860
+US law like silent phone or<font color="#CCCCCC"> three myrrh</font>
+
+352
+00:13:35,500 --> 00:13:41,049
+or<font color="#E5E5E5"> snicker tea snack or mail grub now</font>
+
+353
+00:13:38,860 --> 00:13:43,300
+granted those last two aren't real but
+
+354
+00:13:41,049 --> 00:13:45,159
+the point is they will<font color="#E5E5E5"> be in five</font>
+
+355
+00:13:43,299 --> 00:13:46,599
+minutes<font color="#E5E5E5"> if the government forces the</font>
+
+356
+00:13:45,159 --> 00:13:48,809
+other<font color="#E5E5E5"> ones to weaken their encryption</font>
+
+357
+00:13:46,600 --> 00:13:51,550
+<font color="#CCCCCC">and that might</font><font color="#E5E5E5"> not</font><font color="#CCCCCC"> be the only</font>
+
+358
+00:13:48,809 --> 00:13:53,859
+<font color="#E5E5E5">unintended consequence of the FBI's</font>
+
+359
+00:13:51,549 --> 00:13:56,528
+actions<font color="#E5E5E5"> many countries around the</font><font color="#CCCCCC"> world</font>
+
+360
+00:13:53,860 --> 00:13:58,629
+including<font color="#CCCCCC"> Russia</font><font color="#E5E5E5"> and China are watching</font>
+
+361
+00:13:56,528 --> 00:14:00,879
+this<font color="#CCCCCC"> debate</font><font color="#E5E5E5"> and will presumably expect</font>
+
+362
+00:13:58,629 --> 00:14:03,129
+similar<font color="#E5E5E5"> access because as you know</font>
+
+363
+00:14:00,879 --> 00:14:06,068
+Russia<font color="#E5E5E5"> and China have</font><font color="#CCCCCC"> as</font><font color="#E5E5E5"> much respect</font>
+
+364
+00:14:03,129 --> 00:14:09,519
+<font color="#E5E5E5">for privacy as horny teenagers in 80s</font>
+
+365
+00:14:06,068 --> 00:14:12,159
+comedies and when you<font color="#E5E5E5"> consider all this</font>
+
+366
+00:14:09,519 --> 00:14:14,440
+<font color="#E5E5E5">the legal tenuous nathie FBI's case the</font>
+
+367
+00:14:12,159 --> 00:14:16,509
+security risks of creating a key the
+
+368
+00:14:14,440 --> 00:14:18,370
+borderline impossibility of perfectly
+
+369
+00:14:16,509 --> 00:14:20,708
+securing the key<font color="#E5E5E5"> the</font><font color="#CCCCCC"> International</font>
+
+370
+00:14:18,370 --> 00:14:21,730
+fallout of creating a<font color="#CCCCCC"> precedent and the</font>
+
+371
+00:14:20,708 --> 00:14:23,768
+fact that the terrorists could
+
+372
+00:14:21,730 --> 00:14:26,889
+circumvent<font color="#E5E5E5"> all of this by downloading</font>
+
+373
+00:14:23,769 --> 00:14:28,750
+<font color="#E5E5E5">whatever the</font><font color="#CCCCCC"> freemar is</font>
+
+374
+00:14:26,889 --> 00:14:31,569
+it's enough to sway the most strident
+
+375
+00:14:28,750 --> 00:14:34,230
+opinion<font color="#CCCCCC"> case-in-point remember</font><font color="#E5E5E5"> Lindsey</font>
+
+376
+00:14:31,570 --> 00:14:37,390
+Graham<font color="#CCCCCC"> mr. this</font><font color="#E5E5E5"> is stupid</font>
+
+377
+00:14:34,230 --> 00:14:39,159
+just this week<font color="#CCCCCC"> three months</font><font color="#E5E5E5"> after he</font>
+
+378
+00:14:37,389 --> 00:14:41,080
+said<font color="#CCCCCC"> that he was in a</font><font color="#E5E5E5"> hearing with the</font>
+
+379
+00:14:39,159 --> 00:14:43,569
+<font color="#E5E5E5">Attorney General Loretta Lynch about</font>
+
+380
+00:14:41,080 --> 00:14:45,670
+this subject<font color="#CCCCCC"> and this happened I</font><font color="#E5E5E5"> think</font>
+
+381
+00:14:43,570 --> 00:14:47,710
+<font color="#CCCCCC">that for us the issue is</font><font color="#E5E5E5"> about</font><font color="#CCCCCC"> a</font>
+
+382
+00:14:45,669 --> 00:14:49,929
+<font color="#E5E5E5">criminal investigation</font><font color="#CCCCCC"> into a</font><font color="#E5E5E5"> terrorist</font>
+
+383
+00:14:47,710 --> 00:14:52,120
+act<font color="#E5E5E5"> and the need to</font><font color="#CCCCCC"> obtain evidence</font><font color="#E5E5E5"> and</font>
+
+384
+00:14:49,929 --> 00:14:54,069
+but it's just<font color="#E5E5E5"> not so simple and</font><font color="#CCCCCC"> I'll</font><font color="#E5E5E5"> end</font>
+
+385
+00:14:52,120 --> 00:14:55,509
+<font color="#E5E5E5">with this I thought it was that simple I</font>
+
+386
+00:14:54,070 --> 00:14:57,910
+was all with you until<font color="#E5E5E5"> I actually</font>
+
+387
+00:14:55,509 --> 00:14:59,559
+started<font color="#CCCCCC"> getting briefed by people in the</font>
+
+388
+00:14:57,909 --> 00:15:01,659
+Intel community<font color="#CCCCCC"> and I will say I'm a</font>
+
+389
+00:14:59,559 --> 00:15:04,359
+person who's been moved by the arguments
+
+390
+00:15:01,659 --> 00:15:06,159
+of<font color="#E5E5E5"> the</font><font color="#CCCCCC"> president we said and the damage</font>
+
+391
+00:15:04,360 --> 00:15:08,110
+we may be doing<font color="#E5E5E5"> to our own national</font>
+
+392
+00:15:06,159 --> 00:15:10,419
+security<font color="#CCCCCC"> it's a miracle</font>
+
+393
+00:15:08,110 --> 00:15:13,750
+<font color="#E5E5E5">Lindsey</font><font color="#CCCCCC"> Graham has met the concept of</font>
+
+394
+00:15:10,419 --> 00:15:16,379
+nuance and this is a man who once warned
+
+395
+00:15:13,750 --> 00:15:18,940
+<font color="#E5E5E5">the world is literally about</font><font color="#CCCCCC"> to blow up</font>
+
+396
+00:15:16,379 --> 00:15:21,970
+<font color="#E5E5E5">so you're not dealing with someone who</font>
+
+397
+00:15:18,940 --> 00:15:24,730
+likes to<font color="#E5E5E5"> dabble with gray areas and</font><font color="#CCCCCC"> look</font>
+
+398
+00:15:21,970 --> 00:15:27,370
+there<font color="#E5E5E5"> is no easy side to be on in this</font>
+
+399
+00:15:24,730 --> 00:15:29,080
+debate<font color="#E5E5E5"> strong encryption has its costs</font>
+
+400
+00:15:27,370 --> 00:15:31,480
+from protecting terrorists to drug
+
+401
+00:15:29,080 --> 00:15:33,340
+dealers to child pornographers but I
+
+402
+00:15:31,480 --> 00:15:35,440
+happen to feel that<font color="#CCCCCC"> the risks</font><font color="#E5E5E5"> of</font>
+
+403
+00:15:33,340 --> 00:15:37,470
+weakening encryption<font color="#CCCCCC"> even a little</font><font color="#E5E5E5"> bit</font>
+
+404
+00:15:35,440 --> 00:15:39,640
+even<font color="#CCCCCC"> just for the government are</font>
+
+405
+00:15:37,470 --> 00:15:41,800
+potentially much worse and<font color="#E5E5E5"> even</font><font color="#CCCCCC"> though</font>
+
+406
+00:15:39,639 --> 00:15:43,360
+I'm on Apple side in this case I do
+
+407
+00:15:41,799 --> 00:15:45,219
+think they would help both their
+
+408
+00:15:43,360 --> 00:15:47,050
+customers and the government understand
+
+409
+00:15:45,220 --> 00:15:49,240
+this<font color="#E5E5E5"> a lot better if they were a</font><font color="#CCCCCC"> little</font>
+
+410
+00:15:47,049 --> 00:15:52,629
+<font color="#E5E5E5">more honest regarding</font><font color="#CCCCCC"> security in their</font>
+
+411
+00:15:49,240 --> 00:15:54,460
+ads hi<font color="#CCCCCC"> we're Apple</font><font color="#E5E5E5"> this is an Apple</font>
+
+412
+00:15:52,629 --> 00:15:56,710
+iPhone it comes in rose gold<font color="#CCCCCC"> it's</font>
+
+413
+00:15:54,460 --> 00:16:00,790
+<font color="#CCCCCC">awesome this is</font><font color="#E5E5E5"> an</font><font color="#CCCCCC"> Apple customer hey</font>
+
+414
+00:15:56,710 --> 00:16:02,680
+Siri<font color="#CCCCCC"> find</font><font color="#E5E5E5"> vegan sushi</font><font color="#CCCCCC"> mmm</font><font color="#E5E5E5"> sounds</font><font color="#CCCCCC"> good</font>
+
+415
+00:16:00,789 --> 00:16:05,319
+and these are the engineers who make<font color="#E5E5E5"> our</font>
+
+416
+00:16:02,679 --> 00:16:07,569
+products<font color="#CCCCCC"> hey hey guys we can help you</font>
+
+417
+00:16:05,320 --> 00:16:09,640
+communicate celebrate pay for stuff
+
+418
+00:16:07,570 --> 00:16:11,470
+<font color="#E5E5E5">everything but here's something you</font>
+
+419
+00:16:09,639 --> 00:16:13,659
+should<font color="#E5E5E5"> know we're barely one step ahead</font>
+
+420
+00:16:11,470 --> 00:16:15,670
+of hackers at all times<font color="#E5E5E5"> that when</font><font color="#CCCCCC"> you</font>
+
+421
+00:16:13,659 --> 00:16:17,199
+idiots lose your phone<font color="#E5E5E5"> your information</font>
+
+422
+00:16:15,669 --> 00:16:19,459
+doesn't<font color="#E5E5E5"> wind up the hands of guys like</font>
+
+423
+00:16:17,200 --> 00:16:21,350
+Gary<font color="#E5E5E5"> hey I'm Gary</font>
+
+424
+00:16:19,460 --> 00:16:23,720
+thanks for losing your phone dipshit<font color="#CCCCCC"> hey</font>
+
+425
+00:16:21,350 --> 00:16:25,430
+Gary because if Gary can get in he has
+
+426
+00:16:23,720 --> 00:16:27,379
+access to pictures<font color="#E5E5E5"> of your food your</font>
+
+427
+00:16:25,429 --> 00:16:29,209
+bank account<font color="#CCCCCC"> pretty</font><font color="#E5E5E5"> much everything</font>
+
+428
+00:16:27,379 --> 00:16:32,240
+now<font color="#E5E5E5"> I can masturbate to photos of your</font>
+
+429
+00:16:29,210 --> 00:16:34,040
+family<font color="#CCCCCC"> okay Gary and when we find out</font>
+
+430
+00:16:32,240 --> 00:16:38,060
+there's a security flaw<font color="#CCCCCC"> this</font><font color="#E5E5E5"> is how we</font>
+
+431
+00:16:34,039 --> 00:16:40,069
+react yeah that's about right<font color="#CCCCCC"> so when</font>
+
+432
+00:16:38,059 --> 00:16:41,479
+the<font color="#CCCCCC"> FBI comes</font><font color="#E5E5E5"> to us and asks</font><font color="#CCCCCC"> if</font><font color="#E5E5E5"> we can</font>
+
+433
+00:16:40,070 --> 00:16:43,070
+undermine<font color="#CCCCCC"> our encryption without</font>
+
+434
+00:16:41,480 --> 00:16:45,110
+compromising everyone else's emails
+
+435
+00:16:43,070 --> 00:16:47,270
+texts<font color="#E5E5E5"> and skateboarding videos this is</font>
+
+436
+00:16:45,110 --> 00:16:49,220
+our response<font color="#CCCCCC"> are you</font><font color="#E5E5E5"> kidding me we're</font>
+
+437
+00:16:47,269 --> 00:16:54,110
+engineers<font color="#E5E5E5"> not wizards</font><font color="#CCCCCC"> you sure you're</font>
+
+438
+00:16:49,220 --> 00:16:56,570
+not<font color="#E5E5E5"> wizards</font><font color="#CCCCCC"> yeah pretty sure</font><font color="#E5E5E5"> okay listen</font>
+
+439
+00:16:54,110 --> 00:16:58,430
+<font color="#E5E5E5">Apple's not perfect</font><font color="#CCCCCC"> you need proof we</font>
+
+440
+00:16:56,570 --> 00:17:00,440
+made the Newton<font color="#E5E5E5"> we made that one Mac</font>
+
+441
+00:16:58,429 --> 00:17:02,059
+that looks<font color="#E5E5E5"> like a toaster</font><font color="#CCCCCC"> we actually</font>
+
+442
+00:17:00,440 --> 00:17:06,140
+thought the Apple watch<font color="#E5E5E5"> was cool</font>
+
+443
+00:17:02,059 --> 00:17:07,970
+wait this<font color="#E5E5E5"> isn't cool</font><font color="#CCCCCC"> oh</font><font color="#E5E5E5"> shit</font><font color="#CCCCCC"> we put a u2</font>
+
+444
+00:17:06,140 --> 00:17:09,589
+<font color="#CCCCCC">album on your</font><font color="#E5E5E5"> phones</font><font color="#CCCCCC"> you know the one</font>
+
+445
+00:17:07,970 --> 00:17:11,509
+you've been<font color="#E5E5E5"> struggling</font><font color="#CCCCCC"> to delete that</font>
+
+446
+00:17:09,588 --> 00:17:13,308
+thing<font color="#E5E5E5"> keeps coming</font><font color="#CCCCCC"> back huh and</font><font color="#E5E5E5"> you</font>
+
+447
+00:17:11,509 --> 00:17:16,250
+can't<font color="#E5E5E5"> even</font><font color="#CCCCCC"> make our battery less more</font>
+
+448
+00:17:13,308 --> 00:17:17,720
+than like a day<font color="#CCCCCC"> why is that</font><font color="#E5E5E5"> exactly</font><font color="#CCCCCC"> have</font>
+
+449
+00:17:16,250 --> 00:17:19,429
+you<font color="#E5E5E5"> tried turning off location</font><font color="#CCCCCC"> services</font>
+
+450
+00:17:17,720 --> 00:17:21,709
+and push emails<font color="#E5E5E5"> and adjusting your</font>
+
+451
+00:17:19,429 --> 00:17:23,990
+<font color="#E5E5E5">screen brightness so that you can okay</font>
+
+452
+00:17:21,709 --> 00:17:25,939
+forget we<font color="#E5E5E5"> asked the point is best-case</font>
+
+453
+00:17:23,990 --> 00:17:27,709
+scenario we can keep hackers<font color="#CCCCCC"> out</font><font color="#E5E5E5"> of your</font>
+
+454
+00:17:25,939 --> 00:17:29,990
+stuff<font color="#CCCCCC"> for about six</font><font color="#E5E5E5"> months before this</font>
+
+455
+00:17:27,709 --> 00:17:32,558
+happens<font color="#CCCCCC"> again</font><font color="#E5E5E5"> I'm back</font><font color="#CCCCCC"> I see someone's</font>
+
+456
+00:17:29,990 --> 00:17:32,558
+been to the<font color="#CCCCCC"> beach</font>
+
+457
+00:17:37,979 --> 00:17:42,519
+so please keep enjoying our products
+
+458
+00:17:40,749 --> 00:17:43,778
+<font color="#E5E5E5">just know this</font><font color="#CCCCCC"> shaky edifice could</font>
+
+459
+00:17:42,519 --> 00:17:46,388
+crumble<font color="#E5E5E5"> at any moment</font>
+
+460
+00:17:43,778 --> 00:17:49,229
+<font color="#E5E5E5">Apple join us as we dance madly in the</font>
+
+461
+00:17:46,388 --> 00:17:49,228
+lip of the<font color="#E5E5E5"> volcano</font>
+
+462
+00:17:59,388 --> 00:18:01,449
+<font color="#E5E5E5">you</font>
+
