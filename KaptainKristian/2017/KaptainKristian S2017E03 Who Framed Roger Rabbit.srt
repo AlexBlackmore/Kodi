@@ -1,0 +1,820 @@
+1
+00:00:08,869 --> 00:00:13,410
+animation has a long<font color="#CCCCCC"> history of sharing</font>
+
+2
+00:00:11,308 --> 00:00:15,570
+the screen<font color="#E5E5E5"> with live-action</font><font color="#CCCCCC"> as you can</font>
+
+3
+00:00:13,410 --> 00:00:17,519
+see here with the enchanted drawing<font color="#E5E5E5"> the</font>
+
+4
+00:00:15,570 --> 00:00:19,740
+first piece<font color="#CCCCCC"> of animation ever put to</font>
+
+5
+00:00:17,519 --> 00:00:21,600
+film the magic of animation<font color="#E5E5E5"> from its</font>
+
+6
+00:00:19,739 --> 00:00:23,579
+foundation<font color="#E5E5E5"> was</font><font color="#CCCCCC"> about</font><font color="#E5E5E5"> bringing these</font>
+
+7
+00:00:21,600 --> 00:00:25,650
+<font color="#CCCCCC">two-dimensional characters to life</font><font color="#E5E5E5"> not</font>
+
+8
+00:00:23,579 --> 00:00:28,198
+<font color="#CCCCCC">just on the page</font><font color="#E5E5E5"> but in the real world</font>
+
+9
+00:00:25,649 --> 00:00:30,000
+<font color="#CCCCCC">and nowhere</font><font color="#E5E5E5"> has it been done better than</font>
+
+10
+00:00:28,199 --> 00:00:33,210
+in Robert Zemeckis and<font color="#E5E5E5"> Richard Williams</font>
+
+11
+00:00:30,000 --> 00:00:34,320
+1988 film Who Framed Roger Rabbit<font color="#CCCCCC"> so</font>
+
+12
+00:00:33,210 --> 00:00:36,000
+today I want to look<font color="#E5E5E5"> at the three</font>
+
+13
+00:00:34,320 --> 00:00:37,738
+fundamental elements in integrating
+
+14
+00:00:36,000 --> 00:00:40,019
+animated characters for the live-action
+
+15
+00:00:37,738 --> 00:00:41,789
+<font color="#E5E5E5">environment and what made Roger Rabbit</font>
+
+16
+00:00:40,020 --> 00:00:43,649
+<font color="#E5E5E5">stand out from the rest</font><font color="#CCCCCC"> of them the</font>
+
+17
+00:00:41,789 --> 00:00:46,259
+first and probably the simplest from a
+
+18
+00:00:43,649 --> 00:00:47,280
+technical<font color="#E5E5E5"> perspective is eyeline eyeline</font>
+
+19
+00:00:46,259 --> 00:00:48,869
+<font color="#CCCCCC">is important</font><font color="#E5E5E5"> for a</font><font color="#CCCCCC"> number of</font><font color="#E5E5E5"> reasons</font>
+
+20
+00:00:47,280 --> 00:00:50,640
+<font color="#CCCCCC">that establishes an emotional connection</font>
+
+21
+00:00:48,869 --> 00:00:52,140
+<font color="#CCCCCC">with</font><font color="#E5E5E5"> the animated</font><font color="#CCCCCC"> character in</font><font color="#E5E5E5"> the actor</font>
+
+22
+00:00:50,640 --> 00:00:54,058
+<font color="#CCCCCC">it set the</font><font color="#E5E5E5"> blocking reference for the</font>
+
+23
+00:00:52,140 --> 00:00:55,439
+animators<font color="#E5E5E5"> and it also convinces the</font>
+
+24
+00:00:54,058 --> 00:00:57,419
+audience that both characters are
+
+25
+00:00:55,439 --> 00:00:59,519
+occupying the<font color="#CCCCCC"> same dimensional space and</font>
+
+26
+00:00:57,420 --> 00:01:02,100
+when<font color="#E5E5E5"> the effect</font><font color="#CCCCCC"> works</font><font color="#E5E5E5"> is a seamless</font>
+
+27
+00:00:59,520 --> 00:01:03,780
+<font color="#CCCCCC">interaction when it</font><font color="#E5E5E5"> doesn't the actors</font>
+
+28
+00:01:02,100 --> 00:01:05,609
+seem to be blankly staring into dead
+
+29
+00:01:03,780 --> 00:01:07,829
+space which is the case with<font color="#CCCCCC"> a</font><font color="#E5E5E5"> lot of</font>
+
+30
+00:01:05,609 --> 00:01:09,780
+the<font color="#E5E5E5"> animated scenes and Mary Poppins you</font>
+
+31
+00:01:07,829 --> 00:01:11,819
+can see her<font color="#E5E5E5"> eyeline never quite connects</font>
+
+32
+00:01:09,780 --> 00:01:13,739
+with the other characters<font color="#E5E5E5"> and no matter</font>
+
+33
+00:01:11,819 --> 00:01:16,079
+how beautifully animated the Penguins
+
+34
+00:01:13,739 --> 00:01:17,339
+<font color="#E5E5E5">are it still breaks the illusion now</font>
+
+35
+00:01:16,079 --> 00:01:18,810
+let's look<font color="#E5E5E5"> at this scene</font><font color="#CCCCCC"> from Roger</font>
+
+36
+00:01:17,340 --> 00:01:21,000
+Rabbit<font color="#E5E5E5"> where</font><font color="#CCCCCC"> Eddie and Roger</font><font color="#E5E5E5"> arrive</font>
+
+37
+00:01:18,810 --> 00:01:22,829
+outside<font color="#CCCCCC"> of Maroon Studios</font><font color="#E5E5E5"> Rogers</font>
+
+38
+00:01:21,000 --> 00:01:24,780
+character model stands roughly three
+
+39
+00:01:22,829 --> 00:01:27,179
+feet<font color="#E5E5E5"> tall and you</font><font color="#CCCCCC"> can see here Bob</font>
+
+40
+00:01:24,780 --> 00:01:29,460
+Hoskins actually misses his eyeline<font color="#E5E5E5"> same</font>
+
+41
+00:01:27,180 --> 00:01:31,470
+mistake as Mary Poppins<font color="#CCCCCC"> but</font><font color="#E5E5E5"> the</font>
+
+42
+00:01:29,459 --> 00:01:32,219
+animators used a creative workaround to
+
+43
+00:01:31,469 --> 00:01:33,750
+correct it
+
+44
+00:01:32,219 --> 00:01:35,548
+having<font color="#E5E5E5"> Roger stand up on his toes</font>
+
+45
+00:01:33,750 --> 00:01:37,799
+against the wall<font color="#E5E5E5"> making</font><font color="#CCCCCC"> them a bit</font>
+
+46
+00:01:35,549 --> 00:01:39,030
+taller<font color="#E5E5E5"> to reconnect the eye and there</font>
+
+47
+00:01:37,799 --> 00:01:40,650
+are a<font color="#E5E5E5"> lot of clever moments like</font><font color="#CCCCCC"> that</font>
+
+48
+00:01:39,030 --> 00:01:42,118
+throughout the<font color="#E5E5E5"> film here Rogers hand</font>
+
+49
+00:01:40,650 --> 00:01:43,618
+comes up higher<font color="#CCCCCC"> to jump on the bed</font>
+
+50
+00:01:42,118 --> 00:01:45,328
+<font color="#E5E5E5">because that's where Hoskins</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> looking</font>
+
+51
+00:01:43,618 --> 00:01:46,769
+in the<font color="#CCCCCC"> shot and a lot of these gestures</font>
+
+52
+00:01:45,328 --> 00:01:48,868
+<font color="#E5E5E5">were done out of necessity</font>
+
+53
+00:01:46,769 --> 00:01:50,578
+simply<font color="#CCCCCC"> chutes were absolutely</font><font color="#E5E5E5"> not an</font>
+
+54
+00:01:48,868 --> 00:01:52,799
+option the<font color="#E5E5E5"> live-action portions of film</font>
+
+55
+00:01:50,578 --> 00:01:54,569
+had<font color="#E5E5E5"> to be shot in its entirety before</font><font color="#CCCCCC"> a</font>
+
+56
+00:01:52,799 --> 00:01:56,159
+<font color="#E5E5E5">single frame</font><font color="#CCCCCC"> of animation could be done</font>
+
+57
+00:01:54,569 --> 00:01:58,228
+because<font color="#E5E5E5"> the animation is drawn directly</font>
+
+58
+00:01:56,159 --> 00:01:59,939
+<font color="#E5E5E5">on the</font><font color="#CCCCCC"> photostats so</font><font color="#E5E5E5"> that meant any</font>
+
+59
+00:01:58,228 --> 00:02:02,099
+contact made<font color="#CCCCCC"> by</font><font color="#E5E5E5"> a</font><font color="#CCCCCC"> toon had to be a</font>
+
+60
+00:01:59,938 --> 00:02:04,500
+hundred percent premeditated which
+
+61
+00:02:02,099 --> 00:02:06,640
+brings us to element number two physical
+
+62
+00:02:04,500 --> 00:02:11,560
+interaction
+
+63
+00:02:06,640 --> 00:02:13,300
+<font color="#CCCCCC">soompi only one</font><font color="#E5E5E5"> for me any level of</font>
+
+64
+00:02:11,560 --> 00:02:15,640
+interaction<font color="#E5E5E5"> no matter how small or</font><font color="#CCCCCC"> how</font>
+
+65
+00:02:13,300 --> 00:02:21,400
+large chairs bumping windows crashing
+
+66
+00:02:15,639 --> 00:02:22,958
+<font color="#E5E5E5">plates shattering okay</font><font color="#CCCCCC"> a special sex</font>
+
+67
+00:02:21,400 --> 00:02:25,120
+division had to develop a custom
+
+68
+00:02:22,959 --> 00:02:26,590
+mechanism<font color="#E5E5E5"> to mimic that movement and a</font>
+
+69
+00:02:25,120 --> 00:02:28,750
+lot<font color="#CCCCCC"> of times those mechanisms were</font>
+
+70
+00:02:26,590 --> 00:02:30,219
+specific to<font color="#E5E5E5"> one single effect maybe</font>
+
+71
+00:02:28,750 --> 00:02:32,379
+<font color="#E5E5E5">Herman's cigar for instance was</font>
+
+72
+00:02:30,219 --> 00:02:34,330
+manipulated<font color="#CCCCCC"> by a copycat system with</font>
+
+73
+00:02:32,379 --> 00:02:36,159
+servo controlled motors<font color="#E5E5E5"> in order to</font>
+
+74
+00:02:34,330 --> 00:02:37,630
+<font color="#E5E5E5">create all six degrees of</font><font color="#CCCCCC"> movement</font>
+
+75
+00:02:36,159 --> 00:02:39,549
+<font color="#E5E5E5">something</font><font color="#CCCCCC"> that couldn't have been done</font>
+
+76
+00:02:37,629 --> 00:02:40,900
+with string<font color="#E5E5E5"> marionettes</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> it would</font>
+
+77
+00:02:39,550 --> 00:02:42,880
+have<font color="#E5E5E5"> been much simpler</font><font color="#CCCCCC"> to just</font><font color="#E5E5E5"> use an</font>
+
+78
+00:02:40,900 --> 00:02:45,159
+animated cigar<font color="#CCCCCC"> or have the weasels carry</font>
+
+79
+00:02:42,879 --> 00:02:47,469
+animated guns<font color="#E5E5E5"> and most people wouldn't</font>
+
+80
+00:02:45,159 --> 00:02:49,030
+notice<font color="#CCCCCC"> but there are</font><font color="#E5E5E5"> rules that govern</font>
+
+81
+00:02:47,469 --> 00:02:51,280
+<font color="#E5E5E5">the universe of Roger Rabbit</font>
+
+82
+00:02:49,030 --> 00:02:53,500
+<font color="#CCCCCC">if</font><font color="#E5E5E5"> Rogers drowning in real water then he</font>
+
+83
+00:02:51,280 --> 00:02:55,539
+spits up<font color="#E5E5E5"> real water</font><font color="#CCCCCC"> and every</font><font color="#E5E5E5"> little</font>
+
+84
+00:02:53,500 --> 00:02:57,729
+detail<font color="#E5E5E5"> like that serves as a reminder to</font>
+
+85
+00:02:55,539 --> 00:03:00,159
+the<font color="#CCCCCC"> audience</font><font color="#E5E5E5"> that yes these characters</font>
+
+86
+00:02:57,729 --> 00:03:02,738
+are inhabiting this world<font color="#CCCCCC"> just look at</font>
+
+87
+00:03:00,159 --> 00:03:04,689
+<font color="#E5E5E5">this shot</font><font color="#CCCCCC"> of Roger</font><font color="#E5E5E5"> on a</font><font color="#CCCCCC"> soapbox it</font><font color="#E5E5E5"> looks</font>
+
+88
+00:03:02,739 --> 00:03:07,269
+as if every slight shift in weight has
+
+89
+00:03:04,689 --> 00:03:09,609
+an equal reaction<font color="#CCCCCC"> when in</font><font color="#E5E5E5"> reality is the</font>
+
+90
+00:03:07,269 --> 00:03:11,110
+reaction influencing the movement as
+
+91
+00:03:09,610 --> 00:03:12,820
+part<font color="#CCCCCC"> of</font><font color="#E5E5E5"> the reason</font><font color="#CCCCCC"> Roger</font><font color="#E5E5E5"> such a klutz</font>
+
+92
+00:03:11,110 --> 00:03:14,950
+<font color="#CCCCCC">throughout the</font><font color="#E5E5E5"> film gave the production</font>
+
+93
+00:03:12,819 --> 00:03:17,139
+team more excuses<font color="#E5E5E5"> from interact with the</font>
+
+94
+00:03:14,949 --> 00:03:18,699
+environment<font color="#CCCCCC"> it's about blending the</font>
+
+95
+00:03:17,139 --> 00:03:20,409
+<font color="#CCCCCC">medians</font><font color="#E5E5E5"> not</font><font color="#CCCCCC"> just sandwich hang them</font>
+
+96
+00:03:18,699 --> 00:03:22,328
+together<font color="#CCCCCC"> and</font><font color="#E5E5E5"> far too</font><font color="#CCCCCC"> often with live</font>
+
+97
+00:03:20,409 --> 00:03:24,579
+action animation hybrids<font color="#E5E5E5"> characters</font>
+
+98
+00:03:22,329 --> 00:03:26,590
+<font color="#CCCCCC">exist almost exclusively in separate</font>
+
+99
+00:03:24,579 --> 00:03:28,750
+planes<font color="#E5E5E5"> if we look at the scene with</font>
+
+100
+00:03:26,590 --> 00:03:30,430
+Eddie and Jessica<font color="#E5E5E5"> she's on his lap in</font>
+
+101
+00:03:28,750 --> 00:03:32,709
+his coat she grabs his hat
+
+102
+00:03:30,430 --> 00:03:34,540
+she has real<font color="#E5E5E5"> presence and weight and</font>
+
+103
+00:03:32,709 --> 00:03:36,250
+<font color="#E5E5E5">that's what sells the illusion but if we</font>
+
+104
+00:03:34,539 --> 00:03:39,340
+<font color="#E5E5E5">compare that</font><font color="#CCCCCC"> to a similar scene in Ralph</font>
+
+105
+00:03:36,250 --> 00:03:41,169
+Bakshi's 1992 film<font color="#E5E5E5"> cool world you'll see</font>
+
+106
+00:03:39,340 --> 00:03:43,180
+there's nothing<font color="#CCCCCC"> really connecting</font><font color="#E5E5E5"> these</font>
+
+107
+00:03:41,169 --> 00:03:44,708
+<font color="#CCCCCC">two characters</font><font color="#E5E5E5"> I can</font><font color="#CCCCCC"> cut</font><font color="#E5E5E5"> out Holly with</font>
+
+108
+00:03:43,180 --> 00:03:46,540
+a pair of scissors<font color="#E5E5E5"> and nothing would</font>
+
+109
+00:03:44,709 --> 00:03:48,009
+<font color="#CCCCCC">change</font><font color="#E5E5E5"> you can also see how subtle</font>
+
+110
+00:03:46,539 --> 00:03:49,569
+camera movements make it seem like
+
+111
+00:03:48,009 --> 00:03:51,969
+Holly's locked to the front of the<font color="#CCCCCC"> wind</font>
+
+112
+00:03:49,569 --> 00:03:53,799
+almost<font color="#E5E5E5"> floating against the background</font>
+
+113
+00:03:51,969 --> 00:03:55,150
+<font color="#E5E5E5">and the separation between the character</font>
+
+114
+00:03:53,799 --> 00:03:57,400
+and the environment would consider an
+
+115
+00:03:55,150 --> 00:03:59,170
+obvious<font color="#E5E5E5"> which is why historically there</font>
+
+116
+00:03:57,400 --> 00:04:00,969
+was<font color="#E5E5E5"> an unwritten rule amongst animators</font>
+
+117
+00:03:59,169 --> 00:04:03,099
+who mixed mediums to keep the<font color="#E5E5E5"> camera</font>
+
+118
+00:04:00,969 --> 00:04:05,229
+stationary<font color="#E5E5E5"> and there was really only one</font>
+
+119
+00:04:03,099 --> 00:04:08,560
+<font color="#CCCCCC">reason for</font><font color="#E5E5E5"> this</font><font color="#CCCCCC"> rule</font><font color="#E5E5E5"> because they're</font>
+
+120
+00:04:05,229 --> 00:04:10,139
+lazy<font color="#E5E5E5"> yeah I mean we're supposed to be</font>
+
+121
+00:04:08,560 --> 00:04:13,299
+<font color="#CCCCCC">able</font><font color="#E5E5E5"> to turn things in every direction</font>
+
+122
+00:04:10,139 --> 00:04:14,809
+<font color="#CCCCCC">that's</font><font color="#E5E5E5"> our</font><font color="#CCCCCC"> job so you can</font><font color="#E5E5E5"> shoot your</font>
+
+123
+00:04:13,299 --> 00:04:16,189
+movie<font color="#E5E5E5"> and we're just</font>
+
+124
+00:04:14,810 --> 00:04:18,620
+the character in me said wasn't<font color="#E5E5E5"> that a</font>
+
+125
+00:04:16,189 --> 00:04:20,930
+lot<font color="#CCCCCC"> of work</font><font color="#E5E5E5"> yeah</font><font color="#CCCCCC"> twice</font><font color="#E5E5E5"> as much work</font>
+
+126
+00:04:18,620 --> 00:04:22,879
+<font color="#E5E5E5">camera movement is an essential part in</font>
+
+127
+00:04:20,930 --> 00:04:24,560
+making<font color="#E5E5E5"> these moments feel cinematic and</font>
+
+128
+00:04:22,879 --> 00:04:26,449
+the animated element in Roger Rabbit
+
+129
+00:04:24,560 --> 00:04:28,579
+never compromised that move<font color="#CCCCCC"> it's shot</font>
+
+130
+00:04:26,449 --> 00:04:30,649
+like a real film because it is a real
+
+131
+00:04:28,579 --> 00:04:32,000
+film and you have to remember this
+
+132
+00:04:30,649 --> 00:04:33,620
+<font color="#E5E5E5">synchronization of the characters</font>
+
+133
+00:04:32,000 --> 00:04:36,439
+against the camera was done before the
+
+134
+00:04:33,620 --> 00:04:38,149
+<font color="#E5E5E5">age</font><font color="#CCCCCC"> of digital compositing</font><font color="#E5E5E5"> there's no</font>
+
+135
+00:04:36,439 --> 00:04:39,439
+tracking<font color="#E5E5E5"> software to account for the</font>
+
+136
+00:04:38,149 --> 00:04:41,179
+movement<font color="#E5E5E5"> to keep the characters and</font>
+
+137
+00:04:39,439 --> 00:04:43,550
+corresponding motion this<font color="#E5E5E5"> is all</font>
+
+138
+00:04:41,180 --> 00:04:45,709
+accomplished by<font color="#E5E5E5"> eye and by hand not only</font>
+
+139
+00:04:43,550 --> 00:04:47,629
+drawing each frame for drawing<font color="#E5E5E5"> each</font>
+
+140
+00:04:45,709 --> 00:04:48,620
+frame in perspective<font color="#CCCCCC"> and that</font><font color="#E5E5E5"> becomes a</font>
+
+141
+00:04:47,629 --> 00:04:51,168
+lot more<font color="#CCCCCC"> impressive</font><font color="#E5E5E5"> when you consider</font>
+
+142
+00:04:48,620 --> 00:04:53,079
+the<font color="#CCCCCC"> layer</font><font color="#E5E5E5"> build</font><font color="#CCCCCC"> of each character which</font>
+
+143
+00:04:51,168 --> 00:04:56,120
+brings us to<font color="#CCCCCC"> the third and final element</font>
+
+144
+00:04:53,079 --> 00:04:57,979
+<font color="#E5E5E5">shadow or more specifically light and</font>
+
+145
+00:04:56,120 --> 00:04:59,660
+<font color="#E5E5E5">shadow accuracy and this</font><font color="#CCCCCC"> is what set</font>
+
+146
+00:04:57,980 --> 00:05:01,819
+Roger Rabbit apart from its predecessors
+
+147
+00:04:59,660 --> 00:05:03,260
+<font color="#CCCCCC">each tune is their own individual layer</font>
+
+148
+00:05:01,819 --> 00:05:05,870
+but there are also at<font color="#E5E5E5"> least five</font>
+
+149
+00:05:03,259 --> 00:05:08,029
+additional cells of shadow and highlight
+
+150
+00:05:05,870 --> 00:05:09,680
+layers for each<font color="#E5E5E5"> character in each frame</font>
+
+151
+00:05:08,029 --> 00:05:11,779
+<font color="#E5E5E5">built up like a</font><font color="#CCCCCC"> watercolor painting</font>
+
+152
+00:05:09,680 --> 00:05:13,910
+<font color="#E5E5E5">starting with a mask as a backlight</font><font color="#CCCCCC"> and</font>
+
+153
+00:05:11,779 --> 00:05:15,739
+a shadow<font color="#CCCCCC"> mat painted with hard edges and</font>
+
+154
+00:05:13,910 --> 00:05:18,020
+the soft ended in the optical printer<font color="#E5E5E5"> a</font>
+
+155
+00:05:15,740 --> 00:05:20,360
+second shadow<font color="#E5E5E5"> mask</font><font color="#CCCCCC"> is a cast shadow</font><font color="#E5E5E5"> and</font>
+
+156
+00:05:18,019 --> 00:05:21,949
+inner positive and an articulate mask
+
+157
+00:05:20,360 --> 00:05:23,900
+learning physical interaction with the
+
+158
+00:05:21,949 --> 00:05:25,909
+character and when composited together
+
+159
+00:05:23,899 --> 00:05:28,129
+<font color="#CCCCCC">it gives a realistic</font><font color="#E5E5E5"> three</font>
+
+160
+00:05:25,910 --> 00:05:30,080
+dimensionality<font color="#E5E5E5"> to the characters now</font>
+
+161
+00:05:28,129 --> 00:05:32,930
+keep all those layers in mind when
+
+162
+00:05:30,079 --> 00:05:34,969
+watching<font color="#E5E5E5"> this did you never take</font><font color="#CCCCCC"> a look</font>
+
+163
+00:05:32,930 --> 00:05:38,538
+<font color="#CCCCCC">at the changing large presence change</font>
+
+164
+00:05:34,970 --> 00:05:40,669
+<font color="#CCCCCC">somebody's made-up</font><font color="#E5E5E5"> Tatiana - why this is</font>
+
+165
+00:05:38,538 --> 00:05:42,259
+called bumping the lamp<font color="#CCCCCC"> a phrase coined</font>
+
+166
+00:05:40,668 --> 00:05:43,849
+by Disney during the production of Roger
+
+167
+00:05:42,259 --> 00:05:45,469
+Rabbit to describe going above and
+
+168
+00:05:43,850 --> 00:05:47,030
+<font color="#E5E5E5">beyond what was expected of the</font>
+
+169
+00:05:45,470 --> 00:05:48,650
+animators it would have been perfectly
+
+170
+00:05:47,029 --> 00:05:50,059
+feasible with Roger<font color="#CCCCCC"> States flatly</font>
+
+171
+00:05:48,649 --> 00:05:52,370
+<font color="#CCCCCC">eliminated throughout the scene like a</font>
+
+172
+00:05:50,060 --> 00:05:54,228
+cartoon normally would but instead the
+
+173
+00:05:52,370 --> 00:05:56,509
+animators put in the time<font color="#E5E5E5"> of shade</font><font color="#CCCCCC"> every</font>
+
+174
+00:05:54,228 --> 00:05:57,978
+cell uniquely so that the practical
+
+175
+00:05:56,509 --> 00:05:59,839
+light would bounce off in the same way
+
+176
+00:05:57,978 --> 00:06:01,250
+metaphysical<font color="#E5E5E5"> option and they had to</font>
+
+177
+00:05:59,839 --> 00:06:03,228
+account for<font color="#E5E5E5"> that dynamically shifting</font>
+
+178
+00:06:01,250 --> 00:06:05,689
+Lighting's<font color="#E5E5E5"> every contour on Rogers limbs</font>
+
+179
+00:06:03,228 --> 00:06:07,759
+<font color="#CCCCCC">is</font><font color="#E5E5E5"> closed its face the cast shadow he</font>
+
+180
+00:06:05,689 --> 00:06:09,589
+creates on the environment loved texture
+
+181
+00:06:07,759 --> 00:06:11,240
+of the light<font color="#E5E5E5"> the slightest difference in</font>
+
+182
+00:06:09,589 --> 00:06:12,799
+color temperatures the<font color="#E5E5E5"> lamps weighs even</font>
+
+183
+00:06:11,240 --> 00:06:14,930
+<font color="#E5E5E5">larger spheres have</font><font color="#CCCCCC"> a slight</font>
+
+184
+00:06:12,800 --> 00:06:15,740
+translucency since a much thinner<font color="#E5E5E5"> in the</font>
+
+185
+00:06:14,930 --> 00:06:18,079
+<font color="#E5E5E5">rest of his body</font>
+
+186
+00:06:15,740 --> 00:06:20,418
+<font color="#E5E5E5">they</font><font color="#CCCCCC"> sought effect audiences had no</font>
+
+187
+00:06:18,079 --> 00:06:23,359
+expectation<font color="#E5E5E5"> for the</font><font color="#CCCCCC"> global</font><font color="#E5E5E5"> realism in</font>
+
+188
+00:06:20,418 --> 00:06:25,889
+1988 but<font color="#E5E5E5"> all these seemingly superfluous</font>
+
+189
+00:06:23,360 --> 00:06:27,749
+<font color="#CCCCCC">details helped sell the effect</font><font color="#E5E5E5"> at a</font>
+
+190
+00:06:25,889 --> 00:06:29,400
+conscience<font color="#CCCCCC"> merkel</font><font color="#E5E5E5"> and the best part of</font>
+
+191
+00:06:27,749 --> 00:06:32,039
+this film<font color="#E5E5E5"> is</font><font color="#CCCCCC"> that without</font><font color="#E5E5E5"> having noticed</font>
+
+192
+00:06:29,399 --> 00:06:34,288
+any having no technical<font color="#CCCCCC"> knowledge of the</font>
+
+193
+00:06:32,038 --> 00:06:36,598
+animation<font color="#CCCCCC"> process of the filmmaking has</font>
+
+194
+00:06:34,288 --> 00:06:38,490
+no effect on<font color="#E5E5E5"> your enjoyment</font><font color="#CCCCCC"> of Roger</font>
+
+195
+00:06:36,598 --> 00:06:41,098
+Rabbit it's an incredible<font color="#E5E5E5"> film by its</font>
+
+196
+00:06:38,490 --> 00:06:43,499
+own<font color="#CCCCCC"> mix the storytelling</font><font color="#E5E5E5"> heart and the</font>
+
+197
+00:06:41,098 --> 00:06:46,199
+<font color="#CCCCCC">humor that's where the true movie magic</font>
+
+198
+00:06:43,499 --> 00:06:48,300
+<font color="#E5E5E5">is but it's</font><font color="#CCCCCC"> those technical subtleties</font>
+
+199
+00:06:46,199 --> 00:06:50,848
+and the<font color="#E5E5E5"> dedication</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> the craft that</font>
+
+200
+00:06:48,300 --> 00:06:53,520
+<font color="#E5E5E5">really inspires you artists and that's</font>
+
+201
+00:06:50,848 --> 00:06:56,069
+<font color="#E5E5E5">something</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> be admired</font><font color="#CCCCCC"> so in your work</font>
+
+202
+00:06:53,519 --> 00:07:00,589
+<font color="#E5E5E5">always</font><font color="#CCCCCC"> take the chance</font><font color="#E5E5E5"> to bump the lamp</font>
+
+203
+00:06:56,069 --> 00:07:00,590
+<font color="#E5E5E5">because somebody out there will notice</font>
+
+204
+00:07:02,550 --> 00:07:19,129
+[Music]
+
+205
+00:07:19,430 --> 00:07:21,490
+you
+

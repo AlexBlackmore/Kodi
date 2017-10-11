@@ -1,0 +1,908 @@
+1
+00:00:11,880 --> 00:00:16,859
+[Music]
+
+2
+00:00:14,869 --> 00:00:19,019
+many things come<font color="#E5E5E5"> to mind when</font><font color="#CCCCCC"> you think</font>
+
+3
+00:00:16,859 --> 00:00:20,609
+of<font color="#E5E5E5"> a David Fincher film that signature</font>
+
+4
+00:00:19,019 --> 00:00:22,259
+steely color<font color="#E5E5E5"> palette his</font>
+
+5
+00:00:20,609 --> 00:00:23,910
+unconventionally structured narratives
+
+6
+00:00:22,260 --> 00:00:25,890
+<font color="#E5E5E5">and of course some of the most</font>
+
+7
+00:00:23,910 --> 00:00:27,118
+<font color="#CCCCCC">interesting</font><font color="#E5E5E5"> characters ever put</font><font color="#CCCCCC"> defense</font>
+
+8
+00:00:25,890 --> 00:00:28,618
+<font color="#CCCCCC">you</font><font color="#E5E5E5"> know if you mix equal</font><font color="#CCCCCC"> parts</font><font color="#E5E5E5"> of</font>
+
+9
+00:00:27,118 --> 00:00:30,689
+gasoline frozen orange<font color="#E5E5E5"> juice concentrate</font>
+
+10
+00:00:28,618 --> 00:00:32,850
+you can<font color="#CCCCCC"> make Nadel</font><font color="#E5E5E5"> but what they're</font>
+
+11
+00:00:30,689 --> 00:00:34,590
+usually not seen as our visual effects
+
+12
+00:00:32,850 --> 00:00:36,270
+pieces even<font color="#CCCCCC"> though a film</font><font color="#E5E5E5"> like the</font>
+
+13
+00:00:34,590 --> 00:00:38,399
+<font color="#E5E5E5">social network has more visual</font><font color="#CCCCCC"> effect</font>
+
+14
+00:00:36,270 --> 00:00:40,620
+<font color="#CCCCCC">shots than Godzilla and that's because</font>
+
+15
+00:00:38,399 --> 00:00:42,480
+<font color="#E5E5E5">Fincher's true trademarked</font><font color="#CCCCCC"> is deception</font>
+
+16
+00:00:40,619 --> 00:00:44,849
+<font color="#CCCCCC">and it's accomplished primarily through</font>
+
+17
+00:00:42,479 --> 00:00:46,169
+the use<font color="#CCCCCC"> of</font><font color="#E5E5E5"> CGI and digital compositing</font>
+
+18
+00:00:44,850 --> 00:00:47,850
+<font color="#E5E5E5">venture has always been on the bleeding</font>
+
+19
+00:00:46,170 --> 00:00:49,379
+<font color="#E5E5E5">edge of</font><font color="#CCCCCC"> technology and he's immersed</font>
+
+20
+00:00:47,850 --> 00:00:51,120
+himself in<font color="#E5E5E5"> the visual effects world his</font>
+
+21
+00:00:49,378 --> 00:00:53,280
+entire career<font color="#CCCCCC"> starting with his work on</font>
+
+22
+00:00:51,119 --> 00:00:55,530
+Return of the Jedi at ILM in the early
+
+23
+00:00:53,280 --> 00:00:57,689
+1980s<font color="#E5E5E5"> and because of those three decades</font>
+
+24
+00:00:55,530 --> 00:01:00,840
+of experience<font color="#E5E5E5"> he knows exactly when and</font>
+
+25
+00:00:57,689 --> 00:01:02,128
+how<font color="#CCCCCC"> to</font><font color="#E5E5E5"> use an effect effectively take</font>
+
+26
+00:01:00,840 --> 00:01:03,960
+<font color="#E5E5E5">this opening sequence from Fight Club</font>
+
+27
+00:01:02,128 --> 00:01:05,670
+<font color="#E5E5E5">for example we track down the building</font>
+
+28
+00:01:03,960 --> 00:01:07,710
+phasing into<font color="#E5E5E5"> the garage revealing the</font>
+
+29
+00:01:05,670 --> 00:01:08,909
+vans loaded with nitroglycerin bombs<font color="#E5E5E5"> and</font>
+
+30
+00:01:07,709 --> 00:01:10,949
+set up an important setting for the
+
+31
+00:01:08,909 --> 00:01:12,600
+third act<font color="#E5E5E5"> of</font><font color="#CCCCCC"> the film now without CG</font>
+
+32
+00:01:10,950 --> 00:01:14,850
+that<font color="#E5E5E5"> setup would have to be done</font><font color="#CCCCCC"> in four</font>
+
+33
+00:01:12,599 --> 00:01:17,280
+different shots<font color="#E5E5E5"> the garage the van the</font>
+
+34
+00:01:14,849 --> 00:01:18,868
+bomb and<font color="#E5E5E5"> the timer and technically</font>
+
+35
+00:01:17,280 --> 00:01:20,759
+<font color="#E5E5E5">that's still the same</font><font color="#CCCCCC"> visual information</font>
+
+36
+00:01:18,868 --> 00:01:22,920
+<font color="#E5E5E5">but none of those shots establish</font>
+
+37
+00:01:20,759 --> 00:01:24,989
+distance or location in relation to
+
+38
+00:01:22,920 --> 00:01:26,728
+Tyler<font color="#E5E5E5"> and the narrator</font><font color="#CCCCCC"> Fincher likes to</font>
+
+39
+00:01:24,989 --> 00:01:28,469
+let<font color="#E5E5E5"> you know exactly where you are in</font><font color="#CCCCCC"> a</font>
+
+40
+00:01:26,728 --> 00:01:29,819
+scene<font color="#E5E5E5"> and the use of CG allows</font><font color="#CCCCCC"> him to</font>
+
+41
+00:01:28,469 --> 00:01:30,959
+<font color="#E5E5E5">flesh out those environments in a way</font>
+
+42
+00:01:29,819 --> 00:01:32,429
+that<font color="#CCCCCC"> wouldn't be possible</font><font color="#E5E5E5"> with</font>
+
+43
+00:01:30,959 --> 00:01:34,589
+traditional<font color="#E5E5E5"> filmmaking techniques</font>
+
+44
+00:01:32,430 --> 00:01:36,390
+how would you establish 1960s<font color="#E5E5E5"> San</font>
+
+45
+00:01:34,590 --> 00:01:38,100
+<font color="#E5E5E5">Francisco outside of the title</font><font color="#CCCCCC"> court</font>
+
+46
+00:01:36,390 --> 00:01:40,739
+<font color="#CCCCCC">well you could open with the Golden Gate</font>
+
+47
+00:01:38,099 --> 00:01:42,118
+<font color="#E5E5E5">Bridge</font><font color="#CCCCCC"> its iconic</font><font color="#E5E5E5"> it's a visual landmark</font>
+
+48
+00:01:40,739 --> 00:01:43,890
+that hasn't<font color="#E5E5E5"> changed</font><font color="#CCCCCC"> in appearance</font><font color="#E5E5E5"> since</font>
+
+49
+00:01:42,118 --> 00:01:46,379
+its construction<font color="#E5E5E5"> so it's appropriate</font><font color="#CCCCCC"> for</font>
+
+50
+00:01:43,890 --> 00:01:48,420
+any period<font color="#E5E5E5"> and it's also used in every</font>
+
+51
+00:01:46,379 --> 00:01:50,039
+<font color="#E5E5E5">single movie so the audience know</font>
+
+52
+00:01:48,420 --> 00:01:51,689
+they're in San Francisco but we're
+
+53
+00:01:50,040 --> 00:01:53,460
+nowhere near<font color="#E5E5E5"> the Golden Gate Bridge and</font>
+
+54
+00:01:51,688 --> 00:01:55,109
+sodium<font color="#E5E5E5"> we're downtown at the Chronicle</font>
+
+55
+00:01:53,459 --> 00:01:56,578
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> rather than</font><font color="#CCCCCC"> just showing</font><font color="#E5E5E5"> us the</font>
+
+56
+00:01:55,109 --> 00:01:58,709
+<font color="#E5E5E5">exterior the building</font>
+
+57
+00:01:56,578 --> 00:02:00,989
+Fincher shows us this the San Francisco
+
+58
+00:01:58,709 --> 00:02:02,429
+waterfront as it appeared in 1969
+
+59
+00:02:00,989 --> 00:02:04,769
+complete with<font color="#CCCCCC"> a historically accurate</font>
+
+60
+00:02:02,430 --> 00:02:06,689
+skyline as well as a<font color="#E5E5E5"> reconstruction of</font>
+
+61
+00:02:04,769 --> 00:02:07,579
+the Embarcadero<font color="#CCCCCC"> Freeway</font><font color="#E5E5E5"> that fell during</font>
+
+62
+00:02:06,688 --> 00:02:09,560
+<font color="#CCCCCC">the earthquake</font>
+
+63
+00:02:07,579 --> 00:02:11,419
+of 1980<font color="#CCCCCC"> and most people</font><font color="#E5E5E5"> would never</font>
+
+64
+00:02:09,560 --> 00:02:13,370
+guess that that entire cityscape was
+
+65
+00:02:11,419 --> 00:02:15,109
+created<font color="#E5E5E5"> in computer in fact nearly every</font>
+
+66
+00:02:13,370 --> 00:02:16,340
+exterior shot in zodiac is digitally
+
+67
+00:02:15,110 --> 00:02:17,870
+altered in some way<font color="#E5E5E5"> to be</font>
+
+68
+00:02:16,340 --> 00:02:19,159
+period-accurate<font color="#CCCCCC"> Fincher one of the</font>
+
+69
+00:02:17,870 --> 00:02:21,439
+details<font color="#E5E5E5"> of the crime</font><font color="#CCCCCC"> seems to be as</font>
+
+70
+00:02:19,159 --> 00:02:23,810
+authentic<font color="#E5E5E5"> as possible</font><font color="#CCCCCC"> and ironically the</font>
+
+71
+00:02:21,439 --> 00:02:25,009
+only<font color="#CCCCCC"> way to do that was through CG if we</font>
+
+72
+00:02:23,810 --> 00:02:26,449
+look at the murder<font color="#CCCCCC"> of</font><font color="#E5E5E5"> Washington and</font>
+
+73
+00:02:25,009 --> 00:02:28,459
+cherry you'll see this<font color="#CCCCCC"> isn't</font><font color="#E5E5E5"> just a</font>
+
+74
+00:02:26,449 --> 00:02:30,560
+simple chroma key backward<font color="#E5E5E5"> the shot is</font>
+
+75
+00:02:28,460 --> 00:02:32,030
+<font color="#E5E5E5">handheld so the entire</font><font color="#CCCCCC"> environment was</font>
+
+76
+00:02:30,560 --> 00:02:34,340
+built from the<font color="#CCCCCC"> ground up using camera</font>
+
+77
+00:02:32,030 --> 00:02:35,599
+projections to create a 360-degree 3d
+
+78
+00:02:34,340 --> 00:02:36,979
+model<font color="#E5E5E5"> of the intersection that could</font>
+
+79
+00:02:35,599 --> 00:02:39,469
+then be tracked<font color="#E5E5E5"> on to the original</font>
+
+80
+00:02:36,979 --> 00:02:41,959
+plates to match perspective<font color="#E5E5E5"> but more</font>
+
+81
+00:02:39,469 --> 00:02:44,090
+than historical accuracy<font color="#CCCCCC"> Fincher uses</font>
+
+82
+00:02:41,960 --> 00:02:45,800
+these CG techniques to bring depth to
+
+83
+00:02:44,090 --> 00:02:47,840
+the storytelling<font color="#CCCCCC"> like illustrating a</font>
+
+84
+00:02:45,800 --> 00:02:49,219
+city's transition into a<font color="#E5E5E5"> new era through</font>
+
+85
+00:02:47,840 --> 00:02:51,259
+<font color="#E5E5E5">the construction of a landmark or</font>
+
+86
+00:02:49,219 --> 00:02:53,840
+building tension<font color="#E5E5E5"> through eerily precise</font>
+
+87
+00:02:51,259 --> 00:02:55,849
+framing and virtual camera movement it's
+
+88
+00:02:53,840 --> 00:02:57,469
+all in service<font color="#E5E5E5"> of the story</font>
+
+89
+00:02:55,849 --> 00:02:59,239
+take the<font color="#E5E5E5"> Henley Royal Regatta sequence</font>
+
+90
+00:02:57,469 --> 00:03:02,060
+in the social network for<font color="#E5E5E5"> example it's</font>
+
+91
+00:02:59,240 --> 00:03:04,520
+<font color="#CCCCCC">57</font><font color="#E5E5E5"> shots and every single one of them is</font>
+
+92
+00:03:02,060 --> 00:03:05,930
+a visual effect<font color="#E5E5E5"> 3d tracking software was</font>
+
+93
+00:03:04,520 --> 00:03:07,939
+<font color="#E5E5E5">applied to digitally replace each</font>
+
+94
+00:03:05,930 --> 00:03:09,260
+background as well<font color="#E5E5E5"> as create detailed</font>
+
+95
+00:03:07,939 --> 00:03:11,569
+depth maps that were then used to
+
+96
+00:03:09,259 --> 00:03:13,429
+<font color="#CCCCCC">simulate the look tilt-shift photography</font>
+
+97
+00:03:11,569 --> 00:03:15,349
+which adds a sense of<font color="#CCCCCC"> isolation to</font><font color="#E5E5E5"> the</font>
+
+98
+00:03:13,430 --> 00:03:17,180
+<font color="#E5E5E5">wincle</font><font color="#CCCCCC"> vie and their attempts to expose</font>
+
+99
+00:03:15,349 --> 00:03:19,009
+<font color="#CCCCCC">Zuckerberg everything around them feel</font>
+
+100
+00:03:17,180 --> 00:03:20,719
+so insignificant compared<font color="#CCCCCC"> to what</font>
+
+101
+00:03:19,009 --> 00:03:22,669
+Facebook<font color="#CCCCCC"> has become</font><font color="#E5E5E5"> and if the effect</font>
+
+102
+00:03:20,719 --> 00:03:24,739
+<font color="#CCCCCC">that sells that emotion but it does it</font>
+
+103
+00:03:22,669 --> 00:03:26,238
+without<font color="#E5E5E5"> drawing attention to itself</font><font color="#CCCCCC"> and</font>
+
+104
+00:03:24,739 --> 00:03:27,830
+I<font color="#E5E5E5"> think that's the essence of all the</font>
+
+105
+00:03:26,239 --> 00:03:30,170
+visual effects<font color="#CCCCCC"> and Pinterest films</font>
+
+106
+00:03:27,830 --> 00:03:31,670
+<font color="#CCCCCC">they're almost never obvious in fact the</font>
+
+107
+00:03:30,169 --> 00:03:32,299
+real trick<font color="#E5E5E5"> of the scene isn't</font><font color="#CCCCCC"> a</font>
+
+108
+00:03:31,669 --> 00:03:34,399
+background
+
+109
+00:03:32,300 --> 00:03:36,140
+it's the<font color="#E5E5E5"> Winklevoss twins themselves and</font>
+
+110
+00:03:34,400 --> 00:03:37,610
+<font color="#E5E5E5">know this isn't just a split screen</font>
+
+111
+00:03:36,139 --> 00:03:39,500
+cloning effect<font color="#E5E5E5"> this was done by</font>
+
+112
+00:03:37,610 --> 00:03:41,390
+capturing<font color="#E5E5E5"> a 3d mask of army hammers</font>
+
+113
+00:03:39,500 --> 00:03:43,729
+performance<font color="#E5E5E5"> in CG and having it</font>
+
+114
+00:03:41,389 --> 00:03:46,309
+digitally superimposed<font color="#CCCCCC"> over Josh princes</font>
+
+115
+00:03:43,729 --> 00:03:47,599
+face creating a<font color="#CCCCCC"> hybrid of</font><font color="#E5E5E5"> actor and body</font>
+
+116
+00:03:46,310 --> 00:03:50,239
+double that could then portray two
+
+117
+00:03:47,599 --> 00:03:52,310
+distinct but identical characters<font color="#CCCCCC"> within</font>
+
+118
+00:03:50,239 --> 00:03:54,080
+<font color="#CCCCCC">the same frame</font><font color="#E5E5E5"> even</font><font color="#CCCCCC"> the simplest shots</font>
+
+119
+00:03:52,310 --> 00:03:55,610
+have a surprising number<font color="#CCCCCC"> of complex</font>
+
+120
+00:03:54,080 --> 00:03:57,500
+visual effects<font color="#CCCCCC"> one of my favorite</font>
+
+121
+00:03:55,610 --> 00:03:59,510
+<font color="#CCCCCC">examples of this</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> the zodiacs first</font>
+
+122
+00:03:57,500 --> 00:04:01,580
+murder sequence<font color="#E5E5E5"> it seems relatively</font>
+
+123
+00:03:59,509 --> 00:04:03,079
+straightforward<font color="#E5E5E5"> nice exterior</font><font color="#CCCCCC"> two</font>
+
+124
+00:04:01,580 --> 00:04:05,300
+characters inside<font color="#E5E5E5"> the car being shot</font><font color="#CCCCCC"> at</font>
+
+125
+00:04:03,080 --> 00:04:07,040
+<font color="#CCCCCC">a Zodiac as blood splashes on the radio</font>
+
+126
+00:04:05,300 --> 00:04:09,080
+except it's<font color="#CCCCCC"> not at night it's shot in</font><font color="#E5E5E5"> a</font>
+
+127
+00:04:07,039 --> 00:04:10,489
+studio<font color="#CCCCCC"> the exterior</font><font color="#E5E5E5"> is the digital</font><font color="#CCCCCC"> mat</font>
+
+128
+00:04:09,080 --> 00:04:12,110
+the two characters in the car as<font color="#E5E5E5"> well as</font>
+
+129
+00:04:10,489 --> 00:04:14,569
+<font color="#CCCCCC">the zodiac or blue</font><font color="#E5E5E5"> screen composites</font>
+
+130
+00:04:12,110 --> 00:04:17,509
+shot on different plates and<font color="#E5E5E5"> all the</font>
+
+131
+00:04:14,569 --> 00:04:19,219
+blood is CG like I said he's a master of
+
+132
+00:04:17,509 --> 00:04:20,909
+<font color="#E5E5E5">deception and Fincher likes to use</font>
+
+133
+00:04:19,220 --> 00:04:22,950
+digital<font color="#E5E5E5"> blood as often as</font><font color="#CCCCCC"> he can</font>
+
+134
+00:04:20,910 --> 00:04:24,689
+zodiac has some pretty gruesome murder
+
+135
+00:04:22,949 --> 00:04:26,939
+sequences but not a<font color="#E5E5E5"> single frame of</font>
+
+136
+00:04:24,689 --> 00:04:29,399
+<font color="#E5E5E5">practical blood was shot same with Girl</font>
+
+137
+00:04:26,939 --> 00:04:30,810
+with the Dragon<font color="#E5E5E5"> Tattoo</font><font color="#CCCCCC"> every drop is CG</font>
+
+138
+00:04:29,399 --> 00:04:32,729
+including the blood being washed off<font color="#CCCCCC"> a</font>
+
+139
+00:04:30,810 --> 00:04:34,829
+<font color="#CCCCCC">Miko space in this scene which is a</font>
+
+140
+00:04:32,730 --> 00:04:36,330
+whole nother<font color="#E5E5E5"> level of impressive and the</font>
+
+141
+00:04:34,829 --> 00:04:37,949
+complexity of the visual effects<font color="#E5E5E5"> in the</font>
+
+142
+00:04:36,329 --> 00:04:39,959
+<font color="#E5E5E5">back end allows for much more simplicity</font>
+
+143
+00:04:37,949 --> 00:04:41,159
+<font color="#E5E5E5">during principal photography not</font>
+
+144
+00:04:39,959 --> 00:04:42,750
+worrying about redressing<font color="#CCCCCC"> the set</font>
+
+145
+00:04:41,160 --> 00:04:44,610
+multiple times<font color="#CCCCCC"> gets finisher the</font><font color="#E5E5E5"> freedom</font>
+
+146
+00:04:42,750 --> 00:04:47,189
+to<font color="#E5E5E5"> shoot as many takes as he likes and</font>
+
+147
+00:04:44,610 --> 00:04:49,680
+<font color="#E5E5E5">he likes to shoot a lot of takes and we</font>
+
+148
+00:04:47,189 --> 00:04:51,660
+shot<font color="#CCCCCC"> fifty sixteen</font><font color="#E5E5E5"> I think we probably</font>
+
+149
+00:04:49,680 --> 00:04:53,730
+shot<font color="#E5E5E5"> thirty thirty-five takes and we</font>
+
+150
+00:04:51,660 --> 00:04:56,880
+probably<font color="#E5E5E5"> shot 16 takes</font><font color="#CCCCCC"> he did that 17</font>
+
+151
+00:04:53,730 --> 00:04:58,950
+times this was many many many takes
+
+152
+00:04:56,879 --> 00:05:00,509
+<font color="#E5E5E5">Pinter also utilizes CG in moments that</font>
+
+153
+00:04:58,949 --> 00:05:02,339
+<font color="#E5E5E5">would otherwise be difficult</font><font color="#CCCCCC"> to recreate</font>
+
+154
+00:05:00,509 --> 00:05:03,899
+over those several tanks<font color="#CCCCCC"> if you ever</font>
+
+155
+00:05:02,339 --> 00:05:05,250
+wondered how<font color="#E5E5E5"> those gummy bears bounce so</font>
+
+156
+00:05:03,899 --> 00:05:07,289
+perfectly<font color="#E5E5E5"> off of Nick's head while</font>
+
+157
+00:05:05,250 --> 00:05:10,259
+staying in frame it's because<font color="#CCCCCC"> their CG</font>
+
+158
+00:05:07,290 --> 00:05:12,060
+<font color="#E5E5E5">same with Amy's perfect</font><font color="#CCCCCC"> cut as well</font><font color="#E5E5E5"> as</font>
+
+159
+00:05:10,259 --> 00:05:13,469
+this gap in Elizabeth's hair since<font color="#E5E5E5"> the</font>
+
+160
+00:05:12,060 --> 00:05:15,329
+scene was filmed<font color="#E5E5E5"> across multiple days</font>
+
+161
+00:05:13,470 --> 00:05:17,550
+they composited separation<font color="#E5E5E5"> and her bangs</font>
+
+162
+00:05:15,329 --> 00:05:18,810
+to maintain continuity between<font color="#CCCCCC"> shots and</font>
+
+163
+00:05:17,550 --> 00:05:20,100
+that<font color="#E5E5E5"> same attention to detail</font><font color="#CCCCCC"> was</font>
+
+164
+00:05:18,810 --> 00:05:22,079
+applied<font color="#CCCCCC"> to all</font><font color="#E5E5E5"> of Miguel's</font>
+
+165
+00:05:20,100 --> 00:05:23,970
+evidence boards<font color="#E5E5E5"> with notes and photos</font>
+
+166
+00:05:22,079 --> 00:05:25,229
+<font color="#E5E5E5">being digitally altered to remove in</font>
+
+167
+00:05:23,970 --> 00:05:27,000
+accordance with last-minute script
+
+168
+00:05:25,230 --> 00:05:29,280
+changes and scenes being cut<font color="#E5E5E5"> from link</font>
+
+169
+00:05:27,000 --> 00:05:32,040
+and yeah<font color="#CCCCCC"> it's easy to think these are</font>
+
+170
+00:05:29,279 --> 00:05:34,259
+expensive unnecessary solutions to minor
+
+171
+00:05:32,040 --> 00:05:35,700
+problems<font color="#CCCCCC"> but</font><font color="#E5E5E5"> modern audiences aren't as</font>
+
+172
+00:05:34,259 --> 00:05:38,129
+forgiving<font color="#E5E5E5"> when it comes to technical</font>
+
+173
+00:05:35,699 --> 00:05:40,379
+inconsistencies<font color="#E5E5E5"> and continuity errors</font>
+
+174
+00:05:38,129 --> 00:05:42,389
+and Fincher knows<font color="#CCCCCC"> that his films</font><font color="#E5E5E5"> are</font>
+
+175
+00:05:40,379 --> 00:05:44,219
+about<font color="#CCCCCC"> detail his characters are</font>
+
+176
+00:05:42,389 --> 00:05:45,930
+<font color="#CCCCCC">investigators and detectives and</font>
+
+177
+00:05:44,220 --> 00:05:47,490
+obsessives<font color="#E5E5E5"> and those traits</font><font color="#CCCCCC"> are</font><font color="#E5E5E5"> all</font>
+
+178
+00:05:45,930 --> 00:05:49,709
+reflected<font color="#CCCCCC"> in</font><font color="#E5E5E5"> the film making an</font>
+
+179
+00:05:47,490 --> 00:05:51,449
+incredible<font color="#CCCCCC"> amount</font><font color="#E5E5E5"> of technical artistry</font>
+
+180
+00:05:49,709 --> 00:05:54,060
+<font color="#CCCCCC">shaped so many moments most people with</font>
+
+181
+00:05:51,449 --> 00:05:56,069
+a blind animosity<font color="#E5E5E5"> towards</font><font color="#CCCCCC"> cg would never</font>
+
+182
+00:05:54,060 --> 00:05:57,600
+even notice take the motorcycle chase at
+
+183
+00:05:56,069 --> 00:05:59,459
+the end of Dragon Tattoo for example
+
+184
+00:05:57,600 --> 00:06:00,930
+<font color="#E5E5E5">thousands of man-hours of work when</font>
+
+185
+00:05:59,459 --> 00:06:02,668
+<font color="#CCCCCC">ended digitally replacing Elizabeth's</font>
+
+186
+00:06:00,930 --> 00:06:04,709
+head<font color="#E5E5E5"> during the sequence even though the</font>
+
+187
+00:06:02,668 --> 00:06:06,329
+simple financially practical solution
+
+188
+00:06:04,709 --> 00:06:08,279
+<font color="#E5E5E5">would just be to conceal her face with a</font>
+
+189
+00:06:06,329 --> 00:06:09,959
+helmet<font color="#CCCCCC"> and let the stunt driver perform</font>
+
+190
+00:06:08,279 --> 00:06:11,519
+with no digital trickery<font color="#CCCCCC"> it's even been</font>
+
+191
+00:06:09,959 --> 00:06:13,500
+established multiple times that<font color="#E5E5E5"> Lisbeth</font>
+
+192
+00:06:11,519 --> 00:06:15,750
+always rides with her head gear but that
+
+193
+00:06:13,500 --> 00:06:17,550
+doesn't serve the narrative she's in a
+
+194
+00:06:15,750 --> 00:06:19,110
+hurry she's in pursuit of a murderer<font color="#E5E5E5"> and</font>
+
+195
+00:06:17,550 --> 00:06:21,419
+<font color="#E5E5E5">she's reckless enough to chase down a</font>
+
+196
+00:06:19,110 --> 00:06:23,250
+killer in spite of<font color="#E5E5E5"> her own safety</font><font color="#CCCCCC"> the</font>
+
+197
+00:06:21,418 --> 00:06:25,680
+use<font color="#E5E5E5"> of CG</font><font color="#CCCCCC"> allowed Fincher to shoot the</font>
+
+198
+00:06:23,250 --> 00:06:27,540
+scene efficiently and safely<font color="#CCCCCC"> without</font>
+
+199
+00:06:25,680 --> 00:06:29,910
+<font color="#CCCCCC">compromising the logic of</font><font color="#E5E5E5"> the character</font>
+
+200
+00:06:27,540 --> 00:06:31,770
+<font color="#E5E5E5">his visual effects are always in service</font>
+
+201
+00:06:29,910 --> 00:06:34,070
+<font color="#E5E5E5">of the story</font><font color="#CCCCCC"> they're not there to be</font>
+
+202
+00:06:31,769 --> 00:06:35,810
+recognized<font color="#CCCCCC"> they're not there to impress</font>
+
+203
+00:06:34,069 --> 00:06:37,670
+they're there to immerse<font color="#E5E5E5"> Pinter</font>
+
+204
+00:06:35,810 --> 00:06:40,819
+understands that what technology<font color="#CCCCCC"> you use</font>
+
+205
+00:06:37,670 --> 00:06:42,500
+<font color="#E5E5E5">is never important it's about how you</font>
+
+206
+00:06:40,819 --> 00:06:45,259
+use that<font color="#E5E5E5"> technology to communicate your</font>
+
+207
+00:06:42,500 --> 00:06:48,290
+vision<font color="#E5E5E5"> until the best story you can it</font>
+
+208
+00:06:45,259 --> 00:06:52,039
+takes titanium and<font color="#CCCCCC"> aluminum and steel</font>
+
+209
+00:06:48,290 --> 00:06:55,370
+<font color="#E5E5E5">and glass</font><font color="#CCCCCC"> and lasers</font><font color="#E5E5E5"> to do one thing</font>
+
+210
+00:06:52,040 --> 00:06:59,330
+<font color="#CCCCCC">impart feelings and that's the magic</font><font color="#E5E5E5"> of</font>
+
+211
+00:06:55,370 --> 00:07:01,100
+cinema<font color="#E5E5E5"> I'd like to thank Squarespace for</font>
+
+212
+00:06:59,329 --> 00:07:02,209
+sponsoring this week's episode<font color="#CCCCCC"> whether</font>
+
+213
+00:07:01,100 --> 00:07:04,250
+<font color="#E5E5E5">you're looking to set up a blog</font>
+
+214
+00:07:02,209 --> 00:07:05,810
+portfolio or online store
+
+215
+00:07:04,250 --> 00:07:07,399
+Squarespace gives you all the tools<font color="#CCCCCC"> you</font>
+
+216
+00:07:05,810 --> 00:07:09,230
+<font color="#CCCCCC">need to</font><font color="#E5E5E5"> build a</font><font color="#CCCCCC"> beautiful</font><font color="#E5E5E5"> website with</font>
+
+217
+00:07:07,399 --> 00:07:10,849
+no patches upgrades or<font color="#E5E5E5"> installers</font>
+
+218
+00:07:09,230 --> 00:07:12,319
+required and<font color="#E5E5E5"> their great selection of</font>
+
+219
+00:07:10,850 --> 00:07:14,180
+<font color="#E5E5E5">designer templates and</font><font color="#CCCCCC"> award-winning</font>
+
+220
+00:07:12,319 --> 00:07:16,550
+customer<font color="#CCCCCC"> service makes launching a brand</font>
+
+221
+00:07:14,180 --> 00:07:18,560
+quicker and easier than<font color="#E5E5E5"> ever before</font><font color="#CCCCCC"> sign</font>
+
+222
+00:07:16,550 --> 00:07:20,870
+up today at squarespace.com slash
+
+223
+00:07:18,560 --> 00:07:26,110
+<font color="#E5E5E5">captain to get 10% off your</font><font color="#CCCCCC"> first order</font>
+
+224
+00:07:20,870 --> 00:07:41,930
+<font color="#CCCCCC">that's squarespace.com /ka ptai n</font>
+
+225
+00:07:26,110 --> 00:07:42,990
+[Music]
+
+226
+00:07:41,930 --> 00:07:46,319
+you
+
+227
+00:07:42,990 --> 00:07:46,319
+[Music]
+

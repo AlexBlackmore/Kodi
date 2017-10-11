@@ -1,0 +1,604 @@
+1
+00:00:21,059 --> 00:00:25,449
+this year marks the<font color="#E5E5E5"> 20th anniversary of</font>
+
+2
+00:00:23,739 --> 00:00:27,339
+Pokemon<font color="#CCCCCC"> a property that</font><font color="#E5E5E5"> over the years</font>
+
+3
+00:00:25,449 --> 00:00:29,589
+<font color="#E5E5E5">became as much</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> social movement as it</font>
+
+4
+00:00:27,339 --> 00:00:31,149
+was a gaming experience<font color="#CCCCCC"> this platform</font>
+
+5
+00:00:29,589 --> 00:00:33,549
+<font color="#CCCCCC">for players to connect with each other</font>
+
+6
+00:00:31,149 --> 00:00:35,859
+exploring and discovering<font color="#CCCCCC"> together while</font>
+
+7
+00:00:33,549 --> 00:00:38,530
+transcending language age and culture
+
+8
+00:00:35,859 --> 00:00:40,448
+<font color="#CCCCCC">creating</font><font color="#E5E5E5"> this global community</font><font color="#CCCCCC"> beginning</font>
+
+9
+00:00:38,530 --> 00:00:42,250
+<font color="#E5E5E5">in Japan with</font><font color="#CCCCCC"> pokemon red and pokemon</font>
+
+10
+00:00:40,448 --> 00:00:44,619
+<font color="#CCCCCC">green and later</font><font color="#E5E5E5"> pokemon</font><font color="#CCCCCC"> blue when it was</font>
+
+11
+00:00:42,250 --> 00:00:46,628
+imported<font color="#E5E5E5"> into the</font><font color="#CCCCCC"> West</font><font color="#E5E5E5"> in 98</font><font color="#CCCCCC"> work found</font>
+
+12
+00:00:44,619 --> 00:00:48,459
+<font color="#CCCCCC">a</font><font color="#E5E5E5"> massive</font><font color="#CCCCCC"> audience in American</font><font color="#E5E5E5"> consumers</font>
+
+13
+00:00:46,628 --> 00:00:50,349
+who proved quickly that this wasn't<font color="#CCCCCC"> just</font>
+
+14
+00:00:48,460 --> 00:00:53,198
+<font color="#E5E5E5">another fad like Tamagotchi</font><font color="#CCCCCC"> but it all</font>
+
+15
+00:00:50,350 --> 00:00:54,609
+started<font color="#E5E5E5"> in 1996 with Game Freak</font><font color="#CCCCCC"> a small</font>
+
+16
+00:00:53,198 --> 00:00:56,798
+team of<font color="#E5E5E5"> developers led by Pokemon</font>
+
+17
+00:00:54,609 --> 00:00:58,210
+creator Satoshi Tajiri<font color="#CCCCCC"> and just to clear</font>
+
+18
+00:00:56,798 --> 00:01:01,268
+<font color="#CCCCCC">up a bit of widespread misinformation</font>
+
+19
+00:00:58,210 --> 00:01:03,670
+<font color="#E5E5E5">this is not Satoshi Tajiri</font><font color="#CCCCCC"> this is</font>
+
+20
+00:01:01,268 --> 00:01:04,149
+current Pokemon<font color="#CCCCCC"> company CEO suni Kazuya</font>
+
+21
+00:01:03,670 --> 00:01:06,939
+<font color="#CCCCCC">Shehata</font>
+
+22
+00:01:04,150 --> 00:01:08,740
+this is Satoshi Tajiri<font color="#CCCCCC"> the founder of</font>
+
+23
+00:01:06,939 --> 00:01:10,658
+Game Freak<font color="#CCCCCC"> a company that</font><font color="#E5E5E5"> started as a</font>
+
+24
+00:01:08,739 --> 00:01:11,829
+small self-published gaming magazine
+
+25
+00:01:10,659 --> 00:01:14,200
+where Tajiri could<font color="#E5E5E5"> express his</font>
+
+26
+00:01:11,829 --> 00:01:17,650
+admiration for<font color="#E5E5E5"> games and game developers</font>
+
+27
+00:01:14,200 --> 00:01:18,760
+<font color="#CCCCCC">but on April 26 1989 just 5 days after</font>
+
+28
+00:01:17,650 --> 00:01:20,590
+<font color="#E5E5E5">the release</font><font color="#CCCCCC"> of the Gameboy</font>
+
+29
+00:01:18,760 --> 00:01:22,990
+Tajiri with the help of Ken Sugimori the
+
+30
+00:01:20,590 --> 00:01:25,150
+magazine's<font color="#E5E5E5"> artist turned Game Freak into</font>
+
+31
+00:01:22,989 --> 00:01:26,679
+a video game<font color="#E5E5E5"> production company what</font>
+
+32
+00:01:25,150 --> 00:01:28,540
+drew to jury to the platform<font color="#E5E5E5"> was the</font>
+
+33
+00:01:26,680 --> 00:01:31,120
+<font color="#E5E5E5">potential</font><font color="#CCCCCC"> he saw in the game</font><font color="#E5E5E5"> boys</font>
+
+34
+00:01:28,540 --> 00:01:33,130
+linking functionality that data transfer
+
+35
+00:01:31,120 --> 00:01:34,810
+system<font color="#E5E5E5"> inspired a dream in which</font><font color="#CCCCCC"> he saw</font>
+
+36
+00:01:33,129 --> 00:01:36,879
+<font color="#E5E5E5">little creatures crawling along the</font>
+
+37
+00:01:34,810 --> 00:01:38,350
+<font color="#E5E5E5">cable from</font><font color="#CCCCCC"> one game to another</font><font color="#E5E5E5"> and</font>
+
+38
+00:01:36,879 --> 00:01:40,810
+Tajiri was also a big fan of the
+
+39
+00:01:38,349 --> 00:01:41,979
+Japanese series<font color="#CCCCCC"> ultraseven a show in</font>
+
+40
+00:01:40,810 --> 00:01:44,290
+<font color="#CCCCCC">which the protagonist</font><font color="#E5E5E5"> would fight with</font>
+
+41
+00:01:41,980 --> 00:01:46,659
+<font color="#CCCCCC">monsters hidden inside little capsules</font>
+
+42
+00:01:44,290 --> 00:01:48,250
+<font color="#E5E5E5">and out of those two concepts the idea</font>
+
+43
+00:01:46,659 --> 00:01:50,319
+<font color="#E5E5E5">for Pokemon was born with production</font>
+
+44
+00:01:48,250 --> 00:01:52,599
+beginning<font color="#E5E5E5"> in 1990 and taking nearly</font><font color="#CCCCCC"> six</font>
+
+45
+00:01:50,319 --> 00:01:54,579
+<font color="#CCCCCC">years to complete then by that point the</font>
+
+46
+00:01:52,599 --> 00:01:56,530
+game<font color="#CCCCCC"> boid hit a major</font><font color="#E5E5E5"> lull in popularity</font>
+
+47
+00:01:54,579 --> 00:01:57,959
+<font color="#E5E5E5">but despite the hardware being nearly</font>
+
+48
+00:01:56,530 --> 00:01:59,829
+<font color="#E5E5E5">out</font><font color="#CCCCCC"> of date by</font><font color="#E5E5E5"> the time</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> its release</font>
+
+49
+00:01:57,959 --> 00:02:01,449
+<font color="#E5E5E5">Pokemon went on to become</font><font color="#CCCCCC"> one of the</font>
+
+50
+00:01:59,829 --> 00:02:03,039
+game<font color="#E5E5E5"> boys most profitable titles</font>
+
+51
+00:02:01,450 --> 00:02:05,049
+<font color="#E5E5E5">boosting its sales over two hundred and</font>
+
+52
+00:02:03,040 --> 00:02:06,909
+<font color="#E5E5E5">fifty</font><font color="#CCCCCC"> percent after</font><font color="#E5E5E5"> launch and his</font>
+
+53
+00:02:05,049 --> 00:02:08,769
+<font color="#E5E5E5">popularity spread across</font><font color="#CCCCCC"> the globe with</font>
+
+54
+00:02:06,909 --> 00:02:10,118
+<font color="#CCCCCC">the still ongoing anime series in the</font>
+
+55
+00:02:08,769 --> 00:02:11,800
+trading card game each of<font color="#E5E5E5"> which</font>
+
+56
+00:02:10,118 --> 00:02:13,150
+simultaneously contributed to and
+
+57
+00:02:11,800 --> 00:02:14,860
+borrowed from<font color="#E5E5E5"> one another shaping</font>
+
+58
+00:02:13,150 --> 00:02:17,289
+<font color="#CCCCCC">Pokemon into</font><font color="#E5E5E5"> this international</font>
+
+59
+00:02:14,860 --> 00:02:19,090
+<font color="#E5E5E5">multimedia phenomenon with every kid in</font>
+
+60
+00:02:17,289 --> 00:02:21,189
+the<font color="#CCCCCC"> world wanted to catch them all</font><font color="#E5E5E5"> as a</font>
+
+61
+00:02:19,090 --> 00:02:22,750
+child diagnosed with autism<font color="#CCCCCC"> -</font><font color="#E5E5E5"> Gerry</font>
+
+62
+00:02:21,189 --> 00:02:24,430
+<font color="#E5E5E5">spent most of his free time collecting</font>
+
+63
+00:02:22,750 --> 00:02:26,199
+bugs<font color="#CCCCCC"> and that played a</font><font color="#E5E5E5"> major role when</font>
+
+64
+00:02:24,430 --> 00:02:27,760
+developing the mechanics<font color="#E5E5E5"> of the game the</font>
+
+65
+00:02:26,199 --> 00:02:30,099
+concept of collectability really
+
+66
+00:02:27,759 --> 00:02:32,378
+resonates with gamers trophies and<font color="#E5E5E5"> gamer</font>
+
+67
+00:02:30,099 --> 00:02:34,299
+<font color="#CCCCCC">score every game</font><font color="#E5E5E5"> has come</font>
+
+68
+00:02:32,378 --> 00:02:36,789
+and jury collecting some games<font color="#E5E5E5"> like</font>
+
+69
+00:02:34,299 --> 00:02:38,709
+Sonic and Mario<font color="#E5E5E5"> but those rings</font><font color="#CCCCCC"> and</font>
+
+70
+00:02:36,789 --> 00:02:40,388
+coins<font color="#E5E5E5"> don't really mean anything</font><font color="#CCCCCC"> if</font>
+
+71
+00:02:38,709 --> 00:02:42,789
+you've ever played<font color="#E5E5E5"> 52 car</font><font color="#CCCCCC"> pickups you</font>
+
+72
+00:02:40,389 --> 00:02:44,680
+<font color="#CCCCCC">know that this is not a game it's a</font>
+
+73
+00:02:42,789 --> 00:02:46,358
+chore<font color="#CCCCCC"> but these</font><font color="#E5E5E5"> collectibles were</font>
+
+74
+00:02:44,680 --> 00:02:48,099
+special they were yours
+
+75
+00:02:46,359 --> 00:02:49,689
+something could show off to your<font color="#CCCCCC"> friends</font>
+
+76
+00:02:48,098 --> 00:02:51,789
+and they could show off to you<font color="#CCCCCC"> and</font>
+
+77
+00:02:49,688 --> 00:02:53,949
+that's where the social hook came in
+
+78
+00:02:51,789 --> 00:02:55,718
+because Pokemon games come in pairs<font color="#CCCCCC"> each</font>
+
+79
+00:02:53,949 --> 00:02:58,509
+with their<font color="#E5E5E5"> own version exclusive</font><font color="#CCCCCC"> pokemon</font>
+
+80
+00:02:55,718 --> 00:03:00,370
+so with red and blue<font color="#CCCCCC"> each game had</font><font color="#E5E5E5"> 11</font>
+
+81
+00:02:58,509 --> 00:03:02,078
+<font color="#CCCCCC">Pokemon that</font><font color="#E5E5E5"> were only available on one</font>
+
+82
+00:03:00,370 --> 00:03:03,370
+of<font color="#E5E5E5"> the two games in addition to four</font>
+
+83
+00:03:02,079 --> 00:03:06,099
+<font color="#E5E5E5">pokemon that would</font><font color="#CCCCCC"> only evolve when</font>
+
+84
+00:03:03,370 --> 00:03:08,319
+traded which meant out of<font color="#E5E5E5"> 151</font><font color="#CCCCCC"> pokemon a</font>
+
+85
+00:03:06,098 --> 00:03:10,988
+tenth of<font color="#E5E5E5"> them were only accessible</font><font color="#CCCCCC"> by</font>
+
+86
+00:03:08,318 --> 00:03:12,818
+trading<font color="#E5E5E5"> so to the game's design alone</font><font color="#CCCCCC"> a</font>
+
+87
+00:03:10,989 --> 00:03:14,650
+community was built<font color="#E5E5E5"> from the</font><font color="#CCCCCC"> ground up</font>
+
+88
+00:03:12,818 --> 00:03:16,479
+it's brilliant<font color="#E5E5E5"> marketing because not</font>
+
+89
+00:03:14,650 --> 00:03:18,639
+only does<font color="#E5E5E5"> it promote sales but it also</font>
+
+90
+00:03:16,479 --> 00:03:20,229
+<font color="#E5E5E5">encourages collaboration which is</font>
+
+91
+00:03:18,639 --> 00:03:22,480
+required<font color="#E5E5E5"> to achieve the main goal</font><font color="#CCCCCC"> of the</font>
+
+92
+00:03:20,229 --> 00:03:24,068
+<font color="#CCCCCC">game</font><font color="#E5E5E5"> gaming typically gets a bad rap</font>
+
+93
+00:03:22,479 --> 00:03:26,590
+<font color="#E5E5E5">with marketing</font><font color="#CCCCCC"> especially with</font><font color="#E5E5E5"> pre-order</font>
+
+94
+00:03:24,068 --> 00:03:28,750
+exclusives<font color="#E5E5E5"> and bundle exclusives but</font>
+
+95
+00:03:26,590 --> 00:03:31,150
+with pokemons<font color="#E5E5E5"> open barter system as long</font>
+
+96
+00:03:28,750 --> 00:03:32,799
+<font color="#CCCCCC">as you have one game every piece is</font>
+
+97
+00:03:31,150 --> 00:03:34,389
+there for the<font color="#E5E5E5"> taking</font><font color="#CCCCCC"> the exclusivity</font>
+
+98
+00:03:32,799 --> 00:03:36,280
+only extends your ability<font color="#CCCCCC"> to interact</font>
+
+99
+00:03:34,389 --> 00:03:38,019
+<font color="#E5E5E5">with other players and</font><font color="#CCCCCC"> that's laid out</font>
+
+100
+00:03:36,280 --> 00:03:39,818
+<font color="#E5E5E5">for you right at the beginning with the</font>
+
+101
+00:03:38,019 --> 00:03:41,500
+starter<font color="#E5E5E5"> Pokemon players are immediately</font>
+
+102
+00:03:39,818 --> 00:03:43,448
+<font color="#E5E5E5">broken up into three categories</font><font color="#CCCCCC"> and</font>
+
+103
+00:03:41,500 --> 00:03:45,400
+<font color="#CCCCCC">introduced to these three pokemon two of</font>
+
+104
+00:03:43,449 --> 00:03:47,829
+<font color="#E5E5E5">which you cannot obtain in your own game</font>
+
+105
+00:03:45,400 --> 00:03:50,229
+<font color="#CCCCCC">at least not alone and that kick-starts</font>
+
+106
+00:03:47,829 --> 00:03:52,659
+<font color="#CCCCCC">the sociability aspect you have</font><font color="#E5E5E5"> one safe</font>
+
+107
+00:03:50,229 --> 00:03:54,759
+<font color="#E5E5E5">you pick Charmander you got to go hunt</font>
+
+108
+00:03:52,658 --> 00:03:57,429
+for Bulbasaur and squirt but not out in
+
+109
+00:03:54,758 --> 00:03:59,768
+the tall grass<font color="#CCCCCC"> in the real</font><font color="#E5E5E5"> world you got</font>
+
+110
+00:03:57,430 --> 00:04:01,959
+<font color="#E5E5E5">to socialize you got to participate</font><font color="#CCCCCC"> they</font>
+
+111
+00:03:59,769 --> 00:04:04,539
+gave a<font color="#E5E5E5"> lot of shy kids myself included a</font>
+
+112
+00:04:01,959 --> 00:04:05,799
+foundation for conversation young
+
+113
+00:04:04,539 --> 00:04:07,269
+introverted<font color="#CCCCCC"> people didn't</font><font color="#E5E5E5"> have</font>
+
+114
+00:04:05,799 --> 00:04:09,370
+difficulties with icebreakers<font color="#CCCCCC"> and</font>
+
+115
+00:04:07,269 --> 00:04:11,109
+<font color="#E5E5E5">Pokemon served as a sort of blanketed</font>
+
+116
+00:04:09,370 --> 00:04:13,180
+interest for most of<font color="#E5E5E5"> us which made it a</font>
+
+117
+00:04:11,109 --> 00:04:14,530
+lot<font color="#E5E5E5"> easier to make</font><font color="#CCCCCC"> friends so why people</font>
+
+118
+00:04:13,180 --> 00:04:16,239
+go to<font color="#E5E5E5"> the</font><font color="#CCCCCC"> movies on a first date</font><font color="#E5E5E5"> it</font>
+
+119
+00:04:14,530 --> 00:04:17,620
+gives you a topic of conversation<font color="#CCCCCC"> the</font>
+
+120
+00:04:16,238 --> 00:04:19,929
+starting<font color="#E5E5E5"> point for the relationship to</font>
+
+121
+00:04:17,620 --> 00:04:21,699
+<font color="#E5E5E5">evolve</font><font color="#CCCCCC"> Pokemon was designed to</font><font color="#E5E5E5"> be a</font>
+
+122
+00:04:19,930 --> 00:04:23,439
+social experience<font color="#CCCCCC"> even though the</font>
+
+123
+00:04:21,699 --> 00:04:25,210
+<font color="#CCCCCC">gameboy is</font><font color="#E5E5E5"> very much a device to escape</font>
+
+124
+00:04:23,439 --> 00:04:26,529
+social interaction it isn't just<font color="#E5E5E5"> built</font>
+
+125
+00:04:25,209 --> 00:04:27,848
+on<font color="#E5E5E5"> the connection with a player and</font>
+
+126
+00:04:26,529 --> 00:04:30,788
+their<font color="#CCCCCC"> Pokemon</font><font color="#E5E5E5"> or</font><font color="#CCCCCC"> a player in</font><font color="#E5E5E5"> the game</font>
+
+127
+00:04:27,848 --> 00:04:32,560
+<font color="#E5E5E5">but with a player and other players if</font>
+
+128
+00:04:30,788 --> 00:04:33,240
+two games share data with<font color="#E5E5E5"> one another</font>
+
+129
+00:04:32,560 --> 00:04:35,490
+<font color="#E5E5E5">there</font>
+
+130
+00:04:33,240 --> 00:04:37,050
+<font color="#E5E5E5">forever when a Pokemon is traded it</font>
+
+131
+00:04:35,490 --> 00:04:39,150
+remembers<font color="#E5E5E5"> the original trainer that</font>
+
+132
+00:04:37,050 --> 00:04:41,038
+captured and raised it<font color="#CCCCCC"> the</font><font color="#E5E5E5"> stat sheet is</font>
+
+133
+00:04:39,149 --> 00:04:42,719
+branded<font color="#E5E5E5"> with that players name and of</font>
+
+134
+00:04:41,038 --> 00:04:44,279
+course that alone won't<font color="#E5E5E5"> create lasting</font>
+
+135
+00:04:42,720 --> 00:04:45,780
+bonds between<font color="#CCCCCC"> people but pokemons</font>
+
+136
+00:04:44,279 --> 00:04:48,299
+encouragement<font color="#CCCCCC"> of cooperation</font><font color="#E5E5E5"> and</font>
+
+137
+00:04:45,779 --> 00:04:49,589
+competition will for me growing<font color="#E5E5E5"> up with</font>
+
+138
+00:04:48,300 --> 00:04:51,030
+these<font color="#E5E5E5"> games played an important part</font><font color="#CCCCCC"> in</font>
+
+139
+00:04:49,589 --> 00:04:53,129
+learning the merits<font color="#E5E5E5"> of sharing and</font>
+
+140
+00:04:51,029 --> 00:04:55,619
+sportsmanship<font color="#CCCCCC"> and you can get that from</font>
+
+141
+00:04:53,129 --> 00:04:57,180
+athletics or summer camp or<font color="#E5E5E5"> church but</font>
+
+142
+00:04:55,620 --> 00:05:00,000
+for<font color="#CCCCCC"> a lot of</font><font color="#E5E5E5"> people it came out of</font><font color="#CCCCCC"> this</font>
+
+143
+00:04:57,180 --> 00:05:01,829
+<font color="#E5E5E5">little</font><font color="#CCCCCC"> 353 byte cartridge I grew up in</font>
+
+144
+00:05:00,000 --> 00:05:03,538
+the first<font color="#E5E5E5"> Pokemon generation but now</font>
+
+145
+00:05:01,829 --> 00:05:05,668
+every generation has their<font color="#E5E5E5"> pokemons</font>
+
+146
+00:05:03,538 --> 00:05:07,079
+<font color="#E5E5E5">every game will be someone's first and</font>
+
+147
+00:05:05,668 --> 00:05:09,598
+every kid will<font color="#E5E5E5"> grow up with these</font>
+
+148
+00:05:07,079 --> 00:05:12,300
+<font color="#E5E5E5">characters that 8-bit journey we started</font>
+
+149
+00:05:09,598 --> 00:05:13,978
+two decades ago<font color="#CCCCCC"> isn't over</font><font color="#E5E5E5"> because there</font>
+
+150
+00:05:12,300 --> 00:05:18,199
+are still so many new<font color="#CCCCCC"> people to connect</font>
+
+151
+00:05:13,978 --> 00:05:18,199
+with<font color="#E5E5E5"> and so much more to discover</font>
+
