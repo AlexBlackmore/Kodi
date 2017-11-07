@@ -1,0 +1,2116 @@
+1
+00:00:00,090 --> 00:00:04,490
+[Music]
+
+2
+00:00:05,778 --> 00:00:13,349
+hey Vsauce Michael here<font color="#CCCCCC"> if every single</font>
+
+3
+00:00:09,718 --> 00:00:16,169
+<font color="#E5E5E5">one</font><font color="#CCCCCC"> of us held hands</font><font color="#E5E5E5"> together in a</font><font color="#CCCCCC"> chain</font>
+
+4
+00:00:13,349 --> 00:00:18,929
+of<font color="#E5E5E5"> unity around</font><font color="#CCCCCC"> Earth</font><font color="#E5E5E5"> would there be</font>
+
+5
+00:00:16,170 --> 00:00:22,560
+<font color="#E5E5E5">enough of us to go all the</font><font color="#CCCCCC"> way</font><font color="#E5E5E5"> around</font>
+
+6
+00:00:18,929 --> 00:00:25,170
+the planet<font color="#E5E5E5"> there are about seven</font><font color="#CCCCCC"> and a</font>
+
+7
+00:00:22,559 --> 00:00:27,839
+half billion of them that's a lot<font color="#E5E5E5"> but</font>
+
+8
+00:00:25,170 --> 00:00:30,779
+remember that<font color="#CCCCCC"> that many human bodies</font>
+
+9
+00:00:27,839 --> 00:00:35,549
+thrown together into one big<font color="#E5E5E5"> pile would</font>
+
+10
+00:00:30,778 --> 00:00:38,250
+barely<font color="#E5E5E5"> fill the Grand Canyon this is all</font>
+
+11
+00:00:35,549 --> 00:00:40,349
+of<font color="#E5E5E5"> us in one place the physical bulk of</font>
+
+12
+00:00:38,250 --> 00:00:43,738
+all<font color="#E5E5E5"> living human flesh on earth today</font>
+
+13
+00:00:40,350 --> 00:00:48,539
+<font color="#E5E5E5">would only make a</font><font color="#CCCCCC"> cone about 7,000</font>
+
+14
+00:00:43,738 --> 00:00:50,578
+people tall and 2,000 across that's it
+
+15
+00:00:48,539 --> 00:00:53,550
+<font color="#E5E5E5">but that's a</font><font color="#CCCCCC"> three-dimensional shape</font>
+
+16
+00:00:50,579 --> 00:00:55,799
+<font color="#CCCCCC">what if we made a</font><font color="#E5E5E5"> one-dimensional</font>
+
+17
+00:00:53,549 --> 00:00:58,378
+single-file line of people<font color="#CCCCCC"> each would</font>
+
+18
+00:00:55,799 --> 00:01:01,709
+say<font color="#E5E5E5"> one meter of room and we stretched</font>
+
+19
+00:00:58,378 --> 00:01:04,920
+that around the planet well we would
+
+20
+00:01:01,710 --> 00:01:08,579
+make it all<font color="#CCCCCC"> the</font><font color="#E5E5E5"> way</font><font color="#CCCCCC"> around</font><font color="#E5E5E5"> and still</font>
+
+21
+00:01:04,920 --> 00:01:11,849
+have<font color="#CCCCCC"> 99.5 percent of the human</font>
+
+22
+00:01:08,579 --> 00:01:14,429
+<font color="#CCCCCC">population left if we made a circle that</font>
+
+23
+00:01:11,849 --> 00:01:16,169
+included<font color="#E5E5E5"> everyone</font><font color="#CCCCCC"> the ring of people</font>
+
+24
+00:01:14,430 --> 00:01:18,509
+would<font color="#E5E5E5"> be more than 2.4 million</font>
+
+25
+00:01:16,170 --> 00:01:21,269
+<font color="#CCCCCC">kilometers in diameter</font><font color="#E5E5E5"> dwarfing the</font>
+
+26
+00:01:18,509 --> 00:01:25,890
+<font color="#E5E5E5">orbit of our own moon now that's not</font>
+
+27
+00:01:21,269 --> 00:01:28,069
+just<font color="#E5E5E5"> a circle that is</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> sir cool but</font>
+
+28
+00:01:25,890 --> 00:01:32,719
+let's<font color="#E5E5E5"> talk</font><font color="#CCCCCC"> about circles today</font>
+
+29
+00:01:28,069 --> 00:01:37,379
+specifically<font color="#E5E5E5"> something that they do roll</font>
+
+30
+00:01:32,719 --> 00:01:39,750
+<font color="#E5E5E5">but what is rolling what rolling occurs</font>
+
+31
+00:01:37,379 --> 00:01:42,269
+whenever something moves with respect<font color="#CCCCCC"> to</font>
+
+32
+00:01:39,750 --> 00:01:46,049
+something<font color="#E5E5E5"> else and is always in contact</font>
+
+33
+00:01:42,269 --> 00:01:48,810
+<font color="#CCCCCC">with that</font><font color="#E5E5E5"> something else and the contact</font>
+
+34
+00:01:46,049 --> 00:01:52,820
+points have<font color="#E5E5E5"> instantaneous velocities of</font>
+
+35
+00:01:48,810 --> 00:01:55,950
+<font color="#E5E5E5">zero that</font><font color="#CCCCCC"> is there's</font><font color="#E5E5E5"> no sliding in</font>
+
+36
+00:01:52,819 --> 00:01:59,639
+mathematics<font color="#E5E5E5"> the path traced by a point</font>
+
+37
+00:01:55,950 --> 00:02:03,240
+on a<font color="#E5E5E5"> rolling object is called</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> rillette</font>
+
+38
+00:01:59,640 --> 00:02:05,640
+French<font color="#CCCCCC"> four little</font><font color="#E5E5E5"> wheel the</font><font color="#CCCCCC"> center</font><font color="#E5E5E5"> of a</font>
+
+39
+00:02:03,239 --> 00:02:08,280
+<font color="#CCCCCC">disk</font><font color="#E5E5E5"> produces a roulette that's just a</font>
+
+40
+00:02:05,640 --> 00:02:09,379
+smooth straight line<font color="#E5E5E5"> while rolling on</font>
+
+41
+00:02:08,280 --> 00:02:12,469
+one and this
+
+42
+00:02:09,379 --> 00:02:15,500
+disks<font color="#E5E5E5"> are good wheels</font><font color="#CCCCCC"> a square on the</font>
+
+43
+00:02:12,469 --> 00:02:17,750
+<font color="#CCCCCC">other hand would</font><font color="#E5E5E5"> be bumpy but square</font>
+
+44
+00:02:15,500 --> 00:02:20,569
+<font color="#E5E5E5">centers can make straight through</font>
+
+45
+00:02:17,750 --> 00:02:22,370
+<font color="#CCCCCC">roulette across the right surfaces</font><font color="#E5E5E5"> this</font>
+
+46
+00:02:20,569 --> 00:02:24,319
+is the principle<font color="#E5E5E5"> behind square wheel</font>
+
+47
+00:02:22,370 --> 00:02:26,330
+which I recently had<font color="#E5E5E5"> the pleasure of</font>
+
+48
+00:02:24,319 --> 00:02:29,120
+<font color="#E5E5E5">enjoying at the Museum of mathematics</font><font color="#CCCCCC"> in</font>
+
+49
+00:02:26,330 --> 00:02:31,670
+New York City<font color="#CCCCCC"> Stan</font><font color="#E5E5E5"> wagon wrote a</font>
+
+50
+00:02:29,120 --> 00:02:33,289
+fantastic<font color="#CCCCCC"> and famous article about</font>
+
+51
+00:02:31,669 --> 00:02:35,209
+wheels<font color="#CCCCCC"> which</font><font color="#E5E5E5"> I've linked down in the</font>
+
+52
+00:02:33,289 --> 00:02:38,120
+description<font color="#E5E5E5"> below</font><font color="#CCCCCC"> it's a great lead</font><font color="#E5E5E5"> he</font>
+
+53
+00:02:35,210 --> 00:02:40,070
+also contributed a fantastic interactive
+
+54
+00:02:38,120 --> 00:02:42,289
+tool to<font color="#CCCCCC"> the Wolfram demonstration</font>
+
+55
+00:02:40,069 --> 00:02:44,719
+project<font color="#CCCCCC"> that allows you to build a wheel</font>
+
+56
+00:02:42,289 --> 00:02:47,049
+and then finds a corresponding<font color="#CCCCCC"> road</font>
+
+57
+00:02:44,719 --> 00:02:50,120
+shape<font color="#E5E5E5"> that allows it to roll smoothly</font>
+
+58
+00:02:47,050 --> 00:02:52,280
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> roulette traced by a point on a disc</font>
+
+59
+00:02:50,120 --> 00:02:54,409
+<font color="#E5E5E5">as it rolls on a straight</font><font color="#CCCCCC"> line has a</font>
+
+60
+00:02:52,280 --> 00:02:58,219
+special name it's called<font color="#CCCCCC"> a trochoidal</font>
+
+61
+00:02:54,409 --> 00:03:01,159
+<font color="#CCCCCC">reak word for wheel</font><font color="#E5E5E5"> Pro code now throw</font>
+
+62
+00:02:58,219 --> 00:03:03,560
+coins can be<font color="#E5E5E5"> curtayne or prolate</font>
+
+63
+00:03:01,159 --> 00:03:06,259
+depending on whether the tracing point
+
+64
+00:03:03,560 --> 00:03:09,650
+is<font color="#E5E5E5"> inside or outside the circumference</font>
+
+65
+00:03:06,259 --> 00:03:13,509
+<font color="#E5E5E5">if the point is on the circumference the</font>
+
+66
+00:03:09,650 --> 00:03:16,400
+resulting curve is called<font color="#E5E5E5"> a cycloid</font>
+
+67
+00:03:13,509 --> 00:03:19,340
+cycloids are very special and<font color="#E5E5E5"> they</font><font color="#CCCCCC"> are</font>
+
+68
+00:03:16,400 --> 00:03:21,740
+the star of this episode<font color="#E5E5E5"> now I've been</font>
+
+69
+00:03:19,340 --> 00:03:24,349
+<font color="#E5E5E5">working</font><font color="#CCCCCC"> with</font><font color="#E5E5E5"> Adam Savage a lot lately as</font>
+
+70
+00:03:21,740 --> 00:03:27,340
+we gear<font color="#CCCCCC"> up for</font><font color="#E5E5E5"> brain</font><font color="#CCCCCC"> candy live our 40</font>
+
+71
+00:03:24,349 --> 00:03:31,280
+<font color="#CCCCCC">city tour that I hope</font><font color="#E5E5E5"> to see you at</font>
+
+72
+00:03:27,340 --> 00:03:32,650
+recently<font color="#CCCCCC"> I asked Adam</font><font color="#E5E5E5"> for some help with</font>
+
+73
+00:03:31,280 --> 00:03:34,650
+<font color="#CCCCCC">roulette</font>
+
+74
+00:03:32,650 --> 00:03:39,750
+Adams
+
+75
+00:03:34,650 --> 00:03:42,569
+give a favorite polygon um the whole
+
+76
+00:03:39,750 --> 00:03:43,949
+group<font color="#E5E5E5"> I just literally an actual</font><font color="#CCCCCC"> bit</font><font color="#E5E5E5"> you</font>
+
+77
+00:03:42,568 --> 00:03:46,079
+<font color="#E5E5E5">can't is there like your children yeah</font>
+
+78
+00:03:43,949 --> 00:03:47,310
+the favorite<font color="#CCCCCC"> I</font><font color="#E5E5E5"> I don't</font><font color="#CCCCCC"> have a favorite</font>
+
+79
+00:03:46,080 --> 00:03:49,860
+either<font color="#E5E5E5"> I do have a favorite thing that</font>
+
+80
+00:03:47,310 --> 00:03:54,060
+<font color="#CCCCCC">you</font><font color="#E5E5E5"> can do with</font><font color="#CCCCCC"> punk okay</font>
+
+81
+00:03:49,860 --> 00:03:56,250
+make a cyclic on a cyclic cyclic on is
+
+82
+00:03:54,060 --> 00:03:59,299
+an<font color="#E5E5E5"> actual planet</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> actually</font><font color="#CCCCCC"> it's an</font>
+
+83
+00:03:56,250 --> 00:04:01,799
+<font color="#E5E5E5">actual thing</font><font color="#CCCCCC"> doing a polygon around</font><font color="#E5E5E5"> here</font>
+
+84
+00:03:59,299 --> 00:04:04,439
+here's this<font color="#E5E5E5"> this here's a squid right</font>
+
+85
+00:04:01,799 --> 00:04:07,019
+right<font color="#CCCCCC"> say</font><font color="#E5E5E5"> this is a square yeah</font><font color="#CCCCCC"> if I</font>
+
+86
+00:04:04,439 --> 00:04:09,780
+take<font color="#E5E5E5"> one of the vertexes of this square</font>
+
+87
+00:04:07,019 --> 00:04:13,170
+<font color="#E5E5E5">and I start</font><font color="#CCCCCC"> rolling this</font><font color="#E5E5E5"> square and you</font>
+
+88
+00:04:09,780 --> 00:04:15,030
+follow where that vertex<font color="#E5E5E5"> oh shoot</font><font color="#CCCCCC"> let me</font>
+
+89
+00:04:13,169 --> 00:04:18,750
+roll this better<font color="#E5E5E5"> egg you ready</font><font color="#CCCCCC"> alright</font>
+
+90
+00:04:15,030 --> 00:04:20,970
+the actual path<font color="#E5E5E5"> that describes the curve</font>
+
+91
+00:04:18,750 --> 00:04:25,290
+described here yeah that<font color="#E5E5E5"> curve is called</font>
+
+92
+00:04:20,970 --> 00:04:27,389
+<font color="#E5E5E5">cycling on</font><font color="#CCCCCC"> and as you pick polygons with</font>
+
+93
+00:04:25,290 --> 00:04:29,100
+more and more sides you get closer<font color="#E5E5E5"> and</font>
+
+94
+00:04:27,389 --> 00:04:32,668
+<font color="#E5E5E5">closer to what I</font><font color="#CCCCCC"> want from you today</font>
+
+95
+00:04:29,100 --> 00:04:34,680
+<font color="#E5E5E5">okay that's a cycloid cycle</font><font color="#CCCCCC"> now</font><font color="#E5E5E5"> I I</font>
+
+96
+00:04:32,668 --> 00:04:35,969
+could have<font color="#E5E5E5"> just done this in</font><font color="#CCCCCC"> Photoshop</font>
+
+97
+00:04:34,680 --> 00:04:40,139
+and done like<font color="#CCCCCC"> an animation</font><font color="#E5E5E5"> like I</font>
+
+98
+00:04:35,970 --> 00:04:41,880
+normally<font color="#E5E5E5"> do</font><font color="#CCCCCC"> but you have a shop we can</font>
+
+99
+00:04:40,139 --> 00:04:44,550
+<font color="#E5E5E5">actually</font><font color="#CCCCCC"> build and you can build</font><font color="#E5E5E5"> okay</font>
+
+100
+00:04:41,879 --> 00:04:46,829
+<font color="#E5E5E5">why do I want to build a cycloid well</font>
+
+101
+00:04:44,550 --> 00:04:49,560
+let me ask you<font color="#E5E5E5"> this with only gravity to</font>
+
+102
+00:04:46,829 --> 00:04:52,288
+<font color="#E5E5E5">move you what's the fastest</font><font color="#CCCCCC"> way to roll</font>
+
+103
+00:04:49,560 --> 00:04:55,288
+or slide from a point<font color="#E5E5E5"> to some other</font>
+
+104
+00:04:52,288 --> 00:04:57,899
+point<font color="#E5E5E5"> below</font><font color="#CCCCCC"> but not directly below would</font>
+
+105
+00:04:55,288 --> 00:05:01,079
+<font color="#E5E5E5">it be a straight line</font><font color="#CCCCCC"> well that would</font>
+
+106
+00:04:57,899 --> 00:05:03,629
+<font color="#E5E5E5">certainly be the shortest path but when</font>
+
+107
+00:05:01,079 --> 00:05:05,639
+you fall gravity accelerates you and
+
+108
+00:05:03,629 --> 00:05:07,529
+falling vertically<font color="#CCCCCC"> a lot right away</font>
+
+109
+00:05:05,639 --> 00:05:09,900
+<font color="#E5E5E5">would mean having</font><font color="#CCCCCC"> a higher top speed</font>
+
+110
+00:05:07,529 --> 00:05:11,309
+<font color="#E5E5E5">during more of the journey and that can</font>
+
+111
+00:05:09,899 --> 00:05:14,069
+more than make up<font color="#CCCCCC"> for the fact</font><font color="#E5E5E5"> that a</font>
+
+112
+00:05:11,310 --> 00:05:16,079
+path like this<font color="#E5E5E5"> is much longer than</font><font color="#CCCCCC"> a</font>
+
+113
+00:05:14,069 --> 00:05:18,478
+straight line but of these two
+
+114
+00:05:16,079 --> 00:05:21,029
+<font color="#E5E5E5">considerations accelerate quickly and</font>
+
+115
+00:05:18,478 --> 00:05:23,848
+don't<font color="#E5E5E5"> have to</font><font color="#CCCCCC"> long</font><font color="#E5E5E5"> as a path what's the</font>
+
+116
+00:05:21,029 --> 00:05:27,839
+optimal combination<font color="#E5E5E5"> finding the answer</font>
+
+117
+00:05:23,848 --> 00:05:29,909
+the path of least time<font color="#E5E5E5"> is called</font><font color="#CCCCCC"> vibra</font>
+
+118
+00:05:27,839 --> 00:05:31,819
+<font color="#CCCCCC">Kista Crone problem and it's been around</font>
+
+119
+00:05:29,910 --> 00:05:34,200
+<font color="#E5E5E5">for a while</font>
+
+120
+00:05:31,819 --> 00:05:36,870
+Galileo thought<font color="#E5E5E5"> the answer was a path</font>
+
+121
+00:05:34,199 --> 00:05:39,019
+that's just a piece<font color="#CCCCCC"> of a circle but he</font>
+
+122
+00:05:36,870 --> 00:05:41,879
+was wrong<font color="#CCCCCC"> there's a better one</font><font color="#E5E5E5"> and in</font>
+
+123
+00:05:39,019 --> 00:05:44,519
+1697<font color="#E5E5E5"> Johann Bernoulli came up with the</font>
+
+124
+00:05:41,879 --> 00:05:46,408
+<font color="#CCCCCC">answer using</font><font color="#E5E5E5"> a very clever</font><font color="#CCCCCC"> approach to</font>
+
+125
+00:05:44,519 --> 00:05:46,968
+see how he solved it let's start with a
+
+126
+00:05:46,408 --> 00:05:49,668
+similar
+
+127
+00:05:46,968 --> 00:05:52,308
+problem<font color="#E5E5E5"> you are standing in some mud and</font>
+
+128
+00:05:49,668 --> 00:05:55,399
+<font color="#CCCCCC">you want to run</font><font color="#E5E5E5"> to a ball in the street</font>
+
+129
+00:05:52,309 --> 00:05:57,349
+<font color="#E5E5E5">as quickly as possible</font><font color="#CCCCCC"> now a straight</font>
+
+130
+00:05:55,399 --> 00:06:00,439
+line<font color="#E5E5E5"> would</font><font color="#CCCCCC"> be</font><font color="#E5E5E5"> the path of shortest</font>
+
+131
+00:05:57,348 --> 00:06:02,868
+distance but if you can run on pavement
+
+132
+00:06:00,439 --> 00:06:05,479
+much<font color="#E5E5E5"> faster than you can run in mud the</font>
+
+133
+00:06:02,869 --> 00:06:07,279
+path of shortest time would be one in
+
+134
+00:06:05,478 --> 00:06:09,048
+which<font color="#E5E5E5"> you spend less time moving slowly</font>
+
+135
+00:06:07,278 --> 00:06:15,228
+and<font color="#E5E5E5"> mud and more time on the surface</font>
+
+136
+00:06:09,048 --> 00:06:17,269
+here fast on the angle<font color="#E5E5E5"> you should enter</font>
+
+137
+00:06:15,228 --> 00:06:20,238
+<font color="#E5E5E5">the pavement at depends on how fast you</font>
+
+138
+00:06:17,269 --> 00:06:22,879
+<font color="#E5E5E5">lose on both surfaces as it turns out</font>
+
+139
+00:06:20,238 --> 00:06:25,278
+when<font color="#CCCCCC"> the ratio</font><font color="#E5E5E5"> between the signs of</font>
+
+140
+00:06:22,879 --> 00:06:28,069
+these<font color="#E5E5E5"> two angles</font><font color="#CCCCCC"> equals</font><font color="#E5E5E5"> the ratio</font>
+
+141
+00:06:25,278 --> 00:06:30,918
+<font color="#E5E5E5">between your speeds across both surfaces</font>
+
+142
+00:06:28,069 --> 00:06:34,189
+the resulting path will be<font color="#E5E5E5"> the optimal</font>
+
+143
+00:06:30,918 --> 00:06:40,758
+quickest route<font color="#E5E5E5"> this is called Snell's</font>
+
+144
+00:06:34,189 --> 00:06:43,729
+law<font color="#E5E5E5"> light always</font><font color="#CCCCCC"> obeys AML's</font><font color="#E5E5E5"> law when it</font>
+
+145
+00:06:40,759 --> 00:06:45,139
+<font color="#CCCCCC">changes speed like when it leaves a</font>
+
+146
+00:06:43,728 --> 00:06:47,478
+material in<font color="#CCCCCC"> which it moves</font><font color="#E5E5E5"> more slowly</font>
+
+147
+00:06:45,139 --> 00:06:49,908
+<font color="#CCCCCC">like water and enters one in which it</font>
+
+148
+00:06:47,478 --> 00:06:54,050
+moves<font color="#E5E5E5"> more quickly</font><font color="#CCCCCC"> like air</font><font color="#E5E5E5"> it always</font>
+
+149
+00:06:49,908 --> 00:06:55,759
+refract<font color="#E5E5E5"> according to Snell's law in</font>
+
+150
+00:06:54,050 --> 00:06:58,749
+other words light always<font color="#E5E5E5"> follows the</font>
+
+151
+00:06:55,759 --> 00:07:01,369
+<font color="#E5E5E5">route that is the fastest for it to take</font>
+
+152
+00:06:58,749 --> 00:07:03,079
+<font color="#E5E5E5">Bernoulli used this fact to tackle the</font>
+
+153
+00:07:01,369 --> 00:07:05,029
+<font color="#CCCCCC">brick eve de</font><font color="#E5E5E5"> Crone problem light</font>
+
+154
+00:07:03,079 --> 00:07:07,610
+changing in speed is analogous<font color="#E5E5E5"> to</font><font color="#CCCCCC"> a</font>
+
+155
+00:07:05,028 --> 00:07:09,110
+falling object<font color="#E5E5E5"> changing speed but of</font>
+
+156
+00:07:07,610 --> 00:07:11,360
+course a falling<font color="#E5E5E5"> object doesn't just</font>
+
+157
+00:07:09,110 --> 00:07:13,579
+speed up once<font color="#E5E5E5"> its speed is</font><font color="#CCCCCC"> always</font>
+
+158
+00:07:11,360 --> 00:07:15,649
+increasing<font color="#E5E5E5"> its accelerating to mimic</font>
+
+159
+00:07:13,579 --> 00:07:17,418
+this<font color="#E5E5E5"> using light which Bernoulli knew</font>
+
+160
+00:07:15,649 --> 00:07:19,939
+would always show him the fastest
+
+161
+00:07:17,418 --> 00:07:22,008
+possible route<font color="#E5E5E5"> all he had to do was add</font>
+
+162
+00:07:19,939 --> 00:07:23,749
+more and more thinner and thinner layers
+
+163
+00:07:22,009 --> 00:07:27,559
+in which the speed of light was faster
+
+164
+00:07:23,749 --> 00:07:30,588
+<font color="#CCCCCC">and faster and</font><font color="#E5E5E5"> faster</font><font color="#CCCCCC"> and well what do</font>
+
+165
+00:07:27,559 --> 00:07:35,329
+you know<font color="#E5E5E5"> there it is the brick</font><font color="#CCCCCC"> East a</font>
+
+166
+00:07:30,588 --> 00:07:37,610
+chrome<font color="#E5E5E5"> curve the path of least time roll</font>
+
+167
+00:07:35,329 --> 00:07:40,098
+down a track like<font color="#CCCCCC"> this and you will beat</font>
+
+168
+00:07:37,610 --> 00:07:43,129
+anything<font color="#E5E5E5"> rolling down any</font><font color="#CCCCCC"> other paths</font>
+
+169
+00:07:40,098 --> 00:07:44,688
+<font color="#E5E5E5">every time Bernoulli was clever enough</font>
+
+170
+00:07:43,129 --> 00:07:46,699
+to<font color="#E5E5E5"> realize</font><font color="#CCCCCC"> that this curve can be</font>
+
+171
+00:07:44,689 --> 00:07:49,419
+described in<font color="#E5E5E5"> another way</font><font color="#CCCCCC"> as a roulette</font>
+
+172
+00:07:46,699 --> 00:07:52,610
+<font color="#E5E5E5">specifically he noticed that it was a</font>
+
+173
+00:07:49,418 --> 00:07:55,758
+cycloid<font color="#E5E5E5"> the path traced by a point on a</font>
+
+174
+00:07:52,610 --> 00:07:59,500
+circle<font color="#E5E5E5"> rolling along a line a cycloid</font>
+
+175
+00:07:55,759 --> 00:08:02,080
+satisfies Snell's law<font color="#CCCCCC"> everywhere</font>
+
+176
+00:07:59,500 --> 00:08:04,449
+to see why<font color="#E5E5E5"> I highly recommend watching</font>
+
+177
+00:08:02,079 --> 00:08:05,139
+<font color="#E5E5E5">this video on the bridge</font><font color="#CCCCCC"> Easter Crone</font>
+
+178
+00:08:04,449 --> 00:08:07,659
+problem
+
+179
+00:08:05,139 --> 00:08:09,399
+this channel is fantastic by the way<font color="#CCCCCC"> I'm</font>
+
+180
+00:08:07,660 --> 00:08:13,540
+a huge<font color="#E5E5E5"> fan the visuals and explanation</font>
+
+181
+00:08:09,399 --> 00:08:15,669
+<font color="#E5E5E5">are top-notch</font><font color="#CCCCCC"> anyway</font><font color="#E5E5E5"> a cycloid provides</font>
+
+182
+00:08:13,540 --> 00:08:18,129
+the perfect<font color="#CCCCCC"> balance between</font><font color="#E5E5E5"> keeping the</font>
+
+183
+00:08:15,670 --> 00:08:20,920
+journey distance<font color="#E5E5E5"> short and picking up</font>
+
+184
+00:08:18,129 --> 00:08:23,379
+speed<font color="#CCCCCC"> early now I told Adam</font><font color="#E5E5E5"> all of this</font>
+
+185
+00:08:20,920 --> 00:08:25,540
+and I told him that it would be<font color="#E5E5E5"> really</font>
+
+186
+00:08:23,379 --> 00:08:29,350
+fun<font color="#CCCCCC"> to have</font><font color="#E5E5E5"> a cycloid curve we could</font>
+
+187
+00:08:25,540 --> 00:08:30,670
+roll things down and he said clearly<font color="#E5E5E5"> we</font>
+
+188
+00:08:29,350 --> 00:08:32,168
+<font color="#CCCCCC">should start building</font><font color="#E5E5E5"> would you just</font>
+
+189
+00:08:30,670 --> 00:08:34,538
+start<font color="#CCCCCC"> building it what we need is a</font>
+
+190
+00:08:32,168 --> 00:08:37,090
+circle<font color="#E5E5E5"> okay that's a height that we</font><font color="#CCCCCC"> want</font>
+
+191
+00:08:34,538 --> 00:08:40,330
+and then we're going<font color="#CCCCCC"> to</font><font color="#E5E5E5"> use</font><font color="#CCCCCC"> that circle</font>
+
+192
+00:08:37,090 --> 00:08:43,418
+to<font color="#E5E5E5"> trace a mount cycloid curve</font><font color="#CCCCCC"> I want to</font>
+
+193
+00:08:40,330 --> 00:08:45,460
+do a race<font color="#E5E5E5"> right so here look if we're</font>
+
+194
+00:08:43,418 --> 00:08:48,279
+<font color="#E5E5E5">going</font><font color="#CCCCCC"> to do like if you have point a</font>
+
+195
+00:08:45,460 --> 00:08:50,560
+here and<font color="#E5E5E5"> point B here and you say that</font>
+
+196
+00:08:48,279 --> 00:08:52,269
+there's some kind<font color="#E5E5E5"> of curve that's better</font>
+
+197
+00:08:50,559 --> 00:08:54,459
+than a straight line in<font color="#E5E5E5"> terms of</font>
+
+198
+00:08:52,269 --> 00:08:57,309
+something traveling<font color="#CCCCCC"> between those two</font>
+
+199
+00:08:54,460 --> 00:09:00,460
+then<font color="#E5E5E5"> I want to also make a straight</font><font color="#CCCCCC"> line</font>
+
+200
+00:08:57,309 --> 00:09:04,899
+<font color="#E5E5E5">from A to B</font><font color="#CCCCCC"> yeah and maybe also a really</font>
+
+201
+00:09:00,460 --> 00:09:12,910
+extreme curve like<font color="#E5E5E5"> that right okay</font>
+
+202
+00:09:04,899 --> 00:09:16,088
+got some protractors there I<font color="#CCCCCC"> can't give</font>
+
+203
+00:09:12,909 --> 00:09:19,588
+a compass<font color="#CCCCCC"> again I do</font><font color="#E5E5E5"> I have all sorts</font><font color="#CCCCCC"> of</font>
+
+204
+00:09:16,089 --> 00:09:22,950
+I've never<font color="#E5E5E5"> seen such</font><font color="#CCCCCC"> things that</font><font color="#E5E5E5"> area</font>
+
+205
+00:09:19,589 --> 00:09:25,980
+that connects to<font color="#CCCCCC"> that and that connects</font>
+
+206
+00:09:22,950 --> 00:09:25,980
+to that
+
+207
+00:09:32,549 --> 00:09:40,719
+give or<font color="#E5E5E5"> take</font><font color="#CCCCCC"> I almost am I feel guilty</font>
+
+208
+00:09:38,620 --> 00:09:42,669
+<font color="#CCCCCC">that this is like a dream of mine coming</font>
+
+209
+00:09:40,720 --> 00:09:45,700
+<font color="#CCCCCC">true oh really but</font><font color="#E5E5E5"> it's such a nerdy</font>
+
+210
+00:09:42,669 --> 00:09:47,889
+dream<font color="#CCCCCC"> - it's not like I want this you</font>
+
+211
+00:09:45,700 --> 00:09:50,290
+know<font color="#E5E5E5"> Red Ryder BB gun it's like I just</font>
+
+212
+00:09:47,889 --> 00:09:52,779
+<font color="#CCCCCC">want to curve that thing's roll down</font>
+
+213
+00:09:50,289 --> 00:09:54,579
+okay so then clearly<font color="#E5E5E5"> when we're done</font>
+
+214
+00:09:52,779 --> 00:10:01,509
+with this this<font color="#CCCCCC"> is this</font><font color="#E5E5E5"> is like Christmas</font>
+
+215
+00:09:54,580 --> 00:10:03,340
+<font color="#E5E5E5">recipe</font><font color="#CCCCCC"> this I think I'm currently like</font>
+
+216
+00:10:01,509 --> 00:10:06,819
+working out a<font color="#E5E5E5"> way to do this in my</font><font color="#CCCCCC"> head</font>
+
+217
+00:10:03,340 --> 00:10:11,070
+<font color="#E5E5E5">that actually makes it fairly compact</font>
+
+218
+00:10:06,820 --> 00:10:14,379
+<font color="#E5E5E5">and</font><font color="#CCCCCC"> not super</font><font color="#E5E5E5"> not super complicated yeah</font>
+
+219
+00:10:11,070 --> 00:10:25,570
+<font color="#CCCCCC">take a blade and cut out like an inch</font>
+
+220
+00:10:14,379 --> 00:10:28,480
+<font color="#CCCCCC">around</font><font color="#E5E5E5"> the whole</font><font color="#CCCCCC"> thing how are you going</font>
+
+221
+00:10:25,570 --> 00:10:30,250
+<font color="#E5E5E5">to give the finishing I'm going to cut</font>
+
+222
+00:10:28,480 --> 00:10:33,990
+this how much<font color="#E5E5E5"> you</font><font color="#CCCCCC"> would like</font><font color="#E5E5E5"> to on the</font>
+
+223
+00:10:30,250 --> 00:10:33,990
+band<font color="#E5E5E5"> you can start okay here we go</font>
+
+224
+00:10:34,799 --> 00:10:50,578
+[Music]
+
+225
+00:10:46,679 --> 00:10:51,868
+<font color="#E5E5E5">okay now that's a little</font><font color="#CCCCCC"> bit</font><font color="#E5E5E5"> rough so</font>
+
+226
+00:10:50,578 --> 00:10:55,039
+we're going to<font color="#E5E5E5"> finish it on my disc</font>
+
+227
+00:10:51,869 --> 00:10:55,040
+sander<font color="#CCCCCC"> oh wow</font>
+
+228
+00:11:02,159 --> 00:11:07,449
+that's close enough it's<font color="#CCCCCC"> pretty good</font>
+
+229
+00:11:04,120 --> 00:11:10,899
+yeah<font color="#CCCCCC"> so now you want to use this to draw</font>
+
+230
+00:11:07,450 --> 00:11:12,790
+us like a cycloid yeah so you'll need a
+
+231
+00:11:10,899 --> 00:11:15,789
+<font color="#E5E5E5">little hole that's what yeah so that the</font>
+
+232
+00:11:12,789 --> 00:11:17,980
+point of our drawing implement is on the
+
+233
+00:11:15,789 --> 00:11:23,980
+rim not above it<font color="#E5E5E5"> I'm doing this right</font>
+
+234
+00:11:17,980 --> 00:11:26,320
+inside let's set<font color="#E5E5E5"> up</font><font color="#CCCCCC"> I don't think</font><font color="#E5E5E5"> so</font>
+
+235
+00:11:23,980 --> 00:11:28,930
+you<font color="#E5E5E5"> know yeah I'm sorry</font><font color="#CCCCCC"> yeah</font><font color="#E5E5E5"> that's even</font>
+
+236
+00:11:26,320 --> 00:11:32,769
+<font color="#CCCCCC">better</font><font color="#E5E5E5"> than having the rim</font><font color="#CCCCCC"> hole</font><font color="#E5E5E5"> because</font>
+
+237
+00:11:28,929 --> 00:11:35,109
+we want the line to be<font color="#E5E5E5"> right on the edge</font>
+
+238
+00:11:32,769 --> 00:11:36,549
+<font color="#E5E5E5">okay</font><font color="#CCCCCC"> so what we're going</font><font color="#E5E5E5"> to do is we're</font>
+
+239
+00:11:35,110 --> 00:11:39,220
+going<font color="#CCCCCC"> to create</font><font color="#E5E5E5"> a pattern for the</font>
+
+240
+00:11:36,549 --> 00:11:43,750
+cycloid curve<font color="#E5E5E5"> that</font><font color="#CCCCCC"> I'm then</font><font color="#E5E5E5"> going to</font>
+
+241
+00:11:39,220 --> 00:11:45,370
+transfer<font color="#CCCCCC"> to acrylic to clear acrylic</font>
+
+242
+00:11:43,750 --> 00:11:48,419
+<font color="#CCCCCC">rather white allow us</font><font color="#E5E5E5"> to see things</font>
+
+243
+00:11:45,370 --> 00:11:48,419
+<font color="#CCCCCC">really clearly</font><font color="#E5E5E5"> yeah</font>
+
+244
+00:11:53,070 --> 00:11:59,440
+this allows you<font color="#CCCCCC"> right</font><font color="#E5E5E5"> roller spike for</font>
+
+245
+00:11:56,860 --> 00:12:02,320
+representing<font color="#E5E5E5"> it is literally</font><font color="#CCCCCC"> like that</font>
+
+246
+00:11:59,440 --> 00:12:07,630
+<font color="#E5E5E5">right oh yeah it's perfect yeah pushed</font>
+
+247
+00:12:02,320 --> 00:12:10,950
+against here I shouldn't slip like a
+
+248
+00:12:07,629 --> 00:12:14,789
+Ouija board for geometry nerd
+
+249
+00:12:10,950 --> 00:12:18,820
+it is a Ouija board for geometry nerds
+
+250
+00:12:14,789 --> 00:12:22,000
+<font color="#E5E5E5">okay there we go</font><font color="#CCCCCC"> that is</font><font color="#E5E5E5"> so about</font><font color="#CCCCCC"> Rakesh</font>
+
+251
+00:12:18,820 --> 00:12:23,770
+the<font color="#CCCCCC"> Krone</font><font color="#E5E5E5"> that's that's at the curve</font>
+
+252
+00:12:22,000 --> 00:12:26,200
+<font color="#E5E5E5">that we're talking</font><font color="#CCCCCC"> about</font><font color="#E5E5E5"> yeah that's the</font>
+
+253
+00:12:23,769 --> 00:12:31,539
+<font color="#E5E5E5">beginning that's the end and this is our</font>
+
+254
+00:12:26,200 --> 00:12:39,730
+pattern<font color="#E5E5E5"> yeah</font><font color="#CCCCCC"> Michael that's</font><font color="#E5E5E5"> cool</font>
+
+255
+00:12:31,539 --> 00:12:45,159
+okay<font color="#CCCCCC"> so I'm going to end up with with a</font>
+
+256
+00:12:39,730 --> 00:12:46,778
+piece<font color="#E5E5E5"> of plywood let's say 3/4 of an</font>
+
+257
+00:12:45,159 --> 00:12:50,919
+inch thick<font color="#E5E5E5"> but it's going to have</font>
+
+258
+00:12:46,778 --> 00:12:53,078
+channels<font color="#E5E5E5"> table saw out of it</font><font color="#CCCCCC"> reduce the</font>
+
+259
+00:12:50,919 --> 00:12:56,019
+<font color="#E5E5E5">travel</font><font color="#CCCCCC"> of slang and in those</font><font color="#E5E5E5"> channels</font>
+
+260
+00:12:53,078 --> 00:13:00,129
+will fit my clear acrylic acrylic curves
+
+261
+00:12:56,019 --> 00:13:02,919
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> it'll also have an upright that also</font>
+
+262
+00:13:00,129 --> 00:13:05,379
+<font color="#E5E5E5">will have</font><font color="#CCCCCC"> the channels milled out of it</font>
+
+263
+00:13:02,919 --> 00:13:07,899
+on<font color="#E5E5E5"> the table saw</font><font color="#CCCCCC"> and that</font><font color="#E5E5E5"> will allow the</font>
+
+264
+00:13:05,379 --> 00:13:10,059
+curve to<font color="#E5E5E5"> fit and be supported yeah a</font>
+
+265
+00:13:07,899 --> 00:13:12,129
+little<font color="#CCCCCC"> backstop here</font><font color="#E5E5E5"> usually</font><font color="#CCCCCC"> at the</font>
+
+266
+00:13:10,059 --> 00:13:13,029
+bottom metal allows<font color="#CCCCCC"> us to hear that they</font>
+
+267
+00:13:12,129 --> 00:13:15,340
+all<font color="#E5E5E5"> hit the same</font>
+
+268
+00:13:13,029 --> 00:13:20,019
+there's a couple things going<font color="#E5E5E5"> on one is</font>
+
+269
+00:13:15,340 --> 00:13:23,889
+<font color="#CCCCCC">that we've got a cycloid</font><font color="#E5E5E5"> straight line</font>
+
+270
+00:13:20,019 --> 00:13:27,039
+<font color="#E5E5E5">and then we've got extreme curve right</font>
+
+271
+00:13:23,889 --> 00:13:29,289
+and are these<font color="#CCCCCC"> you had mentioned bending</font>
+
+272
+00:13:27,039 --> 00:13:31,779
+the acrylic so we could adjust<font color="#CCCCCC"> the</font><font color="#E5E5E5"> known</font>
+
+273
+00:13:29,289 --> 00:13:34,209
+actually<font color="#CCCCCC"> I have this</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> real like this</font>
+
+274
+00:13:31,779 --> 00:13:37,439
+<font color="#E5E5E5">everything</font><font color="#CCCCCC"> krill</font><font color="#E5E5E5"> ik will just be a sin</font>
+
+275
+00:13:34,210 --> 00:13:41,019
+of acrylic<font color="#E5E5E5"> this is the thin sheet</font><font color="#CCCCCC"> of it</font>
+
+276
+00:13:37,440 --> 00:13:46,120
+traveling<font color="#E5E5E5"> on that will be and I have</font>
+
+277
+00:13:41,019 --> 00:13:49,899
+material for<font color="#CCCCCC"> this some Delrin or acetyl</font>
+
+278
+00:13:46,120 --> 00:13:52,450
+rollers<font color="#E5E5E5"> that look like this so from the</font>
+
+279
+00:13:49,899 --> 00:13:56,439
+side<font color="#E5E5E5"> they'll look like this</font><font color="#CCCCCC"> they'll look</font>
+
+280
+00:13:52,450 --> 00:13:58,990
+like<font color="#E5E5E5"> an H uh-huh in which the acrylic</font>
+
+281
+00:13:56,440 --> 00:14:01,180
+sits in there<font color="#CCCCCC"> and the roller is</font>
+
+282
+00:13:58,990 --> 00:14:03,509
+self-supporting on the acrylic<font color="#E5E5E5"> but rolls</font>
+
+283
+00:14:01,179 --> 00:14:03,509
+down
+
+284
+00:14:07,360 --> 00:14:16,619
+ah<font color="#CCCCCC"> that it's tolerance love it</font>
+
+285
+00:14:20,159 --> 00:14:24,990
+I<font color="#E5E5E5"> like those curves while Adam and</font><font color="#CCCCCC"> I</font>
+
+286
+00:14:22,620 --> 00:14:27,269
+build a real-life spy<font color="#CCCCCC"> coy track</font><font color="#E5E5E5"> let's</font>
+
+287
+00:14:24,990 --> 00:14:28,230
+take<font color="#E5E5E5"> some</font><font color="#CCCCCC"> time</font><font color="#E5E5E5"> to appreciate</font><font color="#CCCCCC"> other kinds</font>
+
+288
+00:14:27,269 --> 00:14:32,399
+of roulette
+
+289
+00:14:28,230 --> 00:14:35,279
+as mentioned before trochoidal anon
+
+290
+00:14:32,399 --> 00:14:37,500
+straight lines<font color="#E5E5E5"> but an epic row</font><font color="#CCCCCC"> Koide is</font>
+
+291
+00:14:35,279 --> 00:14:40,620
+made when a<font color="#CCCCCC"> disc</font><font color="#E5E5E5"> rolls around the</font>
+
+292
+00:14:37,500 --> 00:14:42,870
+outside of<font color="#CCCCCC"> a circle roll a disk inside a</font>
+
+293
+00:14:40,620 --> 00:14:46,710
+<font color="#E5E5E5">circle and what you've made is a hypo</font>
+
+294
+00:14:42,870 --> 00:14:48,899
+trochoidal names for the curves<font color="#E5E5E5"> you make</font>
+
+295
+00:14:46,710 --> 00:14:51,780
+when using a spirograph<font color="#E5E5E5"> toy</font>
+
+296
+00:14:48,899 --> 00:14:54,360
+notice that the holes don't<font color="#E5E5E5"> lie on the</font>
+
+297
+00:14:51,779 --> 00:14:56,879
+circumference of the disks<font color="#E5E5E5"> though some</font>
+
+298
+00:14:54,360 --> 00:14:59,940
+do come close<font color="#E5E5E5"> there's a special name</font><font color="#CCCCCC"> for</font>
+
+299
+00:14:56,879 --> 00:15:02,429
+epic<font color="#CCCCCC"> Rockwoods and hypo trochoidal I</font>
+
+300
+00:14:59,940 --> 00:15:04,830
+went on circumference<font color="#E5E5E5"> --is analogous to</font>
+
+301
+00:15:02,429 --> 00:15:08,879
+disks<font color="#E5E5E5"> rolling on straight</font><font color="#CCCCCC"> lines they are</font>
+
+302
+00:15:04,830 --> 00:15:11,160
+<font color="#CCCCCC">at</font><font color="#E5E5E5"> both cycloids</font><font color="#CCCCCC"> and hypo cycloids</font><font color="#E5E5E5"> now</font>
+
+303
+00:15:08,879 --> 00:15:13,710
+if two circles have the same radius<font color="#CCCCCC"> a</font>
+
+304
+00:15:11,159 --> 00:15:16,589
+point<font color="#E5E5E5"> on the rolling one will touch the</font>
+
+305
+00:15:13,710 --> 00:15:17,280
+stationary<font color="#E5E5E5"> one exactly</font><font color="#CCCCCC"> once</font><font color="#E5E5E5"> always in</font>
+
+306
+00:15:16,590 --> 00:15:20,700
+<font color="#E5E5E5">the same spot</font>
+
+307
+00:15:17,279 --> 00:15:24,179
+creating a cut this cute<font color="#E5E5E5"> heart-shaped</font>
+
+308
+00:15:20,700 --> 00:15:27,570
+epicycle is also known as<font color="#CCCCCC"> a cardioid if</font>
+
+309
+00:15:24,179 --> 00:15:30,449
+the rolling circle<font color="#CCCCCC"> has</font><font color="#E5E5E5"> half the</font><font color="#CCCCCC"> largers</font>
+
+310
+00:15:27,570 --> 00:15:32,430
+<font color="#E5E5E5">radius you'll get a two cusp of a</font>
+
+311
+00:15:30,450 --> 00:15:35,759
+cycloid<font color="#CCCCCC"> the shape of</font><font color="#E5E5E5"> which is called a</font>
+
+312
+00:15:32,429 --> 00:15:36,750
+<font color="#E5E5E5">network because it</font><font color="#CCCCCC"> apparently looks like</font>
+
+313
+00:15:35,759 --> 00:15:39,419
+a kidney
+
+314
+00:15:36,750 --> 00:15:42,779
+I guess<font color="#CCCCCC"> one-third the</font><font color="#E5E5E5"> radius gives you</font>
+
+315
+00:15:39,419 --> 00:15:46,199
+three cusps<font color="#CCCCCC"> one</font><font color="#E5E5E5"> fourth four cusps</font><font color="#CCCCCC"> and so</font>
+
+316
+00:15:42,779 --> 00:15:48,569
+on as for hypo cycloids<font color="#CCCCCC"> if the inner</font>
+
+317
+00:15:46,200 --> 00:15:50,910
+circles radius<font color="#E5E5E5"> is</font><font color="#CCCCCC"> one-quarter of the</font>
+
+318
+00:15:48,570 --> 00:15:53,670
+larger the resulting<font color="#CCCCCC"> roulette curve is</font>
+
+319
+00:15:50,909 --> 00:15:56,279
+<font color="#E5E5E5">called an asteroid because it looks like</font>
+
+320
+00:15:53,669 --> 00:15:59,309
+a star which the ancients<font color="#E5E5E5"> also</font><font color="#CCCCCC"> thought</font>
+
+321
+00:15:56,279 --> 00:16:01,559
+<font color="#CCCCCC">about asteroids one-third the radius and</font>
+
+322
+00:15:59,309 --> 00:16:03,769
+you've got a deltoid named after its
+
+323
+00:16:01,559 --> 00:16:07,679
+resemblance to<font color="#CCCCCC"> the street letter Delta</font>
+
+324
+00:16:03,769 --> 00:16:08,519
+<font color="#E5E5E5">1/2 the radius and well you get a</font>
+
+325
+00:16:07,679 --> 00:16:10,949
+straight<font color="#E5E5E5"> line</font>
+
+326
+00:16:08,519 --> 00:16:13,620
+this fun relationship<font color="#CCCCCC"> is called</font><font color="#E5E5E5"> a</font>
+
+327
+00:16:10,950 --> 00:16:16,740
+<font color="#CCCCCC">two-seat coupled rotational motion</font>
+
+328
+00:16:13,620 --> 00:16:18,389
+turned into linear motion<font color="#E5E5E5"> follow a</font>
+
+329
+00:16:16,740 --> 00:16:20,220
+number<font color="#CCCCCC"> of</font><font color="#E5E5E5"> points on the rolling circle</font>
+
+330
+00:16:18,389 --> 00:16:22,529
+<font color="#E5E5E5">and you'll get the famous illusion where</font>
+
+331
+00:16:20,220 --> 00:16:24,420
+every individual point moves in a
+
+332
+00:16:22,529 --> 00:16:27,059
+straight<font color="#CCCCCC"> line</font><font color="#E5E5E5"> but the</font><font color="#CCCCCC"> whole thing</font>
+
+333
+00:16:24,419 --> 00:16:28,979
+describes<font color="#E5E5E5"> a rolling circle put a handle</font>
+
+334
+00:16:27,059 --> 00:16:31,219
+on<font color="#E5E5E5"> it</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> you've built a trammel of</font>
+
+335
+00:16:28,980 --> 00:16:33,080
+Archimedes<font color="#E5E5E5"> aka</font>
+
+336
+00:16:31,220 --> 00:16:36,740
+<font color="#E5E5E5">an ellipse a graph when used to make</font>
+
+337
+00:16:33,080 --> 00:16:38,950
+ellipses<font color="#E5E5E5"> aka a hillbilly entertainment</font>
+
+338
+00:16:36,740 --> 00:16:41,330
+center when bought in<font color="#E5E5E5"> Osceola Missouri</font>
+
+339
+00:16:38,950 --> 00:16:44,180
+<font color="#E5E5E5">anyway let's get back to Adam</font><font color="#CCCCCC"> a nice</font>
+
+340
+00:16:41,330 --> 00:16:48,520
+<font color="#E5E5E5">curve comparison build I have a finish</font>
+
+341
+00:16:44,179 --> 00:16:48,519
+line Oh beautiful
+
+342
+00:16:48,940 --> 00:16:54,580
+<font color="#E5E5E5">okay okay there's your finish line you</font>
+
+343
+00:16:52,909 --> 00:16:56,719
+ready I'm ready
+
+344
+00:16:54,580 --> 00:17:04,000
+<font color="#E5E5E5">all right I'll count us down three two</font>
+
+345
+00:16:56,720 --> 00:17:06,350
+<font color="#E5E5E5">one go</font><font color="#CCCCCC"> okay here</font><font color="#E5E5E5"> we go 3 2</font><font color="#CCCCCC"> 1</font><font color="#E5E5E5"> go 1 2 3</font>
+
+346
+00:17:04,000 --> 00:17:08,660
+<font color="#E5E5E5">with the the strength was second</font>
+
+347
+00:17:06,349 --> 00:17:10,099
+straight was last great was last<font color="#E5E5E5"> the</font>
+
+348
+00:17:08,660 --> 00:17:12,529
+shortest<font color="#CCCCCC"> distance between two points</font>
+
+349
+00:17:10,099 --> 00:17:15,438
+<font color="#CCCCCC">what a blast</font><font color="#E5E5E5"> and slowest way to get</font>
+
+350
+00:17:12,529 --> 00:17:16,068
+there<font color="#E5E5E5"> yeah it certainly was</font><font color="#CCCCCC"> let's try it</font>
+
+351
+00:17:15,439 --> 00:17:20,810
+one more<font color="#CCCCCC"> time</font>
+
+352
+00:17:16,068 --> 00:17:23,149
+yep<font color="#E5E5E5"> because</font><font color="#CCCCCC"> it was super</font><font color="#E5E5E5"> close the brick</font>
+
+353
+00:17:20,809 --> 00:17:25,519
+<font color="#CCCCCC">East a</font><font color="#E5E5E5"> Crone curve was by far the winner</font>
+
+354
+00:17:23,150 --> 00:17:29,600
+<font color="#E5E5E5">yeah what a mouthful of a name by the</font>
+
+355
+00:17:25,519 --> 00:17:31,940
+way<font color="#E5E5E5"> Britt Britt Easterbrook</font><font color="#CCCCCC"> teesta Crum</font>
+
+356
+00:17:29,599 --> 00:17:35,480
+but keeps<font color="#CCCCCC"> Brook east across not</font><font color="#E5E5E5"> related</font>
+
+357
+00:17:31,940 --> 00:17:37,220
+<font color="#CCCCCC">to the Brachiosaurus different everyone</font>
+
+358
+00:17:35,480 --> 00:17:40,490
+that's I once looked up the difference
+
+359
+00:17:37,220 --> 00:17:44,170
+between<font color="#E5E5E5"> ingenious and ingenuity and they</font>
+
+360
+00:17:40,490 --> 00:17:44,170
+don't have<font color="#E5E5E5"> been they're not related</font><font color="#CCCCCC"> no</font>
+
+361
+00:17:44,230 --> 00:17:51,799
+all<font color="#E5E5E5"> right all</font><font color="#CCCCCC"> right</font><font color="#E5E5E5"> I'm ready</font>
+
+362
+00:17:46,579 --> 00:17:53,509
+<font color="#CCCCCC">okay then three</font><font color="#E5E5E5"> two</font><font color="#CCCCCC"> one</font><font color="#E5E5E5"> go yeah</font><font color="#CCCCCC"> same</font>
+
+363
+00:17:51,799 --> 00:17:57,019
+results same result
+
+364
+00:17:53,509 --> 00:17:59,200
+<font color="#CCCCCC">one two these are so close it's hard to</font>
+
+365
+00:17:57,019 --> 00:17:59,200
+tell
+
+366
+00:17:59,859 --> 00:18:09,378
+[Music]
+
+367
+00:18:06,970 --> 00:18:10,759
+well we're answering the main question
+
+368
+00:18:09,378 --> 00:18:13,219
+which is<font color="#CCCCCC"> to save your keister</font><font color="#E5E5E5"> chrome</font>
+
+369
+00:18:10,759 --> 00:18:16,669
+curve is the fastest way to get there
+
+370
+00:18:13,220 --> 00:18:20,389
+<font color="#CCCCCC">well a brick</font><font color="#E5E5E5"> isa chrome curve is</font><font color="#CCCCCC"> also</font>
+
+371
+00:18:16,669 --> 00:18:22,879
+known<font color="#E5E5E5"> as a</font><font color="#CCCCCC"> tata chrome curve it has</font>
+
+372
+00:18:20,388 --> 00:18:26,329
+<font color="#E5E5E5">another property</font><font color="#CCCCCC"> that's that we should</font>
+
+373
+00:18:22,878 --> 00:18:29,178
+test which<font color="#E5E5E5"> and that is it's</font><font color="#CCCCCC"> not</font><font color="#E5E5E5"> even</font>
+
+374
+00:18:26,329 --> 00:18:31,308
+<font color="#E5E5E5">hold</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> before</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> get to this we've</font>
+
+375
+00:18:29,179 --> 00:18:34,788
+established<font color="#E5E5E5"> between these three curves</font>
+
+376
+00:18:31,308 --> 00:18:37,158
+that the cycloid made<font color="#CCCCCC"> brick easter</font>
+
+377
+00:18:34,788 --> 00:18:39,200
+chrome curve is by far<font color="#CCCCCC"> the fastest it's</font>
+
+378
+00:18:37,159 --> 00:18:41,389
+by far the fat<font color="#E5E5E5"> okay great you get steep</font>
+
+379
+00:18:39,200 --> 00:18:42,740
+and unfortunately you pick up a lot of
+
+380
+00:18:41,388 --> 00:18:45,769
+<font color="#E5E5E5">speed right away</font><font color="#CCCCCC"> but then you've got a</font>
+
+381
+00:18:42,740 --> 00:18:49,278
+lot<font color="#CCCCCC"> of this with little</font><font color="#E5E5E5"> television</font><font color="#CCCCCC"> yep</font>
+
+382
+00:18:45,769 --> 00:18:51,500
+you go<font color="#E5E5E5"> straight</font><font color="#CCCCCC"> down and you know funny</font>
+
+383
+00:18:49,278 --> 00:18:54,019
+enough<font color="#E5E5E5"> you what you want is that perfect</font>
+
+384
+00:18:51,500 --> 00:18:55,839
+balance<font color="#CCCCCC"> of gravities acceleration but</font>
+
+385
+00:18:54,019 --> 00:18:58,700
+also moving<font color="#CCCCCC"> to where you</font><font color="#E5E5E5"> need to be and</font>
+
+386
+00:18:55,839 --> 00:19:01,548
+<font color="#E5E5E5">that is asked that specially to me that</font>
+
+387
+00:18:58,700 --> 00:19:04,629
+a geometry<font color="#E5E5E5"> which</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> the cycloid curve</font>
+
+388
+00:19:01,548 --> 00:19:07,609
+would yield such an efficient
+
+389
+00:19:04,628 --> 00:19:10,339
+exploitation of<font color="#E5E5E5"> the forces involved yeah</font>
+
+390
+00:19:07,609 --> 00:19:12,829
+exactly<font color="#CCCCCC"> because if there was no</font>
+
+391
+00:19:10,339 --> 00:19:14,689
+acceleration if there was<font color="#CCCCCC"> just one force</font>
+
+392
+00:19:12,829 --> 00:19:16,878
+in the beginning<font color="#CCCCCC"> straight-line would</font>
+
+393
+00:19:14,690 --> 00:19:20,090
+probably be the fastest<font color="#E5E5E5"> right okay what</font>
+
+394
+00:19:16,878 --> 00:19:22,459
+is the other quality of the<font color="#E5E5E5"> Tata chrome</font>
+
+395
+00:19:20,089 --> 00:19:27,408
+curve<font color="#E5E5E5"> you just said it</font>
+
+396
+00:19:22,460 --> 00:19:31,970
+Tata chrome means same time so as the
+
+397
+00:19:27,409 --> 00:19:35,870
+geometry<font color="#E5E5E5"> and math tells us no matter</font>
+
+398
+00:19:31,970 --> 00:19:38,808
+where you start an object yeah<font color="#CCCCCC"> what's</font>
+
+399
+00:19:35,869 --> 00:19:42,018
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> clamp that was your fault City it</font>
+
+400
+00:19:38,808 --> 00:19:43,579
+was my fault<font color="#E5E5E5"> but also come on clamp go</font>
+
+401
+00:19:42,019 --> 00:19:45,019
+exactly<font color="#CCCCCC"> you know how to do these cables</font>
+
+402
+00:19:43,579 --> 00:19:47,298
+are<font color="#E5E5E5"> a pain in the ass because they have</font>
+
+403
+00:19:45,019 --> 00:19:48,980
+these<font color="#E5E5E5"> lips on them in</font><font color="#CCCCCC"> they</font><font color="#E5E5E5"> actually oh</font>
+
+404
+00:19:47,298 --> 00:19:51,609
+that's<font color="#CCCCCC"> looking and yeah they drive me</font>
+
+405
+00:19:48,980 --> 00:19:55,690
+much it's actually<font color="#CCCCCC"> my fault</font>
+
+406
+00:19:51,609 --> 00:19:57,740
+good I'm glad we got<font color="#E5E5E5"> that</font><font color="#CCCCCC"> result</font><font color="#E5E5E5"> okay so</font>
+
+407
+00:19:55,690 --> 00:19:59,960
+I'm going to remove<font color="#E5E5E5"> the straight line</font>
+
+408
+00:19:57,740 --> 00:20:03,378
+guy as well so we're left with a cycloid
+
+409
+00:19:59,960 --> 00:20:07,548
+<font color="#E5E5E5">which is called a Retief</font><font color="#CCCCCC"> to Krone curve</font>
+
+410
+00:20:03,378 --> 00:20:09,918
+<font color="#E5E5E5">but it also has a bizarre property where</font>
+
+411
+00:20:07,548 --> 00:20:13,460
+no matter where<font color="#E5E5E5"> I start an object on it</font>
+
+412
+00:20:09,919 --> 00:20:15,919
+when I let<font color="#CCCCCC"> go they always reach the</font>
+
+413
+00:20:13,460 --> 00:20:18,230
+bottom<font color="#E5E5E5"> right in the same amount of time</font>
+
+414
+00:20:15,919 --> 00:20:19,310
+<font color="#CCCCCC">wait a second</font><font color="#E5E5E5"> so if I</font><font color="#CCCCCC"> start it here the</font>
+
+415
+00:20:18,230 --> 00:20:21,710
+amount<font color="#E5E5E5"> of time it takes for the</font>
+
+416
+00:20:19,309 --> 00:20:23,000
+to get to the end is<font color="#E5E5E5"> the</font><font color="#CCCCCC"> same amount of</font>
+
+417
+00:20:21,710 --> 00:20:25,640
+time it takes for<font color="#E5E5E5"> it to get to</font><font color="#CCCCCC"> the end</font>
+
+418
+00:20:23,000 --> 00:20:33,440
+<font color="#E5E5E5">from here yeah</font><font color="#CCCCCC"> and the same from right</font>
+
+419
+00:20:25,640 --> 00:20:36,259
+here<font color="#E5E5E5"> well the extent Wow</font><font color="#CCCCCC"> okay</font><font color="#E5E5E5"> so</font>
+
+420
+00:20:33,440 --> 00:20:38,210
+starting from here<font color="#CCCCCC"> it's going</font><font color="#E5E5E5"> to be</font>
+
+421
+00:20:36,259 --> 00:20:40,460
+tough because<font color="#E5E5E5"> of friction yeah now if</font>
+
+422
+00:20:38,210 --> 00:20:43,279
+you do this in software<font color="#E5E5E5"> it's perfect but</font>
+
+423
+00:20:40,460 --> 00:20:46,730
+that's boring<font color="#E5E5E5"> yeah this is the real</font>
+
+424
+00:20:43,279 --> 00:20:50,180
+world<font color="#E5E5E5"> and maybe we won't start them that</font>
+
+425
+00:20:46,730 --> 00:20:52,009
+<font color="#E5E5E5">way</font><font color="#CCCCCC"> I mean if we do one two and three</font>
+
+426
+00:20:50,180 --> 00:20:53,660
+yeah<font color="#CCCCCC"> or we actually I feel</font><font color="#E5E5E5"> a good</font>
+
+427
+00:20:52,009 --> 00:20:57,170
+problem we could probably get one to
+
+428
+00:20:53,660 --> 00:20:59,750
+<font color="#E5E5E5">work from here like that there might be</font>
+
+429
+00:20:57,170 --> 00:21:01,400
+a lot of<font color="#CCCCCC"> friction involved</font><font color="#E5E5E5"> but look at</font>
+
+430
+00:20:59,750 --> 00:21:03,500
+<font color="#E5E5E5">always see we can always see we've got</font>
+
+431
+00:21:01,400 --> 00:21:05,660
+enough of<font color="#E5E5E5"> them that up here</font><font color="#CCCCCC"> I we made</font>
+
+432
+00:21:03,500 --> 00:21:08,480
+three curves<font color="#E5E5E5"> so to test this property</font>
+
+433
+00:21:05,660 --> 00:21:11,600
+<font color="#E5E5E5">and these were all cut and sanded plants</font>
+
+434
+00:21:08,480 --> 00:21:15,259
+<font color="#E5E5E5">together so they</font><font color="#CCCCCC"> are incredibly</font><font color="#E5E5E5"> soon I</font>
+
+435
+00:21:11,599 --> 00:21:17,299
+will have<font color="#E5E5E5"> to tamper the edge as I did on</font>
+
+436
+00:21:15,259 --> 00:21:23,059
+<font color="#E5E5E5">this one</font><font color="#CCCCCC"> yeah Pat I'm worried it was</font>
+
+437
+00:21:17,299 --> 00:21:27,649
+just right<font color="#E5E5E5"> and what's</font><font color="#CCCCCC"> remove it steel</font>
+
+438
+00:21:23,059 --> 00:21:29,779
+wool a<font color="#E5E5E5"> little</font><font color="#CCCCCC"> note fact</font><font color="#E5E5E5"> that once you've</font>
+
+439
+00:21:27,650 --> 00:21:31,040
+torn paper off<font color="#CCCCCC"> of</font><font color="#E5E5E5"> Plexiglas it crumples</font>
+
+440
+00:21:29,779 --> 00:21:37,369
+<font color="#E5E5E5">it's a really nice ball to be thrown</font>
+
+441
+00:21:31,039 --> 00:21:39,740
+long<font color="#E5E5E5"> distances</font><font color="#CCCCCC"> eh</font><font color="#E5E5E5"> how did</font><font color="#CCCCCC"> it get</font><font color="#E5E5E5"> this</font>
+
+442
+00:21:37,369 --> 00:21:41,839
+paper on the Plexiglas in the first
+
+443
+00:21:39,740 --> 00:21:44,269
+place<font color="#E5E5E5"> good question I've never seen it</font>
+
+444
+00:21:41,839 --> 00:21:48,740
+happen<font color="#E5E5E5"> because</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> doesn't really feel</font>
+
+445
+00:21:44,269 --> 00:21:51,410
+glued so they're good friends of Librium
+
+446
+00:21:48,740 --> 00:21:54,109
+gluons<font color="#CCCCCC"> right yeah I</font><font color="#E5E5E5"> think this is</font><font color="#CCCCCC"> really</font>
+
+447
+00:21:51,410 --> 00:21:56,509
+<font color="#CCCCCC">cool I hope it's cool because in theory</font>
+
+448
+00:21:54,109 --> 00:21:57,769
+and practice<font color="#CCCCCC"> theory in theory theory and</font>
+
+449
+00:21:56,509 --> 00:22:00,170
+<font color="#CCCCCC">practice</font><font color="#E5E5E5"> for the same thing but in</font>
+
+450
+00:21:57,769 --> 00:22:03,619
+practice<font color="#CCCCCC"> I went to the University of</font>
+
+451
+00:22:00,170 --> 00:22:05,360
+<font color="#CCCCCC">Chicago</font><font color="#E5E5E5"> where one of their changes that</font>
+
+452
+00:22:03,619 --> 00:22:07,159
+sounds good<font color="#E5E5E5"> in</font><font color="#CCCCCC"> practice</font><font color="#E5E5E5"> how is it in</font>
+
+453
+00:22:05,359 --> 00:22:10,309
+theory<font color="#E5E5E5"> ha ha ha ha</font>
+
+454
+00:22:07,160 --> 00:22:13,610
+life of<font color="#E5E5E5"> the mind there so let us see if</font>
+
+455
+00:22:10,309 --> 00:22:16,339
+you do if I do one up here and you do
+
+456
+00:22:13,609 --> 00:22:18,589
+one there and<font color="#CCCCCC"> ok yeah so this</font><font color="#E5E5E5"> has got to</font>
+
+457
+00:22:16,339 --> 00:22:21,289
+be<font color="#E5E5E5"> without this I think the same person</font>
+
+458
+00:22:18,589 --> 00:22:23,720
+should release them<font color="#E5E5E5"> because then ok I'm</font>
+
+459
+00:22:21,289 --> 00:22:28,609
+it better<font color="#CCCCCC"> so here put that one here ok</font>
+
+460
+00:22:23,720 --> 00:22:31,039
+all<font color="#CCCCCC"> right</font><font color="#E5E5E5"> so three different positions</font><font color="#CCCCCC"> 3</font>
+
+461
+00:22:28,609 --> 00:22:32,269
+this<font color="#E5E5E5"> one has longer to go yep this one</font>
+
+462
+00:22:31,039 --> 00:22:34,940
+<font color="#CCCCCC">has the shortest</font><font color="#E5E5E5"> path</font>
+
+463
+00:22:32,269 --> 00:22:38,000
+so who's gonna reach the<font color="#CCCCCC"> bottom first</font>
+
+464
+00:22:34,940 --> 00:22:40,220
+<font color="#E5E5E5">okay here we go let's see</font><font color="#CCCCCC"> we'll be</font><font color="#E5E5E5"> wish</font>
+
+465
+00:22:38,000 --> 00:22:44,690
+<font color="#CCCCCC">everyday</font><font color="#E5E5E5"> the one in</font><font color="#CCCCCC"> might this one</font><font color="#E5E5E5"> yeah</font>
+
+466
+00:22:40,220 --> 00:22:47,808
+go first<font color="#CCCCCC"> ready yeah good pretty</font><font color="#E5E5E5"> good</font>
+
+467
+00:22:44,690 --> 00:22:50,440
+<font color="#CCCCCC">that was</font><font color="#E5E5E5"> awesome</font><font color="#CCCCCC"> that was all I kept</font>
+
+468
+00:22:47,808 --> 00:22:54,410
+they lined right up<font color="#CCCCCC"> all right let's do</font>
+
+469
+00:22:50,440 --> 00:22:55,580
+let's switch<font color="#CCCCCC"> it up okay even I think</font>
+
+470
+00:22:54,410 --> 00:22:57,500
+<font color="#CCCCCC">you're gonna be</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> one to release</font><font color="#E5E5E5"> them</font>
+
+471
+00:22:55,579 --> 00:23:00,460
+yeah otherwise<font color="#E5E5E5"> it won't be the guitar we</font>
+
+472
+00:22:57,500 --> 00:23:04,579
+go<font color="#E5E5E5"> three two</font><font color="#CCCCCC"> one</font>
+
+473
+00:23:00,460 --> 00:23:06,340
+I'd be<font color="#CCCCCC"> Gotham</font><font color="#E5E5E5"> lining up yeah they line</font>
+
+474
+00:23:04,579 --> 00:23:08,750
+up like they're<font color="#E5E5E5"> waiting for each other</font>
+
+475
+00:23:06,339 --> 00:23:12,259
+<font color="#CCCCCC">I'm gonna stand further away</font><font color="#E5E5E5"> cuz I want</font>
+
+476
+00:23:08,750 --> 00:23:17,529
+to see the<font color="#E5E5E5"> full</font><font color="#CCCCCC"> path</font><font color="#E5E5E5"> okay ready yeah</font>
+
+477
+00:23:12,259 --> 00:23:20,359
+<font color="#E5E5E5">three two one</font><font color="#CCCCCC"> how cool is that</font><font color="#E5E5E5"> they</font>
+
+478
+00:23:17,529 --> 00:23:22,250
+totally line up to hit at about the same
+
+479
+00:23:20,359 --> 00:23:24,139
+<font color="#E5E5E5">periodicity they would for here so given</font>
+
+480
+00:23:22,250 --> 00:23:26,299
+the vagaries of some extra frictions
+
+481
+00:23:24,140 --> 00:23:29,990
+here and<font color="#E5E5E5"> there there they're actually</font>
+
+482
+00:23:26,299 --> 00:23:31,519
+<font color="#CCCCCC">hitting this</font><font color="#E5E5E5"> at the same sort of</font>
+
+483
+00:23:29,990 --> 00:23:35,630
+periodicity<font color="#E5E5E5"> that they are when they</font>
+
+484
+00:23:31,519 --> 00:23:38,710
+start at the<font color="#CCCCCC"> same</font><font color="#E5E5E5"> point so there's that</font>
+
+485
+00:23:35,630 --> 00:23:38,710
+and then
+
+486
+00:23:43,539 --> 00:23:46,889
+[Music]
+
+487
+00:23:47,140 --> 00:23:53,390
+<font color="#E5E5E5">it's the sub judice the</font><font color="#CCCCCC"> Tata</font><font color="#E5E5E5"> chrome</font>
+
+488
+00:23:50,029 --> 00:23:56,180
+<font color="#CCCCCC">curve demonstration rig of your dream it</font>
+
+489
+00:23:53,390 --> 00:23:59,770
+<font color="#E5E5E5">really is it really is it's also the</font>
+
+490
+00:23:56,180 --> 00:24:03,560
+brook Easter Kron rig of my dreams and
+
+491
+00:23:59,769 --> 00:24:06,349
+the cycloid<font color="#E5E5E5"> rig of my</font><font color="#CCCCCC"> dream</font><font color="#E5E5E5"> so check</font>
+
+492
+00:24:03,559 --> 00:24:07,220
+that out<font color="#CCCCCC"> you're</font><font color="#E5E5E5"> doing that yeah</font><font color="#CCCCCC"> that is</font>
+
+493
+00:24:06,349 --> 00:24:10,669
+really<font color="#E5E5E5"> cool</font>
+
+494
+00:24:07,220 --> 00:24:15,220
+another one yeah that<font color="#CCCCCC"> was yeah exactly</font>
+
+495
+00:24:10,670 --> 00:24:18,769
+<font color="#CCCCCC">on point Wow</font>
+
+496
+00:24:15,220 --> 00:24:20,750
+raesha<font color="#CCCCCC"> see in</font><font color="#E5E5E5"> this game no matter where</font>
+
+497
+00:24:18,769 --> 00:24:22,430
+you start no matter<font color="#E5E5E5"> who you are you're</font>
+
+498
+00:24:20,750 --> 00:24:25,549
+<font color="#E5E5E5">always a winner</font><font color="#CCCCCC"> that's a pretty</font><font color="#E5E5E5"> cylinder</font>
+
+499
+00:24:22,430 --> 00:24:27,730
+there's always a tie so this is brain
+
+500
+00:24:25,549 --> 00:24:30,649
+<font color="#E5E5E5">candy for me Adam</font><font color="#CCCCCC"> Totalus</font><font color="#E5E5E5"> this is</font>
+
+501
+00:24:27,730 --> 00:24:35,089
+something<font color="#CCCCCC"> that was previously</font><font color="#E5E5E5"> abstract</font>
+
+502
+00:24:30,650 --> 00:24:37,370
+and only seen in animations and in text
+
+503
+00:24:35,089 --> 00:24:38,809
+made<font color="#E5E5E5"> real now I can put these wherever I</font>
+
+504
+00:24:37,369 --> 00:24:41,209
+want<font color="#E5E5E5"> I'm not stuck</font><font color="#CCCCCC"> with what someone</font>
+
+505
+00:24:38,809 --> 00:24:43,159
+<font color="#CCCCCC">else did I can physically hold it Matt's</font>
+
+506
+00:24:41,210 --> 00:24:45,230
+<font color="#E5E5E5">that's what makes brain candy exciting</font>
+
+507
+00:24:43,160 --> 00:24:46,759
+for this it<font color="#E5E5E5"> is like that I love taking</font>
+
+508
+00:24:45,230 --> 00:24:49,430
+<font color="#E5E5E5">the theoretical and making it</font><font color="#CCCCCC"> physical</font>
+
+509
+00:24:46,759 --> 00:24:51,019
+and actually honestly<font color="#E5E5E5"> we've always had</font>
+
+510
+00:24:49,430 --> 00:24:52,580
+what seemed to<font color="#CCCCCC"> me like sister</font>
+
+511
+00:24:51,019 --> 00:24:54,710
+enterprises yeah and it's nice<font color="#CCCCCC"> to</font><font color="#E5E5E5"> join</font>
+
+512
+00:24:52,579 --> 00:24:58,909
+them together<font color="#E5E5E5"> yeah this is is this</font>
+
+513
+00:24:54,710 --> 00:25:00,319
+little<font color="#E5E5E5"> child of ours</font><font color="#CCCCCC"> isn't it</font><font color="#E5E5E5"> is maybe</font>
+
+514
+00:24:58,910 --> 00:25:03,440
+<font color="#E5E5E5">maybe one</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> us wasn't so good at</font>
+
+515
+00:25:00,319 --> 00:25:05,659
+<font color="#E5E5E5">standing</font><font color="#CCCCCC"> and maybe the</font><font color="#E5E5E5"> other of us kind</font>
+
+516
+00:25:03,440 --> 00:25:07,009
+<font color="#E5E5E5">of saved the day but it's real now</font>
+
+517
+00:25:05,660 --> 00:25:09,950
+yeah and it's alive<font color="#CCCCCC"> and I think it's</font>
+
+518
+00:25:07,009 --> 00:25:14,480
+love in its life that was fun Eames
+
+519
+00:25:09,950 --> 00:25:15,950
+really fun yes<font color="#CCCCCC"> had come true</font><font color="#E5E5E5"> Adams</font><font color="#CCCCCC"> thank</font>
+
+520
+00:25:14,480 --> 00:25:18,380
+<font color="#E5E5E5">you so much for your help</font>
+
+521
+00:25:15,950 --> 00:25:19,400
+working with you<font color="#E5E5E5"> is always amazing</font><font color="#CCCCCC"> I</font>
+
+522
+00:25:18,380 --> 00:25:22,550
+hope to see all of you<font color="#E5E5E5"> out there</font>
+
+523
+00:25:19,400 --> 00:25:25,130
+watching<font color="#E5E5E5"> at brain candy live</font><font color="#CCCCCC"> it's</font><font color="#E5E5E5"> going</font>
+
+524
+00:25:22,549 --> 00:25:28,879
+to be incredible<font color="#CCCCCC"> and in your daily</font><font color="#E5E5E5"> lives</font>
+
+525
+00:25:25,130 --> 00:25:30,650
+<font color="#CCCCCC">may you always find the Tata</font><font color="#E5E5E5"> chrome the</font>
+
+526
+00:25:28,880 --> 00:25:32,690
+solution that<font color="#E5E5E5"> brings you and others</font>
+
+527
+00:25:30,650 --> 00:25:36,150
+together<font color="#E5E5E5"> even if you started in</font>
+
+528
+00:25:32,690 --> 00:25:58,299
+<font color="#E5E5E5">different places and</font><font color="#CCCCCC"> evolved</font>
+
+529
+00:25:36,150 --> 00:25:58,300
+[Music]
+
