@@ -2,37 +2,11 @@
 <tvshow>
     <title>URealms Live</title>
     <showtitle>URealms Live</showtitle>
-    <rating>10.0</rating>
-    <votes></votes>
-    <epbookmark>0.000000</epbookmark>
     <year>2015</year>
-    <top250>0</top250>
-    <season>3</season>
-    <episode>21</episode>
-    <uniqueid></uniqueid>
-    <displayseason>-1</displayseason>
-    <displayepisode>-1</displayepisode>
-    <outline></outline>
     <plot>URealms Live is a fantasy universe and live comedy improv show built around a custom Tabletop Roleplaying Game similar to DnD or Pathfinder. What separates URealms apart from other Roleplaying games is that it's less about individuals characters on never ending campaigns, and more about lots of small interconnected stories and histories.</plot>
-    <tagline></tagline>
-    <runtime>0</runtime>
-    <mpaa>TV-MA</mpaa>
-    <playcount>0</playcount>
-    <lastplayed></lastplayed>
-    <episodeguide></episodeguide>
-    <id></id>
     <genre>Comedy</genre>
     <genre>Fantasy</genre>
-    <set></set>
+    <genre>Youtube</genre>
     <premiered>2015-05-30</premiered>
-    <status></status>
-    <code></code>
-    <aired></aired>
     <studio>Buffalo Wizards</studio>
-    <trailer></trailer>
-    <resume>
-        <position>0.000000</position>
-        <total>0.000000</total>
-    </resume>
-    <dateadded></dateadded>
 </tvshow>
