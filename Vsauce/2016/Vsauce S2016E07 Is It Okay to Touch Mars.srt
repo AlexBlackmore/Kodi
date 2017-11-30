@@ -1,0 +1,1548 @@
+1
+00:00:06,780 --> 00:00:14,820
+[Music]
+
+2
+00:00:09,740 --> 00:00:17,550
+hey Vsauce Michael here<font color="#E5E5E5"> no rocks from</font>
+
+3
+00:00:14,820 --> 00:00:20,189
+Mars<font color="#CCCCCC"> have ever been brought back</font><font color="#E5E5E5"> to</font>
+
+4
+00:00:17,550 --> 00:00:23,550
+earth<font color="#CCCCCC"> and no</font><font color="#E5E5E5"> human has ever touched</font>
+
+5
+00:00:20,189 --> 00:00:26,518
+anything<font color="#CCCCCC"> on Mars but</font><font color="#E5E5E5"> that's about to</font>
+
+6
+00:00:23,550 --> 00:00:29,310
+change<font color="#CCCCCC"> National</font><font color="#E5E5E5"> Geographic has asked me</font>
+
+7
+00:00:26,518 --> 00:00:31,198
+<font color="#E5E5E5">and Jake and</font><font color="#CCCCCC"> Kevin to talk about Mars</font>
+
+8
+00:00:29,309 --> 00:00:33,629
+<font color="#CCCCCC">because they have a show</font><font color="#E5E5E5"> coming out soon</font>
+
+9
+00:00:31,199 --> 00:00:36,989
+<font color="#E5E5E5">all about how we are planning to turn</font>
+
+10
+00:00:33,630 --> 00:00:39,420
+Mars<font color="#E5E5E5"> into a home a place where humans</font>
+
+11
+00:00:36,988 --> 00:00:41,939
+will soon be<font color="#CCCCCC"> living and working it's a</font>
+
+12
+00:00:39,420 --> 00:00:46,950
+plan set<font color="#E5E5E5"> to</font><font color="#CCCCCC"> become a reality in</font><font color="#E5E5E5"> the</font>
+
+13
+00:00:41,939 --> 00:00:49,920
+2030s<font color="#E5E5E5"> that's cool</font><font color="#CCCCCC"> but beyond just</font><font color="#E5E5E5"> how</font>
+
+14
+00:00:46,950 --> 00:00:52,920
+there are<font color="#E5E5E5"> everyday life questions raised</font>
+
+15
+00:00:49,920 --> 00:00:55,739
+<font color="#E5E5E5">we would be literally beginning society</font>
+
+16
+00:00:52,920 --> 00:00:58,980
+all over again<font color="#E5E5E5"> on a new planet whose</font>
+
+17
+00:00:55,738 --> 00:01:00,659
+laws will Martian colonists follow what
+
+18
+00:00:58,979 --> 00:01:03,628
+<font color="#E5E5E5">kind of watches clocks and calendars</font>
+
+19
+00:01:00,659 --> 00:01:09,420
+will they use<font color="#E5E5E5"> and what</font><font color="#CCCCCC"> will be lost</font><font color="#E5E5E5"> if</font>
+
+20
+00:01:03,628 --> 00:01:14,359
+<font color="#E5E5E5">we as a species gain Mars</font><font color="#CCCCCC"> is it</font><font color="#E5E5E5"> okay to</font>
+
+21
+00:01:09,420 --> 00:01:18,840
+touch Mars<font color="#E5E5E5"> what will its flag look like</font>
+
+22
+00:01:14,359 --> 00:01:20,969
+in 1998<font color="#E5E5E5"> Pascal Lee designed a flag for</font>
+
+23
+00:01:18,840 --> 00:01:23,549
+Mars that<font color="#E5E5E5"> was flown at the hotend Mars</font>
+
+24
+00:01:20,969 --> 00:01:25,438
+project<font color="#CCCCCC"> research station where how</font>
+
+25
+00:01:23,549 --> 00:01:29,189
+humans might<font color="#E5E5E5"> live and work on other</font>
+
+26
+00:01:25,438 --> 00:01:31,500
+planets<font color="#E5E5E5"> was studied the flag is a nod</font><font color="#CCCCCC"> to</font>
+
+27
+00:01:29,188 --> 00:01:35,250
+Kim Stanley Robinson's famous red Mars
+
+28
+00:01:31,500 --> 00:01:37,709
+<font color="#E5E5E5">free Mars and blue Mars trilogy</font><font color="#CCCCCC"> should</font>
+
+29
+00:01:35,250 --> 00:01:39,569
+we<font color="#E5E5E5"> have the technological and political</font>
+
+30
+00:01:37,709 --> 00:01:43,078
+ability<font color="#E5E5E5"> to do so at some</font><font color="#CCCCCC"> point in the</font>
+
+31
+00:01:39,569 --> 00:01:45,779
+future we could terraform Mars from<font color="#E5E5E5"> a</font>
+
+32
+00:01:43,078 --> 00:01:49,169
+red<font color="#E5E5E5"> planet into a green with life and</font>
+
+33
+00:01:45,780 --> 00:01:51,599
+then blue watery<font color="#E5E5E5"> earth-like one this</font>
+
+34
+00:01:49,170 --> 00:01:54,240
+flag<font color="#E5E5E5"> has since been</font><font color="#CCCCCC"> used by a number of</font>
+
+35
+00:01:51,599 --> 00:01:56,609
+Mars exploration societies and was even
+
+36
+00:01:54,239 --> 00:01:59,968
+<font color="#E5E5E5">flown into space aboard space shuttle</font>
+
+37
+00:01:56,609 --> 00:02:03,180
+<font color="#CCCCCC">Discovery</font><font color="#E5E5E5"> by astronaut John Grunsfeld</font>
+
+38
+00:01:59,968 --> 00:02:05,399
+in 1999<font color="#E5E5E5"> that all makes it a pretty</font><font color="#CCCCCC"> good</font>
+
+39
+00:02:03,180 --> 00:02:09,060
+contender<font color="#E5E5E5"> to be the first</font><font color="#CCCCCC"> official flag</font>
+
+40
+00:02:05,399 --> 00:02:11,219
+<font color="#CCCCCC">of Mars</font><font color="#E5E5E5"> the Outer Space Treaty of course</font>
+
+41
+00:02:09,060 --> 00:02:12,900
+prohibits national appropriation<font color="#E5E5E5"> of</font>
+
+42
+00:02:11,219 --> 00:02:14,848
+celestial<font color="#CCCCCC"> bodies</font>
+
+43
+00:02:12,900 --> 00:02:17,938
+it doesn't necessarily<font color="#CCCCCC"> stop</font><font color="#E5E5E5"> private</font>
+
+44
+00:02:14,848 --> 00:02:21,419
+individuals or companies from<font color="#E5E5E5"> doing so</font>
+
+45
+00:02:17,938 --> 00:02:23,489
+<font color="#E5E5E5">but since it</font><font color="#CCCCCC"> takes months</font><font color="#E5E5E5"> at best</font><font color="#CCCCCC"> to</font>
+
+46
+00:02:21,419 --> 00:02:25,348
+<font color="#E5E5E5">actually go between Earth and Mars</font><font color="#CCCCCC"> and</font>
+
+47
+00:02:23,489 --> 00:02:26,188
+minutes to even<font color="#E5E5E5"> communicate at</font>
+
+48
+00:02:25,348 --> 00:02:30,539
+Lightspeed
+
+49
+00:02:26,188 --> 00:02:31,469
+how would and who would enforce laws on
+
+50
+00:02:30,539 --> 00:02:34,318
+Mars
+
+51
+00:02:31,469 --> 00:02:36,299
+if Martian colonists did things that<font color="#E5E5E5"> we</font>
+
+52
+00:02:34,318 --> 00:02:38,488
+here on earth disagreed with<font color="#CCCCCC"> what can we</font>
+
+53
+00:02:36,299 --> 00:02:41,930
+do to pressure them otherwise or punish
+
+54
+00:02:38,489 --> 00:02:44,459
+them<font color="#CCCCCC"> for being criminals</font><font color="#E5E5E5"> one idea</font>
+
+55
+00:02:41,930 --> 00:02:47,040
+extraterrestrial Liberty<font color="#E5E5E5"> is to just give</font>
+
+56
+00:02:44,459 --> 00:02:49,319
+up control<font color="#CCCCCC"> and release those headed to</font>
+
+57
+00:02:47,039 --> 00:02:52,348
+Mars from<font color="#E5E5E5"> all current earth-based laws</font>
+
+58
+00:02:49,318 --> 00:02:55,348
+<font color="#E5E5E5">their nationalities hold them to to</font>
+
+59
+00:02:52,348 --> 00:02:58,798
+allow them to<font color="#CCCCCC"> become Mars</font><font color="#E5E5E5"> citizens able</font>
+
+60
+00:02:55,348 --> 00:03:00,780
+to make laws<font color="#E5E5E5"> elect live and die the way</font>
+
+61
+00:02:58,799 --> 00:03:03,540
+they want free from any<font color="#E5E5E5"> currently</font>
+
+62
+00:03:00,780 --> 00:03:08,579
+existing state that might be reasonable
+
+63
+00:03:03,539 --> 00:03:13,979
+but<font color="#E5E5E5"> it raises another</font><font color="#CCCCCC"> question</font><font color="#E5E5E5"> when when</font>
+
+64
+00:03:08,579 --> 00:03:17,189
+is Mars now what time is<font color="#CCCCCC"> it there for</font>
+
+65
+00:03:13,979 --> 00:03:20,310
+colonists on Mars<font color="#E5E5E5"> an earth watch would</font>
+
+66
+00:03:17,189 --> 00:03:21,870
+be<font color="#E5E5E5"> of very little help</font><font color="#CCCCCC"> a day on Mars the</font>
+
+67
+00:03:20,310 --> 00:03:25,500
+time it<font color="#E5E5E5"> takes the planet to turn around</font>
+
+68
+00:03:21,870 --> 00:03:28,439
+once<font color="#E5E5E5"> sunrise to sunrise is about 2.7</font>
+
+69
+00:03:25,500 --> 00:03:30,689
+percent longer<font color="#CCCCCC"> than on</font><font color="#E5E5E5"> earth</font><font color="#CCCCCC"> I mean</font>
+
+70
+00:03:28,439 --> 00:03:33,389
+that's pretty close but over<font color="#E5E5E5"> time it</font>
+
+71
+00:03:30,689 --> 00:03:35,219
+<font color="#E5E5E5">adds up gradually an</font><font color="#CCCCCC"> earth watch on Mars</font>
+
+72
+00:03:33,389 --> 00:03:37,560
+would drift and the time it said would
+
+73
+00:03:35,219 --> 00:03:40,039
+<font color="#E5E5E5">tell you very little about night and day</font>
+
+74
+00:03:37,560 --> 00:03:42,269
+<font color="#E5E5E5">on the Red</font><font color="#CCCCCC"> Planet</font><font color="#E5E5E5"> to combat this</font>
+
+75
+00:03:40,039 --> 00:03:45,448
+scientists on earth<font color="#CCCCCC"> who work with</font>
+
+76
+00:03:42,269 --> 00:03:47,819
+robotic Rovers on Mars<font color="#E5E5E5"> use Mars time</font>
+
+77
+00:03:45,449 --> 00:03:49,709
+<font color="#CCCCCC">they</font><font color="#E5E5E5"> actually live by</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> you can</font>
+
+78
+00:03:47,818 --> 00:03:53,039
+download<font color="#E5E5E5"> a program that tells you solar</font>
+
+79
+00:03:49,709 --> 00:03:56,389
+times<font color="#CCCCCC"> on Mars</font><font color="#E5E5E5"> or do what many scientists</font>
+
+80
+00:03:53,039 --> 00:03:59,638
+<font color="#CCCCCC">have done</font><font color="#E5E5E5"> get yourself a watch that runs</font>
+
+81
+00:03:56,389 --> 00:04:02,010
+2.7 percent slower than usual<font color="#CCCCCC"> if every</font>
+
+82
+00:03:59,639 --> 00:04:04,019
+second every<font color="#E5E5E5"> minute is 2.7 percent</font>
+
+83
+00:04:02,009 --> 00:04:06,739
+slower than it<font color="#CCCCCC"> should be it'll be</font>
+
+84
+00:04:04,019 --> 00:04:09,120
+<font color="#E5E5E5">perfect for matching Mars's rotation</font>
+
+85
+00:04:06,739 --> 00:04:10,859
+that could<font color="#E5E5E5"> spell trouble for Martian</font>
+
+86
+00:04:09,120 --> 00:04:12,689
+colonists though who wish to tune<font color="#CCCCCC"> into</font>
+
+87
+00:04:10,859 --> 00:04:15,000
+<font color="#CCCCCC">live</font><font color="#E5E5E5"> events on earth like sports</font><font color="#CCCCCC"> sort</font>
+
+88
+00:04:12,689 --> 00:04:16,949
+award shows but again given<font color="#E5E5E5"> the immense</font>
+
+89
+00:04:15,000 --> 00:04:18,629
+travel time between the two Earthlings
+
+90
+00:04:16,949 --> 00:04:21,040
+and Martians may find that<font color="#CCCCCC"> having</font>
+
+91
+00:04:18,629 --> 00:04:22,990
+similar timekeeping systems just
+
+92
+00:04:21,040 --> 00:04:30,460
+really that necessary in their everyday
+
+93
+00:04:22,990 --> 00:04:33,160
+lives<font color="#CCCCCC"> okay right now on earth it is</font><font color="#E5E5E5"> 2016</font>
+
+94
+00:04:30,459 --> 00:04:36,009
+as we know one trip through all the
+
+95
+00:04:33,160 --> 00:04:38,350
+seasons<font color="#CCCCCC"> from</font><font color="#E5E5E5"> now</font><font color="#CCCCCC"> will</font><font color="#E5E5E5"> have been a year</font>
+
+96
+00:04:36,009 --> 00:04:40,569
+<font color="#CCCCCC">but in</font><font color="#E5E5E5"> that same time Mars will have</font>
+
+97
+00:04:38,350 --> 00:04:41,710
+only<font color="#CCCCCC"> traveled part of the way through</font>
+
+98
+00:04:40,569 --> 00:04:44,349
+its seasons
+
+99
+00:04:41,709 --> 00:04:47,560
+if Martian colonists continue to use
+
+100
+00:04:44,350 --> 00:04:49,210
+<font color="#E5E5E5">earth years that's</font><font color="#CCCCCC"> okay</font><font color="#E5E5E5"> but it would</font>
+
+101
+00:04:47,560 --> 00:04:51,490
+<font color="#E5E5E5">mean</font><font color="#CCCCCC"> that for them</font><font color="#E5E5E5"> years would feel a</font>
+
+102
+00:04:49,209 --> 00:04:53,979
+bit arbitrary<font color="#CCCCCC"> they wouldn't contain</font>
+
+103
+00:04:51,490 --> 00:04:57,210
+environmental cycles<font color="#E5E5E5"> like ours do</font>
+
+104
+00:04:53,980 --> 00:04:59,620
+perhaps<font color="#CCCCCC"> if they feel disconnected and</font>
+
+105
+00:04:57,209 --> 00:05:01,599
+emancipated<font color="#CCCCCC"> from earth calendars</font><font color="#E5E5E5"> they'll</font>
+
+106
+00:04:59,620 --> 00:05:04,300
+just use their own Martian year system
+
+107
+00:05:01,600 --> 00:05:07,150
+as well<font color="#CCCCCC"> a few such calendars have been</font>
+
+108
+00:05:04,300 --> 00:05:09,759
+proposed some divided into<font color="#CCCCCC"> familiar week</font>
+
+109
+00:05:07,149 --> 00:05:12,939
+and month lengths but with<font color="#E5E5E5"> about twice</font>
+
+110
+00:05:09,759 --> 00:05:15,490
+as many of each per year the thing
+
+111
+00:05:12,939 --> 00:05:18,810
+<font color="#CCCCCC">however that fascinates me most about</font>
+
+112
+00:05:15,490 --> 00:05:23,800
+putting humans<font color="#E5E5E5"> living things on Mars is</font>
+
+113
+00:05:18,810 --> 00:05:25,930
+a more touching topic literally humans
+
+114
+00:05:23,800 --> 00:05:29,199
+will<font color="#CCCCCC"> likely touch the red planet in our</font>
+
+115
+00:05:25,930 --> 00:05:34,660
+lifetimes<font color="#E5E5E5"> and the first to do so will be</font>
+
+116
+00:05:29,199 --> 00:05:38,529
+<font color="#E5E5E5">famous but jokes on them</font><font color="#CCCCCC"> I mean we me</font>
+
+117
+00:05:34,660 --> 00:05:40,420
+you we're all already touching Mars<font color="#E5E5E5"> let</font>
+
+118
+00:05:38,529 --> 00:05:44,589
+me ask you<font color="#E5E5E5"> this where did you get that</font>
+
+119
+00:05:40,420 --> 00:05:47,170
+<font color="#E5E5E5">body</font><font color="#CCCCCC"> that one you're in right now</font><font color="#E5E5E5"> it's</font>
+
+120
+00:05:44,589 --> 00:05:50,049
+made of atoms and<font color="#E5E5E5"> molecules</font><font color="#CCCCCC"> but they</font>
+
+121
+00:05:47,170 --> 00:05:52,449
+come and<font color="#E5E5E5"> go you</font><font color="#CCCCCC"> eat and breathe and</font>
+
+122
+00:05:50,050 --> 00:05:54,970
+absorb things<font color="#CCCCCC"> use them for</font><font color="#E5E5E5"> a while but</font>
+
+123
+00:05:52,449 --> 00:05:58,029
+eventually<font color="#E5E5E5"> shed or exhale or otherwise</font>
+
+124
+00:05:54,970 --> 00:06:00,280
+pass them<font color="#CCCCCC"> through a month from now your</font>
+
+125
+00:05:58,029 --> 00:06:03,339
+skin will be<font color="#E5E5E5"> completely</font><font color="#CCCCCC"> different skin</font>
+
+126
+00:06:00,279 --> 00:06:05,949
+all new cells the red blood cells<font color="#CCCCCC"> you've</font>
+
+127
+00:06:03,339 --> 00:06:09,060
+got now<font color="#CCCCCC"> we'll only be with you for about</font>
+
+128
+00:06:05,949 --> 00:06:13,420
+<font color="#E5E5E5">another</font><font color="#CCCCCC"> four</font><font color="#E5E5E5"> months like a water wave</font>
+
+129
+00:06:09,060 --> 00:06:17,139
+you're a temporary<font color="#E5E5E5"> arrangement</font><font color="#CCCCCC"> of stuff</font>
+
+130
+00:06:13,420 --> 00:06:19,540
+a really neat thing<font color="#CCCCCC"> that</font><font color="#E5E5E5"> dirt does but</font>
+
+131
+00:06:17,139 --> 00:06:23,519
+<font color="#E5E5E5">not all of this dirt that you are the</font>
+
+132
+00:06:19,540 --> 00:06:26,379
+dust<font color="#E5E5E5"> in from dust to dust</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> earth dirt</font>
+
+133
+00:06:23,519 --> 00:06:28,479
+new stuff is always<font color="#E5E5E5"> falling to earth</font>
+
+134
+00:06:26,379 --> 00:06:30,668
+anywhere<font color="#E5E5E5"> from five thousand to</font><font color="#CCCCCC"> three</font>
+
+135
+00:06:28,480 --> 00:06:32,889
+<font color="#CCCCCC">hundred thousand kilograms of space rock</font>
+
+136
+00:06:30,668 --> 00:06:36,008
+dust debris<font color="#E5E5E5"> asteroid fragments</font><font color="#CCCCCC"> that</font>
+
+137
+00:06:32,889 --> 00:06:39,718
+a some of which inevitably<font color="#E5E5E5"> winds up</font>
+
+138
+00:06:36,009 --> 00:06:43,150
+being you part<font color="#E5E5E5"> of your body for a while</font>
+
+139
+00:06:39,718 --> 00:06:44,889
+<font color="#E5E5E5">now that</font><font color="#CCCCCC"> may sound like a lot of</font>
+
+140
+00:06:43,149 --> 00:06:48,968
+material<font color="#E5E5E5"> but compared to the mass of</font>
+
+141
+00:06:44,889 --> 00:06:50,499
+<font color="#CCCCCC">earth</font><font color="#E5E5E5"> it's small some of</font><font color="#CCCCCC"> these</font><font color="#E5E5E5"> et rocks</font>
+
+142
+00:06:48,968 --> 00:06:52,478
+are debris that's<font color="#E5E5E5"> been floating around</font>
+
+143
+00:06:50,499 --> 00:06:54,639
+our solar system since the planets
+
+144
+00:06:52,478 --> 00:06:56,680
+<font color="#E5E5E5">formed some has come from asteroid</font>
+
+145
+00:06:54,639 --> 00:07:00,069
+collisions<font color="#E5E5E5"> some has even come from</font>
+
+146
+00:06:56,680 --> 00:07:03,699
+interstellar space<font color="#CCCCCC"> beyond our solar</font>
+
+147
+00:07:00,069 --> 00:07:07,270
+system<font color="#E5E5E5"> what's neat is</font><font color="#CCCCCC"> that because atoms</font>
+
+148
+00:07:03,699 --> 00:07:10,419
+and molecules are so small<font color="#CCCCCC"> even the tiny</font>
+
+149
+00:07:07,269 --> 00:07:13,810
+amount<font color="#CCCCCC"> of</font><font color="#E5E5E5"> interstellar material</font><font color="#CCCCCC"> landing</font>
+
+150
+00:07:10,418 --> 00:07:16,718
+here<font color="#E5E5E5"> adds up to a lot at the atomic</font>
+
+151
+00:07:13,810 --> 00:07:20,788
+scale<font color="#CCCCCC"> ask a physicist</font><font color="#E5E5E5"> estimated that if</font>
+
+152
+00:07:16,718 --> 00:07:22,810
+<font color="#E5E5E5">only 0.01% of all the</font><font color="#CCCCCC"> extra-terrestrial</font>
+
+153
+00:07:20,788 --> 00:07:26,079
+<font color="#E5E5E5">material falling to earth comes from</font>
+
+154
+00:07:22,810 --> 00:07:29,680
+<font color="#E5E5E5">beyond our solar system and</font><font color="#CCCCCC"> even if only</font>
+
+155
+00:07:26,079 --> 00:07:34,778
+<font color="#CCCCCC">10% of that stuff is water that would</font>
+
+156
+00:07:29,680 --> 00:07:37,180
+<font color="#E5E5E5">still mean that 50 billion</font><font color="#CCCCCC"> 5 0</font><font color="#E5E5E5"> billion</font>
+
+157
+00:07:34,778 --> 00:07:39,310
+with a<font color="#CCCCCC"> beam of</font><font color="#E5E5E5"> the water molecules in</font>
+
+158
+00:07:37,180 --> 00:07:43,569
+your<font color="#E5E5E5"> body</font><font color="#CCCCCC"> right now</font><font color="#E5E5E5"> as you watch this</font>
+
+159
+00:07:39,310 --> 00:07:46,339
+video<font color="#CCCCCC"> we're in interstellar</font><font color="#E5E5E5"> space fewer</font>
+
+160
+00:07:43,569 --> 00:07:48,350
+<font color="#E5E5E5">than 1,000 years</font><font color="#CCCCCC"> ago</font>
+
+161
+00:07:46,339 --> 00:07:50,869
+some of the space<font color="#CCCCCC"> material falling</font><font color="#E5E5E5"> to</font>
+
+162
+00:07:48,350 --> 00:07:52,910
+earth comes from planets like Mars<font color="#E5E5E5"> when</font>
+
+163
+00:07:50,870 --> 00:07:53,449
+powerful<font color="#CCCCCC"> enough impacts</font><font color="#E5E5E5"> occur on its</font>
+
+164
+00:07:52,910 --> 00:07:55,189
+surface
+
+165
+00:07:53,449 --> 00:07:57,589
+<font color="#CCCCCC">Martian material can reach escape</font>
+
+166
+00:07:55,189 --> 00:08:00,680
+velocity<font color="#E5E5E5"> and begin an interplanetary</font>
+
+167
+00:07:57,589 --> 00:08:04,069
+journey rarely but<font color="#E5E5E5"> occasionally this</font>
+
+168
+00:08:00,680 --> 00:08:05,930
+journey<font color="#E5E5E5"> terminates</font><font color="#CCCCCC"> on earth</font><font color="#E5E5E5"> it's been</font>
+
+169
+00:08:04,069 --> 00:08:08,089
+<font color="#CCCCCC">estimated that</font><font color="#E5E5E5"> Martian meteorites only</font>
+
+170
+00:08:05,930 --> 00:08:11,209
+fall to earth<font color="#E5E5E5"> about once every 50 years</font>
+
+171
+00:08:08,089 --> 00:08:14,779
+<font color="#E5E5E5">or so that's a long time in human years</font>
+
+172
+00:08:11,209 --> 00:08:16,729
+but in<font color="#E5E5E5"> Planet years that's nothing</font><font color="#CCCCCC"> your</font>
+
+173
+00:08:14,779 --> 00:08:19,429
+<font color="#E5E5E5">physical body</font><font color="#CCCCCC"> right now</font>
+
+174
+00:08:16,730 --> 00:08:22,220
+likely contains billions<font color="#E5E5E5"> of</font><font color="#CCCCCC"> atoms that</font>
+
+175
+00:08:19,430 --> 00:08:26,300
+<font color="#E5E5E5">used to be on Mars and arrived here</font><font color="#CCCCCC"> on</font>
+
+176
+00:08:22,220 --> 00:08:28,850
+earth in<font color="#E5E5E5"> the</font><font color="#CCCCCC"> last 1,000 years if you</font>
+
+177
+00:08:26,300 --> 00:08:31,550
+consider stuff from Mars<font color="#CCCCCC"> that's been</font>
+
+178
+00:08:28,850 --> 00:08:35,300
+here on earth<font color="#E5E5E5"> for less than a millennium</font>
+
+179
+00:08:31,550 --> 00:08:38,509
+<font color="#CCCCCC">as being</font><font color="#E5E5E5"> Martian well it's tenable</font><font color="#CCCCCC"> to</font>
+
+180
+00:08:35,299 --> 00:08:41,209
+say that you<font color="#E5E5E5"> are point zero zero zero</font>
+
+181
+00:08:38,509 --> 00:08:44,950
+zero zero zero zero zero zero zero zero
+
+182
+00:08:41,210 --> 00:08:47,690
+zero zero zero zero<font color="#CCCCCC"> one percent Martian</font>
+
+183
+00:08:44,950 --> 00:08:49,580
+but before you get too<font color="#CCCCCC"> excited there's a</font>
+
+184
+00:08:47,690 --> 00:08:51,320
+difference between<font color="#E5E5E5"> Martian debris that</font>
+
+185
+00:08:49,580 --> 00:08:54,590
+was roasted<font color="#CCCCCC"> and exploded in our</font>
+
+186
+00:08:51,320 --> 00:08:56,870
+atmosphere<font color="#CCCCCC"> centuries ago and actual</font>
+
+187
+00:08:54,590 --> 00:08:59,330
+still on Mars<font color="#E5E5E5"> material</font>
+
+188
+00:08:56,870 --> 00:09:03,320
+the difference might<font color="#CCCCCC"> be small</font><font color="#E5E5E5"> or it</font>
+
+189
+00:08:59,330 --> 00:09:05,030
+might be<font color="#E5E5E5"> big when Apollo</font><font color="#CCCCCC"> 11 astronauts</font>
+
+190
+00:09:03,320 --> 00:09:06,980
+returned from the moon they didn't
+
+191
+00:09:05,029 --> 00:09:09,860
+<font color="#E5E5E5">splashdown and then run into the</font><font color="#CCCCCC"> arms of</font>
+
+192
+00:09:06,980 --> 00:09:12,500
+family members instead<font color="#E5E5E5"> they were locked</font>
+
+193
+00:09:09,860 --> 00:09:14,930
+<font color="#E5E5E5">away in quarantine</font><font color="#CCCCCC"> for three</font><font color="#E5E5E5"> weeks</font>
+
+194
+00:09:12,500 --> 00:09:17,509
+just in case the moon harbored any kind
+
+195
+00:09:14,929 --> 00:09:20,359
+of previously<font color="#E5E5E5"> unknown or unthinkable</font>
+
+196
+00:09:17,509 --> 00:09:22,509
+life-form<font color="#E5E5E5"> an organism or virus that</font>
+
+197
+00:09:20,360 --> 00:09:25,159
+could<font color="#E5E5E5"> have come back</font><font color="#CCCCCC"> to earth</font><font color="#E5E5E5"> with them</font>
+
+198
+00:09:22,509 --> 00:09:26,840
+one that earth life had never
+
+199
+00:09:25,159 --> 00:09:29,870
+<font color="#CCCCCC">encountered and thus never been</font>
+
+200
+00:09:26,840 --> 00:09:32,629
+naturally<font color="#CCCCCC"> selected to resist the threat</font>
+
+201
+00:09:29,870 --> 00:09:35,060
+<font color="#CCCCCC">of a moonbug pandemic wiping out life on</font>
+
+202
+00:09:32,629 --> 00:09:38,809
+<font color="#E5E5E5">Earth was just large</font><font color="#CCCCCC"> enough that NASA</font>
+
+203
+00:09:35,059 --> 00:09:40,939
+took precautions though later<font color="#E5E5E5"> Buzz</font>
+
+204
+00:09:38,809 --> 00:09:42,919
+Aldrin admitted on Twitter that<font color="#CCCCCC"> their</font>
+
+205
+00:09:40,940 --> 00:09:46,310
+quarantine<font color="#E5E5E5"> facility wasn't perfectly</font>
+
+206
+00:09:42,919 --> 00:09:49,339
+<font color="#E5E5E5">sealed luckily no moon germs escaped and</font>
+
+207
+00:09:46,309 --> 00:09:50,869
+infected all earth life probably<font color="#E5E5E5"> because</font>
+
+208
+00:09:49,340 --> 00:09:53,750
+there weren't any to begin<font color="#CCCCCC"> with after</font>
+
+209
+00:09:50,870 --> 00:09:55,730
+<font color="#CCCCCC">Apollo 14 the moon quarantine</font>
+
+210
+00:09:53,750 --> 00:09:56,179
+requirement was lifted because<font color="#E5E5E5"> it had</font>
+
+211
+00:09:55,730 --> 00:09:58,580
+<font color="#E5E5E5">become</font>
+
+212
+00:09:56,179 --> 00:10:04,849
+sufficiently clear that the moon was
+
+213
+00:09:58,580 --> 00:10:06,080
+devoid of life but<font color="#E5E5E5"> Mars well we still</font>
+
+214
+00:10:04,850 --> 00:10:09,139
+<font color="#E5E5E5">don't</font><font color="#CCCCCC"> know</font><font color="#E5E5E5"> exactly</font>
+
+215
+00:10:06,080 --> 00:10:11,389
+we haven't found macroscopic life on
+
+216
+00:10:09,139 --> 00:10:14,330
+Mars but<font color="#CCCCCC"> the possibility of tiny things</font>
+
+217
+00:10:11,389 --> 00:10:16,909
+<font color="#CCCCCC">hasn't yet been ruled out and the</font>
+
+218
+00:10:14,330 --> 00:10:19,250
+incredible consequences contamination
+
+219
+00:10:16,909 --> 00:10:22,338
+could have means it<font color="#E5E5E5"> remains a serious</font>
+
+220
+00:10:19,250 --> 00:10:24,589
+concern there's even an advocacy group
+
+221
+00:10:22,339 --> 00:10:26,570
+of scientists from<font color="#E5E5E5"> all over the world</font>
+
+222
+00:10:24,589 --> 00:10:30,380
+<font color="#E5E5E5">called the International Committee</font>
+
+223
+00:10:26,570 --> 00:10:32,570
+Against Mars sample return but it's not
+
+224
+00:10:30,379 --> 00:10:35,208
+just bat contamination<font color="#E5E5E5"> that matters the</font>
+
+225
+00:10:32,570 --> 00:10:35,870
+transfer<font color="#CCCCCC"> of extraterrestrial organisms</font>
+
+226
+00:10:35,208 --> 00:10:39,409
+to<font color="#CCCCCC"> earth</font>
+
+227
+00:10:35,870 --> 00:10:42,289
+there's also forward contamination<font color="#E5E5E5"> the</font>
+
+228
+00:10:39,409 --> 00:10:45,350
+transfer<font color="#CCCCCC"> of</font><font color="#E5E5E5"> earth organisms to things in</font>
+
+229
+00:10:42,289 --> 00:10:47,449
+space<font color="#E5E5E5"> any light that might</font><font color="#CCCCCC"> currently</font>
+
+230
+00:10:45,350 --> 00:10:49,759
+exist on Mars could be incredibly
+
+231
+00:10:47,450 --> 00:10:52,370
+<font color="#E5E5E5">vulnerable to things we here on earth</font>
+
+232
+00:10:49,759 --> 00:10:57,319
+barely notice but accidentally bring
+
+233
+00:10:52,370 --> 00:10:59,600
+<font color="#CCCCCC">there how sad would it be to one day</font>
+
+234
+00:10:57,320 --> 00:11:02,379
+find life<font color="#E5E5E5"> on</font><font color="#CCCCCC"> Mars</font>
+
+235
+00:10:59,600 --> 00:11:04,370
+only to realize<font color="#CCCCCC"> that it's all dead</font>
+
+236
+00:11:02,379 --> 00:11:07,759
+<font color="#CCCCCC">everything it had to teach us about</font>
+
+237
+00:11:04,370 --> 00:11:11,600
+itself about Mars<font color="#E5E5E5"> about the solar system</font>
+
+238
+00:11:07,759 --> 00:11:14,659
+<font color="#CCCCCC">about life</font><font color="#E5E5E5"> wiped out just a few years</font>
+
+239
+00:11:11,600 --> 00:11:17,470
+<font color="#E5E5E5">ago by a virus stowed away unbeknownst</font>
+
+240
+00:11:14,659 --> 00:11:19,850
+to us on one of our robotic missions
+
+241
+00:11:17,470 --> 00:11:21,830
+extremophiles organisms have been<font color="#E5E5E5"> found</font>
+
+242
+00:11:19,850 --> 00:11:24,800
+that may be able<font color="#E5E5E5"> to survive such a trip</font>
+
+243
+00:11:21,830 --> 00:11:28,040
+<font color="#E5E5E5">life here on earth may have even arrived</font>
+
+244
+00:11:24,799 --> 00:11:31,849
+<font color="#CCCCCC">from</font><font color="#E5E5E5"> space in that way</font><font color="#CCCCCC"> a concept called</font>
+
+245
+00:11:28,039 --> 00:11:34,659
+panspermia<font color="#E5E5E5"> so should</font><font color="#CCCCCC"> we be scared</font><font color="#E5E5E5"> of</font>
+
+246
+00:11:31,850 --> 00:11:37,730
+monsters beyond our atmosphere<font color="#CCCCCC"> I'm</font>
+
+247
+00:11:34,659 --> 00:11:40,100
+reminded of<font color="#E5E5E5"> the glowworm in their larval</font>
+
+248
+00:11:37,730 --> 00:11:42,350
+<font color="#E5E5E5">stage the</font><font color="#CCCCCC"> glowworms</font><font color="#E5E5E5"> stick to the tops of</font>
+
+249
+00:11:40,100 --> 00:11:45,889
+caves and leaves usually<font color="#E5E5E5"> above water</font>
+
+250
+00:11:42,350 --> 00:11:49,129
+sources<font color="#CCCCCC"> their glow</font><font color="#E5E5E5"> resembles the night</font>
+
+251
+00:11:45,889 --> 00:11:52,610
+sky<font color="#CCCCCC"> the tempting expanse of other worlds</font>
+
+252
+00:11:49,129 --> 00:11:55,189
+beyond our own like us bugs are
+
+253
+00:11:52,610 --> 00:11:58,570
+attracted<font color="#E5E5E5"> to this Vista believing it's a</font>
+
+254
+00:11:55,190 --> 00:12:01,339
+way<font color="#E5E5E5"> out of the cave of course it's not</font>
+
+255
+00:11:58,570 --> 00:12:03,528
+<font color="#CCCCCC">the glow worms dangle sticky mucus</font>
+
+256
+00:12:01,339 --> 00:12:05,290
+<font color="#E5E5E5">strings from their perches snares that</font>
+
+257
+00:12:03,528 --> 00:12:08,500
+capture
+
+258
+00:12:05,289 --> 00:12:10,870
+their prey<font color="#CCCCCC"> are the real stars no</font>
+
+259
+00:12:08,500 --> 00:12:14,919
+different<font color="#E5E5E5"> a clever trap that keeps alien</font>
+
+260
+00:12:10,870 --> 00:12:16,840
+predators fed probably not but that
+
+261
+00:12:14,919 --> 00:12:19,569
+hasn't stopped space agencies like NASA
+
+262
+00:12:16,840 --> 00:12:22,180
+<font color="#E5E5E5">from forming divisions like their office</font>
+
+263
+00:12:19,570 --> 00:12:24,430
+<font color="#CCCCCC">for planetary protection a group that</font>
+
+264
+00:12:22,179 --> 00:12:27,959
+oversees plans for missions that might
+
+265
+00:12:24,429 --> 00:12:30,939
+bring earth and alien life into contact
+
+266
+00:12:27,960 --> 00:12:35,310
+<font color="#E5E5E5">currently all missions to Mars must</font>
+
+267
+00:12:30,940 --> 00:12:37,270
+<font color="#E5E5E5">satisfy the Coleman Sagan equation this</font>
+
+268
+00:12:35,309 --> 00:12:39,279
+<font color="#E5E5E5">sterilization restriction works to</font>
+
+269
+00:12:37,269 --> 00:12:41,289
+<font color="#E5E5E5">ensure that the probability of us</font>
+
+270
+00:12:39,279 --> 00:12:44,319
+contaminating places like Mars with
+
+271
+00:12:41,289 --> 00:12:48,189
+foreign earthly organisms is not<font color="#E5E5E5"> zero</font>
+
+272
+00:12:44,320 --> 00:12:49,690
+<font color="#E5E5E5">but at most one in 10,000 that was</font>
+
+273
+00:12:48,190 --> 00:12:52,300
+considered acceptable<font color="#E5E5E5"> given</font><font color="#CCCCCC"> the number</font>
+
+274
+00:12:49,690 --> 00:12:56,230
+of Mars missions we probably do before
+
+275
+00:12:52,299 --> 00:12:59,139
+fully understanding its exobiology so
+
+276
+00:12:56,230 --> 00:13:02,409
+far we have no evidence<font color="#E5E5E5"> that anything is</font>
+
+277
+00:12:59,139 --> 00:13:05,529
+alive<font color="#CCCCCC"> on Mars right now</font><font color="#E5E5E5"> or has ever been</font>
+
+278
+00:13:02,409 --> 00:13:08,529
+but that brings<font color="#E5E5E5"> us to Anne's met the</font>
+
+279
+00:13:05,529 --> 00:13:11,860
+<font color="#E5E5E5">Antarctic search for meteorites</font><font color="#CCCCCC"> an</font>
+
+280
+00:13:08,529 --> 00:13:15,329
+effort that<font color="#E5E5E5"> since 1976 has found more</font>
+
+281
+00:13:11,860 --> 00:13:18,100
+<font color="#CCCCCC">than 20,000 extraterrestrial rocks in</font>
+
+282
+00:13:15,330 --> 00:13:21,340
+Antarctica the first one they found in
+
+283
+00:13:18,100 --> 00:13:23,350
+<font color="#E5E5E5">Allen Hills</font><font color="#CCCCCC"> in 1984 was special for</font><font color="#E5E5E5"> one</font>
+
+284
+00:13:21,340 --> 00:13:26,620
+thing it's believed to have originated
+
+285
+00:13:23,350 --> 00:13:28,659
+on Mars<font color="#CCCCCC"> it's estimated</font><font color="#E5E5E5"> that about 17</font>
+
+286
+00:13:26,620 --> 00:13:30,820
+million years<font color="#E5E5E5"> ago this piece of rock was</font>
+
+287
+00:13:28,659 --> 00:13:32,679
+blasted off the surface of Mars<font color="#E5E5E5"> by a</font>
+
+288
+00:13:30,820 --> 00:13:35,290
+meteor<font color="#E5E5E5"> and reached terminal velocity</font>
+
+289
+00:13:32,679 --> 00:13:37,809
+about<font color="#E5E5E5"> 5 kilometers per second fast</font>
+
+290
+00:13:35,289 --> 00:13:40,299
+<font color="#E5E5E5">enough to leave Mars entirely after</font>
+
+291
+00:13:37,809 --> 00:13:44,049
+<font color="#CCCCCC">flying through space for a very long</font>
+
+292
+00:13:40,299 --> 00:13:47,139
+time<font color="#E5E5E5"> 13,000 years</font><font color="#CCCCCC"> ago it got captured by</font>
+
+293
+00:13:44,049 --> 00:13:50,439
+Earth's<font color="#E5E5E5"> gravity and fell</font><font color="#CCCCCC"> to our planet's</font>
+
+294
+00:13:47,139 --> 00:13:52,809
+surface<font color="#CCCCCC"> 12 years after its discovery the</font>
+
+295
+00:13:50,440 --> 00:13:54,760
+presence of what looked like microscopic
+
+296
+00:13:52,809 --> 00:13:57,979
+fossils were discovered<font color="#CCCCCC"> on the rock</font>
+
+297
+00:13:54,759 --> 00:14:00,169
+could they be<font color="#CCCCCC"> evidence of Martian life</font>
+
+298
+00:13:57,980 --> 00:14:02,420
+the claim didn't convince everyone<font color="#CCCCCC"> but</font>
+
+299
+00:14:00,169 --> 00:14:04,969
+<font color="#E5E5E5">to this day the structures exact origins</font>
+
+300
+00:14:02,419 --> 00:14:06,649
+<font color="#E5E5E5">haven't been explained how exactly to</font>
+
+301
+00:14:04,970 --> 00:14:08,660
+tell whether they're caused<font color="#E5E5E5"> by living</font>
+
+302
+00:14:06,649 --> 00:14:11,000
+things isn't agreed on either but the
+
+303
+00:14:08,659 --> 00:14:13,399
+finding was<font color="#CCCCCC"> a major event</font><font color="#E5E5E5"> in the field</font>
+
+304
+00:14:11,000 --> 00:14:14,720
+of astrobiology<font color="#CCCCCC"> and the public's</font>
+
+305
+00:14:13,399 --> 00:14:18,169
+understanding of it
+
+306
+00:14:14,720 --> 00:14:21,379
+the discovery was possibly so momentous
+
+307
+00:14:18,169 --> 00:14:26,919
+that US<font color="#E5E5E5"> President Bill Clinton gave</font>
+
+308
+00:14:21,379 --> 00:14:29,450
+remarks about<font color="#E5E5E5"> it saying today</font><font color="#CCCCCC"> Rock 84001</font>
+
+309
+00:14:26,919 --> 00:14:32,539
+speaks to us across all those billions
+
+310
+00:14:29,450 --> 00:14:35,750
+<font color="#E5E5E5">of years and millions</font><font color="#CCCCCC"> of miles</font><font color="#E5E5E5"> it speaks</font>
+
+311
+00:14:32,539 --> 00:14:38,569
+<font color="#CCCCCC">of</font><font color="#E5E5E5"> the possibility of life if this</font>
+
+312
+00:14:35,750 --> 00:14:40,610
+discovery is<font color="#CCCCCC"> confirmed</font><font color="#E5E5E5"> it will surely be</font>
+
+313
+00:14:38,570 --> 00:14:42,770
+<font color="#CCCCCC">one of the most stunning insights into</font>
+
+314
+00:14:40,610 --> 00:14:45,919
+our<font color="#E5E5E5"> universe</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> science has ever</font>
+
+315
+00:14:42,769 --> 00:14:47,659
+uncovered<font color="#CCCCCC"> after his</font><font color="#E5E5E5"> statement these are</font>
+
+316
+00:14:45,919 --> 00:14:50,569
+the two questions<font color="#CCCCCC"> he was asked</font><font color="#E5E5E5"> by the</font>
+
+317
+00:14:47,659 --> 00:14:53,449
+press did he believe<font color="#E5E5E5"> abortion rights</font>
+
+318
+00:14:50,570 --> 00:14:59,150
+were under attack<font color="#CCCCCC"> and where did he</font><font color="#E5E5E5"> get</font>
+
+319
+00:14:53,450 --> 00:15:02,180
+<font color="#E5E5E5">his tie the thing is alien nano bacteria</font>
+
+320
+00:14:59,149 --> 00:15:04,579
+don't<font color="#E5E5E5"> wear ties they don't legislate or</font>
+
+321
+00:15:02,179 --> 00:15:07,909
+govern us or control our lives<font color="#E5E5E5"> or look</font>
+
+322
+00:15:04,580 --> 00:15:09,710
+anything like us<font color="#CCCCCC"> if they exist</font><font color="#E5E5E5"> will most</font>
+
+323
+00:15:07,909 --> 00:15:11,569
+likely be in<font color="#E5E5E5"> control of them</font><font color="#CCCCCC"> and</font>
+
+324
+00:15:09,710 --> 00:15:13,009
+probably<font color="#CCCCCC"> actually not even notice them</font>
+
+325
+00:15:11,570 --> 00:15:15,830
+under our boots
+
+326
+00:15:13,009 --> 00:15:18,439
+so does protecting or preserving them
+
+327
+00:15:15,830 --> 00:15:19,910
+not matter<font color="#CCCCCC"> I mean should should we just</font>
+
+328
+00:15:18,440 --> 00:15:22,910
+<font color="#E5E5E5">not let them get in the way of</font><font color="#CCCCCC"> our</font>
+
+329
+00:15:19,909 --> 00:15:24,860
+<font color="#E5E5E5">progress as a species well that's a</font>
+
+330
+00:15:22,909 --> 00:15:28,069
+<font color="#E5E5E5">fundamental question</font><font color="#CCCCCC"> that touches upon</font>
+
+331
+00:15:24,860 --> 00:15:31,129
+what we want our purpose<font color="#CCCCCC"> to be in this</font>
+
+332
+00:15:28,070 --> 00:15:35,450
+universe labeling parts of Mars
+
+333
+00:15:31,129 --> 00:15:37,490
+don't touch as parks<font color="#CCCCCC"> would</font><font color="#E5E5E5"> be a great</font>
+
+334
+00:15:35,450 --> 00:15:39,680
+way to<font color="#CCCCCC"> preserve it as it was before we</font>
+
+335
+00:15:37,490 --> 00:15:42,110
+<font color="#CCCCCC">came so that our</font><font color="#E5E5E5"> grandchildren and their</font>
+
+336
+00:15:39,679 --> 00:15:46,039
+children<font color="#E5E5E5"> can see what Mars was like for</font>
+
+337
+00:15:42,110 --> 00:15:48,710
+well most of human history<font color="#CCCCCC"> others have</font>
+
+338
+00:15:46,039 --> 00:15:51,199
+argued that<font color="#E5E5E5"> we</font><font color="#CCCCCC"> shouldn't go at all</font><font color="#E5E5E5"> that</font>
+
+339
+00:15:48,710 --> 00:15:54,560
+Mars is best left to itself
+
+340
+00:15:51,200 --> 00:15:56,480
+humans ruin<font color="#E5E5E5"> things and what right do</font><font color="#CCCCCC"> we</font>
+
+341
+00:15:54,559 --> 00:15:59,959
+have<font color="#CCCCCC"> to alter Mars if we can help</font>
+
+342
+00:15:56,480 --> 00:16:03,170
+ourselves<font color="#E5E5E5"> still others say why stop</font><font color="#CCCCCC"> at</font>
+
+343
+00:15:59,960 --> 00:16:05,930
+natural parks<font color="#E5E5E5"> if we find viable life on</font>
+
+344
+00:16:03,169 --> 00:16:09,379
+Mars<font color="#CCCCCC"> that</font><font color="#E5E5E5"> may be struggling to survive</font><font color="#CCCCCC"> a</font>
+
+345
+00:16:05,929 --> 00:16:12,139
+rare relic perhaps from a time when Mars
+
+346
+00:16:09,379 --> 00:16:14,269
+<font color="#CCCCCC">was more hospitable</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> life</font><font color="#E5E5E5"> they argue</font>
+
+347
+00:16:12,139 --> 00:16:16,549
+<font color="#E5E5E5">that we should</font><font color="#CCCCCC"> help change Mars</font><font color="#E5E5E5"> so that</font>
+
+348
+00:16:14,269 --> 00:16:18,590
+those remaining Martian organisms can
+
+349
+00:16:16,549 --> 00:16:22,039
+thrive<font color="#CCCCCC"> and multiply</font><font color="#E5E5E5"> and be their best</font>
+
+350
+00:16:18,590 --> 00:16:24,680
+selves<font color="#E5E5E5"> with our technology intelligence</font>
+
+351
+00:16:22,039 --> 00:16:27,110
+and sapiens we perhaps<font color="#E5E5E5"> alone in the</font>
+
+352
+00:16:24,679 --> 00:16:30,079
+solar system<font color="#CCCCCC"> have the power to help them</font>
+
+353
+00:16:27,110 --> 00:16:33,909
+<font color="#E5E5E5">and</font><font color="#CCCCCC"> we should help ourselves to Mars</font>
+
+354
+00:16:30,080 --> 00:16:36,889
+<font color="#E5E5E5">second these aren't just hypothetical</font>
+
+355
+00:16:33,909 --> 00:16:39,289
+philosophical problems<font color="#E5E5E5"> by the way with</font>
+
+356
+00:16:36,889 --> 00:16:41,269
+plans<font color="#E5E5E5"> for manned missions to Mars just</font><font color="#CCCCCC"> a</font>
+
+357
+00:16:39,289 --> 00:16:42,980
+bit under two decades<font color="#CCCCCC"> away their</font>
+
+358
+00:16:41,269 --> 00:16:48,139
+questions we will actually<font color="#E5E5E5"> need to</font>
+
+359
+00:16:42,980 --> 00:16:51,080
+answer<font color="#E5E5E5"> quite soon should humans</font><font color="#CCCCCC"> go to</font>
+
+360
+00:16:48,139 --> 00:16:54,769
+Mars<font color="#E5E5E5"> it would be a great way to spread</font>
+
+361
+00:16:51,080 --> 00:16:56,780
+out<font color="#CCCCCC"> to diversify</font><font color="#E5E5E5"> our habitats</font><font color="#CCCCCC"> so we're</font>
+
+362
+00:16:54,769 --> 00:16:59,629
+still<font color="#CCCCCC"> around</font><font color="#E5E5E5"> should anything happen to</font>
+
+363
+00:16:56,779 --> 00:17:03,399
+<font color="#E5E5E5">earth and of course it does give us more</font>
+
+364
+00:16:59,629 --> 00:17:06,890
+<font color="#E5E5E5">space</font><font color="#CCCCCC"> for</font><font color="#E5E5E5"> more people but for what</font>
+
+365
+00:17:03,399 --> 00:17:09,619
+ultimately Jupiter doesn't<font color="#E5E5E5"> care if there</font>
+
+366
+00:17:06,890 --> 00:17:11,990
+<font color="#CCCCCC">are seven billion</font><font color="#E5E5E5"> humans or seven</font>
+
+367
+00:17:09,619 --> 00:17:14,719
+trillion the volcanoes of<font color="#CCCCCC"> Io</font>
+
+368
+00:17:11,990 --> 00:17:18,078
+will<font color="#E5E5E5"> continue erupting whether or not we</font>
+
+369
+00:17:14,720 --> 00:17:21,140
+write<font color="#CCCCCC"> anymore</font><font color="#E5E5E5"> poems about love</font><font color="#CCCCCC"> if humans</font>
+
+370
+00:17:18,078 --> 00:17:22,970
+were wiped out<font color="#E5E5E5"> today the fundamental</font>
+
+371
+00:17:21,140 --> 00:17:25,880
+forces<font color="#CCCCCC"> of</font><font color="#E5E5E5"> the universe wouldn't change</font>
+
+372
+00:17:22,970 --> 00:17:28,670
+and distant galaxies would continue
+
+373
+00:17:25,880 --> 00:17:30,830
+their journeys<font color="#CCCCCC"> into the abyss</font><font color="#E5E5E5"> beyond the</font>
+
+374
+00:17:28,670 --> 00:17:35,990
+observable universe<font color="#CCCCCC"> just as</font><font color="#E5E5E5"> they already</font>
+
+375
+00:17:30,829 --> 00:17:39,429
+are and always will<font color="#E5E5E5"> what good is life to</font>
+
+376
+00:17:35,990 --> 00:17:43,329
+the<font color="#E5E5E5"> universe perhaps</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> has none</font>
+
+377
+00:17:39,430 --> 00:17:47,440
+but we are possibly<font color="#E5E5E5"> its greatest and</font>
+
+378
+00:17:43,329 --> 00:17:50,679
+<font color="#E5E5E5">only hope to find out we may not treat</font>
+
+379
+00:17:47,440 --> 00:17:52,720
+life as well as we could<font color="#E5E5E5"> but whatever</font>
+
+380
+00:17:50,680 --> 00:17:56,680
+this darn life thing is keeping it
+
+381
+00:17:52,720 --> 00:17:59,789
+<font color="#E5E5E5">around might very well be up to us we</font>
+
+382
+00:17:56,680 --> 00:18:02,940
+owe it at<font color="#E5E5E5"> least that much</font><font color="#CCCCCC"> and as always</font>
+
+383
+00:17:59,789 --> 00:18:02,940
+thanks for<font color="#E5E5E5"> watching</font>
+
+384
+00:18:22,099 --> 00:18:27,389
+for more on<font color="#E5E5E5"> how we plan</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> make Mars</font>
+
+385
+00:18:24,869 --> 00:18:30,928
+home check out national Geographics new
+
+386
+00:18:27,390 --> 00:18:35,630
+global event series<font color="#E5E5E5"> Mars premiering</font>
+
+387
+00:18:30,929 --> 00:18:35,630
+Monday<font color="#CCCCCC"> November</font><font color="#E5E5E5"> 14th at 9/8 central</font>
+

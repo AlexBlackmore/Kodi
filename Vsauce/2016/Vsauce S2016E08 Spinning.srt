@@ -1,0 +1,1444 @@
+1
+00:00:00,949 --> 00:00:06,269
+hey Vsauce Michael here<font color="#CCCCCC"> do you want my</font>
+
+2
+00:00:04,440 --> 00:00:09,750
+head<font color="#E5E5E5"> delivered to your door in</font><font color="#CCCCCC"> a box</font>
+
+3
+00:00:06,269 --> 00:00:12,388
+<font color="#E5E5E5">well too bad</font><font color="#CCCCCC"> I only have</font><font color="#E5E5E5"> one head and I</font>
+
+4
+00:00:09,750 --> 00:00:15,480
+<font color="#E5E5E5">already called dibs on</font><font color="#CCCCCC"> it plus my neck</font>
+
+5
+00:00:12,388 --> 00:00:18,419
+is like pure muscle<font color="#CCCCCC"> this head ain't</font>
+
+6
+00:00:15,480 --> 00:00:21,390
+never coming off the next best thing<font color="#E5E5E5"> is</font>
+
+7
+00:00:18,420 --> 00:00:24,810
+what<font color="#E5E5E5"> actually comes in the curiosity box</font>
+
+8
+00:00:21,390 --> 00:00:28,560
+<font color="#CCCCCC">by</font><font color="#E5E5E5"> Vsauce it is</font><font color="#CCCCCC"> chock full of science</font>
+
+9
+00:00:24,809 --> 00:00:30,868
+gear designed by us it's pretty amazing
+
+10
+00:00:28,559 --> 00:00:34,199
+<font color="#CCCCCC">and a portion of</font><font color="#E5E5E5"> all</font><font color="#CCCCCC"> proceeds go to</font>
+
+11
+00:00:30,868 --> 00:00:36,750
+<font color="#E5E5E5">Alzheimer's research so a subscription</font>
+
+12
+00:00:34,200 --> 00:00:38,700
+isn't<font color="#CCCCCC"> just good for your brain</font><font color="#E5E5E5"> it's good</font>
+
+13
+00:00:36,750 --> 00:00:40,229
+for all<font color="#CCCCCC"> of</font><font color="#E5E5E5"> our brains now if you</font>
+
+14
+00:00:38,700 --> 00:00:42,329
+subscribe right<font color="#E5E5E5"> now there's still time</font>
+
+15
+00:00:40,229 --> 00:00:44,519
+to<font color="#CCCCCC"> get this</font><font color="#E5E5E5"> box the latest one it is</font>
+
+16
+00:00:42,329 --> 00:00:50,399
+full of<font color="#E5E5E5"> brain food including the topic</font>
+
+17
+00:00:44,520 --> 00:00:53,280
+of this video<font color="#E5E5E5"> a gyroscope if you hold a</font>
+
+18
+00:00:50,399 --> 00:00:59,219
+gyroscope<font color="#E5E5E5"> in the palm</font><font color="#CCCCCC"> of your</font><font color="#E5E5E5"> hand</font>
+
+19
+00:00:53,280 --> 00:01:01,770
+upright like this<font color="#CCCCCC"> it will fall over</font>
+
+20
+00:00:59,219 --> 00:01:04,469
+<font color="#E5E5E5">that's not very surprising</font><font color="#CCCCCC"> you see the</font>
+
+21
+00:01:01,770 --> 00:01:08,939
+trick is to take the included string and
+
+22
+00:01:04,469 --> 00:01:11,400
+thread it through a hole<font color="#E5E5E5"> and then spin</font>
+
+23
+00:01:08,938 --> 00:01:13,349
+<font color="#E5E5E5">the disc around</font><font color="#CCCCCC"> to the string wraps</font>
+
+24
+00:01:11,400 --> 00:01:16,259
+around and<font color="#E5E5E5"> around and around and around</font>
+
+25
+00:01:13,349 --> 00:01:18,989
+<font color="#CCCCCC">once it's sufficiently wound up hold the</font>
+
+26
+00:01:16,259 --> 00:01:24,629
+<font color="#CCCCCC">outside and give the string</font><font color="#E5E5E5"> a firm pull</font>
+
+27
+00:01:18,989 --> 00:01:27,209
+<font color="#E5E5E5">ah yeah now the gyroscope appears to</font>
+
+28
+00:01:24,629 --> 00:01:30,868
+defy<font color="#CCCCCC"> gravity the axis that spins around</font>
+
+29
+00:01:27,209 --> 00:01:32,969
+<font color="#E5E5E5">is</font><font color="#CCCCCC"> like glued in place almost cosmically</font>
+
+30
+00:01:30,868 --> 00:01:35,340
+<font color="#E5E5E5">if you could get</font><font color="#CCCCCC"> this to spin long</font>
+
+31
+00:01:32,969 --> 00:01:38,578
+enough you could actually watch as<font color="#CCCCCC"> that</font>
+
+32
+00:01:35,340 --> 00:01:40,618
+access<font color="#E5E5E5"> did move but not because it</font>
+
+33
+00:01:38,578 --> 00:01:43,889
+actually<font color="#CCCCCC"> moved</font><font color="#E5E5E5"> because you and earth</font>
+
+34
+00:01:40,618 --> 00:01:47,310
+moved around<font color="#CCCCCC"> it</font><font color="#E5E5E5"> that's actually</font><font color="#CCCCCC"> where it</font>
+
+35
+00:01:43,890 --> 00:01:51,359
+gets its name<font color="#E5E5E5"> gyro scope you can</font><font color="#CCCCCC"> use it</font>
+
+36
+00:01:47,310 --> 00:01:54,269
+to scope watch the gyro gyration
+
+37
+00:01:51,359 --> 00:01:58,019
+rotation of the earth as léon foucault
+
+38
+00:01:54,269 --> 00:02:00,090
+did in 1852<font color="#E5E5E5"> when the device got its name</font>
+
+39
+00:01:58,019 --> 00:02:03,709
+but how<font color="#CCCCCC"> does it</font><font color="#E5E5E5"> work</font>
+
+40
+00:02:00,090 --> 00:02:06,630
+why are spinning things<font color="#E5E5E5"> so stable also</font>
+
+41
+00:02:03,709 --> 00:02:09,590
+<font color="#E5E5E5">watch this if I give it a good spin and</font>
+
+42
+00:02:06,629 --> 00:02:11,318
+then hang it<font color="#E5E5E5"> from its own string</font>
+
+43
+00:02:09,590 --> 00:02:14,438
+<font color="#E5E5E5">sideways</font>
+
+44
+00:02:11,318 --> 00:02:18,938
+it will remain parallel to the ground
+
+45
+00:02:14,438 --> 00:02:23,229
+<font color="#CCCCCC">but process</font><font color="#E5E5E5"> around to get to the</font><font color="#CCCCCC"> bottom</font>
+
+46
+00:02:18,938 --> 00:02:26,139
+of what's up or<font color="#E5E5E5"> whether as</font><font color="#CCCCCC"> the cool kids</font>
+
+47
+00:02:23,229 --> 00:02:29,169
+are saying nowadays<font color="#E5E5E5"> begin by imagining</font>
+
+48
+00:02:26,139 --> 00:02:32,889
+<font color="#E5E5E5">yourself</font><font color="#CCCCCC"> swinging a ball</font><font color="#E5E5E5"> around your</font>
+
+49
+00:02:29,169 --> 00:02:36,039
+head on a rope<font color="#E5E5E5"> even though the ball is</font>
+
+50
+00:02:32,889 --> 00:02:40,059
+following a curved path<font color="#CCCCCC"> its velocity</font><font color="#E5E5E5"> is</font>
+
+51
+00:02:36,039 --> 00:02:42,548
+at any<font color="#E5E5E5"> given instant straight tangent to</font>
+
+52
+00:02:40,060 --> 00:02:45,549
+its path<font color="#E5E5E5"> you can demonstrate this to</font>
+
+53
+00:02:42,549 --> 00:02:48,129
+yourself by letting<font color="#E5E5E5"> go the ball will</font>
+
+54
+00:02:45,549 --> 00:02:51,219
+shoot out at<font color="#E5E5E5"> the velocity it had at the</font>
+
+55
+00:02:48,128 --> 00:02:54,878
+<font color="#CCCCCC">moment you let go it doesn't curve</font><font color="#E5E5E5"> away</font>
+
+56
+00:02:51,219 --> 00:02:57,039
+<font color="#E5E5E5">or fly directly away while</font><font color="#CCCCCC"> rotating</font><font color="#E5E5E5"> the</font>
+
+57
+00:02:54,878 --> 00:02:58,929
+<font color="#E5E5E5">rope keeps the ball always</font><font color="#CCCCCC"> at the same</font>
+
+58
+00:02:57,039 --> 00:03:01,239
+distance<font color="#E5E5E5"> from the center which means</font>
+
+59
+00:02:58,930 --> 00:03:03,760
+continuously changing the direction of
+
+60
+00:03:01,239 --> 00:03:07,299
+<font color="#CCCCCC">the balls velocity now that requires</font>
+
+61
+00:03:03,759 --> 00:03:09,789
+<font color="#E5E5E5">force and in this case that force is</font>
+
+62
+00:03:07,299 --> 00:03:12,639
+delivered by tension in the rope<font color="#E5E5E5"> the</font>
+
+63
+00:03:09,789 --> 00:03:15,310
+<font color="#CCCCCC">same intermolecular forces that</font><font color="#E5E5E5"> attract</font>
+
+64
+00:03:12,639 --> 00:03:17,500
+<font color="#E5E5E5">neighboring rope molecules to each other</font>
+
+65
+00:03:15,310 --> 00:03:20,739
+<font color="#E5E5E5">and are the reason the</font><font color="#CCCCCC"> rope</font><font color="#E5E5E5"> doesn't just</font>
+
+66
+00:03:17,500 --> 00:03:22,989
+disintegrate also<font color="#E5E5E5"> resists the</font><font color="#CCCCCC"> balls</font>
+
+67
+00:03:20,739 --> 00:03:26,019
+momentum acting on it<font color="#E5E5E5"> such that</font><font color="#CCCCCC"> its</font>
+
+68
+00:03:22,989 --> 00:03:30,599
+<font color="#CCCCCC">velocity changes every</font><font color="#E5E5E5"> next instant so</font>
+
+69
+00:03:26,019 --> 00:03:33,609
+as to always follow a circular<font color="#E5E5E5"> path this</font>
+
+70
+00:03:30,598 --> 00:03:36,578
+<font color="#E5E5E5">Center seeking force that acts on the</font>
+
+71
+00:03:33,609 --> 00:03:40,299
+ball is called<font color="#E5E5E5"> a centripetal force it</font>
+
+72
+00:03:36,579 --> 00:03:43,180
+can be provided by a rope an entire<font color="#E5E5E5"> disk</font>
+
+73
+00:03:40,299 --> 00:03:46,569
+of<font color="#E5E5E5"> material something invisible like</font>
+
+74
+00:03:43,180 --> 00:03:50,139
+gravity<font color="#E5E5E5"> or from the other side by a wall</font>
+
+75
+00:03:46,568 --> 00:03:52,598
+or banked<font color="#E5E5E5"> track side note notice that</font>
+
+76
+00:03:50,139 --> 00:03:55,870
+there is no force<font color="#CCCCCC"> acting on the ball</font>
+
+77
+00:03:52,598 --> 00:03:58,568
+<font color="#E5E5E5">that goes directly outward away</font><font color="#CCCCCC"> from the</font>
+
+78
+00:03:55,870 --> 00:04:02,109
+<font color="#E5E5E5">center what we</font><font color="#CCCCCC"> often hear called</font><font color="#E5E5E5"> a</font>
+
+79
+00:03:58,568 --> 00:04:04,568
+centrifugal or<font color="#E5E5E5"> centrifugal force you</font>
+
+80
+00:04:02,109 --> 00:04:06,219
+know the<font color="#E5E5E5"> force you seem to feel when you</font>
+
+81
+00:04:04,568 --> 00:04:09,339
+<font color="#E5E5E5">lock hands with someone</font><font color="#CCCCCC"> and you both</font>
+
+82
+00:04:06,219 --> 00:04:10,068
+<font color="#E5E5E5">spin around and you feel pulled straight</font>
+
+83
+00:04:09,340 --> 00:04:12,468
+back
+
+84
+00:04:10,068 --> 00:04:14,628
+<font color="#CCCCCC">or when a</font><font color="#E5E5E5"> car urine turns quickly and</font>
+
+85
+00:04:12,468 --> 00:04:17,629
+you're<font color="#CCCCCC"> suddenly thrown away from the</font>
+
+86
+00:04:14,628 --> 00:04:21,079
+<font color="#E5E5E5">center the thing is this seemingly</font>
+
+87
+00:04:17,629 --> 00:04:22,699
+outward directed<font color="#E5E5E5"> force isn't</font><font color="#CCCCCC"> a force at</font>
+
+88
+00:04:21,079 --> 00:04:25,160
+all it's<font color="#CCCCCC"> actually just an object's</font>
+
+89
+00:04:22,699 --> 00:04:27,560
+<font color="#E5E5E5">inertia</font><font color="#CCCCCC"> the path the object would take</font>
+
+90
+00:04:25,160 --> 00:04:31,300
+if no other<font color="#E5E5E5"> forces acted on it being</font>
+
+91
+00:04:27,560 --> 00:04:34,699
+blocked by<font color="#CCCCCC"> a force</font><font color="#E5E5E5"> a centripetal force</font>
+
+92
+00:04:31,300 --> 00:04:36,949
+across sufficiently short<font color="#E5E5E5"> timescales an</font>
+
+93
+00:04:34,699 --> 00:04:39,288
+inertial path can seem<font color="#E5E5E5"> like it's</font>
+
+94
+00:04:36,949 --> 00:04:41,300
+opposite<font color="#E5E5E5"> a centripetal force but if</font>
+
+95
+00:04:39,288 --> 00:04:43,250
+allowed<font color="#CCCCCC"> to</font><font color="#E5E5E5"> follow its inertial path for</font>
+
+96
+00:04:41,300 --> 00:04:46,910
+a while<font color="#CCCCCC"> the difference becomes more</font>
+
+97
+00:04:43,250 --> 00:04:48,769
+<font color="#CCCCCC">clear</font><font color="#E5E5E5"> here is a ball in orbit if the</font>
+
+98
+00:04:46,910 --> 00:04:51,500
+centripetal force is<font color="#CCCCCC"> removed it will</font>
+
+99
+00:04:48,769 --> 00:04:53,779
+continue<font color="#CCCCCC"> along on a path tangent to its</font>
+
+100
+00:04:51,500 --> 00:04:55,728
+previous<font color="#E5E5E5"> circular one the outline</font>
+
+101
+00:04:53,779 --> 00:04:57,769
+represents where the<font color="#E5E5E5"> ball would be if it</font>
+
+102
+00:04:55,728 --> 00:05:00,139
+hadn't have been<font color="#E5E5E5"> released</font><font color="#CCCCCC"> now at first</font>
+
+103
+00:04:57,769 --> 00:05:02,478
+<font color="#CCCCCC">the separation between the two appears</font>
+
+104
+00:05:00,139 --> 00:05:04,879
+to occur directly<font color="#E5E5E5"> away</font><font color="#CCCCCC"> from the center</font>
+
+105
+00:05:02,478 --> 00:05:08,209
+<font color="#E5E5E5">straight out but if allowed to continue</font>
+
+106
+00:05:04,879 --> 00:05:10,009
+<font color="#CCCCCC">a more</font><font color="#E5E5E5"> interesting path emerges from the</font>
+
+107
+00:05:08,209 --> 00:05:13,038
+perspective<font color="#E5E5E5"> of the outline which is</font>
+
+108
+00:05:10,009 --> 00:05:16,009
+still<font color="#CCCCCC"> moving</font><font color="#E5E5E5"> counterclockwise</font><font color="#CCCCCC"> the solid</font>
+
+109
+00:05:13,038 --> 00:05:19,370
+ball appears to be receding<font color="#CCCCCC"> and</font><font color="#E5E5E5"> dragging</font>
+
+110
+00:05:16,009 --> 00:05:21,800
+behind<font color="#E5E5E5"> clockwise this is due to the</font>
+
+111
+00:05:19,370 --> 00:05:24,680
+<font color="#CCCCCC">Coriolis effect which we will talk</font><font color="#E5E5E5"> about</font>
+
+112
+00:05:21,800 --> 00:05:27,020
+soon<font color="#CCCCCC"> but first let's push</font><font color="#E5E5E5"> some stuff</font>
+
+113
+00:05:24,680 --> 00:05:29,449
+around<font color="#E5E5E5"> it could really be anything but I</font>
+
+114
+00:05:27,019 --> 00:05:32,508
+<font color="#E5E5E5">would love to use this ball it's very</font>
+
+115
+00:05:29,449 --> 00:05:33,740
+cool it has fiber optic properties it
+
+116
+00:05:32,509 --> 00:05:36,830
+would be awesome to<font color="#E5E5E5"> get these into</font>
+
+117
+00:05:33,740 --> 00:05:40,069
+<font color="#E5E5E5">curiosity boxes down the line</font><font color="#CCCCCC"> I will see</font>
+
+118
+00:05:36,829 --> 00:05:42,948
+what<font color="#E5E5E5"> I</font><font color="#CCCCCC"> can do anyway if I push the ball</font>
+
+119
+00:05:40,069 --> 00:05:45,889
+it will move in the<font color="#CCCCCC"> direction of my</font>
+
+120
+00:05:42,949 --> 00:05:48,439
+force pretty simple but if the ball is
+
+121
+00:05:45,889 --> 00:05:51,650
+moving<font color="#CCCCCC"> before I touch it its velocity</font>
+
+122
+00:05:48,439 --> 00:05:54,709
+doesn't just disappear<font color="#E5E5E5"> instead both</font>
+
+123
+00:05:51,649 --> 00:05:57,948
+<font color="#E5E5E5">combine and the ball moves according</font><font color="#CCCCCC"> to</font>
+
+124
+00:05:54,709 --> 00:06:02,598
+their sum the lower its initial momentum
+
+125
+00:05:57,949 --> 00:06:05,870
+<font color="#E5E5E5">the greater this angle now let's go back</font>
+
+126
+00:06:02,598 --> 00:06:09,228
+to circular motion<font color="#E5E5E5"> imagine a satellite</font>
+
+127
+00:06:05,870 --> 00:06:12,110
+orbiting<font color="#CCCCCC"> Earth</font><font color="#E5E5E5"> its velocity is as we</font>
+
+128
+00:06:09,228 --> 00:06:14,990
+showed before<font color="#E5E5E5"> at all times tangent</font><font color="#CCCCCC"> to</font>
+
+129
+00:06:12,110 --> 00:06:18,080
+its circular path a centripetal force
+
+130
+00:06:14,990 --> 00:06:21,139
+from gravity<font color="#E5E5E5"> continuously swings</font><font color="#CCCCCC"> its</font>
+
+131
+00:06:18,079 --> 00:06:22,819
+velocity<font color="#CCCCCC"> around so that every 90 degrees</font>
+
+132
+00:06:21,139 --> 00:06:24,259
+it starts pointing
+
+133
+00:06:22,819 --> 00:06:27,439
+more and<font color="#CCCCCC"> more in the opposite direction</font>
+
+134
+00:06:24,259 --> 00:06:29,959
+<font color="#CCCCCC">it used</font><font color="#E5E5E5"> to be just</font><font color="#CCCCCC"> like with the ball</font><font color="#E5E5E5"> a</font>
+
+135
+00:06:27,439 --> 00:06:32,899
+downwards force<font color="#E5E5E5"> won't send it straight</font>
+
+136
+00:06:29,959 --> 00:06:36,889
+down<font color="#CCCCCC"> instead</font><font color="#E5E5E5"> the vectors</font><font color="#CCCCCC"> combine</font>
+
+137
+00:06:32,899 --> 00:06:39,139
+resulting in a new path<font color="#E5E5E5"> like this</font><font color="#CCCCCC"> 90</font>
+
+138
+00:06:36,889 --> 00:06:41,449
+degrees ahead<font color="#CCCCCC"> it reaches the maximum</font>
+
+139
+00:06:39,139 --> 00:06:45,139
+<font color="#E5E5E5">distance it will travel in the direction</font>
+
+140
+00:06:41,449 --> 00:06:47,629
+<font color="#E5E5E5">of</font><font color="#CCCCCC"> our force</font><font color="#E5E5E5"> before going back the key</font>
+
+141
+00:06:45,139 --> 00:06:50,719
+point here<font color="#E5E5E5"> is</font><font color="#CCCCCC"> that a downwards force at</font>
+
+142
+00:06:47,629 --> 00:06:53,920
+this location didn't move the<font color="#E5E5E5"> orbit like</font>
+
+143
+00:06:50,720 --> 00:06:57,590
+<font color="#E5E5E5">this</font><font color="#CCCCCC"> it moved the orbit like</font><font color="#E5E5E5"> this</font>
+
+144
+00:06:53,920 --> 00:07:00,830
+<font color="#CCCCCC">tilting it 90 degrees ahead of where</font><font color="#E5E5E5"> we</font>
+
+145
+00:06:57,589 --> 00:07:04,339
+acted now imagine the satellite as a
+
+146
+00:07:00,829 --> 00:07:07,039
+small piece<font color="#CCCCCC"> of our gyroscope pushing</font>
+
+147
+00:07:04,339 --> 00:07:10,039
+<font color="#E5E5E5">down here will cause the piece to assume</font>
+
+148
+00:07:07,040 --> 00:07:12,290
+a path that would take it like this<font color="#E5E5E5"> but</font>
+
+149
+00:07:10,040 --> 00:07:14,720
+<font color="#E5E5E5">of course since the disk is solid in all</font>
+
+150
+00:07:12,290 --> 00:07:17,060
+of its pieces<font color="#E5E5E5"> quite rigidly push and</font>
+
+151
+00:07:14,720 --> 00:07:21,740
+<font color="#E5E5E5">pull each other the gyroscope itself</font>
+
+152
+00:07:17,060 --> 00:07:24,199
+tilts<font color="#E5E5E5"> like</font><font color="#CCCCCC"> this</font><font color="#E5E5E5"> or if the gyro pivots</font>
+
+153
+00:07:21,740 --> 00:07:28,910
+<font color="#CCCCCC">around a point below its center like</font>
+
+154
+00:07:24,199 --> 00:07:31,339
+this<font color="#CCCCCC"> if the gyro</font><font color="#E5E5E5"> wasn't spinning pushing</font>
+
+155
+00:07:28,910 --> 00:07:33,770
+it down here<font color="#E5E5E5"> would have just caused this</font>
+
+156
+00:07:31,339 --> 00:07:36,439
+to happen<font color="#CCCCCC"> but when something is spinning</font>
+
+157
+00:07:33,769 --> 00:07:37,879
+<font color="#E5E5E5">its component parts have other vectors</font>
+
+158
+00:07:36,439 --> 00:07:40,009
+<font color="#E5E5E5">you need to consider</font>
+
+159
+00:07:37,879 --> 00:07:42,019
+I learned a fun demonstration<font color="#CCCCCC"> of</font><font color="#E5E5E5"> this</font>
+
+160
+00:07:40,009 --> 00:07:44,779
+from a great video<font color="#E5E5E5"> by Matthias Wandel</font>
+
+161
+00:07:42,019 --> 00:07:48,049
+<font color="#CCCCCC">this is a cardboard disc</font>
+
+162
+00:07:44,779 --> 00:07:50,959
+<font color="#E5E5E5">I cut it out myself</font><font color="#CCCCCC"> I can balance</font><font color="#E5E5E5"> it on</font>
+
+163
+00:07:48,050 --> 00:07:56,569
+the end of<font color="#E5E5E5"> a pen just</font><font color="#CCCCCC"> like</font><font color="#E5E5E5"> this and if I</font>
+
+164
+00:07:50,959 --> 00:08:00,769
+blow<font color="#E5E5E5"> on the side nearest me it tilts to</font>
+
+165
+00:07:56,569 --> 00:08:05,620
+me not<font color="#CCCCCC"> very surprising</font><font color="#E5E5E5"> but if the disc</font>
+
+166
+00:08:00,769 --> 00:08:05,620
+is<font color="#E5E5E5"> spinning and I blow in the same place</font>
+
+167
+00:08:06,069 --> 00:08:12,409
+it tilts to<font color="#CCCCCC"> the right and if I blow on</font>
+
+168
+00:08:10,189 --> 00:08:18,769
+the side<font color="#CCCCCC"> nearest you instead of</font><font color="#E5E5E5"> tilting</font>
+
+169
+00:08:12,410 --> 00:08:22,010
+to you well it<font color="#E5E5E5"> tilts to</font><font color="#CCCCCC"> the left if</font>
+
+170
+00:08:18,769 --> 00:08:24,469
+instead<font color="#CCCCCC"> of applying my force in one</font>
+
+171
+00:08:22,009 --> 00:08:26,930
+location<font color="#E5E5E5"> the whole time I instead apply</font>
+
+172
+00:08:24,470 --> 00:08:29,020
+the force wherever the tilt is greatest
+
+173
+00:08:26,930 --> 00:08:32,190
+down well
+
+174
+00:08:29,019 --> 00:08:34,009
+the tilt<font color="#E5E5E5"> will glide around and around</font>
+
+175
+00:08:32,190 --> 00:08:37,419
+<font color="#CCCCCC">watch</font>
+
+176
+00:08:34,009 --> 00:08:37,418
+[Music]
+
+177
+00:08:39,820 --> 00:08:45,440
+I've run<font color="#CCCCCC"> out</font><font color="#E5E5E5"> of air but the point is</font>
+
+178
+00:08:42,559 --> 00:08:48,459
+this is<font color="#CCCCCC"> exactly what is going on</font><font color="#E5E5E5"> when a</font>
+
+179
+00:08:45,440 --> 00:08:56,420
+gyroscope<font color="#E5E5E5"> here on earth is spun up and</font>
+
+180
+00:08:48,460 --> 00:08:58,820
+tilted the tilt glides around<font color="#CCCCCC"> this is</font>
+
+181
+00:08:56,419 --> 00:09:01,309
+called precession<font color="#CCCCCC"> what's happening</font><font color="#E5E5E5"> is</font>
+
+182
+00:08:58,820 --> 00:09:03,440
+actually<font color="#E5E5E5"> very similar to my breath</font>
+
+183
+00:09:01,309 --> 00:09:05,959
+<font color="#E5E5E5">moving around except instead of my</font>
+
+184
+00:09:03,440 --> 00:09:08,510
+breath<font color="#CCCCCC"> it's gravity no matter how</font>
+
+185
+00:09:05,960 --> 00:09:10,190
+perfectly<font color="#E5E5E5"> upright a gyroscope is it will</font>
+
+186
+00:09:08,509 --> 00:09:13,519
+not stay<font color="#CCCCCC"> that way forever</font>
+
+187
+00:09:10,190 --> 00:09:17,300
+any deviation<font color="#CCCCCC"> no matter how slight will</font>
+
+188
+00:09:13,519 --> 00:09:20,149
+allow gravity to<font color="#E5E5E5"> form a torque</font><font color="#CCCCCC"> a torque</font>
+
+189
+00:09:17,299 --> 00:09:23,809
+occurs whenever<font color="#E5E5E5"> a force rotates an</font>
+
+190
+00:09:20,149 --> 00:09:26,689
+object around<font color="#E5E5E5"> a pivot point if the</font><font color="#CCCCCC"> disk</font>
+
+191
+00:09:23,809 --> 00:09:29,719
+is<font color="#CCCCCC"> spinning the effect of that torque</font>
+
+192
+00:09:26,690 --> 00:09:32,990
+<font color="#E5E5E5">will move 90 degrees ahead</font><font color="#CCCCCC"> in the</font>
+
+193
+00:09:29,720 --> 00:09:34,910
+rotation like so<font color="#CCCCCC"> but now the torque is</font>
+
+194
+00:09:32,990 --> 00:09:37,759
+operating<font color="#E5E5E5"> this</font><font color="#CCCCCC"> way</font><font color="#E5E5E5"> so its effect</font><font color="#CCCCCC"> will</font>
+
+195
+00:09:34,909 --> 00:09:39,799
+have to be felt<font color="#E5E5E5"> 90 degrees ahead and so</font>
+
+196
+00:09:37,759 --> 00:09:44,120
+on and well what do you know<font color="#E5E5E5"> the</font>
+
+197
+00:09:39,799 --> 00:09:45,679
+gyroscope processes now if it<font color="#E5E5E5"> wasn't for</font>
+
+198
+00:09:44,120 --> 00:09:47,690
+friction<font color="#CCCCCC"> and air resistance and other</font>
+
+199
+00:09:45,679 --> 00:09:49,879
+<font color="#E5E5E5">forces meddling with this</font><font color="#CCCCCC"> disk</font><font color="#E5E5E5"> it would</font>
+
+200
+00:09:47,690 --> 00:09:52,250
+just process at the same angle<font color="#E5E5E5"> forever</font>
+
+201
+00:09:49,879 --> 00:09:53,960
+<font color="#CCCCCC">but of</font><font color="#E5E5E5"> course well we live in a world</font>
+
+202
+00:09:52,250 --> 00:09:56,570
+with<font color="#E5E5E5"> friction and air resistance and all</font>
+
+203
+00:09:53,960 --> 00:09:59,000
+that<font color="#E5E5E5"> good stuff</font><font color="#CCCCCC"> so the</font><font color="#E5E5E5"> disk spins down</font>
+
+204
+00:09:56,570 --> 00:10:02,089
+<font color="#CCCCCC">in the same way that a slower moving</font>
+
+205
+00:09:59,000 --> 00:10:05,720
+ball is deflected<font color="#CCCCCC"> with a steeper angle</font>
+
+206
+00:10:02,089 --> 00:10:09,560
+as the<font color="#CCCCCC"> disk</font><font color="#E5E5E5"> slows down each piece</font><font color="#CCCCCC"> of it</font>
+
+207
+00:10:05,720 --> 00:10:13,250
+is given a steeper and steeper<font color="#CCCCCC"> orbit</font>
+
+208
+00:10:09,559 --> 00:10:16,489
+around the gyroscope tilts further and
+
+209
+00:10:13,250 --> 00:10:21,919
+further down until it hits<font color="#CCCCCC"> the ground</font>
+
+210
+00:10:16,490 --> 00:10:23,959
+<font color="#E5E5E5">and eventually slows to a stop take a</font>
+
+211
+00:10:21,919 --> 00:10:27,289
+look at this bicycle wheel<font color="#E5E5E5"> it's like our</font>
+
+212
+00:10:23,958 --> 00:10:29,479
+<font color="#E5E5E5">gyroscope but bigger</font><font color="#CCCCCC"> I have a string</font>
+
+213
+00:10:27,289 --> 00:10:32,689
+tied to<font color="#E5E5E5"> its handle right here so when</font>
+
+214
+00:10:29,480 --> 00:10:35,509
+lifted like this<font color="#CCCCCC"> a torque is applied</font><font color="#E5E5E5"> by</font>
+
+215
+00:10:32,690 --> 00:10:38,380
+gravity<font color="#E5E5E5"> like so it's equivalent to</font><font color="#CCCCCC"> a</font>
+
+216
+00:10:35,509 --> 00:10:40,360
+force<font color="#E5E5E5"> up here in this direction</font>
+
+217
+00:10:38,379 --> 00:10:42,879
+and a force on the wheel down here in
+
+218
+00:10:40,360 --> 00:10:46,180
+this direction<font color="#E5E5E5"> if I let</font><font color="#CCCCCC"> go those two</font>
+
+219
+00:10:42,879 --> 00:10:47,769
+forces will do their work<font color="#E5E5E5"> okay pretty</font>
+
+220
+00:10:46,179 --> 00:10:50,469
+<font color="#E5E5E5">predictable</font><font color="#CCCCCC"> if I give this wheel</font>
+
+221
+00:10:47,769 --> 00:10:53,829
+spinning<font color="#CCCCCC"> there will be other vectors at</font>
+
+222
+00:10:50,470 --> 00:10:55,660
+play<font color="#E5E5E5"> a piece of the wheel moving say</font>
+
+223
+00:10:53,830 --> 00:10:58,030
+counterclockwise<font color="#E5E5E5"> or along with</font><font color="#CCCCCC"> the rest</font>
+
+224
+00:10:55,659 --> 00:11:00,699
+of the wheel down<font color="#E5E5E5"> here</font><font color="#CCCCCC"> will have a</font>
+
+225
+00:10:58,029 --> 00:11:03,039
+velocity tangent<font color="#E5E5E5"> to its circular path</font>
+
+226
+00:11:00,700 --> 00:11:05,080
+<font color="#E5E5E5">but also</font><font color="#CCCCCC"> a torque pushing it this way</font>
+
+227
+00:11:03,039 --> 00:11:09,339
+that<font color="#E5E5E5"> will cause its orbit like in our</font>
+
+228
+00:11:05,080 --> 00:11:12,129
+<font color="#E5E5E5">gyroscope to move like this this force</font>
+
+229
+00:11:09,340 --> 00:11:14,170
+will<font color="#CCCCCC"> have its</font><font color="#E5E5E5"> maximum impact 90 degrees</font>
+
+230
+00:11:12,129 --> 00:11:16,990
+ahead<font color="#E5E5E5"> in the rotation so the wheel will</font>
+
+231
+00:11:14,169 --> 00:11:19,089
+turn<font color="#CCCCCC"> like this but well there's still</font><font color="#E5E5E5"> a</font>
+
+232
+00:11:16,990 --> 00:11:21,250
+torque here<font color="#E5E5E5"> pushing</font><font color="#CCCCCC"> the bottom of the</font>
+
+233
+00:11:19,090 --> 00:11:22,930
+wheel this way<font color="#E5E5E5"> moving</font><font color="#CCCCCC"> that 90 degrees</font>
+
+234
+00:11:21,250 --> 00:11:25,240
+ahead<font color="#E5E5E5"> we see that the wheel will just</font>
+
+235
+00:11:22,929 --> 00:11:27,909
+keep turning<font color="#E5E5E5"> and in fact that's what it</font>
+
+236
+00:11:25,240 --> 00:11:39,009
+will do if I can get it up<font color="#CCCCCC"> to a fast</font>
+
+237
+00:11:27,909 --> 00:11:41,949
+enough<font color="#E5E5E5"> speed then tada an even bigger</font>
+
+238
+00:11:39,009 --> 00:11:44,230
+spinning object is the earth and we<font color="#CCCCCC"> are</font>
+
+239
+00:11:41,950 --> 00:11:47,080
+all on<font color="#E5E5E5"> it strapped in by friction and</font>
+
+240
+00:11:44,230 --> 00:11:50,470
+<font color="#CCCCCC">gravity</font><font color="#E5E5E5"> for the ride a ride with some</font>
+
+241
+00:11:47,080 --> 00:11:53,920
+surprising consequences<font color="#CCCCCC"> a helicopter</font>
+
+242
+00:11:50,470 --> 00:11:56,350
+can't just lift<font color="#E5E5E5"> up off the</font><font color="#CCCCCC"> ground remain</font>
+
+243
+00:11:53,919 --> 00:11:57,159
+motionless<font color="#E5E5E5"> and allow the earth to rotate</font>
+
+244
+00:11:56,350 --> 00:11:59,170
+under it
+
+245
+00:11:57,159 --> 00:12:01,870
+doesn't work<font color="#CCCCCC"> that</font><font color="#E5E5E5"> way this is because</font>
+
+246
+00:11:59,169 --> 00:12:04,629
+the<font color="#CCCCCC"> helicopter</font><font color="#E5E5E5"> the ground it used to be</font>
+
+247
+00:12:01,870 --> 00:12:09,250
+on and<font color="#CCCCCC"> the air all</font><font color="#E5E5E5"> around it are all</font>
+
+248
+00:12:04,629 --> 00:12:12,669
+also<font color="#CCCCCC"> traveling with the Earth's spin but</font>
+
+249
+00:12:09,250 --> 00:12:14,799
+if you had a magic paper airplane that
+
+250
+00:12:12,669 --> 00:12:17,349
+<font color="#E5E5E5">could be thrown really far and you</font>
+
+251
+00:12:14,799 --> 00:12:20,620
+decided<font color="#E5E5E5"> to</font><font color="#CCCCCC"> throw it directly</font><font color="#E5E5E5"> north to</font>
+
+252
+00:12:17,350 --> 00:12:23,730
+your friend Earth's spin<font color="#E5E5E5"> would come into</font>
+
+253
+00:12:20,620 --> 00:12:26,830
+<font color="#E5E5E5">play no matter how dead-on your aim was</font>
+
+254
+00:12:23,730 --> 00:12:30,580
+every time you would<font color="#CCCCCC"> find that the plane</font>
+
+255
+00:12:26,830 --> 00:12:33,400
+<font color="#E5E5E5">drifts a bit</font><font color="#CCCCCC"> east</font><font color="#E5E5E5"> as if pushed by some</font>
+
+256
+00:12:30,580 --> 00:12:35,350
+<font color="#E5E5E5">mysterious force and likewise your</font>
+
+257
+00:12:33,399 --> 00:12:38,110
+friend to the<font color="#E5E5E5"> north would find that</font>
+
+258
+00:12:35,350 --> 00:12:41,710
+their plane<font color="#E5E5E5"> thrown south directly at you</font>
+
+259
+00:12:38,110 --> 00:12:45,490
+would always drift<font color="#E5E5E5"> a bit west this is</font>
+
+260
+00:12:41,710 --> 00:12:48,070
+<font color="#E5E5E5">called the Coriolis effect you are both</font>
+
+261
+00:12:45,490 --> 00:12:49,149
+on<font color="#E5E5E5"> earth and you're both always north</font>
+
+262
+00:12:48,070 --> 00:12:52,510
+and south of each
+
+263
+00:12:49,149 --> 00:12:55,149
+but in a day your friend<font color="#E5E5E5"> nearer the pole</font>
+
+264
+00:12:52,509 --> 00:12:58,778
+<font color="#E5E5E5">travels a shorter total distance around</font>
+
+265
+00:12:55,149 --> 00:13:01,419
+<font color="#CCCCCC">it's less distance in the same</font><font color="#E5E5E5"> time your</font>
+
+266
+00:12:58,778 --> 00:13:03,220
+friend is<font color="#CCCCCC"> moving slower</font><font color="#E5E5E5"> than you your</font>
+
+267
+00:13:01,419 --> 00:13:05,919
+<font color="#E5E5E5">plane meanwhile is spinning at your</font>
+
+268
+00:13:03,220 --> 00:13:08,649
+faster velocity<font color="#CCCCCC"> and it continues to have</font>
+
+269
+00:13:05,919 --> 00:13:11,500
+this velocity<font color="#CCCCCC"> after you throw it as it</font>
+
+270
+00:13:08,649 --> 00:13:14,620
+moves towards<font color="#E5E5E5"> the pole it finds itself</font>
+
+271
+00:13:11,500 --> 00:13:17,980
+amongst slower and slower things so it
+
+272
+00:13:14,620 --> 00:13:20,169
+pulls<font color="#E5E5E5"> ahead of them and drifts east in</font>
+
+273
+00:13:17,980 --> 00:13:22,300
+the direction<font color="#E5E5E5"> of Earth's spin your</font>
+
+274
+00:13:20,169 --> 00:13:24,429
+friends playing meanwhile finds<font color="#E5E5E5"> itself</font>
+
+275
+00:13:22,299 --> 00:13:27,669
+amongst faster and faster moving things
+
+276
+00:13:24,429 --> 00:13:29,649
+that<font color="#E5E5E5"> it falls behind there's a vertical</font>
+
+277
+00:13:27,669 --> 00:13:33,039
+version of the<font color="#E5E5E5"> Coriolis effect as well</font>
+
+278
+00:13:29,649 --> 00:13:35,860
+an object suspended very high<font color="#E5E5E5"> right</font><font color="#CCCCCC"> up</font>
+
+279
+00:13:33,039 --> 00:13:36,519
+above you will<font color="#CCCCCC"> actually fall a bit to</font>
+
+280
+00:13:35,860 --> 00:13:38,919
+the east
+
+281
+00:13:36,519 --> 00:13:42,009
+if dropped<font color="#E5E5E5"> and anything you throw</font>
+
+282
+00:13:38,919 --> 00:13:45,490
+straight up at it will curve<font color="#CCCCCC"> away to the</font>
+
+283
+00:13:42,009 --> 00:13:49,028
+west of<font color="#E5E5E5"> it the higher up object whose</font>
+
+284
+00:13:45,490 --> 00:13:51,669
+circular path<font color="#CCCCCC"> around is bigger</font><font color="#E5E5E5"> covers</font>
+
+285
+00:13:49,028 --> 00:13:53,950
+<font color="#E5E5E5">more distance in the same time than you</font>
+
+286
+00:13:51,669 --> 00:13:56,500
+<font color="#E5E5E5">these velocities don't just disappear</font>
+
+287
+00:13:53,950 --> 00:14:00,670
+<font color="#CCCCCC">when things are dropped or thrown up so</font>
+
+288
+00:13:56,500 --> 00:14:03,100
+you both miss your marks<font color="#E5E5E5"> it's also why</font>
+
+289
+00:14:00,669 --> 00:14:06,069
+<font color="#E5E5E5">the directly outward pointing force you</font>
+
+290
+00:14:03,100 --> 00:14:08,080
+feel<font color="#E5E5E5"> when spinning is fictitious</font><font color="#CCCCCC"> your</font>
+
+291
+00:14:06,070 --> 00:14:10,510
+inertial tendency to move in a straight
+
+292
+00:14:08,080 --> 00:14:12,820
+<font color="#CCCCCC">line</font><font color="#E5E5E5"> takes you further from the path</font>
+
+293
+00:14:10,509 --> 00:14:15,189
+you're on<font color="#E5E5E5"> to where things have to have</font>
+
+294
+00:14:12,820 --> 00:14:18,520
+higher velocities to<font color="#E5E5E5"> rotate at the</font><font color="#CCCCCC"> same</font>
+
+295
+00:14:15,190 --> 00:14:20,740
+rate<font color="#E5E5E5"> if you fly out long enough you'll</font>
+
+296
+00:14:18,519 --> 00:14:23,500
+notice yourself<font color="#CCCCCC"> falling behind</font><font color="#E5E5E5"> your</font>
+
+297
+00:14:20,740 --> 00:14:26,620
+original rotation<font color="#CCCCCC"> pace not with it</font>
+
+298
+00:14:23,500 --> 00:14:29,230
+always<font color="#E5E5E5"> directly out finally lose weight</font>
+
+299
+00:14:26,620 --> 00:14:31,389
+fast but not<font color="#E5E5E5"> mass with this one weird</font>
+
+300
+00:14:29,230 --> 00:14:33,250
+trick discovered by a Hungarian nobleman
+
+301
+00:14:31,389 --> 00:14:36,639
+and physicist<font color="#E5E5E5"> people who think the earth</font>
+
+302
+00:14:33,250 --> 00:14:39,700
+<font color="#E5E5E5">is flat hate him it's</font><font color="#CCCCCC"> called the bush</font>
+
+303
+00:14:36,639 --> 00:14:41,528
+effect<font color="#E5E5E5"> in the early 1900's Baron Roland</font>
+
+304
+00:14:39,700 --> 00:14:43,810
+von Hood Bush was looking at<font color="#CCCCCC"> gravity</font>
+
+305
+00:14:41,528 --> 00:14:46,750
+measurements taken<font color="#E5E5E5"> on ships at sea</font><font color="#CCCCCC"> and</font>
+
+306
+00:14:43,809 --> 00:14:49,899
+noticed that readings were lower when
+
+307
+00:14:46,750 --> 00:14:52,778
+ships were<font color="#CCCCCC"> travelling east and higher</font>
+
+308
+00:14:49,899 --> 00:14:55,569
+<font color="#E5E5E5">when they were</font><font color="#CCCCCC"> traveling west</font><font color="#E5E5E5"> further</font>
+
+309
+00:14:52,778 --> 00:14:58,299
+investigations found that yes<font color="#E5E5E5"> in fact</font>
+
+310
+00:14:55,570 --> 00:15:00,760
+when<font color="#CCCCCC"> traveling</font><font color="#E5E5E5"> on foot in a car on a</font>
+
+311
+00:14:58,299 --> 00:15:02,409
+bike in a plane<font color="#E5E5E5"> doesn't matter you weigh</font>
+
+312
+00:15:00,759 --> 00:15:06,519
+less when<font color="#E5E5E5"> traveling</font>
+
+313
+00:15:02,409 --> 00:15:09,689
+and more when<font color="#E5E5E5"> traveling west in fact an</font>
+
+314
+00:15:06,519 --> 00:15:12,189
+airplane flying<font color="#E5E5E5"> east at the equator</font>
+
+315
+00:15:09,690 --> 00:15:15,670
+<font color="#E5E5E5">experiences an apparent weight reduction</font>
+
+316
+00:15:12,190 --> 00:15:18,190
+of about<font color="#CCCCCC"> 0.9 percent</font><font color="#E5E5E5"> so if you want to</font>
+
+317
+00:15:15,669 --> 00:15:21,129
+quickly lose<font color="#E5E5E5"> a bit over a pound</font><font color="#CCCCCC"> about</font>
+
+318
+00:15:18,190 --> 00:15:23,800
+half a kilo<font color="#E5E5E5"> get on that plane what</font>
+
+319
+00:15:21,129 --> 00:15:26,110
+causes this effect<font color="#E5E5E5"> well when you're</font>
+
+320
+00:15:23,799 --> 00:15:28,779
+<font color="#E5E5E5">spinning with the earth</font><font color="#CCCCCC"> you have a</font>
+
+321
+00:15:26,110 --> 00:15:31,600
+<font color="#E5E5E5">linear velocity</font><font color="#CCCCCC"> but</font><font color="#E5E5E5"> gravity a</font>
+
+322
+00:15:28,779 --> 00:15:34,629
+centripetal force is always resisting
+
+323
+00:15:31,600 --> 00:15:36,970
+this<font color="#E5E5E5"> if gravity was turned off and the</font>
+
+324
+00:15:34,629 --> 00:15:40,779
+earth remained whole you'd be flung off
+
+325
+00:15:36,970 --> 00:15:43,420
+on a tangent<font color="#E5E5E5"> that rose above your usual</font>
+
+326
+00:15:40,779 --> 00:15:45,850
+path<font color="#E5E5E5"> for this reason your inertial</font>
+
+327
+00:15:43,419 --> 00:15:49,360
+tendency to take<font color="#E5E5E5"> this tangent path is a</font>
+
+328
+00:15:45,850 --> 00:15:51,970
+sort<font color="#E5E5E5"> of lift it's not enough to take you</font>
+
+329
+00:15:49,360 --> 00:15:54,009
+off the surface<font color="#E5E5E5"> earth doesn't spin fast</font>
+
+330
+00:15:51,970 --> 00:15:56,529
+<font color="#CCCCCC">enough for that</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> happen</font><font color="#E5E5E5"> but</font><font color="#CCCCCC"> just as I</font>
+
+331
+00:15:54,009 --> 00:15:59,049
+can lift<font color="#E5E5E5"> something that's on a scale and</font>
+
+332
+00:15:56,529 --> 00:16:01,929
+make it weigh less without completely
+
+333
+00:15:59,049 --> 00:16:05,579
+removing it from<font color="#E5E5E5"> the scale so</font><font color="#CCCCCC"> to does</font>
+
+334
+00:16:01,929 --> 00:16:08,199
+<font color="#CCCCCC">your inertial path lift you just a bit</font>
+
+335
+00:16:05,580 --> 00:16:10,750
+<font color="#E5E5E5">traveling east adds to the velocity</font>
+
+336
+00:16:08,200 --> 00:16:12,700
+<font color="#CCCCCC">Earth's spin</font><font color="#E5E5E5"> gives you and provides more</font>
+
+337
+00:16:10,750 --> 00:16:15,009
+<font color="#E5E5E5">of this kind of lift in a direction away</font>
+
+338
+00:16:12,700 --> 00:16:18,759
+from<font color="#E5E5E5"> the</font><font color="#CCCCCC"> surface making you lighter</font>
+
+339
+00:16:15,009 --> 00:16:21,909
+conversely<font color="#E5E5E5"> traveling west decreases your</font>
+
+340
+00:16:18,759 --> 00:16:26,080
+<font color="#CCCCCC">velocity in that direction lowering its</font>
+
+341
+00:16:21,909 --> 00:16:28,419
+lifting effect<font color="#E5E5E5"> on your weight</font><font color="#CCCCCC"> I will be</font>
+
+342
+00:16:26,080 --> 00:16:31,600
+thinking<font color="#CCCCCC"> about</font><font color="#E5E5E5"> this and maybe even</font>
+
+343
+00:16:28,419 --> 00:16:34,000
+weighing myself<font color="#CCCCCC"> very precisely while I'm</font>
+
+344
+00:16:31,600 --> 00:16:37,240
+traveling the<font color="#CCCCCC"> country</font><font color="#E5E5E5"> with brain candy</font>
+
+345
+00:16:34,000 --> 00:16:41,049
+<font color="#E5E5E5">live you got</font><font color="#CCCCCC"> your tickets already</font><font color="#E5E5E5"> right</font>
+
+346
+00:16:37,240 --> 00:16:43,629
+don't wait<font color="#CCCCCC"> it is very very exciting and</font>
+
+347
+00:16:41,049 --> 00:16:46,028
+I cannot<font color="#E5E5E5"> wait to get a chance to see you</font>
+
+348
+00:16:43,629 --> 00:16:48,249
+all in<font color="#CCCCCC"> person and be more interactive</font>
+
+349
+00:16:46,028 --> 00:16:51,938
+<font color="#E5E5E5">with this kind of stuff and do so on a</font>
+
+350
+00:16:48,249 --> 00:16:55,209
+much bigger louder<font color="#E5E5E5"> personal scale also</font>
+
+351
+00:16:51,938 --> 00:16:59,409
+<font color="#E5E5E5">subscribe to the curiosity box for more</font>
+
+352
+00:16:55,208 --> 00:17:03,039
+mind<font color="#E5E5E5"> dynamite it's fantastic and it</font>
+
+353
+00:16:59,409 --> 00:17:05,250
+helps a very very good cause<font color="#E5E5E5"> I so fully</font>
+
+354
+00:17:03,039 --> 00:17:08,588
+stand behind it<font color="#E5E5E5"> I'm very proud of it and</font>
+
+355
+00:17:05,250 --> 00:17:10,630
+you know what<font color="#CCCCCC"> go subscribe to</font><font color="#E5E5E5"> dong while</font>
+
+356
+00:17:08,588 --> 00:17:12,458
+you're at it<font color="#CCCCCC"> my latest video there is</font>
+
+357
+00:17:10,630 --> 00:17:14,699
+all about some of my<font color="#CCCCCC"> favourite free</font>
+
+358
+00:17:12,459 --> 00:17:18,189
+physics<font color="#E5E5E5"> simulators on the</font><font color="#CCCCCC"> Internet</font>
+
+359
+00:17:14,699 --> 00:17:22,259
+you<font color="#E5E5E5"> are all great</font><font color="#CCCCCC"> I appreciate your time</font>
+
+360
+00:17:18,189 --> 00:17:30,469
+and as always thanks for<font color="#CCCCCC"> watching</font>
+
+361
+00:17:22,259 --> 00:17:30,469
+[Music]
+
