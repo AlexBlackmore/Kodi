@@ -4,10 +4,7 @@
     <season>1</season>
     <episode>2</episode>
     <plot>Chicago Cubs first baseman Anthony Rizzo is a legitimate powerhouse on the baseball diamond—a 6 foot 3, 240 pound all-star who knocked in 32 home runs last year.</plot>
-    <runtime>10 minutes</runtime>
+    <runtime>10</runtime>
     <aired>2015-05-12</aired>
-    <premiered>2015-05-12</premiered>
     <studio>Fist We Feast</studio>
-    <displayseason>1</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
-    <displayepisode>2</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
 </episodedetails>

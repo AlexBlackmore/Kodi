@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>The Hot Ones Doughnut is a Buffalo Wing in Pastry Form</title>
+    <season>0</season>
+    <episode>11</episode>
+    <plot>"What if you turned a chicken wing into a doughnut?" These are the type of hot questions that get us fired up around First We Feast HQ, so when The Doughnut Project in NYC came to us with the crazy idea of creating a pastry with Hot Ones Fiery Chipotle, we were intrigued. The delicious result of their mad-scientist experimentation features hot sauce-infused frosting, crispy chicken skin, and blue-cheese crumble. Watch Sean Evans get his first taste-test of the doughnut, then get your hands on it yourself: The Hot Ones Doughnut will be on sale for one day only—National Chicken Wing Day—this Saturday, 29. Details below: The limited-edition Hot Ones Doughnut will be on sale at The Doughnut Project (10 Morton St, NYC; 212-691-5000, thedoughnutproject.com) on July 29 from 11am until they're gone. $3 each.</plot>
+    <runtime>3</runtime>
+    <aired>2017-09-26</aired>
+    <studio>Fist We Feast</studio>
+    <displayseason>4</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>2</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>

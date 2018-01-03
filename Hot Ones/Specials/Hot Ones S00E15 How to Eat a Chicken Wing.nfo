@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>How to Eat a Chicken Wing</title>
+    <season>0</season>
+    <episode>15</episode>
+    <plot>Does Sean Evans even know how to eat a chicken wing? Despite the fact that he has taken down more than 1,000 of them on Hot Ones, the jury's still out on his technique. Here, Evans faces the commenters and tries out some of the wing-eating methods championed by past guests like Bert Kreischer, Eddie Huang, and Action Bronson. Also: a Hot Ones State of the Union on some frequently asked fan questions!</plot>
+    <runtime>6</runtime>
+    <aired>2017-10-17</aired>
+    <studio>Fist We Feast</studio>
+    <displayseason>4</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>14</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>

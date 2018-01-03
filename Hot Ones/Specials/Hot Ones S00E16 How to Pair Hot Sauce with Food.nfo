@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+    <title>How to Pair Hot Sauce with Food</title>
+    <season>0</season>
+    <episode>16</episode>
+    <plot>One of the most common questions in the Hot Ones mailbag is, "What hot sauce should I put on my lunch!?" Since Sean Evans can't reply to every photo of pizza and steak sent his way, he hooked up with the Hot Ones chili guru Noah Chaimberg of Heatonist to provide a masterclass that you can apply to ALL your meals. Time to get out of your Sriracha holding pattern and crank up the heat!</plot>
+    <runtime>8</runtime>
+    <aired>2017-10-31</aired>
+    <studio>Fist We Feast</studio>
+    <displayseason>4</displayseason>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views.  -->
+    <displayepisode>16</displayepisode>  <!-- For TV show specials, determines how the special episode is sorted in "all" and season views. If marked as episode 7, the special will come before the real episode 7.  -->
+</episodedetails>
