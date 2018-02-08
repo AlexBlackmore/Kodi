@@ -4,11 +4,14 @@
     <season>1</season>
     <episode>1</episode>
     <plot>
-The beginning of the Universe:
+Creation:
 Guardians of the Galaxy/Thor: The Dark World - The creation of the Infinity Stones.
 
 3000 BC:
 Thor: The Dark World - Malekith attacks the Asgardians.
+
+1000 BC?:
+Thor: Ragnarok - Hela is banished from Asgard; Fall of the Valkyrie.
 
 965 AD:
 Thor - The Frost Giants attack Earth, and the Asgardians stop them.
@@ -51,6 +54,6 @@ Ant-Man - Hank Pym hides the Ant-Man suit.
 Captain America: Civil War - Howard and Maria Stark are assassinated.
 Captain America: Civil War - The Winter Soldier program goes awry.
     </plot>
-    <runtime>150</runtime>
+    <runtime>152</runtime>
     <studio>Marvel Studios</studio>
 </episodedetails>
